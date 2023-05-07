@@ -26,10 +26,19 @@ Services: ServiceNow, Spiceworks
 # Virtualization
 Service: Hyper-V, VMWare
 
-### Hyper-V Use
-1. Go to the task bar search field and type "turn windows features on or off"
-2. 
-
+### Hyper-V Usage
+1. Go to the task bar search field and type "turn windows features on or off".
+2. Scroll down to Hyper-V checking it off and hit okay.
+3. Reboot the computer.
+4. Go to the task bar search field and type "Hyper-V Manager".
+5. On the left hand side click on current computer name.
+6. On the right under actions click "Quick Create"
+7. On the left side select the operation to install.
+8. Click on local installation course.
+9. Change source if necessary and select the corresponding ISO file.
+10. On the right hand side click more options and name the Virtual Machine.
+11. Click create virtual machine.
+12. In the centre where machine are listed right click on machine and select start.
 
 # Remote Tools
 Services: Zoom, Team View

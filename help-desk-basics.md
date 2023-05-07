@@ -40,13 +40,15 @@ Service: Hyper-V
 11. Click create virtual machine.
 12. In the centre where machine are listed right click on machine and select start.
 
+# Remote Access
+Service: Zoom
+Note: All participants must be able to share their screen to use this feature.
 
-
-# Remote Tools
-Services: Zoom, Team View
-
-## How to Remote in on Zoom
-//steps here//
+## How to Remote in
+1. Start or join your zoom meeting.
+2. Ask the other person to share their screen.
+3. On the top of the screen click view options and select request remote control.
+4. Wait for them to accept.
 
 # Active Directory
 

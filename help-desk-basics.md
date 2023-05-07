@@ -81,8 +81,5 @@ Note: Active directory can only be installed if the server has a static IP.
 
 # Networking
 
-### Router Vs Switch
-//explaination//
+### Basics
 
-### How to find an IP Address
-//explaination//

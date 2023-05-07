@@ -26,8 +26,10 @@ Services: ServiceNow, Spiceworks
 # Virtualization
 Service: Hyper-V, VMWare
 
-How to Install an OS on a Server
-//steps here//
+### Hyper-V Use
+1. Go to the task bar search field and type "turn windows features on or off"
+2. 
+
 
 # Remote Tools
 Services: Zoom, Team View

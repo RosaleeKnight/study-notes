@@ -15,7 +15,7 @@ Service: Spiceworks
 9. If successful add solution in detail and close ticket.
 10. If unsuccessful escalate to tier 2.
 
-### How to Write Knowledge Basic Documentation
+### How to Write Knowledge Base Documentation
 1. Click on New Article.
 2. Create a title being as specific with the issue as possible.
 3. Write a short summary of when the specific issue can occur.
@@ -44,27 +44,40 @@ Service: Hyper-V
 Service: Zoom
 Note: All participants must be able to share their screen to use this feature.
 
-## How to Remote in
+### How to Remote in
 1. Start or join your zoom meeting.
 2. Ask the other person to share their screen.
 3. On the top of the screen click view options and select request remote control.
 4. Wait for them to accept.
 
 # Active Directory
+Note: Active directory can only be installed if the server has a static IP.
 
-How to Access
+### Setup for Server 2019
+1. Open Server manager.
+2. On the top right click on manage and select "add roles and features".
+3. Click next for installation type and make sure Role-based is selected.
+4. Click next for destination server and make sure select a server from the server pool is on current server.
+5. Click next for select server roles and check off "Active Directory Domain Services".
+6. Click next and add features whem prompted.
+7. Select DNS Server and click yes and add features when prompted.
+8. Click next four times then install.
+9. Click promote this server to domain controller.
+10. In deployment configuration click "Add a new forest".
+11. Add a root domain name and click next.
+12. Set the Directory Services Restore Mode password and click next 5 times.
+13. Click install and the server will reboot.
+
+### How to add Users
 //steps here//
 
-How to add Users
-//steps here//
-
-How to change password
+### How to change password
 //steps here//
 
 # Networking
 
-Router Vs Switch
+### Router Vs Switch
 //explaination//
 
-How to find an IP Address
+### How to find an IP Address
 //explaination//

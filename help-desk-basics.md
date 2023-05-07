@@ -69,10 +69,15 @@ Note: Active directory can only be installed if the server has a static IP.
 13. Click install and the server will reboot.
 
 ### How to add Users
-//steps here//
-
-### How to change password
-//steps here//
+1. On the right side click on the domain name a select new then user.
+2. Add first name, last name and a user login name.
+3. Click next and set password.
+4. Check "user must change password at next logon" and click next.
+5. Click next and finished.
+6. Double click on name to bring up properties.
+7. Click on "member of" and add.
+8. Type in name of the group in "Enter the onbject names to select". 
+9. Click check names and OK.
 
 # Networking
 

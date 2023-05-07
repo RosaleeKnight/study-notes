@@ -1,7 +1,7 @@
 My notes on the Basics of IT Help Desk. These are the things that are most asked for a Tier 1 position.
 
 # Ticketing Systems
-Services: ServiceNow, Spiceworks
+Service: Spiceworks
 
 ### How to Create a New Ticket
 1. Click on new ticket.
@@ -24,7 +24,7 @@ Services: ServiceNow, Spiceworks
 6. Add references for complicated topics if required.
 
 # Virtualization
-Service: Hyper-V, VMWare
+Service: Hyper-V
 
 ### Hyper-V Usage
 1. Go to the task bar search field and type "turn windows features on or off".
@@ -39,6 +39,8 @@ Service: Hyper-V, VMWare
 10. On the right hand side click more options and name the Virtual Machine.
 11. Click create virtual machine.
 12. In the centre where machine are listed right click on machine and select start.
+
+
 
 # Remote Tools
 Services: Zoom, Team View

@@ -1,6 +1,6 @@
 Terms I have come across studying. 
 
-//list should contain job titles, attacks, malware name, tools/ 
+//needs job titles and tools//
 
 
 2FA (Two-Factor Authentication): A security process in which the user provides two authentication factors to verify their identity. 
@@ -62,12 +62,19 @@ Code Injection: Used by malware to evade detection by the antivirus by injecting
 
 Cookie: Small files which are stored on a user's computer which allows the website to recognize and keep track of their preferences. 
 
+COTS (Commercially Available off the Shelf): Packaged products or solutions that are then adapted to satisfy the needs of the purchasing organization rather than commissioning of custom made. 
+
+Critical Infrastructure: The fundamental systems of an organization that is important for its survival and where any threat to such systems would endanger the entire organization. 
+
 Critical Update: A fix for a specific problem that addresses a critical, non-security-related bug in computer software. 
+
+Cyberbullying: use of electronic means primarily messaging and social media platforms to bully and harass a victim. 
 
 Cyber Terrorists: Threat actors focused on disrupting critical services and causing harm.
 
 Cyber Warfare: Refers to cyber-attacks perpetrated by one nation-state against another. 
 
+Cybersecurity: The processes employed to safeguard and secure assets used to carry information of an organization from being stolen or attacked which requires extensive knowledge of possible threats such as viruses or other malicious objects. 
 
 Data Breach: A confirmed incident where information has been stolen or taken away from a system without the knowledge or authorization of the systems owners. 
 

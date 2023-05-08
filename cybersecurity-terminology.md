@@ -85,6 +85,8 @@ Tablet: Wireless portable personal computer with a touchscreen interface.
 Traffic: The amount of data sent and recieved by visitors to a website.
 Trojan (Trojan Horse): Malicious software developed by hackers to disguise as legitimate software to gain access to target users systems.
 
+USB (Universal Serial Bus): Connection used to connect a computer to devices.
+Username: A name that uniquely indentifies someone on a computer system.
 
 
 

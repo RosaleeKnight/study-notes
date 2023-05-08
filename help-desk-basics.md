@@ -68,7 +68,7 @@ Note: Active directory can only be installed if the server has a static IP.
 12. Set the Directory Services Restore Mode password and click next 5 times.
 13. Click install and the server will reboot.
 
-### How to add Users
+### How to Add Users
 1. On the right side click on the domain name a select new then user.
 2. Add first name, last name and a user login name.
 3. Click next and set password.

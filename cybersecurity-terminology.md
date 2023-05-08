@@ -1,13 +1,14 @@
 Terms I have come across studying. 
 
-Jobs
----------------------------------------------------------------------------------------------------------------- 
+# Jobs
 
 CISO (Chief Information Security Officer): A senior level executive who oversees an organization’s information, cyber and technology security whose responsibilities include developing, implementing and enforcing security polices to protect critical data.   
 
+Threat Hunter: Identifies advanced threats and then track and mitigates them before organizational IT systems are attacked.   
+
 Incident Response Team: Responsible for responding to security breaches, viruses and other potentially catastrophic incidents in enterprises that face significate risks. 
 
-Threat Hunter: Identifies advanced threats and then track and mitigates them before organizational IT systems are attacked.   
+---
 
 
 
@@ -144,7 +145,6 @@ ZTP (Zero-touch Provisioning): An automatic device configuration process that re
 
 
 # Threats 
----------------------------------------------------------------------------------------------------------------- 
 
 ### Threat Actors
 Cyber Terrorists: Threat actors focused on disrupting critical services and causing harm. 
@@ -206,7 +206,7 @@ Exploit: A malicious application or script that can be used to take advantage of
 Spam: Used to describe junk email on the internet. 
 Vulnerability: A flaw in a system that can leave it open to attack.   
  
-
+---
 
 
 

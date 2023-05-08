@@ -54,6 +54,8 @@ Cookie: Small files which are stored on a user's computer which allows the websi
 
 Critical Update: A fix for a specific problem that addresses a critical, non-security-related bug in computer software. 
 
+Cyber Terrorists: Threat actors focused on disrupting critical services and causing harm.
+
 Cyber Warfare: Refers to cyber-attacks perpetrated by one nation-state against another. 
 
 
@@ -78,7 +80,12 @@ Exploit: A malicious application or script that can be used to take advantage of
 Firewall: A software program or piece of hardware that helps screen out hacker, viruses and worms that try to reach your computer over the internet. 
 
 
+Government-Sponsored/ State-Sponsored Actors: Threat actors funded, directed or sponsored by nations known to steal and exfilrate intellectual property, sensitive information and even funds to further their nation's espionage causes.  
+
+
 Hacking: An unauthorized intrusion into a computer or network. 
+
+Hacktivits: Threat actors focused on bringing awareness usually motivated by activism.
 
 Honeypot: A decoy system or network that serves to attract potential attackers. 
 
@@ -110,6 +117,9 @@ Memory Stick: Small device that connects to a computer and allows you to store a
 MP3: Means of compressing a sound sequence into a very small file to enable digital storage and transmission. 
 
 MFA (Multi-Factor Authentication): A method to verify a user's identity by requiring them to provide more than one piece of identifying information.  
+
+
+Organized Crime / Cybercriminals: Threat actors who want to steal sensitive data, money and personal information which is sold on the black market and sometimes uses ransomware to extort business ownwers.
 
 
 Packet Sniffer: Software designed to monitor and record network traffic. 

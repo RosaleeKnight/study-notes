@@ -117,6 +117,8 @@ Proxy Server: Another computer system which serves as a hub through which intern
 
 Pre-texting: The act of creating a fictional narrative or pretext to manipulate a victim into disclosing sensitive information. 
 
+Public Wi-Fi Networks: Accress points that allow users to connect to the internet using wireless hotspots but are unsecure and vulnerable to threats like man in the middle.
+
 
 Ransomware: Malicious software designed to block access to a computer system until a sum of money is paid. 
 
@@ -160,6 +162,8 @@ Trojan (Trojan Horse): Malicious software developed by hackers to disguise as le
 
 
 USB (Universal Serial Bus): Connection used to connect a computer to devices. 
+
+User Account Control: A security feature that prevents unauthorized changes to a systems settings and files by requiring users to confirm their identity prior to making any changes.
 
 Username: A name that uniquely identifies someone on a computer system. 
 

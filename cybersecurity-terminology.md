@@ -46,7 +46,13 @@ IoT (Internet of Things): Refers to the billions of physical devices around the 
 IP Address: An identifying number for a piece of network hardware which allows a device to communicate with other devices over an IP based network like the internet. 
 IOS (iPhone Operating System): Operating system for mobile devices manufactured by Apple. 
 
+Keystroke Logger: Software that tracks or logs the keys struck on your keyboard, typically in a covert manner so that you are unaware actions are being monitored.
 
+Malware (Malicious Software): Software designed to cause damage to a computer, server or computer network. 
+Malvertising: The use of online advetsing to deliver malware.
+Memory Stick: Small device that connects to a computer and allows you to store and copy information.
+MP3: Means of compressing a sound sequence into a very small file to enable digital storage and transmission.
+MFA (Multi-Factor Authentication): A method to verfy a users identity by requiring them to provide more than one piece of identifying information. 
 
 
 

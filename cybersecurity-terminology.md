@@ -96,11 +96,15 @@ Identity Theft: A crime in which someone uses personally identifiable informatio
 
 Incident Response Plan: A policy outlying an organization's response to an information security incident. 
 
+Insiders: Threat actors that inflitrate your workfoce themselves or turn a insider towards their goal/cause.
+
+IOS (iPhone Operating System): Operating system for mobile devices manufactured by Apple.  
+
 IoT (Internet of Things): Refers to the billions of physical devices around the world that are now connected to the internet, collecting and sharing data. 
 
 IP Address: An identifying number for a piece of network hardware which allows a device to communicate with other devices over an IP based network like the internet.  
 
-IOS (iPhone Operating System): Operating system for mobile devices manufactured by Apple.  
+
 
 
 Keystroke Logger: Software that tracks or logs the keys struck on your keyboard, typically in a covert manner so that you are unaware actions are being monitored. 
@@ -149,6 +153,8 @@ Router: A piece of network hardware that allows communication between your local
 Scam: used to describe any fraudulent business or scheme that takes money or other goods from an unsuspecting person. 
 
 Scareware: Type of malware designed to trick victims into purchasing and downloading potentially dangerous software. 
+
+Script Kiddies: Threat actors that aren't skilled enough to design penetration tools on their own and use tools developed by other attackers to penetrate a network or system.
 
 Security Awareness Training: A training program aimed at heightening security awareness within an organization. 
 

@@ -12,6 +12,8 @@ APT (Advanced Persistent Threat): An attack in which an unauthorized user gains 
 
 ATP (Advanced Threat Protection): Security solutions that defend against sophisticated malware or hacking attacks targeting senisitive data which inclues both software and managed security services.
 
+Allowlist: A list of permitted items that are automatically let through whatever gate is being used.
+
 Anti-Botnet: Tool that automatically checks when a user browses a website and if a risk is detected sends a warning such as a CAPTCHA.
 
 Anti-Virus: A computer program used to prevent, detect and remove malware. 
@@ -299,6 +301,8 @@ Vulnerability: A flaw in a system that can leave it open to attack.
 Vishing: The telephone equivalent of phishing. 
 
 
+WAF (Web Application Protocol): A specific form of application firewall that filters, monitors and blocks HTTP traffic to and from a webservice. 
+
 Whaling: Specific form of phishing that's targeted at high profile business executives and managers. 
 
 Worm: A malware computer program that replicates itself to spread to other computers. 
@@ -307,3 +311,4 @@ Wi-Fi: A facility that allows computers, smartphones or other devices to connect
 
 
 Zero-Day: A recently discovered vulnerability that hackers can use to attack systems. 
+ZTP (Zero-touch Provisioning): An automatic device configuration process that reduces the possibility of errors when manually configuring devices.  

@@ -157,8 +157,6 @@ IoT (Internet of Things): Refers to the billions of physical devices around the 
 IP Address: An identifying number for a piece of network hardware which allows a device to communicate with other devices over an IP based network like the internet.  
 
 
-
-
 Keystroke Logger: Software that tracks or logs the keys struck on your keyboard, typically in a covert manner so that you are unaware actions are being monitored. 
 
 
@@ -168,6 +166,8 @@ Malvertising: The use of online advising to deliver malware.
 
 MITM (Man in the Middle Attack): A malicious actor insert themselves into a conversation between two parties and intercept data through a compromised but trusted system.  
 
+MITRE ATT&CK™ Framework: A comprehensive matrix of tactics and techniques used by threat hunters, red teamers and defenders to better classify attacks and assess an organizations risk.  
+
 Memory Stick: Small device that connects to a computer and allows you to store and copy information. 
 
 MP3: Means of compressing a sound sequence into a very small file to enable digital storage and transmission. 
@@ -175,10 +175,17 @@ MP3: Means of compressing a sound sequence into a very small file to enable digi
 MFA (Multi-Factor Authentication): A method to verify a user's identity by requiring them to provide more than one piece of identifying information.  
 
 
+Network-based (cyber) Security: Services that operate from within a CSP’s network and not at the endpoint such as a PC or mobile device which allows it to protect any connected device regardless of model or operation system.  
+
+
 Organized Crime / Cybercriminals: Threat actors who want to steal sensitive data, money and personal information which is sold on the black market and sometimes uses ransomware to extort business ownwers.
 
 
 Packet Sniffer: Software designed to monitor and record network traffic. 
+
+Parental Controls: Features which may be included in digital services, mobile devices and software that allow parents to restrict the access of content to their children.  
+
+Patch: Provides additional, revised or updated code for an operation system or application.  
 
 Padlock: Icon displayed in a web browser that indicates a secure mode where communications between browser and web server are encrypted. 
 
@@ -186,7 +193,11 @@ Pen Testing (Penetration Testing): The practice of testing a computer system, ne
 
 Phishing: A method of trying to gather personal information using deceptive emails and websites. 
 
+PII (Personal Identifiable Information): is a type of data that identifies the unique identity of an individual.  
+
 Policy Management: The Process of creating, communicating and maintaining policies and procedures within an organization. 
+
+Process Hollowing: A security exploit in which an attacker removes code in an executable file and replaces it with malicious code which causes an otherwise legitimate process to execute malicious code.
 
 Proxy Server: Another computer system which serves as a hub through which internet requests are processed. 
 

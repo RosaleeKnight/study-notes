@@ -119,6 +119,10 @@ EDR (Endpoint Detection and Response): Tools for protecting endpoints from poten
 Exploit: A malicious application or script that can be used to take advantage of a computer's vulnerability. 
 
 
+FIDO (Fast Identity Online): A set of open authentication standards that enable a service provider to leverage existing technologies for passwordless authentication.  
+
+FM (Fireless Malware): A form of malicious computer attack that exists exclusively within the realm of volatile data storage such as RAM, in memory processes and service areas which is normally picked up following visits to malicious websites and cannot be detected by a standard antivirus.   
+
 Firewall: A software program or piece of hardware that helps screen out hacker, viruses and worms that try to reach your computer over the internet. 
 
 

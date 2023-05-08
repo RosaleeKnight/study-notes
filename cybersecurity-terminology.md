@@ -78,6 +78,7 @@ Cyber Warfare: Refers to cyber-attacks perpetrated by one nation-state against a
 
 Cybersecurity: The processes employed to safeguard and secure assets used to carry information of an organization from being stolen or attacked which requires extensive knowledge of possible threats such as viruses or other malicious objects. 
 
+
 Dark Web:  The encrypted parts of the internet that are not indexed by search engines and a subset of the deep web but requires special software and the correct decryption key. 
 
 Data Breach: A confirmed incident where information has been stolen or taken away from a system without the knowledge or authorization of the systems owners. 
@@ -92,11 +93,19 @@ Deepfake: Any video or audio in which has been digitally altered with the help o
 
 Deep Web:  The encrypted parts of the internet that are not indexed by search engines which can be accessed by anyone with the correct URL. 
 
+Detection and Response: Security solution category used by organizations to detect malicious network activity, preform a forensic investigation to determine the root cause and then respond and mitigate the threat. 
+
+Digital Forensics: The process of procuring, analyzing and interpreting electronic data for the purpose of presenting it as legal evidence in a court of law.  
+
+DNS (Domain Name Systems) Exfiltration: A lower-level attack on DNS servers to gain unauthorized access.  
+
 DLP (Data Loss Prevention): Umbrella term for a collection of security tools, processes and procedures that aim to prevent sensitive data from failing into unauthorized or malicious hands. 
 
 Domain Name Server: A server the coverts recognizable domain names into their unique IP address. 
 
 Download: To copy data from one computer system to another typically over the internet. 
+
+Drive-by Download Attack: A method of spreading malware where insecure websites get a script planted which may install malware directly onto the computer of someone who visits the site.  
 
 
 Ethical Hacker (Whitehat): Hackers that preform penetration testing, test in place security systems and perform vulnerability assessments for companies. 

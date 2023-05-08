@@ -209,20 +209,6 @@ Vulnerability: A flaw in a system that can leave it open to attack.
 
 
 
-Trojan (Trojan Horse): Malicious software developed by hackers to disguise as legitimate software to gain access to target users' systems.   
-
-Virus: A malicious program loaded onto a user's computer without the user's knowledge and performs malicious actions.   
-
-Vulnerability: A flaw in a system that can leave it open to attack.   
- 
-Whaling: Specific form of phishing that's targeted at high profile business executives and managers.   
-
-Worm: A malware computer program that replicates itself to spread to other computers.   
-
-Zero-Day: A recently discovered vulnerability that hackers can use to attack systems.   
-
-
-
 
 
 

@@ -54,7 +54,7 @@ Data Breach: A confirmed incident where information has been stolen or taken awa
 
 DDoS (Distributed Denial of Service): A malicious attempt to disrupt normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of internet traffic. 
 
-Deepfake: Any video in which faces have been either swapped or digitally altered with the help of AI. 
+Deepfake: Any video or audio in which has been digitally altered with the help of AI to make it seem authentic or credible. 
 
 Domain Name Server: A server the coverts recognizable domain names into their unique IP address. 
 
@@ -120,7 +120,7 @@ Pre-texting: The act of creating a fictional narrative or pretext to manipulate 
 
 Ransomware: Malicious software designed to block access to a computer system until a sum of money is paid. 
 
-Rootkit: Malware designed to remain hidden on your computer. 
+Rootkit: Malware designed to remain hidden on your computer that allows hackers remote access. 
 
 Router: A piece of network hardware that allows communication between your local network and the internet. 
 
@@ -144,6 +144,8 @@ Social Engineering: The art of manipulating people so they disclose confidential
 Software: Programs on the computers used to perform tasks. 
 
 Spear Phishing: Email spoofing attack that targets a specific organization or individual seeking unauthorized access to sensitive information. 
+
+Spoofing: When a hacker changes the IP address of an email so that it seems to come from a trusted source.
 
 Spyware: A type of software that installs itself on a device and secretly monitors a victim's online activity. 
 

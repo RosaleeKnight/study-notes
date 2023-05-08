@@ -82,11 +82,17 @@ Dark Web:  The encrypted parts of the internet that are not indexed by search en
 
 Data Breach: A confirmed incident where information has been stolen or taken away from a system without the knowledge or authorization of the systems owners. 
 
+Data Integrity: Refers to the maintenance and assurance of data quality including the accuracy and consistency of data over its entire lifecycle.  
+
 DDoS (Distributed Denial of Service): A malicious attempt to disrupt normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of internet traffic. 
+
+Decryption: the process of decoding cipher text to plain text so that it is readable by humans. 
 
 Deepfake: Any video or audio in which has been digitally altered with the help of AI to make it seem authentic or credible. 
 
 Deep Web:  The encrypted parts of the internet that are not indexed by search engines which can be accessed by anyone with the correct URL. 
+
+DLP (Data Loss Prevention): Umbrella term for a collection of security tools, processes and procedures that aim to prevent sensitive data from failing into unauthorized or malicious hands. 
 
 Domain Name Server: A server the coverts recognizable domain names into their unique IP address. 
 

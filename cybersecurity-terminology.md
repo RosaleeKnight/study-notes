@@ -52,6 +52,8 @@ BYOD (Bring Your Own Device): Refers to employees using personal devices to conn
 
 CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart): Challenge response test used by websites to verify the user is a real human and not a bot.
 
+Clear Web / Surface Web:  Publicly accessible web pages that are largely indexed on search engines.
+
 Clickjacking: Also known as UI redress attack is a common hacking technique in which an attacker creates an invisible page or an HTML element that overlays the legitimate page. 
 
 Clientless: A program that is run entirely from the network without requiring any installation of software on the endpoint device running the program. 
@@ -76,11 +78,15 @@ Cyber Warfare: Refers to cyber-attacks perpetrated by one nation-state against a
 
 Cybersecurity: The processes employed to safeguard and secure assets used to carry information of an organization from being stolen or attacked which requires extensive knowledge of possible threats such as viruses or other malicious objects. 
 
+Dark Web:  The encrypted parts of the internet that are not indexed by search engines and a subset of the deep web but requires special software and the correct decryption key. 
+
 Data Breach: A confirmed incident where information has been stolen or taken away from a system without the knowledge or authorization of the systems owners. 
 
 DDoS (Distributed Denial of Service): A malicious attempt to disrupt normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of internet traffic. 
 
 Deepfake: Any video or audio in which has been digitally altered with the help of AI to make it seem authentic or credible. 
+
+Deep Web:  The encrypted parts of the internet that are not indexed by search engines which can be accessed by anyone with the correct URL. 
 
 Domain Name Server: A server the coverts recognizable domain names into their unique IP address. 
 

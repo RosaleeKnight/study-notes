@@ -34,6 +34,22 @@ Download: To copy data from one computer system to another typically over the in
 
 Exploit: A malicious application or script that can be used to take advantage of a computer's vulnerability.
 
+Firewall: A software program or piece of hardware that helps screen out hacker, viruses and worms that try to reach your computer over the internet.
+
+Hacking: An unauthorized intrusion into a computer or network.
+Honeypot: A decoy system or network that serves to attract potential attackers.
+HTML (Hypertect Markup Language): The standard markup language for creating web pages and web applications.
+
+Identity Theft: A crime in which someone uses personally identifiable information in order to impersonate someone else.
+Incident Response Plan: A policy outlying an organization's response to an information security incident.
+IoT (Internet of Things): Refers to the billions of physical devices around the world that are now connected to the internet, collecting and sharing data.
+IP Address: An identifying number for a piece of network hardware which allows a device to communicate with other devices over an IP based network like the internet. 
+IOS (iPhone Operating System): Operating system for mobile devices manufactured by Apple. 
 
 
 
+
+
+
+
+....

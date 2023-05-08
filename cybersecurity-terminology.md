@@ -208,6 +208,10 @@ Public Wi-Fi Networks: Accress points that allow users to connect to the interne
 
 Ransomware: Malicious software designed to block access to a computer system until a sum of money is paid. 
 
+RDP (Remote Desktop Protocol):  A protocol for remotely connecting to computers running windows which enables interacting with desktop elements as well as other resources which when configured incorrectly can be intercepted by threat actors.  
+
+Risktool: A local use program that can conceal files in a system, hide the windows of running applications or terminate active processes which include cryptocurrency miners that generate coins using the victims' resources. 
+
 Rootkit: Malware designed to remain hidden on your computer that allows hackers remote access. 
 
 Router: A piece of network hardware that allows communication between your local network and the internet. 

@@ -61,6 +61,8 @@ Domain Name Server: A server the coverts recognizable domain names into their un
 Download: To copy data from one computer system to another typically over the internet. 
 
 
+Encryption: The practice of encoding data so that it is no longer in the original form and can't be read.
+
 Exploit: A malicious application or script that can be used to take advantage of a computer's vulnerability. 
 
 
@@ -91,6 +93,8 @@ Keystroke Logger: Software that tracks or logs the keys struck on your keyboard,
 Malware (Malicious Software): Software designed to cause damage to a computer, server or computer network.  
 
 Malvertising: The use of online advising to deliver malware. 
+
+MITM (Man in the Middle Attack): A malicious actor insert themselves into a conversation between two parties and intercept data through a compromised but trusted system.  
 
 Memory Stick: Small device that connects to a computer and allows you to store and copy information. 
 

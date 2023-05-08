@@ -26,3 +26,14 @@ Cookie: Small files which are stored on a users computer which allows the websit
 Critical Update: A fix for a specific problem that addressess a critical, non-security-related bug in computer software.
 Cyber Warefare: Refers to cyber-attacks perpetrated by one nation-state against another.
 
+Data Breach: A confirmed incident where information has been stolen or taken away from a system without the knowledge or authorization of the systems ownwer.
+DDoS (Distributed Denial of Service): A malicious attempt to disrupt normal traffic of a targeted server, service or network by overwhemling the target or its surrounding infrastructure with a flood of internet traffic.
+Deepfake: Any video in which faces have been either swapped or digitally altered with the help of AI.
+Domain Name Server: A server the coverts recognizable domain names into their unique IP address.
+Download: To copy data from one computer system to another typically over the internet.
+
+Exploit: A malicious application or script that can be used to take advantage of a computer's vulnerability.
+
+
+
+

@@ -29,6 +29,8 @@ Back Door: Used to describe a hidden method of bypassing security to gain access
 
 Baiting: Enticing a victim with an incentive. 
 
+Blocklist: Access control mechanism that allows elements such as email addresses, users, passwords, URLs, IPs address, domain names, etc. through the system except those explicitly mentioned which are denied access.  
+
 Bluetooth: Wireless technology for exchanging data over short distances. 
 
 Botnet: A collection of internets connected devices which may include PCs, servers and mobile devices that are infected and controlled by a common type of malware. 
@@ -41,6 +43,10 @@ Brute Force Attack: An activity which involves repetitive successive attempts of
 
 Bug: An error, fault or flaw in a computer program that may cause it to unexpectedly quit or behave in an unintended manner. 
 
+Business Continuity Plan: An organization’s play book for how to operate in an emergency situation like a massive cyberattack which provides safeguards against a disaster and outlines strategies and the action plan on how to continue business as usual.  
+
+Business Disruption: Refers to any interruption in the usual way that a system, process or event works. 
+
 BYOD (Bring Your Own Device): Refers to employees using personal devices to connect to their organizational networks. 
 
 
@@ -48,7 +54,11 @@ CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Ap
 
 Clickjacking: Also known as UI redress attack is a common hacking technique in which an attacker creates an invisible page or an HTML element that overlays the legitimate page. 
 
+Clientless: A program that is run entirely from the network without requiring any installation of software on the endpoint device running the program. 
+
 Cloud Computing: The practice of using a network of remote servers hosted on the internet to store, manage and process data, rather than a local server or a personal computer. 
+
+Code Injection: Used by malware to evade detection by the antivirus by injecting malicious code into a legitimate process which hides the malicious code execution.
 
 Cookie: Small files which are stored on a user's computer which allows the website to recognize and keep track of their preferences. 
 

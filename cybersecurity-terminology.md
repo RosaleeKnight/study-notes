@@ -138,13 +138,19 @@ Honeypot: A decoy system or network that serves to attract potential attackers.
 HTML (Hypertext Markup Language): The standard markup language for creating web pages and web applications. 
 
 
+IAM (Identity and Access Management): The process used by an organization to grant or deny access to a secure system.  
+
 Identity Theft: A crime in which someone uses personally identifiable information to impersonate someone else. 
 
 Incident Response Plan: A policy outlying an organization's response to an information security incident. 
 
 Insiders: Threat actors that inflitrate your workfoce themselves or turn a insider towards their goal/cause.
 
+IoC (Indicators of Compromise): Are bits of forensic data from system log entries or files that identify potentially malicious activity on a system or network.  
+
 IOS (iPhone Operating System): Operating system for mobile devices manufactured by Apple.  
+
+IPS (Intrusion Prevention System): A network security system designed to prevent network penetration by malicious actors.  
 
 IoT (Internet of Things): Refers to the billions of physical devices around the world that are now connected to the internet, collecting and sharing data. 
 

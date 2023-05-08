@@ -88,7 +88,7 @@ Usually not handled by Tier 1 but basic knowledge is needed.
 |-|-|
 | Switch vs Router? | Switches allow the sharing of resources by connecting together all the devices, including computers, printers, and servers, in a small network. Routers connect multiple switches, and their respective networks as well as allows networked devices and their users to access the Internet. |
 | TCP / IP | Transmission Control Protocol / Internet Protocol. Application layer gets data from a program and sends it to the Transport Layer (TCP) via ports. The data put into small chunks called packets where they can take the fasted route along the internet to get where they are going. TCP puts a header onto each packet that contains instructions on what order to assemble the information. The packets are then pushed onto the Internet Layer which uses the Internet Protocol to attach the original and destination IP Addresses. This is sent to the Network Layer which handles MAC address so the information gets to the right machine.|
-| DHCP | Dynamic Host Configuration Protocol. This assigns an IP to a host on a network. It also assigns subnet mask, default gateway and DNS. It can be a server or a client. |
+| DHCP | Dynamic Host Configuration Protocol. This assigns an IP, subnet mask, default gateway and DNS to a host on a network. Using a server and setting a Scope (the range of IP address the server is allowed to hand out) each client can ask for assignment when connected. The server needs to be on the same network segament to receive the request and repond within the scope. |
 | What's a Network? | ??? |
 
 

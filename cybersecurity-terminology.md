@@ -12,13 +12,15 @@ APT (Advanced Persistent Threat): An attack in which an unauthorized user gains 
 
 ATP (Advanced Threat Protection): Security solutions that defend against sophisticated malware or hacking attacks targeting senisitive data which inclues both software and managed security services.
 
-Anti-Phising: 
+Anti-Botnet: Tool that automatically checks when a user browses a website and if a risk is detected sends a warning such as a CAPTCHA.
 
 Anti-Virus: A computer program used to prevent, detect and remove malware. 
 
 AI (Artificial Intelligence): The simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. 
 
-Attachment: A computer file sent with an email message. 
+Attachment: A computer file sent with an email message.
+
+Attack Vector: The collection of all vulnerable points by which an attacker can gain entry into the target system.
 
 Authentication: A process that ensures and confirms a user's identity. 
 
@@ -28,8 +30,6 @@ Back Door: Used to describe a hidden method of bypassing security to gain access
 Baiting: Enticing a victim with an incentive. 
 
 Bluetooth: Wireless technology for exchanging data over short distances. 
-
-Blackhat: A hackers that violates computer security for personal gain or malice. 
 
 Botnet: A collection of internets connected devices which may include PCs, servers and mobile devices that are infected and controlled by a common type of malware. 
 
@@ -44,6 +44,8 @@ Bug: An error, fault or flaw in a computer program that may cause it to unexpect
 BYOD (Bring Your Own Device): Refers to employees using personal devices to connect to their organizational networks. 
 
 
+CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart): Challenge response test used by websites to verify the user is a real human and not a bot.
+
 Clickjacking: Also known as UI redress attack is a common hacking technique in which an attacker creates an invisible page or an HTML element that overlays the legitimate page. 
 
 Cloud Computing: The practice of using a network of remote servers hosted on the internet to store, manage and process data, rather than a local server or a personal computer. 
@@ -53,6 +55,7 @@ Cookie: Small files which are stored on a user's computer which allows the websi
 Critical Update: A fix for a specific problem that addresses a critical, non-security-related bug in computer software. 
 
 Cyber Warfare: Refers to cyber-attacks perpetrated by one nation-state against another. 
+
 
 Data Breach: A confirmed incident where information has been stolen or taken away from a system without the knowledge or authorization of the systems owners. 
 
@@ -64,6 +67,8 @@ Domain Name Server: A server the coverts recognizable domain names into their un
 
 Download: To copy data from one computer system to another typically over the internet. 
 
+
+Ethical Hacker (Whitehat): Hackers that preform penetration testing, test in place security systems and perform vulnerability assessments for companies. 
 
 Encryption: The practice of encoding data so that it is no longer in the original form and can't be read.
 
@@ -162,6 +167,8 @@ Tablet: Wireless portable personal computer with a touchscreen interface.
 
 Traffic: The amount of data sent and received by visitors to a website. 
 
+Threat Actor (Blackhat): A hackers that violates computer security for personal gain or malice. 
+
 Trojan (Trojan Horse): Malicious software developed by hackers to disguise as legitimate software to gain access to target users' systems. 
 
 
@@ -182,8 +189,6 @@ Vishing: The telephone equivalent of phishing.
 
 
 Whaling: Specific form of phishing that's targeted at high profile business executives and managers. 
-
-Whitehat: Hackers that preform penetration testing, test in place security systems and perform vulnerability assessments for companies. 
 
 Worm: A malware computer program that replicates itself to spread to other computers. 
 

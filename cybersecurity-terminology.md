@@ -88,6 +88,12 @@ Trojan (Trojan Horse): Malicious software developed by hackers to disguise as le
 USB (Universal Serial Bus): Connection used to connect a computer to devices.
 Username: A name that uniquely indentifies someone on a computer system.
 
+Virus: A malicious program loaded onto a users computer without the users knowledge and performs malicious actions.
+VPN (Virtual Private Network): An encrypted connection over the internet from a device to a network.
+Vunerability: A flaw in a system that can leave it open to attack.
+Vishing: The telephone equivalent of phishing.
+
+
 
 
 

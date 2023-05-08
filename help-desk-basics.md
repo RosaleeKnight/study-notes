@@ -76,10 +76,21 @@ Note: Active directory can only be installed if the server has a static IP.
 5. Click next and finished.
 6. Double click on name to bring up properties.
 7. Click on "member of" and add.
-8. Type in name of the group in "Enter the onbject names to select". 
+8. Type in name of the group in "Enter the object names to select". 
 9. Click check names and OK.
 
 # Networking
 
-### Basics
+### Basic Level
+Usually not handled by Tier 1 but basic knowledge is needed.
+
+| Question | Answer |
+|-|-|
+| Switch vs Router? | Switches allow the sharing of resources by connecting together all the devices, including computers, printers, and servers, in a small network. Routers connect multiple switches, and their respective networks as well as allows networked devices and their users to access the Internet. |
+| TCP / IP | Transmission Control Protocol / Internet Protocol. Application layer gets data from a program and sends it to the Transport Layer (TCP) via ports. The data put into small chunks called packets where they can take the fasted route along the internet to get where they are going. TCP puts a header onto each packet that contains instructions on what order to assemble the information. The packets are then pushed onto the Internet Layer which uses the Internet Protocol to attach the original and destination IP Addresses. This is sent to the Network Layer which handles MAC address so the information gets to the right machine.|
+| DHCP | Dynamic Host Configuration Protocol. This assigns an IP to a host on a network. It also assigns subnet mask, default gateway and DNS. It can be a server or a client. |
+| What's a Network? | ??? |
+
+
+
 

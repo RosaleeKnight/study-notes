@@ -10,6 +10,24 @@ Incident Response Team: Responsible for responding to security breaches, viruses
 Threat Hunter: Identifies advanced threats and then track and mitigates them before organizational IT systems are attacked.   
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Defenses 
 ---------------------------------------------------------------------------------------------------------------- 
 
@@ -107,104 +125,89 @@ ZTP (Zero-touch Provisioning): An automatic device configuration process that re
 
 
 
-Threats 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Threats 
 ---------------------------------------------------------------------------------------------------------------- 
 
-APT (Advanced Persistent Threat): An attack in which an unauthorized user gains access to a system or network without being detected.   
-
-Attack Vector: The collection of all vulnerable points by which an attacker can enter the target system. 
-
-Back Door: Used to describe a hidden method of bypassing security to gain access to a restricted part of a computer system.   
-
-Baiting: Enticing a victim with an incentive.   
-
-Botnet: A collection of internets connected devices which may include PCs, servers and mobile devices that are infected and controlled by a common type of malware.   
-
-Brute Force Attack: An activity which involves repetitive successive attempts of trying various password combinations to break into any website.   
-
-Bug: An error, fault or flaw in a computer program that may cause it to unexpectedly quit or behave in an unintended manner. 
-
-Business Disruption: Refers to any interruption in the usual way that a system, process or event works.   
-
-Clickjacking: Also known as UI redress attack is a common hacking technique in which an attacker creates an invisible page or an HTML element that overlays the legitimate page.   
-
-Code Injection: Used by malware to evade detection by the antivirus by injecting malicious code into a legitimate process which hides the malicious code execution. 
-
-Cyberbullying: use of electronic means primarily messaging and social media platforms to bully and harass a victim.   
-
+### Threat Actors
 Cyber Terrorists: Threat actors focused on disrupting critical services and causing harm. 
-
-Cyber Warfare: Refers to cyber-attacks perpetrated by one nation-state against another.   
-
-Data Breach: A confirmed incident where information has been stolen or taken away from a system without the knowledge or authorization of the system's owners.   
-
-DDoS (Distributed Denial of Service): A malicious attempt to disrupt normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of internet traffic.   
-
-Deepfake: Any video or audio which has been digitally altered with the help of AI to make it seem authentic or credible.   
-
-Drive-by Download Attack: A method of spreading malware where insecure websites get a script planted which may install malware directly onto the computer of someone who visits the site.    
-
-Exploit: A malicious application or script that can be used to take advantage of a computer's vulnerability. 
-
-FM (Fireless Malware): A form of malicious computer attack that exists exclusively within the realm of volatile data storage such as RAM, in memory processes and service areas which is normally picked up following visits to malicious websites and cannot be detected by a standard antivirus.     
-
-Government-Sponsored/ State-Sponsored Actors: Threat actors funded, directed or sponsored by nations known to steal and exfiltrate intellectual property, sensitive information and even funds to further their nation's espionage causes.    
-
-Hacking: An unauthorized intrusion into a computer or network.   
-
+Government-Sponsored/ State-Sponsored Actors: Threat actors funded, directed or sponsored by nations known to steal and exfiltrate intellectual property, sensitive information and even funds to further their nation's espionage causes.   
 Hacktivists: Threat actors focused on bringing awareness usually motivated by activism. 
-
-Identity Theft: A crime in which someone uses personally identifiable information to impersonate someone else.   
-
 Insiders: Threat actors that infiltrate your workforce themselves or turn an insider towards their goal/cause. 
-
-Keystroke Logger: Software that tracks or logs the keys struck on your keyboard, typically in a covert manner so that you are unaware actions are being monitored.   
-
-Malware (Malicious Software): Software designed to cause damage to a computer, server or computer network.    
-
-Malvertising: The use of online advising to deliver malware.   
-
-MITM (Man in the Middle Attack): A malicious actor insert themselves into a conversation between two parties and intercept data through a compromised but trusted system.    
-
 Organized Crime / Cybercriminals: Threat actors who want to steal sensitive data, money and personal information which is sold on the black market and sometimes use ransomware to extort business owners. 
-
-Packet Sniffer: Software designed to monitor and record network traffic.   
-
-Phishing: A method of trying to gather personal information using deceptive emails and websites.   
-
-Process Hollowing: A security exploit in which an attacker removes code in an executable file and replaces it with malicious code which causes an otherwise legitimate process to execute malicious code. 
-
-Pre-texting: The act of creating a fictional narrative or pretext to manipulate a victim into disclosing sensitive information.   
-
-Ransomware: Malicious software designed to block access to a computer system until a sum of money is paid.   
-
-Risktool: A local use program that can conceal files in a system, hide the windows of running applications or terminate active processes which include cryptocurrency miners that generate coins using the victims' resources.   
-
-Rootkit: Malware designed to remain hidden on your computer that allows hackers remote access.   
-
-Scam: used to describe any fraudulent business or scheme that takes money or other goods from an unsuspecting person.   
-
-Scareware: Type of malware designed to trick victims into purchasing and downloading potentially dangerous software.   
-
 Script Kiddies: Threat actors that aren't skilled enough to design penetration tools on their own and use tools developed by other attackers to penetrate a network or system. 
-
-SIM Swapping: a scam used to intercept SMS verification codes where the cybercriminals pretend to be the victim claiming to have lost the sim and request a new one.    
-
-Smishing: Any kind of phishing that involves a text message.   
-
-Spam: Used to describe junk email on the internet. 
-
-Social Engineering: The art of manipulating people so they disclose confidential information.   
-
-Spear Phishing: Email spoofing attack that targets a specific organization or individual seeking unauthorized access to sensitive information.  
-
-Spoofing: When a hacker changes the IP address of an email so that it seems to come from a trusted source. 
-
-Spyware: A type of software that installs itself on a device and secretly monitors a victim's online activity.  
-
-Tailgating: Someone who lacks the proper authentication following an employee into a restricted area.   
-
 Threat Actor (Blackhat): A hacker that violates computer security for personal gain or malice.   
+
+### Types of Attacks
+APT (Advanced Persistent Threat): An attack in which an unauthorized user gains access to a system or network without being detected.  
+Back Door: Used to describe a hidden method of bypassing security to gain access to a restricted part of a computer system. 
+Baiting: Enticing a victim with an incentive.   
+Brute Force Attack: An activity which involves repetitive successive attempts of trying various password combinations to break into any website.   
+Clickjacking: Also known as UI redress attack is a common hacking technique in which an attacker creates an invisible page or an HTML element that overlays the legitimate page. 
+Code Injection: Used by malware to evade detection by the antivirus by injecting malicious code into a legitimate process which hides the malicious code execution. 
+Data Breach: A confirmed incident where information has been stolen or taken away from a system without the knowledge or authorization of the system's owners.   
+DDoS (Distributed Denial of Service): A malicious attempt to disrupt normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of internet traffic.
+Drive-by Download Attack: A method of spreading malware where insecure websites get a script planted which may install malware directly onto the computer of someone who visits the site.    
+FM (Fireless Malware): A form of malicious computer attack that exists exclusively within the realm of volatile data storage such as RAM, in memory processes and service areas which is normally picked up following visits to malicious websites and cannot be detected by a standard antivirus.     
+Hacking: An unauthorized intrusion into a computer or network. 
+Identity Theft: A crime in which someone uses personally identifiable information to impersonate someone else.   
+Keystroke Logger: Software that tracks or logs the keys struck on your keyboard, typically in a covert manner so that you are unaware actions are being monitored.   
+Malware (Malicious Software): Software designed to cause damage to a computer, server or computer network. 
+Malvertising: The use of online advising to deliver malware.  
+MITM (Man in the Middle Attack): A malicious actor insert themselves into a conversation between two parties and intercept data through a compromised but trusted system.    
+Packet Sniffer: Software designed to monitor and record network traffic.   
+Phishing: A method of trying to gather personal information using deceptive emails and websites.   
+Process Hollowing: A security exploit in which an attacker removes code in an executable file and replaces it with malicious code which causes an otherwise legitimate process to execute malicious code. 
+Pre-texting: The act of creating a fictional narrative or pretext to manipulate a victim into disclosing sensitive information.   
+Ransomware: Malicious software designed to block access to a computer system until a sum of money is paid.   
+Risktool: A local use program that can conceal files in a system, hide the windows of running applications or terminate active processes which include cryptocurrency miners that generate coins using the victims' resources.
+Rootkit: Malware designed to remain hidden on your computer that allows hackers remote access.   
+Scam: used to describe any fraudulent business or scheme that takes money or other goods from an unsuspecting person.   
+Scareware: Type of malware designed to trick victims into purchasing and downloading potentially dangerous software.   
+SIM Swapping: a scam used to intercept SMS verification codes where the cybercriminals pretend to be the victim claiming to have lost the sim and request a new one.    
+Smishing: Any kind of phishing that involves a text message.   
+Social Engineering: The art of manipulating people so they disclose confidential information.   
+Spear Phishing: Email spoofing attack that targets a specific organization or individual seeking unauthorized access to sensitive information.  
+Spoofing: When a hacker changes the IP address of an email so that it seems to come from a trusted source. 
+Spyware: A type of software that installs itself on a device and secretly monitors a victim's online activity.  
+Tailgating: Someone who lacks the proper authentication following an employee into a restricted area.   
+Trojan (Trojan Horse): Malicious software developed by hackers to disguise as legitimate software to gain access to target users' systems.   
+Virus: A malicious program loaded onto a user's computer without the user's knowledge and performs malicious actions.   
+Whaling: Specific form of phishing that's targeted at high profile business executives and managers.   
+Worm: A malware computer program that replicates itself to spread to other computers.   
+Zero-Day: A recently discovered vulnerability that hackers can use to attack systems.   
+
+### Other
+Attack Vector: The collection of all vulnerable points by which an attacker can enter the target system. 
+Botnet: A collection of internets connected devices which may include PCs, servers and mobile devices that are infected and controlled by a common type of malware. 
+Bug: An error, fault or flaw in a computer program that may cause it to unexpectedly quit or behave in an unintended manner.
+Business Disruption: Refers to any interruption in the usual way that a system, process or event works.   
+Cyberbullying: use of electronic means primarily messaging and social media platforms to bully and harass a victim.   
+Cyber Warfare: Refers to cyber-attacks perpetrated by one nation-state against another.   
+Deepfake: Any video or audio which has been digitally altered with the help of AI to make it seem authentic or credible.   
+Exploit: A malicious application or script that can be used to take advantage of a computer's vulnerability. 
+Spam: Used to describe junk email on the internet. 
+Vulnerability: A flaw in a system that can leave it open to attack.   
+ 
+
+
 
 Trojan (Trojan Horse): Malicious software developed by hackers to disguise as legitimate software to gain access to target users' systems.   
 
@@ -217,6 +220,23 @@ Whaling: Specific form of phishing that's targeted at high profile business exec
 Worm: A malware computer program that replicates itself to spread to other computers.   
 
 Zero-Day: A recently discovered vulnerability that hackers can use to attack systems.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Tools 

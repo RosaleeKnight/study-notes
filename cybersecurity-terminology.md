@@ -54,6 +54,13 @@ Memory Stick: Small device that connects to a computer and allows you to store a
 MP3: Means of compressing a sound sequence into a very small file to enable digital storage and transmission.
 MFA (Multi-Factor Authentication): A method to verfy a users identity by requiring them to provide more than one piece of identifying information. 
 
+Packet Sniffer: Software designed to monitor and record network traffic.
+Padlock: Icon displayed in a web browser that indicates a secure mode where communications between browser and web server are encrypted.
+Pen Testing (Penetration Testing): The practice of testing a computer system, network or web application to find vulnerabilities that an attacker could exploit.
+Phishing: A method of trying to gather personal information using deceptive emails and websites.
+Policy Management: The Process of creating, communicating and maintaining policies and procedures within an organization.
+Proxy Server: Another computer system which serves as a hub through which internet requests are processed.
+Pre-texting: The act of creating a fictional narrative or pretext to manipulate a victim into disclosing sensitive information.
 
 
 

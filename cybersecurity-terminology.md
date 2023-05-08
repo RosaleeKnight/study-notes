@@ -62,7 +62,9 @@ Policy Management: The Process of creating, communicating and maintaining polici
 Proxy Server: Another computer system which serves as a hub through which internet requests are processed.
 Pre-texting: The act of creating a fictional narrative or pretext to manipulate a victim into disclosing sensitive information.
 
-
+Ransomware: Malicious software designed to block access to a computer system until a sum of money is paid.
+Rootkit: Malware designed to remain hidden on your computer.
+Router: A piece of network hardware that allows communication between your local network and the internet.
 
 
 ....

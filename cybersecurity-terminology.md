@@ -52,6 +52,8 @@ BYOD (Bring Your Own Device): Refers to employees using personal devices to conn
 
 CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart): Challenge response test used by websites to verify the user is a real human and not a bot.
 
+CISO (Chief Information Security Officer):  A senior level executive who oversees an organization’s information, cyber and technology security whose responsibilities include developing, implementing and enforcing security polices to protect critical data.  
+
 Clear Web / Surface Web:  Publicly accessible web pages that are largely indexed on search engines.
 
 Clickjacking: Also known as UI redress attack is a common hacking technique in which an attacker creates an invisible page or an HTML element that overlays the legitimate page. 
@@ -144,6 +146,8 @@ Identity Theft: A crime in which someone uses personally identifiable informatio
 
 Incident Response Plan: A policy outlying an organization's response to an information security incident. 
 
+Incident Response Team: Responsible for responding to security breaches, viruses and other potentially catastrophic incident in enterprises that face significate risks. 
+
 Insiders: Threat actors that inflitrate your workfoce themselves or turn a insider towards their goal/cause.
 
 IoC (Indicators of Compromise): Are bits of forensic data from system log entries or files that identify potentially malicious activity on a system or network.  
@@ -217,21 +221,35 @@ Rootkit: Malware designed to remain hidden on your computer that allows hackers 
 Router: A piece of network hardware that allows communication between your local network and the internet. 
 
 
+Sandbox(ing): An isolated environment on a network that mimic end user operating environments and are used to safely execute suspicious code without risking harm to the host device or network.  
+
 Scam: used to describe any fraudulent business or scheme that takes money or other goods from an unsuspecting person. 
 
 Scareware: Type of malware designed to trick victims into purchasing and downloading potentially dangerous software. 
 
 Script Kiddies: Threat actors that aren't skilled enough to design penetration tools on their own and use tools developed by other attackers to penetrate a network or system.
 
+SECaaS (Security as a Service): A type of cloud computing service where the provider offers the customer the ability to use a provided application in which they can only make minor tweaks and the provider is responsible for maintaining the application.  
+
 Security Awareness Training: A training program aimed at heightening security awareness within an organization. 
+
+Security Incident Response: A planned approach to addressing and managing the reaction after a cyber-attack or network security breach.  
 
 SOC (Security Operations Centre): Monitors an organization's security operations to prevent, detect and respond to any potential threats. 
 
+Security Perimeter: A digital boundary that is defined for a system or domain within which a specific security policy or security architecture is applied.  
+
 Server: A computer program that provides a service to another computer program and it's users. 
+
+SIEM (Security Information and Event Management): is a formal process by which the security of an organization is monitored and evaluated on a constant basis.  
+
+SIM Swapping:  a scam used to intercept sms verification codes where the cybercriminals pretend to be the victim claiming to have lost the sim and request a new one.  
 
 Smishing: Any kind of phishing that involves a text message. 
 
 Spam: Used to describe junk email on the internet. 
+
+SOAR (Security Orchestrated, Automation and Response): A stack of compatible software programs that organizations use to collect data about security threats from across the network and respond to low level security events without human assistance.   
 
 Social Engineering: The art of manipulating people so they disclose confidential information. 
 
@@ -242,6 +260,8 @@ Spear Phishing: Email spoofing attack that targets a specific organization or in
 Spoofing: When a hacker changes the IP address of an email so that it seems to come from a trusted source.
 
 Spyware: A type of software that installs itself on a device and secretly monitors a victim's online activity. 
+
+SSL (Secure Socket Layer): The standard security technology for establishing an encrypted link between a web server and a browser.  
 
 
 Tailgating: Someone who lacks the proper authentication following an employee into a restricted area. 

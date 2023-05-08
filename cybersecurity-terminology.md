@@ -112,6 +112,10 @@ Ethical Hacker (Whitehat): Hackers that preform penetration testing, test in pla
 
 Encryption: The practice of encoding data so that it is no longer in the original form and can't be read.
 
+Endpoint Protection: A system for network security management that monitors network endpoints, hardware devices such as workstations and mobile devices. 
+
+EDR (Endpoint Detection and Response): Tools for protecting endpoints from potential threats which compromise of software and networking tools for detecting suspicious activity.   
+
 Exploit: A malicious application or script that can be used to take advantage of a computer's vulnerability. 
 
 

@@ -270,7 +270,15 @@ Tablet: Wireless portable personal computer with a touchscreen interface.
 
 Traffic: The amount of data sent and received by visitors to a website. 
 
+Threat Assessment: A structured process used to identify and evaluate various risks or threats that an organization might be exposed to.  
+
 Threat Actor (Blackhat): A hackers that violates computer security for personal gain or malice. 
+
+Threat Hunter: Identifies advanced threats and then track and mitigates them before organizational IT systems are attacked.  
+
+Threat Hunting: An active cyber defense activity where cybersecurity professionals actively search networks to detect and mitigate advanced threats that evade security solutions.   
+
+Threat Intelligence: Intelligence proactively obtained and used to understand the threats that are targeting the organization.  
 
 Trojan (Trojan Horse): Malicious software developed by hackers to disguise as legitimate software to gain access to target users' systems. 
 

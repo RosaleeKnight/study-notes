@@ -41,7 +41,7 @@ Service: Hyper-V
 12. In the centre where machine are listed right click on machine and select start.
 
 # Remote Access
-Service: Zoom
+Service: Zoom | 
 Note: All participants must be able to share their screen to use this feature.
 
 ### How to Remote in

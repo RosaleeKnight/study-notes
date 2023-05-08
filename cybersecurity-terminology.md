@@ -1,6 +1,8 @@
 Terms I have come across studying.
 
-//list should contain job titles, attacks, maleware name, tools, etc//
+//list should contain job titles, attacks, malware name, tools, etc//
+
+2FA (Two-Factor Authentication): A security process in which the user provides two authentication factors to verify they are who they say they are.
 
 Adware: Any piece of software or application that displays advertisements on your computer.
 APT (Advanced Persistent Threat): An attack in which an unauthorized user gains access to a system or network without being detected.
@@ -78,6 +80,10 @@ Software: Programs on the computeres used to preform tasks.
 Spear Phishing: Email spoofing attack that targets a specific organization or individual seeking unauthorized access to sensitive information.
 Spyware: A type of software that installs itself on a device and secretly monitors a victims online activity.
 
+Tailgating: Someone who lacks the proper authentication following an employee into a restricted area.
+Tablet: Wireless portable personal computer with a touchscreen interface.
+Traffic: The amount of data sent and recieved by visitors to a website.
+Trojan (Trojan Horse): Malicious software developed by hackers to disguise as legitimate software to gain access to target users systems.
 
 
 

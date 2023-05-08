@@ -66,5 +66,22 @@ Ransomware: Malicious software designed to block access to a computer system unt
 Rootkit: Malware designed to remain hidden on your computer.
 Router: A piece of network hardware that allows communication between your local network and the internet.
 
+Scam: used to describe any fruadulent business or scheme that takes money or other goods from an unsuspecting person.
+Scareware: Type of malware designed to trick victims into purchasing and downloading potentially dangerous software.
+Security Awareness Training: A training program aimed at heightening security awareness within an organization.
+SOC (Security Operations Centre): Monitors an organization's security operations to prevent, detect and respond to any potential threats.
+Server: A computer program that provides a service to another computer program and it's users.
+Smishing: Any kind of phishing that involves a text message.
+Spam: Used to describe junk email on the internet.
+Social Engineering: The art of manipulating people so they disclose confidential information.
+Software: Programs on the computeres used to preform tasks.
+Spear Phishing: Email spoofing attack that targets a specific organization or individual seeking unauthorized access to sensitive information.
+Spyware: A type of software that installs itself on a device and secretly monitors a victims online activity.
+
+
+
+
+
+
 
 ....

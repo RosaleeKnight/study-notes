@@ -93,9 +93,10 @@ VPN (Virtual Private Network): An encrypted connection over the internet from a 
 Vunerability: A flaw in a system that can leave it open to attack.
 Vishing: The telephone equivalent of phishing.
 
+Whaling: Specific form of phishing that's targeted at high profile business excutives and managers.
+Whitehat: Hackers that preform penetration testing, test in place security systems and perform vulnerability assessments for companies.
+Worm: A malware computer program that replicates itself in order to spread to other computers.
+Wi-Fi: A facility that allows cmputers, smartphones or other devices to connect to the internet or communicate with one another wirelessly within a particular area.
 
+Zero-Day: A recently discovered vulnerability that hackers can use to attack systems.
 
-
-
-
-....

@@ -10,7 +10,11 @@ Adware: Any piece of software or application that displays advertisements on you
 
 APT (Advanced Persistent Threat): An attack in which an unauthorized user gains access to a system or network without being detected. 
 
-Anti-Virus Software: A computer program used to prevent, detect and remove malware. 
+ATP (Advanced Threat Protection): Security solutions that defend against sophisticated malware or hacking attacks targeting senisitive data which inclues both software and managed security services.
+
+Anti-Phising: 
+
+Anti-Virus: A computer program used to prevent, detect and remove malware. 
 
 AI (Artificial Intelligence): The simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. 
 

@@ -12,7 +12,7 @@ Incident Response Team: Responsible for responding to security breaches, viruses
 
 # Threats 
 
-### Threat Actors
+## Threat Actors
 Cyber Terrorists: Threat actors focused on disrupting critical services and causing harm. 
 
 Government-Sponsored/ State-Sponsored Actors: Threat actors funded, directed or sponsored by nations known to steal and exfiltrate intellectual property, sensitive information and even funds to further their nation's espionage causes.   

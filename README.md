@@ -1,10 +1,28 @@
 My study notes taken from courses and used for exams or general reminders.
 
-# Help Desk Basics
-- How to Create a New Ticket in a Ticketing System
-- How to Write Knowledge Base Documentation in a Ticketing System
-- Hyper-V Usage for Virtualization on Windows
-- How to Remote in on Zoom
-- Active Directory Setup for Server 2019
-- How to Add Users in Active Directory
+# Cybersecurity Terminology 
+- Jobs 
+- Threats 
+  - Threat Actors 
+  - Types of Attacks 
+  - Other 
+- Defenses 
+  - Automated 
+  - Operations 
+  - Frameworks & Standards 
+- Tools 
+  - Job Specific 
+  - General 
+
+# Help Desk Basics 
+- Ticketing System 
+  - How to Create a New Ticket 
+  - How to Write Knowledge Base Documentation 
+- Virtualization 
+  - Hyper-V Usage 
+- Remote Access 
+  - How to remote in on Zoom 
+- Active Directory 
+  - Setup for Server 2019 
+  - How to Add Users 
 - Networking Terminology 

@@ -27,7 +27,7 @@ Script Kiddies: Threat actors that aren't skilled enough to design penetration t
 
 Threat Actor (Blackhat): A hacker that violates computer security for personal gain or malice.   
 
-### Types of Attacks
+## Types of Attacks
 APT (Advanced Persistent Threat): An attack in which an unauthorized user gains access to a system or network without being detected.  
 
 Back Door: Used to describe a hidden method of bypassing security to gain access to a restricted part of a computer system. 
@@ -102,7 +102,8 @@ Worm: A malware computer program that replicates itself to spread to other compu
 
 Zero-Day: A recently discovered vulnerability that hackers can use to attack systems.   
 
-### Other
+## Other
+
 Attack Vector: The collection of all vulnerable points by which an attacker can enter the target system. 
 
 Botnet: A collection of internets connected devices which may include PCs, servers and mobile devices that are infected and controlled by a common type of malware. 
@@ -127,7 +128,7 @@ Vulnerability: A flaw in a system that can leave it open to attack.
 
 # Defenses 
 
-### Automated
+## Automated
 2FA (Two-Factor Authentication): A security process in which the user provides two authentication factors to verify their identity.  
 
 Allowlist: A list of permitted items that are automatically let through whatever gate is being used. 
@@ -154,7 +155,7 @@ WAF (Web Application Protocol): A specific form of application firewall that fil
 
 ZTP (Zero-touch Provisioning): An automatic device configuration process that reduces the possibility of errors when manually configuring devices.  
 
-### Operations
+## Operations
 ATP (Advanced Threat Protection): Security solutions that defend against sophisticated malware or hacking attacks targeting sensitive data which includes both software and managed security services. 
 
 Business Continuity Plan: An organization’s playbook for how to operate in an emergency like a massive cyberattack which provides safeguards against a disaster and outlines strategies and the action plan on how to continue business as usual.   
@@ -205,7 +206,7 @@ Threat Intelligence: Intelligence proactively obtained and used to understand th
 
 # Tools 
 
-### Job Specific
+## Job Specific
 COTS (Commercially Available off the Shelf): Packaged products or solutions that are then adapted to satisfy the needs of the purchasing organization rather than commissioning of custom made.   
 
 Critical Update: A fix for a specific problem that addresses a critical, non-security-related bug in computer software.
@@ -226,7 +227,7 @@ SOAR (Security Orchestrated, Automation and Response): A stack of compatible sof
 
 VPN (Virtual Private Network): An encrypted connection over the internet from a device to a network.   
 
-### General 
+## General 
 Adware: Any piece of software or application that displays advertisements on your computer.   
 
 AI (Artificial Intelligence): The simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. 

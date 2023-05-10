@@ -227,9 +227,16 @@
 
 # Penetration Testing
 ## Aircrack-ng
+Wireless tools that capture, analyze, and export packet data, spoof access points or routers, and crack complex Wi-Fi password.
 ## Metasploit Framework
+Framework that can test computer system vulnerabilities or can be used to break into remote systems.
 ## Nmap
+Network mapper used to find open ports, detect host devices, see which network services are active, fingerprint operating systems, and locate potential backdoors.
 ## OpenVAS
+All-in-one vulnerability scanner that comprehensively tests for security holes, misconfigured systems, and outdated software.
 ## Shodan
+A search engine for internet-connected devices — from routers and servers to Internet of Things (IoT) devices - and if the devices aren't protected, know to break into the network.
 ## Sqlmap
+Penetration testing tool that automates detecting and exploiting SQL injection flaws of database servers, which includes a detection engine and many niche features.
 ## Wireshark 
+Tool to locate, identify, and examine network packets to diagnose critical issues and spot security weaknesses.

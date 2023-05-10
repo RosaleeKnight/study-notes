@@ -194,36 +194,50 @@
 
 # Security Information and Event Management
 ## SolarWinds 
+Network and host intrusion detection system, which performs real-time monitoring, responding, and reporting of security threats.
 
 # Security Orchestrated, Automation and Response (SOAR)
 ## Splunk
-
+Traffic analysis tool that can perform historical searches on network traffic logs to identify traces of threats in the past as well as current threats.
 # Intrusion Detection System
 ## OSSEC
+Made of server, agent, and router monitor, which allows rootkit detection, system integrity checking, threat alerts, and response.
 ## Security Onion
+Provides network monitoring via full packet capture, host-based and network-based intrusion detection systems, log indexing, and search and data visualization features.
 ## Snort 
+Network intrusion prevention and intrusion detection system capable of real-time traffic analysis and logging, which uses a series of rules to identify malicious network activity, find the packets, and generate alerts.
 
 # Password Auditing
 ## John the Ripper 
+Password auditing, cracking, and general security tool that can crack passwords through a wide range of security protocols, transmission methods, encryption protocols, and static locations.
 
 # Web Vulnerability
 ## Acunetix
+Checks for surface vulnerable threats in checkout processes, shopping carts, login pages, and online forms where an attacker can submit data to a server to be processed.
 ## Burp Suite
+Tools for debugging and testing web app security, including an intercepting proxy tool.
 ## Nikto
+Command-line tool useful for uncovering vulnerabilities in web apps, services, and web servers such as unpatched software, misconfigurations, and other security issues.
 ## Nessus Professional
+Vulnerability assessment tools that not only scans for issues but can fix them as well.
 ## ZAP 
+Penetration testing tool designed specifically for testing web applications and is known as a "man-in-the-middle proxy,” where it intercepts and inspects messages sent between browsers and web applications.
 
 # Fingerprinting and Forensics Tool
 ## p0f 
+Can identify fingerprints and other vital information without network interference passively rather than actively, which means it's nearly impossible to detect and even harder to block.
 
 # Encryption
 ## TCPCrypt 
+Automatically encrypts traffic whenever it can, and if the endpoint doesn’t support encryption, it falls back to TCP traffic.
 
 # Firewalls
 ## PfSense 
+Firewall/router projects that can also be configured for intrusion detection and prevention, traffic shaping, load balancing, and content filtering.
 
 # User Awareness Training Exercises
 ## Gophish 
+Toolkit for security administrators to build their own phishing campaigns to find out who needs greater phishing awareness.
 
 # Penetration Testing
 ## Aircrack-ng

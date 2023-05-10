@@ -58,69 +58,127 @@
 ## Jest
 ## PyUnit  
 
-Application Security Platform: LGTM, SNYK  
+# Application Security Platform
+## LGTM
+## SNYK  
 
-Version Control: Git  
+# Version Control
+## Git  
 
-Version Control System: GitHub  
+# Version Control System
+## GitHub  
 
-Command-Line: GNU Bash, PowerShell  
+# Command-Line
+## GNU Bash
+## PowerShell  
 
-Integrated Development Environment (IDE): Pycharm, Replit, Virtual Studio Code  
+# Integrated Development Environment (IDE)
+## Pycharm
+## Replit
+## Virtual Studio Code  
 
-Text Editor: VIM, GNU Nano  
+# Text Editor
+## VIM
+## GNU Nano  
 
-Interactive Computing Platform: Jupyter Notebook  
+# Interactive Computing Platform
+## Jupyter Notebook  
 
-NoSQL Database: MongoDB  
+# NoSQL Database
+## MongoDB  
 
-Relational Database Management System: Microsoft SQL Server, MySQL, PostgreSQL  
+# Relational Database Management System
+## Microsoft SQL Server
+## MySQL
+## PostgreSQL  
 
-Continuous Integration: Circle CI, GitHub Actions, Gradle, Jenkins, Travis CI, Webapp.io   
+# Continuous Integration
+## Circle CI
+## GitHub Actions
+## Gradle
+## Jenkins
+## Travis CI
+## Webapp.io   
 
-Container: Docker  
+# Container
+## Docker  
 
-Container Orchestration: Kubernetes  
+# Container Orchestration
+## Kubernetes  
 
-Configuration Management: Ansible  
+# Configuration Management
+## Ansible  
 
-Provisioning: Terraform  
+# Provisioning
+## Terraform  
 
-Monitoring System: Nagios, Prometheus  
+# Monitoring System
+## Nagios
+## Prometheus  
 
-Log Management: Elastic Stack  
+# Log Management
+## Elastic Stack  
 
-Distributed Tracing Tools: Jaeger 
+# Distributed Tracing Tools
+## Jaeger 
 
-Service Mesh: Istio  
+# Service Mesh
+## Istio  
 
-Message-Broker: RabbitMQ  
+# Message-Broker
+## RabbitMQ  
 
-Issue Tracking: Jira, Spiceworks  
+# Issue Tracking
+## Jira
+## Spiceworks  
 
-Web Server: Nginx  
+# Web Server
+## Nginx  
 
-Virtualization: Hyper-V, VMware  
+# Virtualization
+## Hyper-V
+## VMware  
 
-Project Management: Teamwork, ZenHub  
+# Project Management
+## Teamwork
+## ZenHub  
 
-Customer Relationship Management: Salesforce  
+# Customer Relationship Management
+## Salesforce  
 
-Chat Based Collaboration: Slack, Microsoft Team, Zoom  
+# Chat Based Collaboration
+## Slack
+## Microsoft Teams
+## Zoom  
 
-Document Editor: Google Docs, LibreOffice, Microsoft Word  
+# Document Editor
+## Google Docs
+## LibreOffice
+## Microsoft Word  
 
-Spreadsheet Editor: Google Sheets, Microsoft Excel  
+# Spreadsheet Editor
+## Google Sheets
+## Microsoft Excel  
 
-Cloud Providers: Google Cloud Platform, Amazon Web Services  
+# Cloud Providers
+## Google Cloud Platform
+## Amazon Web Services  
 
-VoIP Software: Discord  
+# VoIP Software
+## Discord  
 
-Directory Service: Active Directory  
+# Directory Service
+## Active Directory  
 
-Web Browsers: Brave, Chrome, Firefox, Microsoft Edge, Safari, Tor 
+# Web Browsers
+## Brave
+## Chrome
+## Firefox
+## Microsoft Edge
+## Safari
+## Tor 
 
-Operating Systems: Windows, MacOS, Free BSD, Linux, Android, iOS 
+## Operating Systems: Windows, MacOS, Free BSD, Linux, Android, iOS 
 
 Linux Distros: Kali Linux, REMnux, Tails, Ubuntu 
 

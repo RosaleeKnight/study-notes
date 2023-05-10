@@ -144,59 +144,59 @@ My study notes taken from courses and used for exams or general reminders.
   - Slack
   - Microsoft Teams
   - Zoom
-# Document Editor
-- Google Docs
-- LibreOffice
-- Microsoft Word
-# Spreadsheet Editor
-- Google Sheets
-- Microsoft Excel
-# Cloud Providers
-- Google Cloud Platform
-- Amazon Web Services
-# VoIP Software
-- Discord
-# Directory Service
-- Active Directory
-# Web Browsers
-- Brave
-- Chrome
-- Firefox
-- Microsoft Edge
-- Safari
-- Tor
-# Operating Systems
-- Windows
-- MacOS
-- Free BSD
-- Linux
-- Android
-- iOS
-# Linux Distros
-- Kali Linux
-- REMnux
-- Tails
-- Ubuntu
-# Security Information and Event Management
-- SolarWinds
-# Security Orchestrated, Automation and Response (SOAR)
-- Splunk
-# Intrusion Detection System
-- OSSEC
-- Security Onion
-- Snort
-# Password Auditing
-- John the Ripper
-# Web Vulnerability
-- Acunetix
-- Burp Suite
-- Nikto
-- Nessus Professional
-- ZAP
-# Fingerprinting and Forensics Tool
-- p0f
-# Encryption
-- TCPCrypt
+- Document Editor
+  - Google Docs
+  - LibreOffice
+  - Microsoft Word
+- Spreadsheet Editor
+  - Google Sheets
+  - Microsoft Excel
+- Cloud Providers
+  - Google Cloud Platform
+  - Amazon Web Services
+- VoIP Software
+  - Discord
+- Directory Service
+  - Active Directory
+- Web Browsers
+  - Brave
+  - Chrome
+  - Firefox
+  - Microsoft Edge
+  - Safari
+  - Tor
+- Operating Systems
+  - Windows
+  - MacOS
+  - Free BSD
+  - Linux
+  - Android
+  - iOS
+- Linux Distros
+  - Kali Linux
+  - REMnux
+  - Tails
+  - Ubuntu
+- Security Information and Event Management
+  - SolarWinds
+- Security Orchestrated, Automation and Response (SOAR)
+  - Splunk
+- Intrusion Detection System
+  - OSSEC
+  - Security Onion
+  - Snort
+- Password Auditing
+  - John the Ripper
+- Web Vulnerability
+  - Acunetix
+  - Burp Suite
+  - Nikto
+  - Nessus Professional
+  - ZAP
+- Fingerprinting and Forensics Tool
+  - p0f
+- Encryption
+  - TCPCrypt
 # Firewalls
 - PfSense
 # User Awareness Training Exercises

@@ -1,63 +1,62 @@
 # Programing Languages 
 ## Assembly 
-this is a test
-### JavaScript
-### Python 
-### SQL 
-### TypeScript 
-### Nix   
+## JavaScript
+## Python 
+## SQL 
+## TypeScript 
+## Nix  
 
 # Data Query Language 
-### GraphQL  
+## GraphQL  
 
 # Markup Languages 
-### HTML 5 
-### Markdown  
+## HTML 5 
+## Markdown  
 
 # Serialization Languages:
-### JSON
-### XML
-### YAML 
+## JSON
+## XML
+## YAML 
 
 # Styling
-### Bootstrap
-### CSS3
-### SASS
-### Tailwind CSS  
+## Bootstrap
+## CSS3
+## SASS
+## Tailwind CSS  
 
 # JavaScript Framework
-### jQuery 
-### Express.js   
+## jQuery 
+## Express.js   
 
 # JavaScript Runtime Environment
-### Node.js  
+## Node.js  
 
 # JavaScript Libraries
-### Apollo GraphQL
-### Kaboom.js
-### Next.js
-### React.js
-### Redux.js  
+## Apollo GraphQL
+## Kaboom.js
+## Next.js
+## React.js
+## Redux.js  
 
 # JavaScript Bundlers
-### esbuild
-### webpack  
+## esbuild
+## webpack  
 
 # Cross-platform
-### React Native
-### Electron.js  
+## React Native
+## Electron.js  
 
 # Python Libraries
-### Pygame
-### Pandas  
+## Pygame
+## Pandas  
 
 # Package Mangers
-### NPM
-### PYPI  
+## NPM
+## PYPI  
 
 # Testing Frameworks
-### Jest
-### PyUnit  
+## Jest
+## PyUnit  
 
 Application Security Platform: LGTM, SNYK  
 

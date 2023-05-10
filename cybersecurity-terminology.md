@@ -339,3 +339,10 @@ USB (Universal Serial Bus): Connection used to connect a computer to devices.
 Username: A name that uniquely identifies someone on a computer system.   
 
 Wi-Fi: A facility that allows computers, smartphones or other devices to connect to the internet or communicate with one another wirelessly within a particular area.   
+
+## Software
+Aircrack-ng: wireless tools that capture, analyze, and export packet data, spoof access points or routers, and crack complex Wi-Fi password. 
+
+Acunetix: checks for surface vulnerable threats in checkout processes, shopping carts, login pages, and online forms where an attacker can submit data to a server to be processed. 
+
+Burp Suit: tools for debugging and testing web app security, including an intercepting proxy tool. 

@@ -28,38 +28,39 @@ My study notes taken from courses and used for exams or general reminders.
   - How to Add Users 
 - Networking Terminology 
 
-# Programing Languages
-- Assembly
-- JavaScript
-- Python
-- SQL
-- TypeScript
-- Nix
-# Data Query Language
-- GraphQL
-# Markup Languages
-- HTML 5
-- Markdown
-# Serialization Languages
-- JSON
-- XML
-- YAML
-# Styling
-- Bootstrap
-- CSS3
-- SASS
-- Tailwind CSS
-# JavaScript Framework
-- jQuery
-- Express.js
-# JavaScript Runtime Environment
-- Node.js
-# JavaScript Libraries
-- Apollo GraphQL
-- Kaboom.js
-- Next.js
-- React.js
-- Redux.js
+# Profile Glossary
+- Programing Languages
+  - Assembly
+  - JavaScript
+  - Python
+  - SQL
+  - TypeScript
+  - Nix
+- Data Query Language
+  - GraphQL
+- Markup Languages
+  - HTML 5
+  - Markdown
+- Serialization Languages
+  - JSON
+  - XML
+  - YAML
+- Styling
+  - Bootstrap
+  - CSS3
+  - SASS
+  - Tailwind CSS
+- JavaScript Framework
+  - jQuery
+  - Express.js
+- JavaScript Runtime Environment
+  - Node.js
+- JavaScript Libraries
+  - Apollo GraphQL
+  - Kaboom.js
+  - Next.js
+  - React.js
+  - Redux.js
 # JavaScript Bundlers
 - esbuild
 - webpack

@@ -13,6 +13,7 @@ My study notes taken from courses and used for exams or general reminders.
 - Tools 
   - Job Specific 
   - General 
+  - Software
 
 # Help Desk Basics 
 - Ticketing System 

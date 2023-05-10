@@ -374,3 +374,17 @@ Password managers: makes it possible to safely store all passwords together so a
 PfSense: firewall/router projects that can also be configured for intrusion detection and prevention, traffic shaping, load balancing, and content filtering. 
 
 P0f: can identify fingerprints and other vital information without network interference passively rather than actively, which means it's nearly impossible to detect and even harder to block. 
+
+REMnux: tools to analyze Windows executables, reverse-engineer binaries, and inspect suspicious documents.  
+
+Security Onion: provides network monitoring via full packet capture, host-based and network-based intrusion detection systems, log indexing, and search and data visualization features. 
+
+Shodan: a search engine for internet-connected devices — from routers and servers to Internet of Things (IoT) devices - and if the devices aren't protected, know to break into the network. 
+
+Snort: network intrusion prevention and intrusion detection system capable of real-time traffic analysis and logging, which uses a series of rules to identify malicious network activity, find the packets, and generate alerts. 
+
+SolarWinds Security Event Manager: network and host intrusion detection system, which performs real-time monitoring, responding, and reporting of security threats.  
+
+Splunk: traffic analysis tool that can perform historical searches on network traffic logs to identify traces of threats in the past as well as current threats. 
+
+Sqlmap: penetration testing tool that automates detecting and exploiting SQL injection flaws of database servers, which includes a detection engine and many niche features. 

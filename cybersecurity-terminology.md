@@ -387,7 +387,7 @@ Password managers: makes it possible to safely store all passwords together so a
 
 PfSense: firewall/router projects that can also be configured for intrusion detection and prevention, traffic shaping, load balancing, and content filtering. 
 
-P0f: can identify fingerprints and other vital information without network interference passively rather than actively, which means it's nearly impossible to detect and even harder to block. 
+p0f: can identify fingerprints and other vital information without network interference passively rather than actively, which means it's nearly impossible to detect and even harder to block. 
 
 REMnux: tools to analyze Windows executables, reverse-engineer binaries, and inspect suspicious documents.  
 

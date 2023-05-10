@@ -361,54 +361,54 @@ Username: A name that uniquely identifies someone on a computer system.
 Wi-Fi: A facility that allows computers, smartphones or other devices to connect to the internet or communicate with one another wirelessly within a particular area.   
 
 ## Software
-Aircrack-ng: wireless tools that capture, analyze, and export packet data, spoof access points or routers, and crack complex Wi-Fi password. 
+Aircrack-ng: Wireless tools that capture, analyze, and export packet data, spoof access points or routers, and crack complex Wi-Fi password. 
 
-Acunetix: checks for surface vulnerable threats in checkout processes, shopping carts, login pages, and online forms where an attacker can submit data to a server to be processed. 
+Acunetix: Checks for surface vulnerable threats in checkout processes, shopping carts, login pages, and online forms where an attacker can submit data to a server to be processed. 
 
-Burp Suit: tools for debugging and testing web app security, including an intercepting proxy tool. 
+Burp Suit: Tools for debugging and testing web app security, including an intercepting proxy tool. 
 
-Defendify: includes cybersecurity risk assessments, technology and data use policies, incident response plans, penetration testing, threat alerts, phishing simulations, and cybersecurity awareness training. 
+Defendify: Includes cybersecurity risk assessments, technology and data use policies, incident response plans, penetration testing, threat alerts, phishing simulations, and cybersecurity awareness training. 
 
-Gophish: toolkit for security administrators to build their own phishing campaigns to find out who needs greater phishing awareness. 
+Gophish: Toolkit for security administrators to build their own phishing campaigns to find out who needs greater phishing awareness. 
 
-John the Ripper: password auditing, cracking, and general security tool that can crack passwords through a wide range of security protocols, transmission methods, encryption protocols, and static locations. 
+John the Ripper: Password auditing, cracking, and general security tool that can crack passwords through a wide range of security protocols, transmission methods, encryption protocols, and static locations. 
 
 Metasploit Framework: Framework that can test computer system vulnerabilities or can be used to break into remote systems. 
 
-Nessus Professional: vulnerability assessment tools that not only scans for issues but can fix them as well. 
+Nessus Professional: Vulnerability assessment tools that not only scans for issues but can fix them as well. 
 
-Nmap: network mapper used to find open ports, detect host devices, see which network services are active, fingerprint operating systems, and locate potential backdoors. 
+Nmap: Network mapper used to find open ports, detect host devices, see which network services are active, fingerprint operating systems, and locate potential backdoors. 
 
-Nikto: command-line tool useful for uncovering vulnerabilities in web apps, services, and web servers such as unpatched software, misconfigurations, and other security issues. 
+Nikto: Command-line tool useful for uncovering vulnerabilities in web apps, services, and web servers such as unpatched software, misconfigurations, and other security issues. 
 
-OpenVAS (Open Vulnerability Assessment Scanner): all-in-one vulnerability scanner that comprehensively tests for security holes, misconfigured systems, and outdated software.  
+OpenVAS (Open Vulnerability Assessment Scanner): All-in-one vulnerability scanner that comprehensively tests for security holes, misconfigured systems, and outdated software.  
 
 OSSEC (Open Source HIDS SECurity): Made of server, agent, and router monitor, which allows rootkit detection, system integrity checking, threat alerts, and response.  
 
-Password managers: makes it possible to safely store all passwords together so a user only needs to remember one master key rather than dozens of unique passwords. 
+Password managers: Makes it possible to safely store all passwords together so a user only needs to remember one master key rather than dozens of unique passwords. 
 
-PfSense: firewall/router projects that can also be configured for intrusion detection and prevention, traffic shaping, load balancing, and content filtering. 
+PfSense: Firewall/router projects that can also be configured for intrusion detection and prevention, traffic shaping, load balancing, and content filtering. 
 
-p0f: can identify fingerprints and other vital information without network interference passively rather than actively, which means it's nearly impossible to detect and even harder to block. 
+p0f: Can identify fingerprints and other vital information without network interference passively rather than actively, which means it's nearly impossible to detect and even harder to block. 
 
-REMnux: tools to analyze Windows executables, reverse-engineer binaries, and inspect suspicious documents.  
+REMnux: Tools to analyze Windows executables, reverse-engineer binaries, and inspect suspicious documents.  
 
-Security Onion: provides network monitoring via full packet capture, host-based and network-based intrusion detection systems, log indexing, and search and data visualization features. 
+Security Onion: Provides network monitoring via full packet capture, host-based and network-based intrusion detection systems, log indexing, and search and data visualization features. 
 
-Shodan: a search engine for internet-connected devices — from routers and servers to Internet of Things (IoT) devices - and if the devices aren't protected, know to break into the network. 
+Shodan: A search engine for internet-connected devices — from routers and servers to Internet of Things (IoT) devices - and if the devices aren't protected, know to break into the network. 
 
-Snort: network intrusion prevention and intrusion detection system capable of real-time traffic analysis and logging, which uses a series of rules to identify malicious network activity, find the packets, and generate alerts. 
+Snort: Network intrusion prevention and intrusion detection system capable of real-time traffic analysis and logging, which uses a series of rules to identify malicious network activity, find the packets, and generate alerts. 
    
-SolarWinds Security Event Manager: network and host intrusion detection system, which performs real-time monitoring, responding, and reporting of security threats.  
+SolarWinds: Network and host intrusion detection system, which performs real-time monitoring, responding, and reporting of security threats.  
 
-Splunk: traffic analysis tool that can perform historical searches on network traffic logs to identify traces of threats in the past as well as current threats. 
+Splunk: Traffic analysis tool that can perform historical searches on network traffic logs to identify traces of threats in the past as well as current threats. 
 
-Sqlmap: penetration testing tool that automates detecting and exploiting SQL injection flaws of database servers, which includes a detection engine and many niche features. 
+Sqlmap: Penetration testing tool that automates detecting and exploiting SQL injection flaws of database servers, which includes a detection engine and many niche features. 
 
-TCPCrypt: automatically encrypts traffic whenever it can, and if the endpoint doesn’t support encryption, it falls back to TCP traffic. 
+TCPCrypt: Automatically encrypts traffic whenever it can, and if the endpoint doesn’t support encryption, it falls back to TCP traffic. 
 
-Tor (The Onion Router): service that anonymizes traffic and makes it difficult to trace the entry and exit points of web traffic. 
+Tor (The Onion Router): Service that anonymizes traffic and makes it difficult to trace the entry and exit points of web traffic. 
 
-Wireshark: tool to locate, identify, and examine network packets to diagnose critical issues and spot security weaknesses. 
+Wireshark: Tool to locate, identify, and examine network packets to diagnose critical issues and spot security weaknesses. 
 
-ZAP (Zed Attack Proxy): penetration testing tool designed specifically for testing web applications and is known as a "man-in-the-middle proxy,” where it intercepts and inspects messages sent between browsers and web applications. 
+ZAP (Zed Attack Proxy): Penetration testing tool designed specifically for testing web applications and is known as a "man-in-the-middle proxy,” where it intercepts and inspects messages sent between browsers and web applications. 

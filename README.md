@@ -61,46 +61,46 @@ My study notes taken from courses and used for exams or general reminders.
   - Next.js
   - React.js
   - Redux.js
-# JavaScript Bundlers
-- esbuild
-- webpack
-# Cross-platform
-- React Native
-- Electron.js
-# Python Libraries
-- Pygame
-- Pandas
-# Package Mangers
-- NPM
-- PYPI
-# Testing Frameworks
-- Jest
-- PyUnit
-# Application Security Platform
-- LGTM
-- SNYK
-# Version Control
-- Git
-# Version Control System
-- GitHub
-# Command-Line
-- GNU Bash
-- PowerShell
-# Integrated Development Environment (IDE)
-- Pycharm
-- Replit
-- Virtual Studio Code
-# Text Editor
-- VIM
-- GNU Nano
-# Interactive Computing Platform
-- Jupyter Notebook
-# NoSQL Database
-- MongoDB
-# Relational Database Management System
-- Microsoft SQL Server
-- MySQL
-- PostgreSQL
+- JavaScript Bundlers
+  - esbuild
+  - webpack
+- Cross-platform
+  - React Native
+  - Electron.js
+- Python Libraries
+  - Pygame
+  - Pandas
+- Package Mangers
+  - NPM
+  - PYPI
+- Testing Frameworks
+  - Jest
+  - PyUnit
+- Application Security Platform
+  - LGTM
+  - SNYK
+- Version Control
+  - Git
+- Version Control System
+  - GitHub
+- Command-Line
+  - GNU Bash
+  - PowerShell
+- Integrated Development Environment (IDE)
+  - Pycharm
+  - Replit
+  - Virtual Studio Code
+- Text Editor
+  - VIM
+  - GNU Nano
+- Interactive Computing Platform
+  - Jupyter Notebook
+- NoSQL Database
+  - MongoDB
+- Relational Database Management System
+  - Microsoft SQL Server
+  - MySQL
+  - PostgreSQL
 # Continuous Integration
 - Circle CI
 - GitHub Actions

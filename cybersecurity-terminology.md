@@ -240,6 +240,8 @@ PCI-DSS (Payment Card Industry Security Standard):  A set of security standards 
 
 SOC 2: Criteria developed by AICPA (American Institue of CPA) for managing customer data based on 5 trust principles which are security, availability, processing integrity, confidentiality and privacy. 
 
+The Cyber Kill Chain: Framework part of the Intelligence Driven Defense model for identification and prevention of cyber intrusion activities which states what the threat actors must complete to achieve their objective in 7 steps.  
+
 ---
 
 # Tools 
@@ -248,6 +250,8 @@ SOC 2: Criteria developed by AICPA (American Institue of CPA) for managing custo
 COTS (Commercially Available off the Shelf): Packaged products or solutions that are then adapted to satisfy the needs of the purchasing organization rather than commissioning of custom made.   
 
 Critical Update: A fix for a specific problem that addresses a critical, non-security-related bug in computer software.
+
+DAST (Dynamic Application Security Testing): Interacts with your running application with the purpose of finding and managing vulnerabilities. 
 
 DLP (Data Loss Prevention): Umbrella term for a collection of security tools, processes and procedures that aim to prevent sensitive data from falling into unauthorized or malicious hands.   
 
@@ -263,11 +267,11 @@ Pen Testing (Penetration Testing): The practice of testing a computer system, ne
 
 Sandbox(ing): An isolated environment on a network that mimics end user operating environments and are used to safely execute suspicious code without risking harm to the host device or network.  
 
+SAST (Static Application Security Testing): automated analysis of written code for security vulnerabilities. 
+
+SCA (Software Composition Analysis) Tools: enables users to analyze and manage the open-source elements of their application.
+
 Security Awareness Training: A training program aimed at heightening security awareness within an organization.  
-
-SOAR (Security Orchestrated, Automation and Response): A stack of compatible software programs that organizations use to collect data about security threats from across the network and respond to low level security events without human assistance.     
-
-Tor (The Onion Router): service that anonymizes traffic and makes it difficult to trace the entry and exit points of web traffic. 
 
 VPN (Virtual Private Network): An encrypted connection over the internet from a device to a network.   
 
@@ -393,6 +397,8 @@ Shodan: a search engine for internet-connected devices — from routers and serv
 
 Snort: network intrusion prevention and intrusion detection system capable of real-time traffic analysis and logging, which uses a series of rules to identify malicious network activity, find the packets, and generate alerts. 
 
+SOAR (Security Orchestrated, Automation and Response): A stack of compatible software programs that organizations use to collect data about security threats from across the network and respond to low level security events without human assistance.    
+
 SolarWinds Security Event Manager: network and host intrusion detection system, which performs real-time monitoring, responding, and reporting of security threats.  
 
 Splunk: traffic analysis tool that can perform historical searches on network traffic logs to identify traces of threats in the past as well as current threats. 
@@ -400,6 +406,8 @@ Splunk: traffic analysis tool that can perform historical searches on network tr
 Sqlmap: penetration testing tool that automates detecting and exploiting SQL injection flaws of database servers, which includes a detection engine and many niche features. 
 
 TCPCrypt: automatically encrypts traffic whenever it can, and if the endpoint doesn’t support encryption, it falls back to TCP traffic. 
+
+Tor (The Onion Router): service that anonymizes traffic and makes it difficult to trace the entry and exit points of web traffic. 
 
 Wireshark: tool to locate, identify, and examine network packets to diagnose critical issues and spot security weaknesses. 
 

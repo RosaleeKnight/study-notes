@@ -1,28 +1,62 @@
-Programing Languages: Assembly, JavaScript, Python, SQL, TypeScript, Nix   
+# Programing Languages 
+### Assembly 
+### JavaScript
+### Python 
+### SQL 
+### TypeScript 
+### Nix   
 
-Data Query Language: GraphQL  
+# Data Query Language 
+### GraphQL  
 
-Markup Languages: HTML 5, Markdown  
+# Markup Languages 
+### HTML 5 
+### Markdown  
 
-Serialization Languages: JSON, XML, YAML 
+# Serialization Languages:
+### JSON
+### XML
+### YAML 
 
-Styling: Bootstrap, CSS3, SASS, Tailwind CSS  
+# Styling
+### Bootstrap
+### CSS3
+### SASS
+### Tailwind CSS  
 
-JavaScript Framework: jQuery, Express.js,   
+# JavaScript Framework
+### jQuery 
+### Express.js   
 
-JavaScript Runtime Environment: Node.js  
+# JavaScript Runtime Environment
+### Node.js  
 
-JavaScript Libraries: Apollo GraphQL, Kaboom.js, Next.js, React.js, Redux.js  
+# JavaScript Libraries
+### Apollo GraphQL
+### Kaboom.js
+### Next.js
+### React.js
+### Redux.js  
 
-JavaScript Bundlers: esbuild, webpack  
+# JavaScript Bundlers
+### esbuild
+### webpack  
 
-Cross-platform: React Native, Electron.js  
+# Cross-platform
+### React Native
+### Electron.js  
 
-Python Libraries: Pygame, Pandas  
+# Python Libraries
+### Pygame
+### Pandas  
 
-Package Mangers: NPM, PYPI  
+# Package Mangers
+### NPM
+### PYPI  
 
-Testing Frameworks: Jest, PyUnit  
+# Testing Frameworks
+### Jest
+### PyUnit  
 
 Application Security Platform: LGTM, SNYK  
 

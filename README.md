@@ -101,49 +101,49 @@ My study notes taken from courses and used for exams or general reminders.
   - Microsoft SQL Server
   - MySQL
   - PostgreSQL
-# Continuous Integration
-- Circle CI
-- GitHub Actions
-- Gradle
-- Jenkins
-- Travis CI
-- Webapp.io
-# Container
-- Docker
-# Container Orchestration
-- Kubernetes
-# Configuration Management
-- Ansible
-#Provisioning
-- Terraform
-# Monitoring System
-- Nagios
-- Prometheus
-# Log Management
-- Elastic Stack
-# Distributed Tracing Tools
-- Jaeger
-# Service Mesh
-- Istio
-# Message-Broker
-- RabbitMQ
-# Issue Tracking
-- Jira
-- Spiceworks
-# Web Server
-- Nginx
-# Virtualization
-- Hyper-V
-- VMware
-# Project Management
-- Teamwork
-- ZenHub
-# Customer Relationship Management
-- Salesforce
-# Chat Based Collaboration
-- Slack
-- Microsoft Teams
-- Zoom
+- Continuous Integration
+  - Circle CI
+  - GitHub Actions
+  - Gradle
+   - Jenkins
+  - Travis CI
+  - Webapp.io
+- Container
+  - Docker
+- Container Orchestration
+  - Kubernetes
+- Configuration Management
+  - Ansible
+- Provisioning
+  - Terraform
+- Monitoring System
+  - Nagios
+  - Prometheus
+- Log Management
+  - Elastic Stack
+- Distributed Tracing Tools
+  - Jaeger
+- Service Mesh
+  - Istio
+- Message-Broker
+  - RabbitMQ
+- Issue Tracking
+  - Jira
+  - Spiceworks
+- Web Server
+  - Nginx
+- Virtualization
+  - Hyper-V
+  - VMware
+- Project Management
+  - Teamwork
+  - ZenHub
+- Customer Relationship Management
+  - Salesforce
+- Chat Based Collaboration
+  - Slack
+  - Microsoft Teams
+  - Zoom
 # Document Editor
 - Google Docs
 - LibreOffice

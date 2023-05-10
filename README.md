@@ -197,15 +197,15 @@ My study notes taken from courses and used for exams or general reminders.
   - p0f
 - Encryption
   - TCPCrypt
-# Firewalls
-- PfSense
-# User Awareness Training Exercises
-- Gophish
-# Penetration Testing
-- Aircrack-ng
-- Metasploit Framework
-- Nmap
-- OpenVAS
-- Shodan
-- Sqlmap
-- Wireshark
+- Firewalls
+  - PfSense
+- User Awareness Training Exercises
+  - Gophish
+- Penetration Testing
+  - Aircrack-ng
+  - Metasploit Framework
+  - Nmap
+  - OpenVAS
+  - Shodan
+  - Sqlmap
+  - Wireshark

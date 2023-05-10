@@ -13,7 +13,7 @@
 ## HTML 5 
 ## Markdown  
 
-# Serialization Languages:
+# Serialization Languages
 ## JSON
 ## XML
 ## YAML 

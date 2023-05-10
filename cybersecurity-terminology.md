@@ -259,6 +259,8 @@ Security Awareness Training: A training program aimed at heightening security aw
 
 SOAR (Security Orchestrated, Automation and Response): A stack of compatible software programs that organizations use to collect data about security threats from across the network and respond to low level security events without human assistance.     
 
+Tor (The Onion Router): service that anonymizes traffic and makes it difficult to trace the entry and exit points of web traffic. 
+
 VPN (Virtual Private Network): An encrypted connection over the internet from a device to a network.   
 
 ## General 
@@ -388,3 +390,9 @@ SolarWinds Security Event Manager: network and host intrusion detection system, 
 Splunk: traffic analysis tool that can perform historical searches on network traffic logs to identify traces of threats in the past as well as current threats. 
 
 Sqlmap: penetration testing tool that automates detecting and exploiting SQL injection flaws of database servers, which includes a detection engine and many niche features. 
+
+TCPCrypt: automatically encrypts traffic whenever it can, and if the endpoint doesn’t support encryption, it falls back to TCP traffic. 
+
+Wireshark: tool to locate, identify, and examine network packets to diagnose critical issues and spot security weaknesses. 
+
+ZAP (Zed Attack Proxy): penetration testing tool designed specifically for testing web applications and is known as a "man-in-the-middle proxy,” where it intercepts and inspects messages sent between browsers and web applications. 

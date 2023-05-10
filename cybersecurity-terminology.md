@@ -364,3 +364,13 @@ Nessus Professional: vulnerability assessment tools that not only scans for issu
 Nmap: network mapper used to find open ports, detect host devices, see which network services are active, fingerprint operating systems, and locate potential backdoors. 
 
 Nikto: command-line tool useful for uncovering vulnerabilities in web apps, services, and web servers such as unpatched software, misconfigurations, and other security issues. 
+
+OpenVS (Open Vulnerability Assessment Scanner): all-in-one vulnerability scanner that comprehensively tests for security holes, misconfigured systems, and outdated software.  
+
+OSSEC (Open Source HIDS SECurity): Made of server, agent, and router monitor, which allows rootkit detection, system integrity checking, threat alerts, and response.  
+
+Password managers: makes it possible to safely store all passwords together so a user only needs to remember one master key rather than dozens of unique passwords. 
+
+PfSense: firewall/router projects that can also be configured for intrusion detection and prevention, traffic shaping, load balancing, and content filtering. 
+
+P0f: can identify fingerprints and other vital information without network interference passively rather than actively, which means it's nearly impossible to detect and even harder to block. 

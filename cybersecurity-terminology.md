@@ -137,6 +137,10 @@ Vulnerability: A flaw in a system that can leave it open to attack.
 ## Automated
 2FA (Two-Factor Authentication): A security process in which the user provides two authentication factors to verify their identity.  
 
+Layer 3 Firewalls (Network Firewalls):  categorize traffic according to IP addresses, port numbers and service protocols and filter traffic based on the TCP/IP stack. 
+
+Layer 7 Firewalls (Application Firewalls): sort traffic according to which application or application service the traffic is trying to reach, and what the specific contents of that traffic are. 
+
 Allowlist: A list of permitted items that are automatically let through whatever gate is being used. 
 
 Anti-Botnet: Tool that automatically checks when a user browses a website and if a risk is detected sends a warning such as a CAPTCHA. 

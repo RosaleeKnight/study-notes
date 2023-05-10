@@ -236,6 +236,8 @@ NIST (National Institue of Standards and Technology) Framework: Best practices t
 
 OWASP (Open Web Application Security Project):  Internation non-profit organization dedicated to web application security with the best-known project called the TOP 10 which is the 10 most critical risks.  
 
+PCI-DSS (Payment Card Industry Security Standard):  A set of security standards designed to ensure that all companies that accept, process, store or transmit credit card information maintain a secure environment.  
+
 SOC 2: Criteria developed by AICPA (American Institue of CPA) for managing customer data based on 5 trust principles which are security, availability, processing integrity, confidentiality and privacy. 
 
 ---

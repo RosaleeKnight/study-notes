@@ -178,26 +178,58 @@
 ## Safari
 ## Tor 
 
-## Operating Systems: Windows, MacOS, Free BSD, Linux, Android, iOS 
+# Operating Systems
+## Windows
+## MacOS
+## Free BSD
+## Linux
+## Android
+## iOS 
 
-Linux Distros: Kali Linux, REMnux, Tails, Ubuntu 
+# Linux Distros
+## Kali Linux
+## REMnux
+## Tails
+## Ubuntu 
 
-Security Information and Event Management: SolarWinds Security Event Manager 
+# Security Information and Event Management
+## SolarWinds 
 
-Security Orchestrated, Automation and Response (SOAR): Splunk SOAR 
+# Security Orchestrated, Automation and Response (SOAR)
+## Splunk
 
-Intrusion Detection System: OSSEC, Security Onion, Snort 
+# Intrusion Detection System
+## OSSEC
+## Security Onion
+## Snort 
 
-Password Auditing: John the Ripper 
+# Password Auditing
+## John the Ripper 
 
-Web Vulnerability: Acunetix, Burp Suite, Nikto, Nessus Professional, ZAP 
+# Web Vulnerability
+## Acunetix
+## Burp Suite
+## Nikto
+## Nessus Professional
+## ZAP 
 
-Fingerprinting and Forensics Tool: p0f 
+# Fingerprinting and Forensics Tool
+## p0f 
 
-Encryption: TCPCrypt 
+# Encryption
+## TCPCrypt 
 
-Firewalls: PfSense 
+# Firewalls
+## PfSense 
 
-User Awareness Training Exercises: Gophish 
+# User Awareness Training Exercises
+## Gophish 
 
-Penetration Testing: Aircrack-ng, Metasploit Framework, Nmap, OpenVAS, Shodan, Sqlmap Wireshark 
+# Penetration Testing
+## Aircrack-ng
+## Metasploit Framework
+## Nmap
+## OpenVAS
+## Shodan
+## Sqlmap
+## Wireshark 

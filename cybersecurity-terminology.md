@@ -300,6 +300,8 @@ EDR (Endpoint Detection and Response): Tools for protecting endpoints from poten
 
 FIDO (Fast Identity Online): A set of open authentication standards that enable a service provider to leverage existing technologies for password less authentication.    
 
+Have I Been Pwned: website where you enter your email address to check if your address has been revealed in a data breach. 
+
 HTML (Hypertext Markup Language): The standard markup language for creating web pages and web applications.  
 
 IOS (iPhone Operating System): Operating system for mobile devices manufactured by Apple.    
@@ -346,3 +348,9 @@ Aircrack-ng: wireless tools that capture, analyze, and export packet data, spoof
 Acunetix: checks for surface vulnerable threats in checkout processes, shopping carts, login pages, and online forms where an attacker can submit data to a server to be processed. 
 
 Burp Suit: tools for debugging and testing web app security, including an intercepting proxy tool. 
+
+Defendify: includes cybersecurity risk assessments, technology and data use policies, incident response plans, penetration testing, threat alerts, phishing simulations, and cybersecurity awareness training. 
+
+Gophish: toolkit for security administrators to build their own phishing campaigns to find out who needs greater phishing awareness. 
+
+John the Ripper: password auditing, cracking, and general security tool that can crack passwords through a wide range of security protocols, transmission methods, encryption protocols, and static locations.  

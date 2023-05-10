@@ -379,7 +379,7 @@ Nmap: network mapper used to find open ports, detect host devices, see which net
 
 Nikto: command-line tool useful for uncovering vulnerabilities in web apps, services, and web servers such as unpatched software, misconfigurations, and other security issues. 
 
-OpenVS (Open Vulnerability Assessment Scanner): all-in-one vulnerability scanner that comprehensively tests for security holes, misconfigured systems, and outdated software.  
+OpenVAS (Open Vulnerability Assessment Scanner): all-in-one vulnerability scanner that comprehensively tests for security holes, misconfigured systems, and outdated software.  
 
 OSSEC (Open Source HIDS SECurity): Made of server, agent, and router monitor, which allows rootkit detection, system integrity checking, threat alerts, and response.  
 

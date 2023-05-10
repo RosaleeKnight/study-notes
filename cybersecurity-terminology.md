@@ -273,6 +273,8 @@ SCA (Software Composition Analysis) Tools: enables users to analyze and manage t
 
 Security Awareness Training: A training program aimed at heightening security awareness within an organization.  
 
+SOAR (Security Orchestrated, Automation and Response): A stack of compatible software programs that organizations use to collect data about security threats from across the network and respond to low level security events without human assistance. 
+
 VPN (Virtual Private Network): An encrypted connection over the internet from a device to a network.   
 
 ## General 
@@ -396,9 +398,7 @@ Security Onion: provides network monitoring via full packet capture, host-based 
 Shodan: a search engine for internet-connected devices — from routers and servers to Internet of Things (IoT) devices - and if the devices aren't protected, know to break into the network. 
 
 Snort: network intrusion prevention and intrusion detection system capable of real-time traffic analysis and logging, which uses a series of rules to identify malicious network activity, find the packets, and generate alerts. 
-
-SOAR (Security Orchestrated, Automation and Response): A stack of compatible software programs that organizations use to collect data about security threats from across the network and respond to low level security events without human assistance.    
-
+   
 SolarWinds Security Event Manager: network and host intrusion detection system, which performs real-time monitoring, responding, and reporting of security threats.  
 
 Splunk: traffic analysis tool that can perform historical searches on network traffic logs to identify traces of threats in the past as well as current threats. 

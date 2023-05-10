@@ -243,7 +243,11 @@ Critical Update: A fix for a specific problem that addresses a critical, non-sec
 
 DLP (Data Loss Prevention): Umbrella term for a collection of security tools, processes and procedures that aim to prevent sensitive data from falling into unauthorized or malicious hands.   
 
+Have I Been Pwned: website where you enter your email address to check if your address has been revealed in a data breach. 
+
 Honeypot: A decoy system or network that serves to attract potential attackers.  
+
+Kali Linux: Debian Linux derivative specifically designed toward testing for security tasks, such as penetration testing, security auditing, and digital forensics. 
 
 Patch: Provides additional, revised or updated code for an operation system or application.    
 
@@ -300,8 +304,6 @@ EDR (Endpoint Detection and Response): Tools for protecting endpoints from poten
 
 FIDO (Fast Identity Online): A set of open authentication standards that enable a service provider to leverage existing technologies for password less authentication.    
 
-Have I Been Pwned: website where you enter your email address to check if your address has been revealed in a data breach. 
-
 HTML (Hypertext Markup Language): The standard markup language for creating web pages and web applications.  
 
 IOS (iPhone Operating System): Operating system for mobile devices manufactured by Apple.    
@@ -353,4 +355,12 @@ Defendify: includes cybersecurity risk assessments, technology and data use poli
 
 Gophish: toolkit for security administrators to build their own phishing campaigns to find out who needs greater phishing awareness. 
 
-John the Ripper: password auditing, cracking, and general security tool that can crack passwords through a wide range of security protocols, transmission methods, encryption protocols, and static locations.  
+John the Ripper: password auditing, cracking, and general security tool that can crack passwords through a wide range of security protocols, transmission methods, encryption protocols, and static locations. 
+
+Metasploit Framework: Framework that can test computer system vulnerabilities or can be used to break into remote systems. 
+
+Nessus Professional: vulnerability assessment tools that not only scans for issues but can fix them as well. 
+
+Nmap: network mapper used to find open ports, detect host devices, see which network services are active, fingerprint operating systems, and locate potential backdoors. 
+
+Nikto: command-line tool useful for uncovering vulnerabilities in web apps, services, and web servers such as unpatched software, misconfigurations, and other security issues. 

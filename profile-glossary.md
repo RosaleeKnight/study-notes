@@ -117,17 +117,20 @@
 ## Prometheus  
 
 # Log Management
-## Elastic Stack  
+## Elastic Stack
+Collection of three open-source projects: Elasticsearch, Logstash, and Kibana and is a comprehensive log analysis solution that aids in deep searching, analyzing, and displaying logs produced by various computers.
 
 # Distributed Tracing Tools
 ## Jaeger 
+Open-source distributed tracing tool used to monitor and troubleshoot transactions in distributed systems.
 
 # Service Mesh
 ## Istio  
+Open source service mesh platform that enables organizations to run distributed, microservices-based apps anywhere and serves as a networking layer, automating and securing communications between applications.
 
 # Message-Broker
 ## RabbitMQ 
-Open-source message-broker software.
+Open-source message-broker software which allows applications, systems, and services to communicate and exchange information, by translating messages in different messaging protocols.
 
 # Issue Tracking
 ## Jira

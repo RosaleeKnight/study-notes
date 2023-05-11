@@ -180,11 +180,17 @@
 
 # Operating Systems
 ## Windows
+A group of several proprietary graphical operating system families developed and marketed by Microsoft.
 ## MacOS
+Unix operating system developed and marketed by Apple Inc.
 ## Free BSD
+Open-source Unix-like operating system descended from the Berkeley Software Distribution (BSD), which was based on Research Unix.
 ## Linux
+A family of open-source Unix-like operating systems based on the Linux kernel.
 ## Android
+Mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
 ## iOS 
+Mobile operating system developed by Apple Inc. exclusively for its hardware.
 
 # Linux Distros
 ## Kali Linux

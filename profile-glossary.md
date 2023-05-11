@@ -94,11 +94,17 @@
 
 # Continuous Integration
 ## Circle CI
+A continuous integration and continuous delivery platform that can be used to implement DevOps practices.
 ## GitHub Actions
+Continuous Integration offering by GitHub, focusing on triggering certain actions when certain events occur.
 ## Gradle
+Open-source build automation tool used for multi-language software development including the tasks of compilation, packaging, testing, deployment, and publishing.
 ## Jenkins
+Open source automation server which automates the parts of software development related to building, testing, and deploying.
 ## Travis CI
+Open source continuous integration service used to build and test software projects.
 ## Webapp.io   
+DevOps platform for full-stack webapps which build testing VM everytime code is pushed that hybernate when not used.
 
 # Container
 ## Docker  

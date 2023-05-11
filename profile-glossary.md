@@ -126,18 +126,24 @@
 ## Istio  
 
 # Message-Broker
-## RabbitMQ  
+## RabbitMQ 
+Open-source message-broker software.
 
 # Issue Tracking
 ## Jira
-## Spiceworks  
+A project management software based on agile methodology and is used for bug tracking, issue tracking, and project management.
+## Spiceworks
+Cloud Help Desk that helps track and manage technology issues with an integrated Inventory and IP Scanner, making it easy to track devices and document actions and progress.
 
 # Web Server
-## Nginx  
+## Nginx 
+Open-source web server software that can be used for web serving, reverse proxying, caching, load balancing, media streaming, and more.
 
 # Virtualization
 ## Hyper-V
+Hardware virtualization product developed by Microsoft that allows users to create and run a virtual machine which acts like a complete computer, running an operating system and programs.
 ## VMware  
+Allows users to create multiple virtual environments, or virtual computer systems, on a single computer or server.
 
 # Project Management
 ## Teamwork

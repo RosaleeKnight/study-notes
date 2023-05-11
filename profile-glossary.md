@@ -83,14 +83,18 @@
 
 # Interactive Computing Platform
 ## Jupyter Notebook  
+Open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.
 
 # NoSQL Database
 ## MongoDB  
-
+A document-oriented NoSQL database used for high volume data storage.
 # Relational Database Management System
 ## Microsoft SQL Server
+Relational database management system and is scalable data platform developed by Microsoft that supports various business intelligence, analytics, and transaction processing applications in corporate IT environments.
 ## MySQL
+Open-source relational database management system based on SQL.
 ## PostgreSQL  
+Open-source relational database management system emphasizing extensibility and SQL compliance.
 
 # Continuous Integration
 ## Circle CI

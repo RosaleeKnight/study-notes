@@ -141,15 +141,20 @@
 
 # Project Management
 ## Teamwork
-## ZenHub  
+Project management software specifically developed with customization in mind.
+## ZenHub
+Productivity and project management platform for agile software teams.
 
 # Customer Relationship Management
 ## Salesforce  
-
+Customer relationship management (CRM) software focused on sales, customer service, marketing automation, e-commerce, analytics and application development.
 # Chat Based Collaboration
 ## Slack
+Instant messaging program designed by Slack Technologies and owned by Salesforceand  allows users to communicate with voice calls, video calls, text messaging, media and share files.
 ## Microsoft Teams
-## Zoom  
+Cloud-based team collaboration software that is part of the Microsoft 365 and Office 365 suite of applications designed to unify chat, voice, video and file sharing for local, remote and distributed work groups and act as a central hub for workplace conversations, collaborative teamwork, video chats and more.
+## Zoom
+Cloud-based video conferencing service that allows users to connect with video, audio, phone, chat and remote control anothers computer.
 
 # Document Editor
 ## Google Docs

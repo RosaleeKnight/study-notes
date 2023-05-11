@@ -162,13 +162,17 @@
 
 # Cloud Providers
 ## Google Cloud Platform
+A suite of cloud computing services offered by Google which includes various services like computing, storage, networking, Big Data and many more.
 ## Amazon Web Services  
+A comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS) and SaaS offerings.
 
 # VoIP Software
 ## Discord  
+VoIP and instant messaging social platform in which users have the ability to communicate with voice calls, video calls, text messaging, media and send files.
 
 # Directory Service
 ## Active Directory  
+Directory service developed by Microsoft for Windows domain networks which enables administrators to manage permissions and control access to network resources by providing the methods for storing directory data and making this data available to network users and Administrators.
 
 # Web Browsers
 ## Brave

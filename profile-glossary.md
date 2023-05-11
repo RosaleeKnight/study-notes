@@ -188,9 +188,13 @@
 
 # Linux Distros
 ## Kali Linux
+Debian-derived Linux distribution designed for digital forensics and penetration testing by Offensive Security and includes approximately 600 penetration-testing programs.
 ## REMnux
+Linux toolkit for reverse-engineering and analyzing malicious software including a curated collection of free tools created by the community.
 ## Tails
+A security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity which connects to the Internet exclusively through Tor.
 ## Ubuntu 
+Linux distribution based on Debian and composed mostly of free and open-source software.
 
 # Security Information and Event Management
 ## SolarWinds 

@@ -153,12 +153,17 @@
 
 # Document Editor
 ## Google Docs
+Online word processor included as part of the free, web-based Google Docs Editors suite offered by Google which allows users to create, edit, and share documents in real-time and from any device.
 ## LibreOffice
+Open-source office productivity software suite developed by The Document Foundation (TDF) and consists of programs for word processing, creating and editing of spreadsheets, slideshows, diagrams and drawings, working with databases and composing mathematical formulae. 
 ## Microsoft Word  
+A word processor developed by Microsoft where you can share documents and collaborate with others.
 
 # Spreadsheet Editor
 ## Google Sheets
+Web-based application that enables users to create, update and modify spreadsheets and share the data online in real-time.
 ## Microsoft Excel  
+Aoftware program created by Microsoft that uses spreadsheets to organize numbers and data with formulas and functions.
 
 # Cloud Providers
 ## Google Cloud Platform

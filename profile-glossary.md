@@ -102,19 +102,25 @@
 
 # Container
 ## Docker  
+A set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers.
 
 # Container Orchestration
 ## Kubernetes  
+Open-source container orchestration system for automating software deployment, scaling, and management.
 
 # Configuration Management
 ## Ansible  
+Open-source suite of tools which includes software provisioning, configuration management, and application deployment functionality.
 
 # Provisioning
 ## Terraform  
+Open-source infrastructure as code tool which allows users to define both cloud and on-prem resources in human-readable configuration files as well as can manage both low-level components like compute, storage, and networking resources, as well as high-level components like DNS entries and SaaS features.
 
 # Monitoring System
 ## Nagios
-## Prometheus  
+Open-source computer-software application that monitors systems, networks and infrastructure.
+## Prometheus 
+Open-source monitoring and alerting toolkit that collects and aggregates metrics as time series data.
 
 # Log Management
 ## Elastic Stack

@@ -172,11 +172,17 @@
 
 # Web Browsers
 ## Brave
+Open-source web browser developed by Brave Software, Inc. based on the Chromium web browser and is a privacy-focused.
 ## Chrome
+Cross-platform web browser developed by Google and comes with web developer tools. 
 ## Firefox
+Open-source web browser developed by the Mozilla Foundation which uses the Gecko rendering engine to display web pages.
 ## Microsoft Edge
+An open-source web browser created by Microsoft that is available on supported versions of Windows, Linux, macOS, iOS and Android.
 ## Safari
+Web browser developed by Apple and uses Apple's open-source browser engine WebKit.
 ## Tor 
+An open-source privacy network that uses secure, encrypted protocols to ensure that users' online privacy is protected.
 
 # Operating Systems
 ## Windows

@@ -79,7 +79,10 @@
 
 # Text Editor
 ## VIM
+A highly configurable text editor built to make creating and changing any kind of text very efficient via shortcuts.
+
 ## GNU Nano  
+Command line text editor for Unix and Linux operating systems which includes syntax highlighting, multiple buffers, search and replace with regular expression support, spellchecking, UTF-8 encoding, and more.
 
 # Interactive Computing Platform
 ## Jupyter Notebook  

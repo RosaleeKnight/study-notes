@@ -6,17 +6,19 @@
 ## TypeScript 
 ## Nix  
 
-# Data Query Language 
-## GraphQL  
-
 # Markup Languages 
 ## HTML 5 
-## Markdown  
+Hypertext Markup Language which is a standardized descriptive language that specifies how to structure webpages and is a markup language used by web browsers to visualize code and features several improvements in website capabilities, web content development, and more.
+## Markdown 
+Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
+## XML
+Extensible Markup Language is a markup language and file format for storing, transmitting, and reconstructing arbitrary data in a defined set of rules for encoding documents in a format that is both human-readable and machine-readable
 
 # Serialization Languages
 ## JSON
-## XML
-## YAML 
+Open standard file format and data interchange format for data serialization that uses human-readable text to store and transmit data objects consisting of attribute-value pairs and arrays (or other serializable values).
+## YAML
+"YAML Ain't Markup Language" is a human-readable data-serialization language commonly used for configuration files and in applications where data is being stored or transmitted.
 
 # Styling
 ## Bootstrap

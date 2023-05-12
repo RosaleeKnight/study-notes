@@ -37,10 +37,10 @@ Syntactically Awesome Style Sheets is a CSS preprocessor that adds special featu
 An open source utility-first CSS framework for rapidly building custom user interfaces.
 
 # JavaScript Framework
-## jQuery
-A JavaScript framework designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax (Asynchronous JavaScript and XML).
 ## Express.js
 Open source minimal and flexible Node.js web application framework for building RESTful APIs with Node.js. 
+## jQuery
+A JavaScript framework designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax (Asynchronous JavaScript and XML).
 ## Next.js
 A React framework that enables server-side rendering and generating static websites as well as additional structure, features, and optimizations for web applications.
 
@@ -63,16 +63,16 @@ JavaScript bundler that is built with Go and fully parallelizes parsing, printin
 Open-source module bundler for JavaScript that compiles JavaScript modules, including images, fonts, CSS, and HTML, into a dependency graph and offers multiple functions, such as merging modules, code minimization, SASS or TypeScript compiling, and integration with npm.
 
 # Cross-platform
-## React Native
-Open-source UI software framework created by Meta which is used to develop applications for mobile and windows by enabling developers to use the React framework along with native platform capabilities.
 ## Electron.js
 Open-source software framework designed to create desktop applications using HTML, CSS and JavaScript that are rendered using a version of the Chromium browser engine and a back end using the Node.js runtime environment.
+## React Native
+Open-source UI software framework created by Meta which is used to develop applications for mobile and windows by enabling developers to use the React framework along with native platform capabilities.
 
 # Python Libraries
-## Pygame
-Open-source Python library used for creating video games in which it includes computer graphics and sound libraries. 
 ## Pandas  
 Open-source Python library used for working with data sets which has functions for analyzing, cleaning, exploring, and manipulating data.
+## Pygame
+Open-source Python library used for creating video games in which it includes computer graphics and sound libraries. 
 
 # Package Mangers
 ## NPM
@@ -113,10 +113,10 @@ An integrated development environment developed by JetBrains for Python programm
 Online integrated development environment which allows users to create online projects and write code.
 
 # Text Editor
-## VIM
-A highly configurable text editor built to make creating and changing any kind of text very efficient via shortcuts.
 ## GNU Nano  
 Command line text editor for Unix and Linux operating systems which includes syntax highlighting, multiple buffers, search and replace with regular expression support, spellchecking, UTF-8 encoding, and more.
+## VIM
+A highly configurable text editor built to make creating and changing any kind of text very efficient via shortcuts.
 ## Virtual Studio Code
 Open-source text editor by Microsoft that is a development environment tool that includes features such as debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
 
@@ -213,11 +213,12 @@ Productivity and project management platform for agile software teams.
 # Customer Relationship Management
 ## Salesforce  
 Customer relationship management (CRM) software focused on sales, customer service, marketing automation, e-commerce, analytics and application development.
+
 # Chat Based Collaboration
-## Slack
-Instant messaging program designed by Slack Technologies and owned by Salesforceand  allows users to communicate with voice calls, video calls, text messaging, media and share files.
 ## Microsoft Teams
 Cloud-based team collaboration software that is part of the Microsoft 365 and Office 365 suite of applications designed to unify chat, voice, video and file sharing for local, remote and distributed work groups and act as a central hub for workplace conversations, collaborative teamwork, video chats and more.
+## Slack
+Instant messaging program designed by Slack Technologies and owned by Salesforceand  allows users to communicate with voice calls, video calls, text messaging, media and share files.
 ## Zoom
 Cloud-based video conferencing service that allows users to connect with video, audio, phone, chat and remote control anothers computer.
 
@@ -236,10 +237,10 @@ Web-based application that enables users to create, update and modify spreadshee
 Aoftware program created by Microsoft that uses spreadsheets to organize numbers and data with formulas and functions.
 
 # Cloud Providers
-## Google Cloud Platform
-A suite of cloud computing services offered by Google which includes various services like computing, storage, networking, Big Data and many more.
 ## Amazon Web Services  
 A comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS) and SaaS offerings.
+## Google Cloud Platform
+A suite of cloud computing services offered by Google which includes various services like computing, storage, networking, Big Data and many more.
 
 # VoIP Software
 ## Discord  
@@ -264,18 +265,18 @@ Web browser developed by Apple and uses Apple's open-source browser engine WebKi
 An open-source privacy network that uses secure, encrypted protocols to ensure that users' online privacy is protected.
 
 # Operating Systems
-## Windows
-A group of several proprietary graphical operating system families developed and marketed by Microsoft.
-## MacOS
-Unix operating system developed and marketed by Apple Inc.
-## Free BSD
-Open-source Unix-like operating system descended from the Berkeley Software Distribution (BSD), which was based on Research Unix.
-## Linux
-A family of open-source Unix-like operating systems based on the Linux kernel.
 ## Android
 Mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
+## Free BSD
+Open-source Unix-like operating system descended from the Berkeley Software Distribution (BSD), which was based on Research Unix.
 ## iOS 
 Mobile operating system developed by Apple Inc. exclusively for its hardware.
+## Linux
+A family of open-source Unix-like operating systems based on the Linux kernel.
+## MacOS
+Unix operating system developed and marketed by Apple Inc.
+## Windows
+A group of several proprietary graphical operating system families developed and marketed by Microsoft.
 
 # Linux Distros
 ## Kali Linux
@@ -294,6 +295,7 @@ Network and host intrusion detection system, which performs real-time monitoring
 # Security Orchestrated, Automation and Response (SOAR)
 ## Splunk
 Traffic analysis tool that can perform historical searches on network traffic logs to identify traces of threats in the past as well as current threats.
+
 # Intrusion Detection System
 ## OSSEC
 Made of server, agent, and router monitor, which allows rootkit detection, system integrity checking, threat alerts, and response.
@@ -311,10 +313,10 @@ Password auditing, cracking, and general security tool that can crack passwords 
 Checks for surface vulnerable threats in checkout processes, shopping carts, login pages, and online forms where an attacker can submit data to a server to be processed.
 ## Burp Suite
 Tools for debugging and testing web app security, including an intercepting proxy tool.
-## Nikto
-Command-line tool useful for uncovering vulnerabilities in web apps, services, and web servers such as unpatched software, misconfigurations, and other security issues.
 ## Nessus Professional
 Vulnerability assessment tools that not only scans for issues but can fix them as well.
+## Nikto
+Command-line tool useful for uncovering vulnerabilities in web apps, services, and web servers such as unpatched software, misconfigurations, and other security issues.
 ## ZAP 
 Penetration testing tool designed specifically for testing web applications and is known as a "man-in-the-middle proxy,” where it intercepts and inspects messages sent between browsers and web applications.
 

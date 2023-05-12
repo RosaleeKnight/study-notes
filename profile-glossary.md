@@ -40,11 +40,15 @@
 
 # JavaScript Bundlers
 ## esbuild
+JavaScript bundler that is built with Go and fully parallelizes parsing, printing, and source map generation, making it faster but with less features then other bundlers.
 ## webpack  
+Open-source module bundler for JavaScript that compiles JavaScript modules, including images, fonts, CSS, and HTML, into a dependency graph and offers multiple functions, such as merging modules, code minimization, SASS or TypeScript compiling, and integration with npm.
 
 # Cross-platform
 ## React Native
-## Electron.js  
+Open-source UI software framework created by Meta which is used to develop applications for mobile and windows by enabling developers to use the React framework along with native platform capabilities.
+## Electron.js
+Open-source software framework designed to create desktop applications using HTML, CSS and JavaScript that are rendered using a version of the Chromium browser engine and a back end using the Node.js runtime environment.
 
 # Python Libraries
 ## Pygame

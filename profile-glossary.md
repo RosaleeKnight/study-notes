@@ -25,13 +25,16 @@
 ## Tailwind CSS  
 
 # JavaScript Framework
-## jQuery 
+## jQuery
+A JavaScript framework designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax (Asynchronous JavaScript and XML).
 ## Express.js
+Open source minimal and flexible Node.js web application framework for building RESTful APIs with Node.js. 
 ## Next.js
 A React framework that enables server-side rendering and generating static websites as well as additional structure, features, and optimizations for web applications.
 
 # JavaScript Runtime Environment
-## Node.js  
+## Node.js
+Open-source, cross-platform JavaScript runtime environment and library for building fast and scalable server-side and networking applicationss which uses an event-driven, non-blocking I/O model.
 
 # JavaScript Libraries
 ## Kaboom.js

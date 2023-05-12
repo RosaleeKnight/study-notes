@@ -48,11 +48,15 @@
 
 # Python Libraries
 ## Pygame
+Open-source Python library used for creating video games in which it includes computer graphics and sound libraries. 
 ## Pandas  
+Open-source Python library used for working with data sets which has functions for analyzing, cleaning, exploring, and manipulating data.
 
 # Package Mangers
 ## NPM
-## PYPI  
+Node Package Manager, which is the default package manager for JavaScript's runtime Node.js as well as an online repository for open-source packages created by the community.
+## PyPi  
+The Python Package Index is a repository of software for the Python programming language.
 
 # Testing Frameworks
 ## Jest

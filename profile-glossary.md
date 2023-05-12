@@ -63,14 +63,18 @@
 ## SNYK  
 
 # Version Control
-## Git  
+## Git
+Open-source distributed version control system used for coordinating work among programmers collaboratively developing source code during software development by tracking changes in any set of computer files, enabling multiple developers to work together on non-linear development.
 
 # Version Control System
 ## GitHub  
+Online software development platform that allows developers to manage their code, collaborate with others, and work on their projects from anywhere as well as provide the distributed version control of Git, access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
 
 # Command-Line
 ## GNU Bash
-## PowerShell  
+Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.
+## PowerShell
+Task automation and configuration management program from Microsoft, consisting of a command-line shell and associated scripting language.
 
 # Integrated Development Environment (IDE)
 ## Pycharm

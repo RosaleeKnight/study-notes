@@ -53,12 +53,12 @@ My study notes taken from courses and used for exams or general reminders.
 - JavaScript Framework
   - jQuery
   - Express.js
+  - Next.js
 - JavaScript Runtime Environment
   - Node.js
 - JavaScript Libraries
   - Apollo GraphQL
   - Kaboom.js
-  - Next.js
   - React.js
   - Redux.js
 - JavaScript Bundlers

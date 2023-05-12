@@ -1,10 +1,16 @@
 # Programing Languages 
-## Assembly 
+## Assembly
+A programming language that communicates with the hardware of a computer directly and is processor-dependent with each CPU having its own.
 ## JavaScript
-## Python 
-## SQL 
-## TypeScript 
-## Nix  
+A programming language that allows developers to implement complex features on web pages by using client-side programming, so it runs directly in the user's web browser without the need of any resources from the web server.
+## Python
+An interpreted, object-oriented, programming language with dynamic semantics and is used as a general-purpose language.
+## SQL
+Structured Query Language is a programming language used for managing data held in a relational database management system where statements are used to perform tasks such as updating data on a database or retrieving data from a database.
+## TypeScript
+Open-source programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript and is designed for the development of large applications and transpiles to JavaScript.
+## Nix 
+A cross-platform package manager tool's programming language which is a functional language with dynamic typing that specializes in building packages.
 
 # Markup Languages 
 ## HTML 5 
@@ -14,7 +20,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 ## XML
 Extensible Markup Language is a markup language and file format for storing, transmitting, and reconstructing arbitrary data in a defined set of rules for encoding documents in a format that is both human-readable and machine-readable
 
-# Serialization Languages
+# Serialization
 ## JSON
 Open standard file format and data interchange format for data serialization that uses human-readable text to store and transmit data objects consisting of attribute-value pairs and arrays (or other serializable values).
 ## YAML

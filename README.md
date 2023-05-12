@@ -49,8 +49,8 @@ My study notes taken from courses and used for exams or general reminders.
   - SASS
   - Tailwind CSS
 - JavaScript Framework
-  - jQuery
   - Express.js
+  - jQuery
   - Next.js
 - JavaScript Runtime Environment
   - Node.js
@@ -62,11 +62,11 @@ My study notes taken from courses and used for exams or general reminders.
   - esbuild
   - webpack
 - Cross-platform
-  - React Native
   - Electron.js
+  - React Native
 - Python Libraries
-  - Pygame
   - Pandas
+  - Pygame
 - Package Mangers
   - NPM
   - PyPi
@@ -139,8 +139,8 @@ My study notes taken from courses and used for exams or general reminders.
 - Customer Relationship Management
   - Salesforce
 - Chat Based Collaboration
-  - Slack
   - Microsoft Teams
+  - Slack
   - Zoom
 - Document Editor
   - Google Docs
@@ -150,8 +150,8 @@ My study notes taken from courses and used for exams or general reminders.
   - Google Sheets
   - Microsoft Excel
 - Cloud Providers
-  - Google Cloud Platform
   - Amazon Web Services
+  - Google Cloud Platform
 - VoIP Software
   - Discord
 - Directory Service
@@ -164,12 +164,12 @@ My study notes taken from courses and used for exams or general reminders.
   - Safari
   - Tor
 - Operating Systems
-  - Windows
-  - MacOS
-  - Free BSD
-  - Linux
   - Android
+  - Free BSD
   - iOS
+  - Linux
+  - MacOS
+  - Windows
 - Linux Distros
   - Kali Linux
   - REMnux
@@ -188,8 +188,8 @@ My study notes taken from courses and used for exams or general reminders.
 - Web Vulnerability
   - Acunetix
   - Burp Suite
-  - Nikto
   - Nessus Professional
+  - Nikto
   - ZAP
 - Fingerprinting and Forensics Tool
   - p0f

@@ -40,7 +40,7 @@ My study notes taken from courses and used for exams or general reminders.
   - HTML 5
   - Markdown
   - XML
-- Serialization Languages
+- Serialization
   - JSON
   - YAML
 - Styling

@@ -72,7 +72,7 @@ My study notes taken from courses and used for exams or general reminders.
   - Pandas
 - Package Mangers
   - NPM
-  - PYPI
+  - PyPi
 - Testing Frameworks
   - Jest
   - PyUnit

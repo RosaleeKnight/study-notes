@@ -56,11 +56,15 @@
 
 # Testing Frameworks
 ## Jest
+JavaScript testing frameworks maintained by Meta which works with Babel, TypeScript, Node, React, Angular, and Vue-based projects.
 ## PyUnit  
+Testing framework for Python which supports test automation, the sharing of setup and shutdown code for tests, aggregation of tests into collections, and independence of the tests from the reporting framework.
 
 # Application Security Platform
 ## LGTM
-## SNYK  
+A code analysis platform for finding zero-days and preventing critical vulnerabilities. (Bought by GitHub and is now part of the code scanning.)
+## SNYK
+Developer security platform which is integrated directly into development tools, workflows, and automation pipelines, to find, prioritize, and fix security vulnerabilities in code, dependencies, containers, and infrastructure as code. 
 
 # Version Control
 ## Git

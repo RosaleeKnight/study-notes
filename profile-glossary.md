@@ -26,17 +26,20 @@
 
 # JavaScript Framework
 ## jQuery 
-## Express.js   
+## Express.js
+## Next.js
+A React framework that enables server-side rendering and generating static websites as well as additional structure, features, and optimizations for web applications.
 
 # JavaScript Runtime Environment
 ## Node.js  
 
 # JavaScript Libraries
-## Apollo GraphQL
 ## Kaboom.js
-## Next.js
+A JavaScript game programming library that simplifies game development by allowing users to create scenes, add layers, build sprites, handle actions and collisions, add key events, and debug
 ## React.js
-## Redux.js  
+Open-source front-end JavaScript library used for building user interfaces based on components and is used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.
+## Redux.js
+Open-source JavaScript library for managing and centralizing application state (container) which allows you to log changes, use "time-travel debugging", and even send complete error reports to a server.
 
 # JavaScript Bundlers
 ## esbuild

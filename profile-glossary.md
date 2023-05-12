@@ -20,9 +20,13 @@
 
 # Styling
 ## Bootstrap
+Open-source CSS framework directed at responsive, mobile-first front-end web development and contains HTML, CSS and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
 ## CSS3
+Cascading Style Sheets is a style sheet language used to stylize elements written in a markup language and handles the look and feel part of a web page. 
 ## SASS
-## Tailwind CSS  
+Syntactically Awesome Style Sheets is a CSS preprocessor that adds special features such as variables, nested rules, and mixins to regular CSS to make the coding process simpler and more efficient.
+## Tailwind CSS
+An open source utility-first CSS framework for rapidly building custom user interfaces.
 
 # JavaScript Framework
 ## jQuery

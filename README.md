@@ -91,8 +91,9 @@ My study notes taken from courses and used for exams or general reminders.
   - Replit
   - Virtual Studio Code
 - Text Editor
-  - VIM
   - GNU Nano
+  - VIM
+  - Visual Studio Code
 - Interactive Computing Platform
   - Jupyter Notebook
 - NoSQL Database

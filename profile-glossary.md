@@ -74,15 +74,17 @@
 
 # Integrated Development Environment (IDE)
 ## Pycharm
+An integrated development environment developed by JetBrains for Python programming.
 ## Replit
-## Virtual Studio Code  
+Online integrated development environment which allows users to create online projects and write code.
 
 # Text Editor
 ## VIM
 A highly configurable text editor built to make creating and changing any kind of text very efficient via shortcuts.
-
 ## GNU Nano  
 Command line text editor for Unix and Linux operating systems which includes syntax highlighting, multiple buffers, search and replace with regular expression support, spellchecking, UTF-8 encoding, and more.
+## Virtual Studio Code
+Open-source text editor by Microsoft that is a development environment tool that includes features such as debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
 
 # Interactive Computing Platform
 ## Jupyter Notebook  
@@ -91,6 +93,7 @@ Open source web application that you can use to create and share documents that 
 # NoSQL Database
 ## MongoDB  
 A document-oriented NoSQL database used for high volume data storage.
+
 # Relational Database Management System
 ## Microsoft SQL Server
 Relational database management system and is scalable data platform developed by Microsoft that supports various business intelligence, analytics, and transaction processing applications in corporate IT environments.

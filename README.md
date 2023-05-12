@@ -36,8 +36,6 @@ My study notes taken from courses and used for exams or general reminders.
   - SQL
   - TypeScript
   - Nix
-- Data Query Language
-  - GraphQL
 - Markup Languages
   - HTML 5
   - Markdown

@@ -41,9 +41,9 @@ My study notes taken from courses and used for exams or general reminders.
 - Markup Languages
   - HTML 5
   - Markdown
+  - XML
 - Serialization Languages
   - JSON
-  - XML
   - YAML
 - Styling
   - Bootstrap

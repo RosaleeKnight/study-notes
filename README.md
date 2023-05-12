@@ -207,3 +207,60 @@ My study notes taken from courses and used for exams or general reminders.
   - Shodan
   - Sqlmap
   - Wireshark
+
+# Profile Links
+- Programing Languages
+- Markup Languages 
+- Serialization Languages
+- Styling
+- JavaScript Framework 
+- JavaScript Runtime Environment
+- JavaScript Libraries 
+- JavaScript Bundlers
+- Cross-platform
+- Python Libraries 
+- Package Mangers
+- Testing Frameworks 
+- Application Security Platform 
+- Version Control 
+- Version Control System 
+- Command-Line
+- Integrated Development Environment
+- Text Editor
+- Interactive Computing Platform
+- NoSQL Database
+- Relational Database Management System
+- Continuous Integration  
+- Container
+- Container Orchestration
+- Configuration Management
+- Provisioning
+- Monitoring System
+- Log Management 
+- Distributed Tracing Tools
+- Service Mesh
+- Message-Broker
+- Issue Tracking
+- Web Server
+- Virtualization
+- Project Management
+- Customer Relationship Management
+- Chat Based Collaboration
+- Document Editor
+- Spreadsheet Editor
+- Cloud Providers
+- VoIP Software
+- Directory Service
+- Web Browsers
+- Operating Systems
+- Linux Distros
+- Security Information and Event Management
+- Security Orchestrated, Automation and Response (SOAR)
+- Intrusion Detection System
+- Password Auditing
+- Web Vulnerability
+- Fingerprinting and Forensics Tool
+- Encryption
+- Firewalls
+- User Awareness Training Exercises
+- Penetration Testing

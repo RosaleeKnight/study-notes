@@ -57,7 +57,6 @@ My study notes taken from courses and used for exams or general reminders.
 - JavaScript Runtime Environment
   - Node.js
 - JavaScript Libraries
-  - Apollo GraphQL
   - Kaboom.js
   - React.js
   - Redux.js

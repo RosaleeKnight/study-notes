@@ -220,7 +220,9 @@ My study notes taken from courses and used for exams or general reminders.
   - Wireshark
 </details> 
 
-# Profile Links
+<details>
+  <summary> Profile Links </summary>
+
 - Programing Languages
 - Markup Languages 
 - Serialization Languages
@@ -276,3 +278,4 @@ My study notes taken from courses and used for exams or general reminders.
 - Firewalls
 - User Awareness Training Exercises
 - Penetration Testing
+</details> 

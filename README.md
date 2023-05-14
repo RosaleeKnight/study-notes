@@ -36,7 +36,10 @@ My study notes taken from courses and used for exams or general reminders.
 - Networking Terminology 
 </details> 
 
-# Profile Glossary
+# Profile Content
+<details>
+  <summary> Profile Glossary </summary>
+  
 - Programing Languages
   - Assembly
   - JavaScript
@@ -215,6 +218,7 @@ My study notes taken from courses and used for exams or general reminders.
   - Shodan
   - Sqlmap
   - Wireshark
+</details> 
 
 # Profile Links
 - Programing Languages

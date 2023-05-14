@@ -1,6 +1,9 @@
 My study notes taken from courses and used for exams or general reminders.
 
-# Cybersecurity Terminology 
+# Cybersecurity
+<details> 
+  <summary> Cybersecurity Terminology </summary>
+
 - Jobs 
 - Threats 
   - Threat Actors 
@@ -14,6 +17,7 @@ My study notes taken from courses and used for exams or general reminders.
   - Job Specific 
   - General 
   - Software
+</details>
 
 # Help Desk Basics 
 - Ticketing System 

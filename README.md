@@ -19,7 +19,10 @@ My study notes taken from courses and used for exams or general reminders.
   - Software
 </details>
 
-# Help Desk Basics 
+# Information Technology
+<details> 
+  <summary> Help Desk Basics </summary>
+  
 - Ticketing System 
   - How to Create a New Ticket 
   - How to Write Knowledge Base Documentation 
@@ -31,6 +34,7 @@ My study notes taken from courses and used for exams or general reminders.
   - Setup for Server 2019 
   - How to Add Users 
 - Networking Terminology 
+</details> 
 
 # Profile Glossary
 - Programing Languages

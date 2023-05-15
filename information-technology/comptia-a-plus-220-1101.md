@@ -270,6 +270,15 @@
 - USB Hub 
 
 ## Copper Connectors - 3.1
+- RJ11 Connector 
+- F-connector 
+- Punchdown Block 
+- USB 1.1 / 2.0 
+- USB-C 
+- Molex Connector 
+- Power Supply 
+- Lightning 
+- DB-9 
 
 ## Fiber Connectors - 3.1
 

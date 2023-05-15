@@ -1,137 +1,137 @@
-An Overview of Windows
+## An Overview of Windows
 
-Windows Features 
+## Windows Features 
 
-Windows Upgrades 
+## Windows Upgrades 
 
-Windows Command Line Tools 
+## Windows Command Line Tools 
 
-The Windows Network Command Line 
+## The Windows Network Command Line 
 
-Task Manager 
+## Task Manager 
 
-The Microsoft Management Console 
+## The Microsoft Management Console 
 
-Additional Windows Tools 
+## Additional Windows Tools 
 
-Windows Control Panel 
+## Windows Control Panel 
 
-Windows Settings 
+## Windows Settings 
 
-Windows Network Technologies 
+## Windows Network Technologies 
 
-Configuring Windows Firewall 
+## Configuring Windows Firewall 
 
-Windows IP Address Configuration 
+## Windows IP Address Configuration 
 
-Windows Network Connections 
+## Windows Network Connections 
 
-Installing Applications 
+## Installing Applications 
 
-Operating Systems Overview 
+## Operating Systems Overview 
 
-Fire Systems 
+## Fire Systems 
 
-Installing Operating Systems 
+## Installing Operating Systems 
 
-Upgrading Windows 
+## Upgrading Windows 
 
-macOS Overview 
+## macOS Overview 
 
-macOS System Preferences 
+## macOS System Preferences 
 
-macOS Features 
+## macOS Features 
 
-Linux Commands 
+## Linux Commands 
 
-Linux Features 
+## Linux Features 
 
-Physical Security 
+## Physical Security 
 
-Physical Security for Staff 
+## Physical Security for Staff 
 
-Logical Security 
+## Logical Security 
 
-Active Directory 
+## Active Directory 
 
-Wireless Encryption 
+## Wireless Encryption 
 
-Authentication Methods 
+## Authentication Methods 
 
-Malware 
+## Malware 
 
-Anti-Malware Tools 
+## Anti-Malware Tools 
 
-Social Engineering 
+## Social Engineering 
 
-Denial of Service 
+## Denial of Service 
 
-Zero-Day Attacks 
+## Zero-Day Attacks 
 
-On-Path attacks 
+## On-Path attacks 
 
-Password Attacks 
+## Password Attacks 
 
-Insider Threats 
+## Insider Threats 
 
-SQL Injection 
+## SQL Injection 
 
-Cross-site Scripting 
+## Cross-site Scripting 
 
-Security Vulnerabilities 
+## Security Vulnerabilities 
 
-Defender Antivirus 
+## Defender Antivirus 
 
-Windows Firewall 
+## Windows Firewall 
 
-Windows Security Settings 
+## Windows Security Settings 
 
-Security Best Practices 
+## Security Best Practices 
 
-Mobile Device Security 
+## Mobile Device Security 
 
-Data Destruction 
+## Data Destruction 
 
-Securing a SOHO Network 
+## Securing a SOHO Network 
 
-Browser Security 
+## Browser Security 
 
-Troubleshooting Windows 
+## Troubleshooting Windows 
 
-Troubleshooting Solutions 
+## Troubleshooting Solutions 
 
-Troubleshooting Security Issues 
+## Troubleshooting Security Issues 
 
-Removing Malware 
+## Removing Malware 
 
-Troubleshooting Mobile Devices 
+## Troubleshooting Mobile Devices 
 
-Troubleshooting Mobile Device Security 
+## Troubleshooting Mobile Device Security 
 
-Ticketing Systems 
+## Ticketing Systems 
 
-Asset Management 
+## Asset Management 
 
-Document Types 
+## Document Types 
 
-Change Mangement 
+## Change Mangement 
 
-Managing Backups 
+## Managing Backups 
 
-Managing Electrostatic Discharge 
+## Managing Electrostatic Discharge 
 
-Safety Procedures 
+## Safety Procedures 
 
-Enviromental Impacts 
+## Enviromental Impacts 
 
-Privacy, Licensing and Policies 
+## Privacy, Licensing and Policies 
 
-Communicaton 
+## Communicaton 
 
-Professionalism 
+## Professionalism 
 
-Scripting Languages 
+## Scripting Languages 
 
-Scripting Use Cases 
+## Scripting Use Cases 
 
-Remote Access 
+## Remote Access 

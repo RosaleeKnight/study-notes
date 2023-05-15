@@ -438,6 +438,19 @@ My study notes taken from courses and used for exams or general reminders.
   - Sizing a Power Supply 
   
 - Multifunction Devices 
+  - Multifunction Devices 
+  - Printer Drivers 
+  - Printer languages 
+  - Connectivity 
+  - Wireless 
+  - Printer Share 
+  - Printing Options 
+  - Printer Trays 
+  - Printer Security 
+  - Audit Logs 
+  - Secured Prints 
+  - Flatbed Scanner 
+  - Automatic Document Feeder 
   
 - Laser Printers 
   

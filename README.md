@@ -467,6 +467,10 @@ My study notes taken from courses and used for exams or general reminders.
   - Summary 
   
 - Laser Printer Maintenance 
+  - Replacing the Toner Cartridge 
+  - Laser Printer Maintenance Kit 
+  - Laser Printer Calibration 
+  - Laser Printer Cleaning 
   
 - Inkjet Printer 
   

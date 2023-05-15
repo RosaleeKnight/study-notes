@@ -54,6 +54,15 @@ My study notes taken from courses and used for exams or general reminders.
   - Bluetooth 
   - Wi-Fi Hotspot 
 - Mobile Device Accessories 
+  - Intro 
+  - Active Stylus 
+  - Drawing Pad 
+  - Trackpad 
+  - Headsets 
+  - Speakers 
+  - Camera / Webcam 
+  - Docking Station 
+  - Port Replicator 
 - Cellular Standards 
 - Mobile Device Connectivity 
 - Mobile Device Configurations 

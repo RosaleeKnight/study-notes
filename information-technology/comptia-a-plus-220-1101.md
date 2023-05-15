@@ -134,6 +134,14 @@
 - DNS Servers 
 
 ## Assigning IP Addresses - 2.5
+- Intro 
+- DHCP Process 
+- Discover 
+- Offer 
+- Request 
+- Acknowledge 
+- Avoid Manual Configurations 
+- APIPA (Automatic Private IP) 
 
 ## DNS Configuration - 2.6
 

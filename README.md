@@ -518,6 +518,12 @@ My study notes taken from courses and used for exams or general reminders.
   - The Print Bed 
   
 - Cloud Models 
+  - Intro 
+  - Private Cloud 
+  - Infrastructure as a Service 
+  - Software as a Service 
+  - Platform as a Service 
+  - Cloud Models 
   
 - Cloud Characteristics 
   

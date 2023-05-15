@@ -373,6 +373,12 @@ My study notes taken from courses and used for exams or general reminders.
   - PCI Express Adapter 
   
 - Motherboard Connectors 
+  - Motherboard Power 
+  - Storage Drive Interfaces – SATA 
+  - eSATA Expansion 
+  - Headers 
+  - Front Panel Connectors 
+  - M.2 Connector 
   
 - Motherboard Compatibility 
   

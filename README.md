@@ -43,7 +43,16 @@ My study notes taken from courses and used for exams or general reminders.
   - Backlight 
   - Inverters 
   - Digitizers 
-- Connecting Mobile Device 
+- Connecting Mobile Device
+  - Introduction 
+  - USB 
+  - USBC 
+  - Lightning 
+  - Connectors 
+  - Serial 
+  - NFC 
+  - Bluetooth 
+  - Wi-Fi Hotspot 
 - Mobile Device Accessories 
 - Cellular Standards 
 - Mobile Device Connectivity 

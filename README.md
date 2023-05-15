@@ -35,6 +35,14 @@ My study notes taken from courses and used for exams or general reminders.
   - Biometrics 
   - Near-field Communication (NFC)  
 - Laptop Displays 
+  - LCD Displays 
+  - Types of Displays 
+  - OLED Displays 
+  - Wireless Displays 
+  - Webcam 
+  - Backlight 
+  - Inverters 
+  - Digitizers 
 - Connecting Mobile Device 
 - Mobile Device Accessories 
 - Cellular Standards 

@@ -501,6 +501,10 @@ My study notes taken from courses and used for exams or general reminders.
   - Heat Sensitivity 
   
 - Impact Printers 
+  - Dot-Matrix (Impact) Printer 
+  - Dot-Matrix Printer head 
+  - Printer Ribbon 
+  - Tractor Feed 
   
 - Impact Printer Maintenace 
   

@@ -496,6 +496,12 @@
 - The Print Bed 
 
 ## Cloud Models - 4.1
+- Intro 
+- Private Cloud 
+- Infrastructure as a Service 
+- Software as a Service 
+- Platform as a Service 
+- Cloud Models 
 
 ## Cloud Characteristics - 4.1
 

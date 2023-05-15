@@ -472,6 +472,11 @@
 - Thermal Paper 
 
 ## Thermal Printer Maintenance - 3.7
+- Introduction 
+- Replacing Paper 
+- Cleaning Heating Element 
+- Cleaning Thermal Paper 
+- Heat Sensitivity 
 
 ## Impact Printers - 3.7
 

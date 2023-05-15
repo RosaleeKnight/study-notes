@@ -1,14 +1,14 @@
 ## Laptop Hardware 
-- Laptop Hardware
-- Laptop Batteries
-- Laptop Keys
-- Laptop Memory
-- Replaceing Laptop Storage
-- 802.11 Wireless and Bluetooth
-- Mini PCIe
-- Mini PCI Express
-- Biomentics
-- Near-field Communication (NFC)
+- Laptop Hardware 
+- Laptop Batteries 
+- Laptop Keys 
+- Laptop Memory 
+- Replacing Laptop Storage 
+- 802.11 Wireless and Bluetooth 
+- Mini PCIe 
+- Mini PCI Express 
+- Biometrics 
+- Near-field Communication (NFC)  
 
 ## Laptop Displays 
 

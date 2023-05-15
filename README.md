@@ -381,6 +381,11 @@ My study notes taken from courses and used for exams or general reminders.
   - M.2 Connector 
   
 - Motherboard Compatibility 
+  - Intro 
+  - CPU Install 
+  - Server Motherboards 
+  - Laptop Motherboards 
+  - Laptops 
   
 - The BIOS 
   

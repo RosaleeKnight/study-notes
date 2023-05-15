@@ -407,8 +407,15 @@ My study notes taken from courses and used for exams or general reminders.
   - Virtualization Support
   
 - CPU Features 
-  
-- Expansion Cards 
+  - Expansion Cards 
+  - Sound Card 
+  - Intergrated Graphics 
+  - Capture Card 
+  - NIC (Network Interface Card) 
+  - Multi-port Ethernet 
+  - Documentation 
+  - Driver Installation 
+  - Expansion Cards 
   
 - Cooling 
   

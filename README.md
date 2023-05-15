@@ -117,15 +117,14 @@ My study notes taken from courses and used for exams or general reminders.
   - PoE Switch 
   - Cable Modem 
   - NIC (Network Interface Card) 
-  - Software Defined Networking 
   
-- Wireless Network Standards 
+- Software Defined Networking 
   - Introduction 
   - Infrastructure Layer 
   - Physical Device 
   - Modular Architecture 
   
-- Wireless Network Technologies 
+- Wireless Network Standards 
   - Intro 
   - Wi-Fi AC 
   - Wi-Fi AX 
@@ -134,7 +133,15 @@ My study notes taken from courses and used for exams or general reminders.
   - RFID 
   - Radar 
   - NFC 
-  - Network Services 
+
+- Wireless Network Technologies 
+  - Frequency Use 
+  - Channel Designations 
+  - Regulations 
+  - Band Selections 
+  - Bluetooth Connectivity 
+  
+- Network Services 
   
 - IPv4 and IPv6 
   

@@ -5,14 +5,17 @@ My study notes taken from courses and used for exams or general reminders.
   <summary> Cybersecurity Terminology </summary>
 
 - Jobs 
+  
 - Threats 
   - Threat Actors 
   - Types of Attacks 
   - Other 
+  
 - Defenses 
   - Automated 
   - Operations 
   - Frameworks & Standards 
+  
 - Tools 
   - Job Specific 
   - General 
@@ -33,7 +36,8 @@ My study notes taken from courses and used for exams or general reminders.
   - Mini PCIe 
   - Mini PCI Express 
   - Biometrics 
-  - Near-field Communication (NFC)  
+  - Near-field Communication (NFC)
+  
 - Laptop Displays 
   - LCD Displays 
   - Types of Displays 
@@ -43,6 +47,7 @@ My study notes taken from courses and used for exams or general reminders.
   - Backlight 
   - Inverters 
   - Digitizers 
+  
 - Connecting Mobile Device
   - Introduction 
   - USB 
@@ -53,6 +58,7 @@ My study notes taken from courses and used for exams or general reminders.
   - NFC 
   - Bluetooth 
   - Wi-Fi Hotspot 
+  
 - Mobile Device Accessories 
   - Intro 
   - Active Stylus 
@@ -63,6 +69,7 @@ My study notes taken from courses and used for exams or general reminders.
   - Camera / Webcam 
   - Docking Station 
   - Port Replicator 
+  
 - Cellular Standards
   - Cellular Standards 
   - GSM 
@@ -70,14 +77,17 @@ My study notes taken from courses and used for exams or general reminders.
   - LTE 
   - PRL 
   - Wi-Fi Hotspot 
+  
 - Mobile Device Connectivity
   - Bluetooth Pairing 
   - GPS 
   - MDM 
+  
 - Mobile Device Configurations
   - Configuring a Mobile Device 
   - Microsoft 365 
   - Synchronizing Data 
+  
 - Introduction to IP
   - A Series of Moving Vans 
   - IP (Internet Protocol) 
@@ -87,64 +97,123 @@ My study notes taken from courses and used for exams or general reminders.
   - Lots of Ports 
   - Port Numbers 
   - Ports on the Network 
+  
 - Common Network Ports 
+  
 - Network Devices 
+  
 - Software Defined Networking 
+  
 - Wireless Network Standards 
+  
 - Wireless Network Technologies 
+  
 - Network Services 
+  
 - IPv4 and IPv6 
+  
 - Assigning IP Addresses 
+  
 - DNS Configuration 
+  
 - DNCP Configuration 
+  
 - VLANs and VPNS 
+  
 - Internet Connection Types 
+  
 - Network Types 
+  
 - Network Tools 
+  
 - Network Cables 
+  
 - Optical Fiber 
+  
 - 586A and 568B Colours 
+  
 - Peripheral Cables 
+  
 - Video Cables 
+  
 - SATA Device Cables 
+  
 - SCSI Device Cables 
+  
 - PATA Device Cables 
+  
 - Adapters and Converters 
+  
 - Copper Connectors 
+  
 - Fiber Connectors 
+  
 - An Overview of Memory 
+  
 - Memory Technologies 
+  
 - Storage Devices 
+  
 - RAID 
+  
 - Motherboard Form Factors 
-- Motherboard Expansion Slots 
+  
+- Motherboard Expansion Slots
+  
 - Motherboard Connectors 
+  
 - Motherboard Compatibility 
+  
 - The BIOS 
+  
 - BIOS Settings 
+  
 - CPU Features 
+  
 - Expansion Cards 
+  
 - Cooling 
+  
 - Computer Power 
+  
 - Multifunction Devices 
+  
 - Laser Printers 
+  
 - Laser Printer Maintenance 
+  
 - Inkjet Printer 
+  
 - Inkjet Printer Maintenance 
+  
 - Thermal Printers 
+  
 - Thermal Printer Maintenance 
+  
 - Impact Printers 
+  
 - Impact Printer Maintenace 
+  
 - 3D Printers 
+  
 - Cloud Models 
+  
 - Cloud Characteristics 
+  
 - Client-side Virtualization 
+  
 - How to Troubleshoot 
+  
 - Troubleshooting Common Hardware Problems 
+  
 - Troubleshooting Storage Devices 
+  
 - Troubleshooting Video and Display Issues 
+  
 - Troubleshooting Mobile Devices 
+  
 - Troubleshooting Printers 
+  
 - Troubleshooting Networks 
 </details>
   
@@ -152,73 +221,141 @@ My study notes taken from courses and used for exams or general reminders.
   <summary> CompTIA A+ 220-1102 </summary>
 
 - An Overview of Windows
+  
 - Windows Features 
+  
 - Windows Upgrades 
+  
 - Windows Command Line Tools 
+  
 - The Windows Network Command Line 
+  
 - Task Manager 
+  
 - The Microsoft Management Console 
+  
 - Additional Windows Tools 
+  
 - Windows Control Panel 
+  
 - Windows Settings 
+  
 - Windows Network Technologies 
+  
 - Configuring Windows Firewall 
+  
 - Windows IP Address Configuration 
+  
 - Windows Network Connections 
+  
 - Installing Applications 
+  
 - Operating Systems Overview 
+  
 - Fire Systems 
+  
 - Installing Operating Systems 
+  
 - Upgrading Windows 
+  
 - macOS Overview 
+  
 - macOS System Preferences 
+  
 - macOS Features 
+  
 - Linux Commands 
+  
 - Linux Features 
+  
 - Physical Security 
+  
 - Physical Security for Staff 
+  
 - Logical Security 
+  
 - Active Directory 
+  
 - Wireless Encryption 
+  
 - Authentication Methods 
+  
 - Malware 
+  
 - Anti-Malware Tools 
+  
 - Social Engineering 
+  
 - Denial of Service 
+  
 - Zero-Day Attacks 
+  
 - On-Path attacks 
+  
 - Password Attacks 
+  
 - Insider Threats 
+  
 - SQL Injection 
+  
 - Cross-site Scripting 
+  
 - Security Vulnerabilities 
+  
 - Defender Antivirus 
+  
 - Windows Firewall 
-- Windows Security Settings 
+  
+- Windows Security Settings
+  
 - Security Best Practices 
+  
 - Mobile Device Security 
+  
 - Data Destruction 
+  
 - Securing a SOHO Network 
+  
 - Browser Security 
+  
 - Troubleshooting Windows 
+  
 - Troubleshooting Solutions 
+  
 - Troubleshooting Security Issues 
+  
 - Removing Malware 
+  
 - Troubleshooting Mobile Devices 
+  
 - Troubleshooting Mobile Device Security 
+  
 - Ticketing Systems 
-- Asset Management 
+  
+- Asset Management
+  
 - Document Types 
+  
 - Change Mangement 
+  
 - Managing Backups 
+  
 - Managing Electrostatic Discharge 
+  
 - Safety Procedures 
+  
 - Enviromental Impacts 
+  
 - Privacy, Licensing and Policies 
+ 
 - Communicaton 
+  
 - Professionalism 
-- Scripting Languages 
+  
+- Scripting Languages
+  
 - Scripting Use Cases 
+  
 - Remote Access 
 </details> 
   
@@ -228,13 +365,17 @@ My study notes taken from courses and used for exams or general reminders.
 - Ticketing System 
   - How to Create a New Ticket 
   - How to Write Knowledge Base Documentation 
+  
 - Virtualization 
   - Hyper-V Usage 
+  
 - Remote Access 
   - How to remote in on Zoom 
+  
 - Active Directory 
   - Setup for Server 2019 
   - How to Add Users 
+  
 - Networking Terminology 
 </details> 
 

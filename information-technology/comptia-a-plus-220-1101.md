@@ -490,6 +490,10 @@
 - Paper 
 
 ## 3D Printers - 3.7
+- 3D Printers 
+- Filament Printing 
+- Resin printing 
+- The Print Bed 
 
 ## Cloud Models - 4.1
 

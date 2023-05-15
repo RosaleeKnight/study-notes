@@ -250,6 +250,10 @@
 - SATA and eSATA 
 
 ## SCSI Device Cables - 3.1
+- The SCSI Standard 
+- SCSI Advantages 
+- SCSI ID and LUN (Logic Unit) 
+- Serial Attached SCSI 
 
 ## PATA Device Cables - 1.3
 

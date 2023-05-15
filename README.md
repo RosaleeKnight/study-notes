@@ -78,7 +78,15 @@ My study notes taken from courses and used for exams or general reminders.
   - Configuring a Mobile Device 
   - Microsoft 365 
   - Synchronizing Data 
-- Introduction to IP 
+- Introduction to IP
+  - A Series of Moving Vans 
+  - IP (Internet Protocol) 
+  - TCP and UDP 
+  - TCP (Transmission Control Protocol) 
+  - Speedy Delivery 
+  - Lots of Ports 
+  - Port Numbers 
+  - Ports on the Network 
 - Common Network Ports 
 - Network Devices 
 - Software Defined Networking 

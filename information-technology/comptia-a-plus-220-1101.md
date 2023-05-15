@@ -21,6 +21,15 @@
 - Digitizers 
 
 ## Connecting Mobile Device 
+- Introduction 
+- USB 
+- USBC 
+- Lightning 
+- Connectors 
+- Serial 
+- NFC 
+- Bluetooth 
+- Wi-Fi Hotspot 
 
 ## Mobile Device Accessories 
 

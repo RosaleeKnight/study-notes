@@ -210,6 +210,10 @@
 - Direct Burial STP Cross Section 
 
 ## Optical Fiber - 3.1
+- Optical Fiber 
+- Optical Connection 
+- Fiber Optics 
+- Ferrule 
 
 ## 586A and 568B Colours - 3.1
 

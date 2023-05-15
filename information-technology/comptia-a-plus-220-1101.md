@@ -431,6 +431,18 @@
 - Automatic Document Feeder 
 
 ## Laser Printers - 3.7
+- Introduction 
+- Imaging Drum 
+- Fuser Assembly 
+- Transfer Belt 
+- Pickup Roller 
+- Separation Pad 
+- Duplexing 
+- Processing 
+- Developing 
+- Fusing 
+- Cleaning 
+- Summary 
 
 ## Laser Printer Maintenance - 3.7 
 

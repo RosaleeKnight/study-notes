@@ -230,6 +230,12 @@ My study notes taken from courses and used for exams or general reminders.
   - Taps and Port Mirrors 
   
 - Network Cables 
+  - The Importance of Cable 
+  - Twisted Pair Copper Cabling 
+  - Coaxial Cables 
+  - Plenum-Rated Cable 
+  - Unshielded and Shielded Cable 
+  - Direct Burial STP Cross Section 
   
 - Optical Fiber 
   

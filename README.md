@@ -488,6 +488,10 @@ My study notes taken from courses and used for exams or general reminders.
   - Clearing Jams 
   
 - Thermal Printers 
+  - Introduction 
+  - Feed Assembly 
+  - Heating Element 
+  - Thermal Paper 
   
 - Thermal Printer Maintenance 
   

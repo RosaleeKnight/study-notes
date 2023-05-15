@@ -553,6 +553,19 @@ My study notes taken from courses and used for exams or general reminders.
   - The Troubleshooting Process 
   
 - Troubleshooting Common Hardware Problems 
+  - POST (Power on Shelf) 
+  - POST and Boot 
+  - Crash Screens 
+  - Bluescreens and Spontaneous Shutdowns 
+  - Black Screen 
+  - No Power 
+  - Sluggish Performance 
+  - Overheating 
+  - Smoke and Burning Smell 
+  - Intermittent Shutdown 
+  - Application Crashes 
+  - Grinding Noises 
+  - Inaccurate System Date / Time 
   
 - Troubleshooting Storage Devices 
   

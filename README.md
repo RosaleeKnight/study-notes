@@ -335,6 +335,19 @@ My study notes taken from courses and used for exams or general reminders.
   - Evaluation 
   
 - Storage Devices 
+  - HDD (Hard Disk Drives) 
+  - Inside a Hard Disk Drive 
+  - Heads and Platters 
+  - Drive Size Comparison 
+  - SSD (Solid-state Drive) 
+  - 2.5 SATA Interface 
+  - Mini-Sata (mSata) 
+  - AHCI vs. NVMe 
+  - M.2 Interface 
+  - B-key and M-key 
+  - Flash Drives 
+  - Flash Memory 
+  - Optical Drives 
   
 - RAID 
   

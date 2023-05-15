@@ -71,6 +71,14 @@
 - Ports on the Network 
 
 ## Common Network Ports - 2.1
+- Port Numbers 
+- Telnet 
+- SMTP (Simple Main Transfer Protocol) 
+- DHCP (Dynamic Host Configuration Protocol) 
+- HTTP and HTTPS 
+- POP3 / IMAP 
+- SNMP (Simple Network Management Protocol) 
+- RDP (Remote Desktop Protocol) 
 
 ## Network Devices - 2.2
 

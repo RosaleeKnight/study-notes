@@ -577,5 +577,17 @@
 - Cursor Drift 
 
 ## Troubleshooting Printers - 5.6
+- Intro 
+- Test Page 
+- Garbled Print 
+- Toner Smudging 
+- Paper Size Mismatch 
+- Paper Jams 
+- Print Queue Crashes 
+- Print Colours 
+- Calibrate Colours 
+- Grinding Noises 
+- Finishing 
+- Portrait vs Landscape 
 
 ## Troubleshooting Networks - 5.7

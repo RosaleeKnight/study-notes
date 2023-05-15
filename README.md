@@ -531,6 +531,16 @@ My study notes taken from courses and used for exams or general reminders.
   - Desktop as a Service 
   
 - Client-side Virtualization 
+  - Intro 
+  - Legacy Software and Operating Systems 
+  - Cross-platform Virtualization 
+  - The Hypervisor 
+  - Resource Requirements 
+  - Sandboxing 
+  - Building the Application 
+  - Hypervisor Security 
+  - Guest Operating System Security 
+  - Network Requirements 
   
 - How to Troubleshoot 
   

@@ -220,6 +220,14 @@ My study notes taken from courses and used for exams or general reminders.
   - WLAN 
   
 - Network Tools 
+  - Cable Crimpers 
+  - Modular Connectors 
+  - Crimping Best Practices 
+  - Using the Tone Generator and Probe 
+  - Punch Down Best Practices 
+  - Cable Testers 
+  - Loopback Plugs 
+  - Taps and Port Mirrors 
   
 - Network Cables 
   

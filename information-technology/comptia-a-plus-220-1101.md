@@ -169,6 +169,11 @@
 - The DHCP Lease Process 
 
 ## VLANs and VPNS - 2.6
+- LANs 
+- Virtual LANs 
+- Configuring VLANs 
+- VPNs 
+- Client-to-site VPN 
 
 ## Internet Connection Types - 2.7
 

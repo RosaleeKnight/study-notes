@@ -1,4 +1,4 @@
-## Laptop Hardware 
+## Laptop Hardware - 1.1
 - Laptop Hardware 
 - Laptop Batteries 
 - Laptop Keys 
@@ -10,7 +10,7 @@
 - Biometrics 
 - Near-field Communication (NFC)  
 
-## Laptop Displays 
+## Laptop Displays - 1.2
 - LCD Displays 
 - Types of Displays 
 - OLED Displays 
@@ -20,7 +20,7 @@
 - Inverters 
 - Digitizers 
 
-## Connecting Mobile Device 
+## Connecting Mobile Device - 1.3
 - Introduction 
 - USB 
 - USBC 
@@ -31,7 +31,7 @@
 - Bluetooth 
 - Wi-Fi Hotspot 
 
-## Mobile Device Accessories 
+## Mobile Device Accessories - 1.3
 - Intro 
 - Active Stylus 
 - Drawing Pad 
@@ -42,7 +42,7 @@
 - Docking Station 
 - Port Replicator 
 
-## Cellular Standards 
+## Cellular Standards - 1.4
 - Cellular Standards 
 - GSM 
 - CDMA 
@@ -50,129 +50,129 @@
 - PRL 
 - Wi-Fi Hotspot 
 
-## Mobile Device Connectivity 
+## Mobile Device Connectivity - 1.4
 - Bluetooth Pairing 
 - GPS 
 - MDM 
 
-## Mobile Device Configurations 
+## Mobile Device Configurations - 1.4
 
-## Introduction to IP 
+## Introduction to IP - 1.2
 
-## Common Network Ports 
+## Common Network Ports - 2.1
 
-## Network Devices 
+## Network Devices - 2.2
 
-## Software Defined Networking 
+## Software Defined Networking - 2.2
 
-## Wireless Network Standards 
+## Wireless Network Standards - 2.3
 
-## Wireless Network Technologies 
+## Wireless Network Technologies - 2.3
 
-## Network Services 
+## Network Services - 2.4
 
-## IPv4 and IPv6 
+## IPv4 and IPv6 - 2.5
 
-## Assigning IP Addresses 
+## Assigning IP Addresses - 2.5
 
-## DNS Configuration 
+## DNS Configuration - 2.6
 
-## DNCP Configuration 
+## DNCP Configuration - 2.6
 
-## VLANs and VPNS 
+## VLANs and VPNS - 2.6
 
-## Internet Connection Types 
+## Internet Connection Types - 2.7
 
-## Network Types 
+## Network Types - 2.7
 
-## Network Tools 
+## Network Tools - 2.8
 
-## Network Cables 
+## Network Cables - 3.1
 
-## Optical Fiber 
+## Optical Fiber - 3.1
 
-## 586A and 568B Colours 
+## 586A and 568B Colours - 3.1
 
-## Peripheral Cables 
+## Peripheral Cables - 3.1
 
-## Video Cables 
+## Video Cables - 3.1
 
-## SATA Device Cables 
+## SATA Device Cables - 3.1
 
-## SCSI Device Cables 
+## SCSI Device Cables - 3.1
 
-## PATA Device Cables 
+## PATA Device Cables - 1.3
 
-## Adapters and Converters 
+## Adapters and Converters - 3.1
 
-## Copper Connectors 
+## Copper Connectors - 3.1
 
-## Fiber Connectors 
+## Fiber Connectors - 3.1
 
-## An Overview of Memory 
+## An Overview of Memory - 3.2
 
-## Memory Technologies 
+## Memory Technologies - 3.2
 
-## Storage Devices 
+## Storage Devices - 3.3
 
-## RAID 
+## RAID - 3.3
 
-## Motherboard Form Factors 
+## Motherboard Form Factors - 3.4
 
-## Motherboard Expansion Slots 
+## Motherboard Expansion Slots - 3.4 
 
-## Motherboard Connectors 
+## Motherboard Connectors - 3.4
 
-## Motherboard Compatibility 
+## Motherboard Compatibility - 3.4
 
-## The BIOS 
+## The BIOS - 3.4
 
-## BIOS Settings 
+## BIOS Settings - 3.4
 
-## CPU Features 
+## CPU Features - 3.4
 
-## Expansion Cards 
+## Expansion Cards - 3.4
 
-## Cooling 
+## Cooling - 3.4
 
-## Computer Power 
+## Computer Power - 3.5
 
-## Multifunction Devices 
+## Multifunction Devices - 3.6
 
-## Laser Printers 
+## Laser Printers - 3.7
 
-## Laser Printer Maintenance 
+## Laser Printer Maintenance - 3.7 
 
-## Inkjet Printer 
+## Inkjet Printer - 3.7
 
-## Inkjet Printer Maintenance 
+## Inkjet Printer Maintenance - 3.7
 
-## Thermal Printers 
+## Thermal Printers - 3.7
 
-## Thermal Printer Maintenance 
+## Thermal Printer Maintenance - 3.7
 
-## Impact Printers 
+## Impact Printers - 3.7
 
-## Impact Printer Maintenace 
+## Impact Printer Maintenace - 3.7
 
-## 3D Printers 
+## 3D Printers - 3.7
 
-## Cloud Models 
+## Cloud Models - 4.1
 
-## Cloud Characteristics 
+## Cloud Characteristics - 4.1
 
-## Client-side Virtualization 
+## Client-side Virtualization - 4.2
 
-## How to Troubleshoot 
+## How to Troubleshoot - 5.1
 
-## Troubleshooting Common Hardware Problems 
+## Troubleshooting Common Hardware Problems - 5.2
 
-## Troubleshooting Storage Devices 
+## Troubleshooting Storage Devices - 5.3
 
-## Troubleshooting Video and Display Issues 
+## Troubleshooting Video and Display Issues - 5.4
 
-## Troubleshooting Mobile Devices 
+## Troubleshooting Mobile Devices - 5.5
 
-## Troubleshooting Printers 
+## Troubleshooting Printers - 5.6
 
-## Troubleshooting Networks 
+## Troubleshooting Networks - 5.7

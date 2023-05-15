@@ -450,8 +450,14 @@
 - Laser Printer Calibration 
 - Laser Printer Cleaning 
 
-
 ## Inkjet Printer - 3.7
+- Intro 
+- Inject Printers 
+- Ink Cartridges 
+- Printer Heads 
+- Feed Rollers 
+- Ink Cartridges 
+- Calibration 
 
 ## Inkjet Printer Maintenance - 3.7
 

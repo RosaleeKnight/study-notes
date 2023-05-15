@@ -24,16 +24,16 @@ My study notes taken from courses and used for exams or general reminders.
   <summary> CompTIA A+ 220-1101 </summary>
   
 - Laptop Hardware
-  - Laptop Hardware
-  - Laptop Batteries
-  - Laptop Keys
-  - Laptop Memory
-  - Replaceing Laptop Storage
-  - 802.11 Wireless and Bluetooth
-  - Mini PCIe
-  - Mini PCI Express
-  - Biomentics
-  - Near-field Communication (NFC)
+  - Laptop Hardware 
+  - Laptop Batteries 
+  - Laptop Keys 
+  - Laptop Memory 
+  - Replacing Laptop Storage 
+  - 802.11 Wireless and Bluetooth 
+  - Mini PCIe 
+  - Mini PCI Express 
+  - Biometrics 
+  - Near-field Communication (NFC)  
 - Laptop Displays 
 - Connecting Mobile Device 
 - Mobile Device Accessories 

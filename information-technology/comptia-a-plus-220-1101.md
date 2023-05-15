@@ -396,6 +396,14 @@
 - Driver Installation 
 
 ## Cooling - 3.4
+- Case Fans 
+- On-board Fans 
+- Fan Specifications 
+- Fanless / Passive Cooling 
+- Heat Sink 
+- Thermal Paste 
+- Thermal Pad 
+- Liquid Cooling 
 
 ## Computer Power - 3.5
 

@@ -43,6 +43,12 @@
 - Port Replicator 
 
 ## Cellular Standards 
+- Cellular Standards 
+- GSM 
+- CDMA 
+- LTE 
+- PRL 
+- Wi-Fi Hotspot 
 
 ## Mobile Device Connectivity 
 

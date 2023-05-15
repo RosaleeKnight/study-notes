@@ -526,6 +526,9 @@ My study notes taken from courses and used for exams or general reminders.
   - Cloud Models 
   
 - Cloud Characteristics 
+  - Shared Resources 
+  - Cloud Computing Characteristics 
+  - Desktop as a Service 
   
 - Client-side Virtualization 
   

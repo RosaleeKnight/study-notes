@@ -249,6 +249,17 @@ My study notes taken from courses and used for exams or general reminders.
   - 568A and 568B Termination 
 
 - Peripheral Cables 
+  - Intro 
+  - Connectors 
+  - USBC 
+  - USB 3.0 Update 
+  - USB 3.1 Gen 2
+  - USB 3.2 Gen 1 
+  - USB 3.2 Gen 2 
+  - Summary 
+  - Thunderbolt
+  - Thunderbolt V3 
+  - Serial Cables 
   
 - Video Cables 
   

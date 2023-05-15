@@ -202,6 +202,12 @@
 - Taps and Port Mirrors 
 
 ## Network Cables - 3.1
+- The Importance of Cable 
+- Twisted Pair Copper Cabling 
+- Coaxial Cables 
+- Plenum-Rated Cable 
+- Unshielded and Shielded Cable 
+- Direct Burial STP Cross Section 
 
 ## Optical Fiber - 3.1
 

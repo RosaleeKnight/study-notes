@@ -284,6 +284,10 @@ My study notes taken from courses and used for exams or general reminders.
   - Serial Attached SCSI 
   
 - PATA Device Cables 
+  - The PATA Standard 
+  - PATA Cabling 
+  - PATA Interface 
+  - PATA and SATA Cabling 
   
 - Adapters and Converters 
   

@@ -5,7 +5,7 @@
 - Laptop Memory
 - Replaceing Laptop Storage
 - 802.11 Wireless and Bluetooth
-- Mini PCLe
+- Mini PCIe
 - Mini PCI Express
 - Biomentics
 - Near-field Communication (NFC)

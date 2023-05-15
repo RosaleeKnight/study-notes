@@ -162,8 +162,15 @@ My study notes taken from courses and used for exams or general reminders.
   - DNS Servers 
   
 - Assigning IP Addresses 
-  
-- DNS Configuration 
+  - Intro 
+  - DHCP Process 
+  - Discover 
+  - Offer 
+  - Request 
+  - Acknowledge 
+  - Avoid Manual Configurations 
+  - APIPA (Automatic Private IP) 
+  - DNS Configuration 
   
 - DNCP Configuration 
   

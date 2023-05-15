@@ -287,6 +287,17 @@
 - SC Connector 
 
 ## An Overview of Memory - 3.2
+- Intro 
+- Memory Slots 
+- Dual Inline Memory 
+- Sodimm 
+- Scale 
+- Clock 
+- Notches 
+- Clock Cycles 
+- DDR3 Memory 
+- DDR4 Memory 
+- DDR5 Memory 
 
 ## Memory Technologies - 3.2
 

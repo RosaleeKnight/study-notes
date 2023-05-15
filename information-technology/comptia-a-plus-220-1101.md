@@ -8,7 +8,7 @@
 - Mini PCIe 
 - Mini PCI Express 
 - Biometrics 
-- Near-field Communication (NFC)  
+- NFC (Near-field Communication)  
 
 ## Laptop Displays - 1.2
 - LCD Displays 
@@ -81,6 +81,14 @@
 - RDP (Remote Desktop Protocol) 
 
 ## Network Devices - 2.2
+- Intro 
+- Managed Switches 
+- Cable Infrastructures 
+- Firewalls 
+- PoE (Power over Ethernet) 
+- PoE Switch 
+- Cable Modem 
+- NIC (Network Interface Card) 
 
 ## Software Defined Networking - 2.2
 

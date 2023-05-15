@@ -543,6 +543,14 @@ My study notes taken from courses and used for exams or general reminders.
   - Network Requirements 
   
 - How to Troubleshoot 
+  - Change Mangement 
+  - Identify the Problem 
+  - Establish a Theory 
+  - Test the Theory 
+  - Implement the Solution 
+  - Verify Full System Functionality 
+  - Document Findings 
+  - The Troubleshooting Process 
   
 - Troubleshooting Common Hardware Problems 
   

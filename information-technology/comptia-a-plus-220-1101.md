@@ -567,6 +567,14 @@
 - LCD Projector Troubleshooting 
 
 ## Troubleshooting Mobile Devices - 5.5
+- Poor Battery Health 
+- Swollen Battery 
+- Broken Screen 
+- Poor or No Connectivity 
+- Liquid Damage 
+- Overheating 
+- Malware 
+- Cursor Drift 
 
 ## Troubleshooting Printers - 5.6
 

@@ -345,6 +345,12 @@
 - PCI Express Adapter 
 
 ## Motherboard Connectors - 3.4
+- Motherboard Power 
+- Storage Drive Interfaces – SATA 
+- eSATA Expansion 
+- Headers 
+- Front Panel Connectors 
+- M.2 Connector 
 
 ## Motherboard Compatibility - 3.4
 

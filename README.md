@@ -388,6 +388,16 @@ My study notes taken from courses and used for exams or general reminders.
   - Laptops 
   
 - The BIOS 
+  - The Secret Button (s) 
+  - Fast Startup 
+  - Important Tips 
+  - USB Permissions 
+  - UEFI BIOS Secure Boot 
+  - Boot Password Mangement 
+  - Clearing a Boot Password 
+  - The “CMOS” Battery 
+  - TMP (Trusted Platform Module) 
+  - HSM (Hardware Security Module) 
   
 - BIOS Settings 
   

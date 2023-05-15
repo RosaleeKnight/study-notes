@@ -61,6 +61,14 @@
 - Synchronizing Data 
 
 ## Introduction to IP - 1.2
+- A Series of Moving Vans 
+- IP (Internet Protocol) 
+- TCP and UDP 
+- TCP (Transmission Control Protocol) 
+- Speedy Delivery 
+- Lots of Ports 
+- Port Numbers 
+- Ports on the Network 
 
 ## Common Network Ports - 2.1
 

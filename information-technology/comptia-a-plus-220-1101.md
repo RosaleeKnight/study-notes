@@ -521,6 +521,14 @@
 - Network Requirements 
 
 ## How to Troubleshoot - 5.1
+- Change Mangement 
+- Identify the Problem 
+- Establish a Theory 
+- Test the Theory 
+- Implement the Solution 
+- Verify Full System Functionality 
+- Document Findings 
+- The Troubleshooting Process 
 
 ## Troubleshooting Common Hardware Problems - 5.2
 

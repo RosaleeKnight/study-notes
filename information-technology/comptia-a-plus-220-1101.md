@@ -367,6 +367,16 @@
 - Emulator 
 
 ## BIOS Settings - 3.4
+- The Secret Button (s) 
+- Fast Startup 
+- Important Tips 
+- USB Permissions 
+- UEFI BIOS Secure Boot 
+- Boot Password Mangement 
+- Clearing a Boot Password 
+- The “CMOS” Battery 
+- TMP (Trusted Platform Module) 
+- HSM (Hardware Security Module) 
 
 ## CPU Features - 3.4
 

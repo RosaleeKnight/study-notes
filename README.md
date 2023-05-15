@@ -400,6 +400,11 @@ My study notes taken from courses and used for exams or general reminders.
   - HSM (Hardware Security Module) 
   
 - BIOS Settings 
+  - Operating System Technologies 
+  - ARM (Advanced RISC Machine) 
+  - Processor Cores 
+  - Multithreading 
+  - Virtualization Support
   
 - CPU Features 
   

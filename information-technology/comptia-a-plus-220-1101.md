@@ -556,6 +556,15 @@
 - Missing Drives in OS 
 
 ## Troubleshooting Video and Display Issues - 5.4
+- No Video Image 
+- Image Quality Problems 
+- Native Resolution 
+- Burn-in 
+- Flashing Screen 
+- Incorrect Colour Display 
+- Audio Isses 
+- Dim Images 
+- LCD Projector Troubleshooting 
 
 ## Troubleshooting Mobile Devices - 5.5
 

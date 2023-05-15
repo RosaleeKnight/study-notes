@@ -192,6 +192,14 @@
 - WLAN 
 
 ## Network Tools - 2.8
+- Cable Crimpers 
+- Modular Connectors 
+- Crimping Best Practices 
+- Using the Tone Generator and Probe 
+- Punch Down Best Practices 
+- Cable Testers 
+- Loopback Plugs 
+- Taps and Port Mirrors 
 
 ## Network Cables - 3.1
 

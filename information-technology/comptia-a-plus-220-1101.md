@@ -322,6 +322,10 @@
 - Optical Drives 
 
 ## RAID - 3.3
+- Data Redundancy 
+- Mirroring
+- Raid 5 – Stripping with Parity 
+- RAID 10 (1 + 0) - A Strip of Mirrors 
 
 ## Motherboard Form Factors - 3.4
 

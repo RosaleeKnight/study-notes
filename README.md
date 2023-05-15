@@ -453,6 +453,18 @@ My study notes taken from courses and used for exams or general reminders.
   - Automatic Document Feeder 
   
 - Laser Printers 
+  - Introduction 
+  - Imaging Drum 
+  - Fuser Assembly 
+  - Transfer Belt 
+  - Pickup Roller 
+  - Separation Pad 
+  - Duplexing 
+  - Processing 
+  - Developing 
+  - Fusing 
+  - Cleaning 
+  - Summary 
   
 - Laser Printer Maintenance 
   

@@ -428,6 +428,14 @@ My study notes taken from courses and used for exams or general reminders.
   - Liquid Cooling 
   
 - Computer Power 
+  - Warning 
+  - Current 
+  - Dual-voltage Input options 
+  - Power Supply Output 
+  - 24-Pin Motherboard Power 
+  - Redundant Power Supplies 
+  - Power Supply Connectors 
+  - Sizing a Power Supply 
   
 - Multifunction Devices 
   

@@ -234,6 +234,10 @@
 - Serial Cables 
 
 ## Video Cables - 3.1
+- VGA (Video Graphics Array) 
+- HDMI (High-Definition Multimedia Interface) 
+- DisplayPort 
+- DVI (Digital Visual Interface) 
 
 ## SATA Device Cables - 3.1
 

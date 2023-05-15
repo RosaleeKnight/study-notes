@@ -360,6 +360,11 @@
 - Laptops 
 
 ## The BIOS - 3.4
+- Intro 
+- Flash Memory 
+- Legacy BIOS 
+- UEFI BIOS 
+- Emulator 
 
 ## BIOS Settings - 3.4
 

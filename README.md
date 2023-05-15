@@ -109,8 +109,15 @@ My study notes taken from courses and used for exams or general reminders.
   - RDP (Remote Desktop Protocol) 
   
 - Network Devices 
-  
-- Software Defined Networking 
+  - Intro 
+  - Managed Switches 
+  - Cable Infrastructures 
+  - Firewalls 
+  - PoE (Power over Ethernet) 
+  - PoE Switch 
+  - Cable Modem 
+  - NIC (Network Interface Card) 
+  - Software Defined Networking 
   
 - Wireless Network Standards 
   

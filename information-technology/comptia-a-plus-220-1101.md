@@ -11,6 +11,14 @@
 - Near-field Communication (NFC)  
 
 ## Laptop Displays 
+- LCD Displays 
+- Types of Displays 
+- OLED Displays 
+- Wireless Displays 
+- Webcam 
+- Backlight 
+- Inverters 
+- Digitizers 
 
 ## Connecting Mobile Device 
 

@@ -142,6 +142,19 @@ My study notes taken from courses and used for exams or general reminders.
   - Bluetooth Connectivity 
   
 - Network Services 
+  - Intro 
+  - DHCP Server 
+  - File Server 
+  - Print Server 
+  - Mail Server 
+  - Web Server 
+  - Authentication Sever 
+  - Spam Gateways 
+  - All-in-one Security Appliance 
+  - Load Balancers 
+  - Proxy Sever 
+  - SCADA / ICS 
+  - Legacy and Embedded Systems 
   
 - IPv4 and IPv6 
   

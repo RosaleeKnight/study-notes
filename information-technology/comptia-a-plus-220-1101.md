@@ -300,6 +300,11 @@
 - DDR5 Memory 
 
 ## Memory Technologies - 3.2
+- Virtual Memory 
+- Multichannel Memory 
+- Errors 
+- Parity 
+- Evaluation 
 
 ## Storage Devices - 3.3
 

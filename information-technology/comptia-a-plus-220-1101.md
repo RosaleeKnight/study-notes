@@ -466,6 +466,10 @@
 - Clearing Jams 
 
 ## Thermal Printers - 3.7
+- Introduction 
+- Feed Assembly 
+- Heating Element 
+- Thermal Paper 
 
 ## Thermal Printer Maintenance - 3.7
 

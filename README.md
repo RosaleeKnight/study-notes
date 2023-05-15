@@ -262,6 +262,10 @@ My study notes taken from courses and used for exams or general reminders.
   - Serial Cables 
   
 - Video Cables 
+  - VGA (Video Graphics Array) 
+  - HDMI (High-Definition Multimedia Interface) 
+  - DisplayPort 
+  - DVI (Digital Visual Interface) 
   
 - SATA Device Cables 
   

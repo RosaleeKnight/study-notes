@@ -157,6 +157,9 @@ My study notes taken from courses and used for exams or general reminders.
   - Legacy and Embedded Systems 
   
 - IPv4 and IPv6 
+  - IP Addressing 
+  - Networking with IPv4 
+  - DNS Servers 
   
 - Assigning IP Addresses 
   

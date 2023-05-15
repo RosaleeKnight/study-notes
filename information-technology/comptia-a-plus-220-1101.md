@@ -281,6 +281,10 @@
 - DB-9 
 
 ## Fiber Connectors - 3.1
+- Introduction 
+- LC Connector 
+- ST Connector 
+- SC Connector 
 
 ## An Overview of Memory - 3.2
 

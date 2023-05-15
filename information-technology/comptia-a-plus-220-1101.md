@@ -1,133 +1,133 @@
-Laptop Hardware 
+## Laptop Hardware 
 
-Laptop Displays 
+## Laptop Displays 
 
-Connecting Mobile Device 
+## Connecting Mobile Device 
 
-Mobile Device Accessories 
+## Mobile Device Accessories 
 
-Cellular Standards 
+## Cellular Standards 
 
-Mobile Device Connectivity 
+## Mobile Device Connectivity 
 
-Mobile Device Configurations 
+## Mobile Device Configurations 
 
-Introduction to IP 
+## Introduction to IP 
 
-Common Network Ports 
+## Common Network Ports 
 
-Network Devices 
+## Network Devices 
 
-Software Defined Networking 
+## Software Defined Networking 
 
-Wireless Network Standards 
+## Wireless Network Standards 
 
-Wireless Network Technologies 
+## Wireless Network Technologies 
 
-Network Services 
+## Network Services 
 
-IPv4 and IPv6 
+## IPv4 and IPv6 
 
-Assigning IP Addresses 
+## Assigning IP Addresses 
 
-DNS Configuration 
+## DNS Configuration 
 
-DNCP Configuration 
+## DNCP Configuration 
 
-VLANs and VPNS 
+## VLANs and VPNS 
 
-Internet Connection Types 
+## Internet Connection Types 
 
-Network Types 
+## Network Types 
 
-Network Tools 
+## Network Tools 
 
-Network Cables 
+## Network Cables 
 
-Optical Fiber 
+## Optical Fiber 
 
-586A and 568B Colours 
+## 586A and 568B Colours 
 
-Peripheral Cables 
+## Peripheral Cables 
 
-Video Cables 
+## Video Cables 
 
-SATA Device Cables 
+## SATA Device Cables 
 
-SCSI Device Cables 
+## SCSI Device Cables 
 
-PATA Device Cables 
+## PATA Device Cables 
 
-Adapters and Converters 
+## Adapters and Converters 
 
-Copper Connectors 
+## Copper Connectors 
 
-Fiber Connectors 
+## Fiber Connectors 
 
-An Overview of Memory 
+## An Overview of Memory 
 
-Memory Technologies 
+## Memory Technologies 
 
-Storage Devices 
+## Storage Devices 
 
-RAID 
+## RAID 
 
-Motherboard Form Factors 
+## Motherboard Form Factors 
 
-Motherboard Expansion Slots 
+## Motherboard Expansion Slots 
 
-Motherboard Connectors 
+## Motherboard Connectors 
 
-Motherboard Compatibility 
+## Motherboard Compatibility 
 
-The BIOS 
+## The BIOS 
 
-BIOS Settings 
+## BIOS Settings 
 
-CPU Features 
+## CPU Features 
 
-Expansion Cards 
+## Expansion Cards 
 
-Cooling 
+## Cooling 
 
-Computer Power 
+## Computer Power 
 
-Multifunction Devices 
+## Multifunction Devices 
 
-Laser Printers 
+## Laser Printers 
 
-Laser Printer Maintenance 
+## Laser Printer Maintenance 
 
-Inkjet Printer 
+## Inkjet Printer 
 
-Inkjet Printer Maintenance 
+## Inkjet Printer Maintenance 
 
-Thermal Printers 
+## Thermal Printers 
 
-Thermal Printer Maintenance 
+## Thermal Printer Maintenance 
 
-Impact Printers 
+## Impact Printers 
 
-Impact Printer Maintenace 
+## Impact Printer Maintenace 
 
-3D Printers 
+## 3D Printers 
 
-Cloud Models 
+## Cloud Models 
 
-Cloud Characteristics 
+## Cloud Characteristics 
 
-Client-side Virtualization 
+## Client-side Virtualization 
 
-How to Troubleshoot 
+## How to Troubleshoot 
 
-Troubleshooting Common Hardware Problems 
+## Troubleshooting Common Hardware Problems 
 
-Troubleshooting Storage Devices 
+## Troubleshooting Storage Devices 
 
-Troubleshooting Video and Display Issues 
+## Troubleshooting Video and Display Issues 
 
-Troubleshooting Mobile Devices 
+## Troubleshooting Mobile Devices 
 
-Troubleshooting Printers 
+## Troubleshooting Printers 
 
-Troubleshooting Networks 
+## Troubleshooting Networks 

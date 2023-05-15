@@ -114,6 +114,19 @@
 - Bluetooth Connectivity 
 
 ## Network Services - 2.4
+- Intro 
+- DHCP Server 
+- File Server 
+- Print Server 
+- Mail Server 
+- Web Server 
+- Authentication Sever 
+- Spam Gateways 
+- All-in-one Security Appliance 
+- Load Balancers 
+- Proxy Sever 
+- SCADA / ICS 
+- Legacy and Embedded Systems 
 
 ## IPv4 and IPv6 - 2.5
 

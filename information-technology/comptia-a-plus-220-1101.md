@@ -158,6 +158,15 @@
 - Adding an DMARC TXT Record 
 
 ## DNCP Configuration - 2.6
+- Scope Properties 
+- DHCP Pools 
+- SOHO DHCP Server 
+- DHCP Address Assignment 
+- DHCP Address Allocation 
+- Address Reservation 
+- DHCP Leases 
+- DHCP Renewal 
+- The DHCP Lease Process 
 
 ## VLANs and VPNS - 2.6
 

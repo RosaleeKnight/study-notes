@@ -479,6 +479,10 @@
 - Heat Sensitivity 
 
 ## Impact Printers - 3.7
+- Dot-Matrix (Impact) Printer 
+- Dot-Matrix Printer head 
+- Printer Ribbon 
+- Tractor Feed 
 
 ## Impact Printer Maintenace - 3.7
 

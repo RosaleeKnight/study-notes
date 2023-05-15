@@ -494,6 +494,11 @@ My study notes taken from courses and used for exams or general reminders.
   - Thermal Paper 
   
 - Thermal Printer Maintenance 
+  - Introduction
+  - Replacing Paper 
+  - Cleaning Heating Element 
+  - Cleaning Thermal Paper 
+  - Heat Sensitivity 
   
 - Impact Printers 
   

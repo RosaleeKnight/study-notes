@@ -386,6 +386,14 @@
 - Virtualization Support
 
 ## Expansion Cards - 3.4
+- Expansion Cards 
+- Sound Card 
+- Intergrated Graphics 
+- Capture Card 
+- NIC (Network Interface Card) 
+- Multi-port Ethernet 
+- Documentation 
+- Driver Installation 
 
 ## Cooling - 3.4
 

@@ -197,6 +197,11 @@ My study notes taken from courses and used for exams or general reminders.
   - The DHCP Lease Process 
 
 - VLANs and VPNS 
+  - LANs 
+  - Virtual LANs 
+  - Configuring VLANs 
+  - VPNs 
+  - Client-to-site VPN 
   
 - Internet Connection Types 
   

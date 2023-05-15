@@ -32,6 +32,15 @@
 - Wi-Fi Hotspot 
 
 ## Mobile Device Accessories 
+- Intro 
+- Active Stylus 
+- Drawing Pad 
+- Trackpad 
+- Headsets 
+- Speakers 
+- Camera / Webcam 
+- Docking Station 
+- Port Replicator 
 
 ## Cellular Standards 
 

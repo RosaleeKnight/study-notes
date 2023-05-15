@@ -204,6 +204,12 @@ My study notes taken from courses and used for exams or general reminders.
   - Client-to-site VPN 
   
 - Internet Connection Types 
+  - Satellite Network 
+  - Fiber 
+  - Cable Broadband 
+  - DSL 
+  - Cellular Networks 
+  - WISP 
   
 - Network Types 
   

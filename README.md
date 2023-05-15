@@ -70,7 +70,10 @@ My study notes taken from courses and used for exams or general reminders.
   - LTE 
   - PRL 
   - Wi-Fi Hotspot 
-- Mobile Device Connectivity 
+- Mobile Device Connectivity
+  - Bluetooth Pairing 
+  - GPS 
+  - MDM 
 - Mobile Device Configurations 
 - Introduction to IP 
 - Common Network Ports 

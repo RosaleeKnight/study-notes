@@ -531,6 +531,19 @@
 - The Troubleshooting Process 
 
 ## Troubleshooting Common Hardware Problems - 5.2
+- POST (Power on Shelf) 
+- POST and Boot 
+- Crash Screens 
+- Bluescreens and Spontaneous Shutdowns 
+- Black Screen 
+- No Power 
+- Sluggish Performance 
+- Overheating 
+- Smoke and Burning Smell 
+- Intermittent Shutdown 
+- Application Crashes 
+- Grinding Noises 
+- Inaccurate System Date / Time 
 
 ## Troubleshooting Storage Devices - 5.3
 

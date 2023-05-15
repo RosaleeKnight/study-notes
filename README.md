@@ -290,6 +290,12 @@ My study notes taken from courses and used for exams or general reminders.
   - PATA and SATA Cabling 
   
 - Adapters and Converters 
+  - Adapters and Converters 
+  - DVI to HDMI 
+  - DVI to VGA 
+  - USB-C to USB-A 
+  - USB to Ethernet 
+  - USB Hub 
   
 - Copper Connectors 
   

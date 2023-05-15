@@ -328,6 +328,11 @@ My study notes taken from courses and used for exams or general reminders.
   - DDR5 Memory 
   
 - Memory Technologies 
+  - Virtual Memory 
+  - Multichannel Memory 
+  - Errors 
+  - Parity 
+  - Evaluation 
   
 - Storage Devices 
   

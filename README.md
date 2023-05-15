@@ -74,7 +74,10 @@ My study notes taken from courses and used for exams or general reminders.
   - Bluetooth Pairing 
   - GPS 
   - MDM 
-- Mobile Device Configurations 
+- Mobile Device Configurations
+  - Configuring a Mobile Device 
+  - Microsoft 365 
+  - Synchronizing Data 
 - Introduction to IP 
 - Common Network Ports 
 - Network Devices 

@@ -461,7 +461,7 @@ My study notes taken from courses and used for exams or general reminders.
   - GNU Bash
   - PowerShell
   
-- Integrated Development Environment (IDE)
+- Integrated Development Environment
   - Pycharm
   - Replit
   - Virtual Studio Code

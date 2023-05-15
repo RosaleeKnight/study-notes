@@ -589,6 +589,14 @@ My study notes taken from courses and used for exams or general reminders.
   - LCD Projector Troubleshooting 
   
 - Troubleshooting Mobile Devices 
+  - Poor Battery Health 
+  - Swollen Battery 
+  - Broken Screen 
+  - Poor or No Connectivity 
+  - Liquid Damage 
+  - Overheating 
+  - Malware 
+  - Cursor Drift 
   
 - Troubleshooting Printers 
   

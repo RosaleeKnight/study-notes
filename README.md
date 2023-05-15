@@ -244,7 +244,10 @@ My study notes taken from courses and used for exams or general reminders.
   - Ferrule 
   
 - 586A and 568B Colours 
-  
+  - Structed Cabling Standards 
+  - T568A and T568B Termination 
+  - 568A and 568B Termination 
+
 - Peripheral Cables 
   
 - Video Cables 

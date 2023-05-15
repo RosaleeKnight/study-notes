@@ -97,6 +97,14 @@
 - Modular Architecture 
 
 ## Wireless Network Standards - 2.3
+- Intro 
+- Wi-Fi AC 
+- Wi-Fi AX 
+- Antennas 
+- Rules and Regulations 
+- RFID 
+- Radar 
+- NFC 
 
 ## Wireless Network Technologies - 2.3
 

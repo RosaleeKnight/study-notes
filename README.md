@@ -169,8 +169,21 @@ My study notes taken from courses and used for exams or general reminders.
   - Request 
   - Acknowledge 
   - Avoid Manual Configurations 
-  - APIPA (Automatic Private IP) 
+  - APIPA (Automatic Private IP)
+  
+- DNS Configuration 
+  - Intro 
+  - The DNS Hierarchy 
+  - DNS Lookup 
   - DNS Configuration 
+  - A / AAAA (Address Records) 
+  - MX (Mail Exchanger Record) 
+  - TXT (Text Records) 
+  - Viewing TXT Records with nslookup 
+  - SPF (Sender Policy Framework) 
+  - DKIM (Domain Keys Identified Mail) 
+  - Adding an DKIM TXT Record 
+  - Adding an DMARC TXT Record 
   
 - DNCP Configuration 
   

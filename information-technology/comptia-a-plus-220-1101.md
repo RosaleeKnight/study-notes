@@ -334,6 +334,15 @@
 - ITX Form Factor 
 
 ## Motherboard Expansion Slots - 3.4 
+- Intro 
+- PCI 
+- Parallel Bus 
+- Voltage Support 
+- Card Installation 
+- PCI Express 
+- Serial Connections 
+- Motherboard Expansion Slots 
+- PCI Express Adapter 
 
 ## Motherboard Connectors - 3.4
 

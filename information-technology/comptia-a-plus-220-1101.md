@@ -504,6 +504,9 @@
 - Cloud Models 
 
 ## Cloud Characteristics - 4.1
+- Shared Resources 
+- Cloud Computing Characteristics 
+- Desktop as a Service 
 
 ## Client-side Virtualization - 4.2
 

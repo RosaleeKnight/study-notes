@@ -418,6 +418,14 @@ My study notes taken from courses and used for exams or general reminders.
   - Expansion Cards 
   
 - Cooling 
+  - Case Fans 
+  - On-board Fans 
+  - Fan Specifications 
+  - Fanless / Passive Cooling 
+  - Heat Sink 
+  - Thermal Paste 
+  - Thermal Pad 
+  - Liquid Cooling 
   
 - Computer Power 
   

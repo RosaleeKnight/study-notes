@@ -51,6 +51,9 @@
 - Wi-Fi Hotspot 
 
 ## Mobile Device Connectivity 
+- Bluetooth Pairing 
+- GPS 
+- MDM 
 
 ## Mobile Device Configurations 
 

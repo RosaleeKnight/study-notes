@@ -460,6 +460,10 @@
 - Calibration 
 
 ## Inkjet Printer Maintenance - 3.7
+- Cleaning Print Heads 
+- Replacing Inkjet Cartridges 
+- Inkjet Printer Calibration 
+- Clearing Jams 
 
 ## Thermal Printers - 3.7
 

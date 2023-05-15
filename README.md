@@ -278,6 +278,10 @@ My study notes taken from courses and used for exams or general reminders.
   - SATA and eSATA 
   
 - SCSI Device Cables 
+  - The SCSI Standard 
+  - SCSI Advantages 
+  - SCSI ID and LUN (Logic Unit) 
+  - Serial Attached SCSI 
   
 - PATA Device Cables 
   

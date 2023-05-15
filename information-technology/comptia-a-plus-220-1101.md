@@ -485,6 +485,9 @@
 - Tractor Feed 
 
 ## Impact Printer Maintenace - 3.7
+- Introduction 
+- Printhead 
+- Paper 
 
 ## 3D Printers - 3.7
 

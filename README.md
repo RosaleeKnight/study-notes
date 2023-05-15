@@ -350,6 +350,10 @@ My study notes taken from courses and used for exams or general reminders.
   - Optical Drives 
   
 - RAID 
+  - Data Redundancy 
+  - Mirroring
+  - Raid 5 – Stripping with Parity 
+  - RAID 10 (1 + 0) - A Strip of Mirrors 
   
 - Motherboard Form Factors 
   

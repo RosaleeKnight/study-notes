@@ -509,6 +509,16 @@
 - Desktop as a Service 
 
 ## Client-side Virtualization - 4.2
+- Intro 
+- Legacy Software and Operating Systems 
+- Cross-platform Virtualization 
+- The Hypervisor 
+- Resource Requirements 
+- Sandboxing 
+- Building the Application 
+- Hypervisor Security 
+- Guest Operating System Security 
+- Network Requirements 
 
 ## How to Troubleshoot - 5.1
 

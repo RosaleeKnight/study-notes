@@ -353,6 +353,11 @@
 - M.2 Connector 
 
 ## Motherboard Compatibility - 3.4
+- Intro 
+- CPU Install 
+- Server Motherboards 
+- Laptop Motherboards 
+- Laptops 
 
 ## The BIOS - 3.4
 

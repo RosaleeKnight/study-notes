@@ -186,7 +186,16 @@ My study notes taken from courses and used for exams or general reminders.
   - Adding an DMARC TXT Record 
   
 - DNCP Configuration 
-  
+  - Scope Properties 
+  - DHCP Pools 
+  - SOHO DHCP Server 
+  - DHCP Address Assignment 
+  - DHCP Address Allocation 
+  - Address Reservation 
+  - DHCP Leases 
+  - DHCP Renewal 
+  - The DHCP Lease Process 
+
 - VLANs and VPNS 
   
 - Internet Connection Types 

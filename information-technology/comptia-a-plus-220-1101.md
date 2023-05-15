@@ -445,6 +445,11 @@
 - Summary 
 
 ## Laser Printer Maintenance - 3.7 
+- Replacing the Toner Cartridge 
+- Laser Printer Maintenance Kit 
+- Laser Printer Calibration 
+- Laser Printer Cleaning 
+
 
 ## Inkjet Printer - 3.7
 

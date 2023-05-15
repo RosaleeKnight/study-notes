@@ -107,6 +107,11 @@
 - NFC 
 
 ## Wireless Network Technologies - 2.3
+- Frequency Use 
+- Channel Designations 
+- Regulations 
+- Band Selections 
+- Bluetooth Connectivity 
 
 ## Network Services - 2.4
 

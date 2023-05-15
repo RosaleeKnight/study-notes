@@ -591,3 +591,12 @@
 - Portrait vs Landscape 
 
 ## Troubleshooting Networks - 5.7
+- No Network Connectivity 
+- Intermittent Wireless Connectivity 
+- Wireless Interference 
+- SNR (Signal to Noise Ratio) 
+- Limited or No Connectivity 
+- Jitter 
+- Poor VoIP Quality 
+- Latency 
+- Port Flapping 

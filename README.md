@@ -126,8 +126,15 @@ My study notes taken from courses and used for exams or general reminders.
   - Modular Architecture 
   
 - Wireless Network Technologies 
-  
-- Network Services 
+  - Intro 
+  - Wi-Fi AC 
+  - Wi-Fi AX 
+  - Antennas 
+  - Rules and Regulations 
+  - RFID 
+  - Radar 
+  - NFC 
+  - Network Services 
   
 - IPv4 and IPv6 
   

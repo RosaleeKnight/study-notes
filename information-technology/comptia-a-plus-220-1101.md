@@ -379,6 +379,11 @@
 - HSM (Hardware Security Module) 
 
 ## CPU Features - 3.4
+- Operating System Technologies 
+- ARM (Advanced RISC Machine) 
+- Processor Cores 
+- Multithreading 
+- Virtualization Support
 
 ## Expansion Cards - 3.4
 

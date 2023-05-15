@@ -144,6 +144,18 @@
 - APIPA (Automatic Private IP) 
 
 ## DNS Configuration - 2.6
+- Intro 
+- The DNS Hierarchy 
+- DNS Lookup 
+- DNS Configuration 
+- A / AAAA (Address Records) 
+- MX (Mail Exchanger Record) 
+- TXT (Text Records) 
+- Viewing TXT Records with nslookup 
+- SPF (Sender Policy Framework) 
+- DKIM (Domain Keys Identified Mail) 
+- Adding an DKIM TXT Record 
+- Adding an DMARC TXT Record 
 
 ## DNCP Configuration - 2.6
 

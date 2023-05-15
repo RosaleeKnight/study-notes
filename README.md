@@ -473,6 +473,13 @@ My study notes taken from courses and used for exams or general reminders.
   - Laser Printer Cleaning 
   
 - Inkjet Printer 
+  - Intro 
+  - Inject Printers 
+  - Ink Cartridges 
+  - Printer Heads 
+  - Feed Rollers 
+  - Ink Cartridges 
+  - Calibration 
   
 - Inkjet Printer Maintenance 
   

@@ -129,6 +129,9 @@
 - Legacy and Embedded Systems 
 
 ## IPv4 and IPv6 - 2.5
+- IP Addressing 
+- Networking with IPv4 
+- DNS Servers 
 
 ## Assigning IP Addresses - 2.5
 

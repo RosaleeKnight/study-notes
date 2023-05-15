@@ -56,6 +56,9 @@
 - MDM 
 
 ## Mobile Device Configurations - 1.4
+- Configuring a Mobile Device 
+- Microsoft 365 
+- Synchronizing Data 
 
 ## Introduction to IP - 1.2
 

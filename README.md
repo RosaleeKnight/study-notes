@@ -298,6 +298,15 @@ My study notes taken from courses and used for exams or general reminders.
   - USB Hub 
   
 - Copper Connectors 
+  - RJ11 Connector 
+  - F-connector 
+  - Punchdown Block 
+  - USB 1.1 / 2.0 
+  - USB-C 
+  - Molex Connector 
+  - Power Supply 
+  - Lightning 
+  - DB-9 
   
 - Fiber Connectors 
   

@@ -599,6 +599,18 @@ My study notes taken from courses and used for exams or general reminders.
   - Cursor Drift 
   
 - Troubleshooting Printers 
+  - Intro 
+  - Test Page 
+  - Garbled Print 
+  - Toner Smudging 
+  - Paper Size Mismatch 
+  - Paper Jams 
+  - Print Queue Crashes 
+  - Print Colours 
+  - Calibrate Colours 
+  - Grinding Noises 
+  - Finishing 
+  - Portrait vs Landscape 
   
 - Troubleshooting Networks 
 </details>

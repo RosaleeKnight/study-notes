@@ -212,6 +212,12 @@ My study notes taken from courses and used for exams or general reminders.
   - WISP 
   
 - Network Types 
+  - LAN 
+  - WAN 
+  - Personal Area Network 
+  - Metropolitan Area Network 
+  - Storage Area Network 
+  - WLAN 
   
 - Network Tools 
   

@@ -482,6 +482,10 @@ My study notes taken from courses and used for exams or general reminders.
   - Calibration 
   
 - Inkjet Printer Maintenance 
+  - Cleaning Print Heads 
+  - Replacing Inkjet Cartridges 
+  - Inkjet Printer Calibration 
+  - Clearing Jams 
   
 - Thermal Printers 
   

@@ -613,6 +613,15 @@ My study notes taken from courses and used for exams or general reminders.
   - Portrait vs Landscape 
   
 - Troubleshooting Networks 
+  - No Network Connectivity 
+  - Intermittent Wireless Connectivity 
+  - Wireless Interference 
+  - SNR (Signal to Noise Ratio) 
+  - Limited or No Connectivity 
+  - Jitter 
+  - Poor VoIP Quality 
+  - Latency 
+  - Port Flapping 
 </details>
   
 <details> 

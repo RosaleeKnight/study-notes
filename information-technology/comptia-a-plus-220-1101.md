@@ -256,6 +256,10 @@
 - Serial Attached SCSI 
 
 ## PATA Device Cables - 1.3
+- The PATA Standard 
+- PATA Cabling 
+- PATA Interface 
+- PATA and SATA Cabling 
 
 ## Adapters and Converters - 3.1
 

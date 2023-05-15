@@ -578,6 +578,15 @@ My study notes taken from courses and used for exams or general reminders.
   - Missing Drives in OS 
   
 - Troubleshooting Video and Display Issues 
+  - No Video Image 
+  - Image Quality Problems 
+  - Native Resolution 
+  - Burn-in 
+  - Flashing Screen 
+  - Incorrect Colour Display 
+  - Audio Isses 
+  - Dim Images 
+  - LCD Projector Troubleshooting 
   
 - Troubleshooting Mobile Devices 
   

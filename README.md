@@ -120,6 +120,10 @@ My study notes taken from courses and used for exams or general reminders.
   - Software Defined Networking 
   
 - Wireless Network Standards 
+  - Introduction 
+  - Infrastructure Layer 
+  - Physical Device 
+  - Modular Architecture 
   
 - Wireless Network Technologies 
   

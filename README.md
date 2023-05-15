@@ -36,7 +36,7 @@ My study notes taken from courses and used for exams or general reminders.
   - Mini PCIe 
   - Mini PCI Express 
   - Biometrics 
-  - Near-field Communication (NFC)
+  - NFC (Near-field Communication)
   
 - Laptop Displays 
   - LCD Displays 

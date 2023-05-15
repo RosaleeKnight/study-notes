@@ -184,6 +184,12 @@
 - WISP 
 
 ## Network Types - 2.7
+- LAN 
+- WAN 
+- Personal Area Network 
+- Metropolitan Area Network 
+- Storage Area Network 
+- WLAN 
 
 ## Network Tools - 2.8
 

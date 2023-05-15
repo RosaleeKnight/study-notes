@@ -512,6 +512,10 @@ My study notes taken from courses and used for exams or general reminders.
   - Paper 
   
 - 3D Printers 
+  - 3D Printers 
+  - Filament Printing 
+  - Resin printing 
+  - The Print Bed 
   
 - Cloud Models 
   

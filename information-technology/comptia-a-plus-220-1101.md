@@ -176,6 +176,12 @@
 - Client-to-site VPN 
 
 ## Internet Connection Types - 2.7
+- Satellite Network 
+- Fiber 
+- Cable Broadband 
+- DSL 
+- Cellular Networks 
+- WISP 
 
 ## Network Types - 2.7
 

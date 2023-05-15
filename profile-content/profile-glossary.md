@@ -106,7 +106,7 @@ Unix shell and command language written by Brian Fox for the GNU Project as a fr
 ## PowerShell
 Task automation and configuration management program from Microsoft, consisting of a command-line shell and associated scripting language.
 
-# Integrated Development Environment (IDE)
+# IDE (Integrated Development Environment)
 ## Pycharm
 An integrated development environment developed by JetBrains for Python programming.
 ## Replit

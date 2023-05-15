@@ -262,6 +262,12 @@
 - PATA and SATA Cabling 
 
 ## Adapters and Converters - 3.1
+- Adapters and Converters 
+- DVI to HDMI 
+- DVI to VGA 
+- USB-C to USB-A 
+- USB to Ethernet 
+- USB Hub 
 
 ## Copper Connectors - 3.1
 

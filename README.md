@@ -507,6 +507,9 @@ My study notes taken from courses and used for exams or general reminders.
   - Tractor Feed 
   
 - Impact Printer Maintenace 
+  - Introduction 
+  - Printhead 
+  - Paper 
   
 - 3D Printers 
   

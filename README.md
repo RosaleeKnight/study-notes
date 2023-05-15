@@ -63,7 +63,13 @@ My study notes taken from courses and used for exams or general reminders.
   - Camera / Webcam 
   - Docking Station 
   - Port Replicator 
-- Cellular Standards 
+- Cellular Standards
+  - Cellular Standards 
+  - GSM 
+  - CDMA 
+  - LTE 
+  - PRL 
+  - Wi-Fi Hotspot 
 - Mobile Device Connectivity 
 - Mobile Device Configurations 
 - Introduction to IP 

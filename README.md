@@ -99,6 +99,14 @@ My study notes taken from courses and used for exams or general reminders.
   - Ports on the Network 
   
 - Common Network Ports 
+  - Port Numbers 
+  - Telnet 
+  - SMTP (Simple Main Transfer Protocol) 
+  - DHCP (Dynamic Host Configuration Protocol) 
+  - HTTP and HTTPS 
+  - POP3 / IMAP 
+  - SNMP (Simple Network Management Protocol) 
+  - RDP (Remote Desktop Protocol) 
   
 - Network Devices 
   

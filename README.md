@@ -315,6 +315,17 @@ My study notes taken from courses and used for exams or general reminders.
   - SC Connector
   
 - An Overview of Memory 
+  - Intro 
+  - Memory Slots 
+  - Dual Inline Memory 
+  - Sodimm 
+  - Scale 
+  - Clock 
+  - Notches 
+  - Clock Cycles 
+  - DDR3 Memory 
+  - DDR4 Memory 
+  - DDR5 Memory 
   
 - Memory Technologies 
   

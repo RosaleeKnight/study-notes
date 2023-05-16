@@ -1,4 +1,11 @@
 ## An Overview of Windows
+- Windows 10 
+- Windows 10 Home 
+- Windows 10 Pro 
+- Windows 10 Pro for Workstations 
+- Windows 10 Enterprise 
+- Windows 10 Hardware Requirements 
+- Windows 10 Editions
 
 ## Windows Features 
 

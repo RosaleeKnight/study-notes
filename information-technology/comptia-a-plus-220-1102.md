@@ -18,6 +18,11 @@
 - Group Policy Editor 
 
 ## Windows Upgrades 
+- Why Upgrade 
+- Upgrade Methods 
+- Upgrading Windows 
+- Upgrade Paths 
+- Post-installation 
 
 ## Windows Command Line Tools 
 

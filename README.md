@@ -637,6 +637,14 @@ My study notes taken from courses and used for exams or general reminders.
   - Windows 10 Editions
   
 - Windows Features 
+  - Windows at Work 
+  - Domain Services 
+  - Organizing Network Devices 
+  - Desktop Styles 
+  - Availability of RDP 
+  - Ram Support Limitations 
+  - Bitlocker and EFS 
+  - Group Policy Editor 
   
 - Windows Upgrades 
   

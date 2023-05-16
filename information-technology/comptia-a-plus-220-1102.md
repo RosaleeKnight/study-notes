@@ -79,57 +79,57 @@
 
 ## Linux Features - 1.11
 
-## Physical Security 
+## Physical Security - 2.1
 
-## Physical Security for Staff 
+## Physical Security for Staff - 2.1
 
-## Logical Security 
+## Logical Security - 2.1
 
-## Active Directory 
+## Active Directory - 2.1
 
-## Wireless Encryption 
+## Wireless Encryption - 2.2
 
-## Authentication Methods 
+## Authentication Methods - 2.2
 
-## Malware 
+## Malware - 2.3
 
-## Anti-Malware Tools 
+## Anti-Malware Tools - 2.3
 
-## Social Engineering 
+## Social Engineering - 2.4
 
-## Denial of Service 
+## Denial of Service - 2.4
 
-## Zero-Day Attacks 
+## Zero-Day Attacks - 2.4
 
-## On-Path attacks 
+## On-Path attacks - 2.4
 
-## Password Attacks 
+## Password Attacks - 2.4
 
-## Insider Threats 
+## Insider Threats - 2.4
 
-## SQL Injection 
+## SQL Injection - 2.4
 
-## Cross-site Scripting 
+## Cross-site Scripting - 2.4
 
-## Security Vulnerabilities 
+## Security Vulnerabilities - 2.4
 
-## Defender Antivirus 
+## Defender Antivirus - 2.5
 
-## Windows Firewall 
+## Windows Firewall - 2.5
 
-## Windows Security Settings 
+## Windows Security Settings - 2.5
 
-## Security Best Practices 
+## Security Best Practices - 2.6
 
-## Mobile Device Security 
+## Mobile Device Security - 2.7
 
-## Data Destruction 
+## Data Destruction - 2.8
 
-## Securing a SOHO Network 
+## Securing a SOHO Network - 2.9
 
-## Browser Security 
+## Browser Security - 2.10
 
-## Troubleshooting Windows 
+## Troubleshooting Windows - 
 
 ## Troubleshooting Solutions 
 

@@ -654,6 +654,19 @@ My study notes taken from courses and used for exams or general reminders.
   - Post-installation 
   
 - Windows Command Line Tools 
+  - Privileges 
+  - Command Line Troubleshooting 
+  - File Management 
+  - Drive Letters 
+  - hostname 
+  - format 
+  - copy (/v, /y) 
+  - xcopy 
+  - Robust Copy 
+  - shutdown 
+  - DiskPart 
+  - winver 
+  - Managing Group Policy 
   
 - The Windows Network Command Line 
   

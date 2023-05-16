@@ -647,6 +647,11 @@ My study notes taken from courses and used for exams or general reminders.
   - Group Policy Editor 
   
 - Windows Upgrades 
+  - Why Upgrade 
+  - Upgrade Methods 
+  - Upgrading Windows 
+  - Upgrade Paths 
+  - Post-installation 
   
 - Windows Command Line Tools 
   

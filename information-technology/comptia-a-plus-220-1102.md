@@ -1,4 +1,4 @@
-## An Overview of Windows
+## An Overview of Windows - 1.1
 - Windows 10 
 - Windows 10 Home 
 - Windows 10 Pro 
@@ -7,7 +7,7 @@
 - Windows 10 Hardware Requirements 
 - Windows 10 Editions
 
-## Windows Features 
+## Windows Features - 1.1
 - Windows at Work 
 - Domain Services 
 - Organizing Network Devices 
@@ -17,14 +17,14 @@
 - Bitlocker and EFS 
 - Group Policy Editor 
 
-## Windows Upgrades 
+## Windows Upgrades - 1.1
 - Why Upgrade 
 - Upgrade Methods 
 - Upgrading Windows 
 - Upgrade Paths 
 - Post-installation 
 
-## Windows Command Line Tools 
+## Windows Command Line Tools - 1.2
 - Privileges 
 - Command Line Troubleshooting 
 - File Management 
@@ -39,45 +39,45 @@
 - winver 
 - Managing Group Policy 
 
-## The Windows Network Command Line 
+## The Windows Network Command Line - 1.2
 
-## Task Manager 
+## Task Manager - 1.3
 
-## The Microsoft Management Console 
+## The Microsoft Management Console - 1.3
 
-## Additional Windows Tools 
+## Additional Windows Tools - 1.3
 
-## Windows Control Panel 
+## Windows Control Panel - 1.4
 
-## Windows Settings 
+## Windows Settings - 1.5
 
-## Windows Network Technologies 
+## Windows Network Technologies - 1.6
 
-## Configuring Windows Firewall 
+## Configuring Windows Firewall - 1.6
 
-## Windows IP Address Configuration 
+## Windows IP Address Configuration - 1.6
 
-## Windows Network Connections 
+## Windows Network Connections - 1.6
 
-## Installing Applications 
+## Installing Applications - 1.7
 
-## Operating Systems Overview 
+## Operating Systems Overview - 1.8
 
-## Fire Systems 
+## File Systems - 1.8
 
-## Installing Operating Systems 
+## Installing Operating Systems - 1.9
 
-## Upgrading Windows 
+## Upgrading Windows - 1.9
 
-## macOS Overview 
+## macOS Overview - 1.10
 
-## macOS System Preferences 
+## macOS System Preferences - 1.10
 
-## macOS Features 
+## macOS Features - 1.10
 
-## Linux Commands 
+## Linux Commands - 1.11
 
-## Linux Features 
+## Linux Features - 1.11
 
 ## Physical Security 
 

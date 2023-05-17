@@ -494,6 +494,15 @@
 ## End-user Acceptance 
 
 # Managing Backups - 4.3
+## Managing Backups 
+## Differential Backup 
+## Incremental Backup 
+## Backup Types 
+## Backup Testing 
+## On Site vs Off Site Backups 
+## GFS (Grandfather-Father-Son) 
+## GFS Backup Schedule 
+## 3-2-1 Backup Rule 
 
 # Managing Electrostatic Discharge - 4.4
 

@@ -345,6 +345,10 @@
 ## SQL Injection 
 
 # Cross-site Scripting - 2.4
+## Cross-site Scripting 
+## Non-persistent (reflected) XSS 
+## Persistent (stored) XXS Attack 
+## Protecting Against XSS 
 
 # Security Vulnerabilities - 2.4
 

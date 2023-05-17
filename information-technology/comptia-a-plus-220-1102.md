@@ -260,6 +260,14 @@
 ## Email Filtering 
 
 # Active Directory - 2.1
+## Active Directory 
+## Domain 
+## OU (Organizational Units) 
+## Login Script 
+## Group Policy / Updates 
+## Home Folder 
+## Folder Redirection 
+## Security Groups 
 
 # Wireless Encryption - 2.2
 

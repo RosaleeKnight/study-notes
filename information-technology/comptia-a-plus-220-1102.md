@@ -314,6 +314,10 @@
 ## Dumpster Diving Wireless Evil Twins 
 
 # Denial of Service - 2.4
+## Denial of Service 
+## A “Friendly” DoS 
+## Distributed Denial of Service 
+## Mitigating DDoS Attacks 
 
 # Zero-Day Attacks - 2.4
 

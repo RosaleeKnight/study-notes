@@ -398,6 +398,16 @@
 ## Hard Drive Security 
 
 # Securing a SOHO Network - 2.9
+## Change Default Passwords 
+## Firmware Updates 
+## Content Filtering 
+## DHCP Reservations 
+## Address Reservation 
+## Screened Subnet 
+## SSID management 
+## Wireless Channels and Encryption 
+## Disabling Ports 
+## Port Forwarding 
 
 # Browser Security - 2.10
 

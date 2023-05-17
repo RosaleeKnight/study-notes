@@ -405,95 +405,94 @@
 ## Thermal Pad 
 ## Liquid Cooling 
 
-## Computer Power - 3.5
-- Warning 
-- Current 
-- Dual-voltage Input options 
-- Power Supply Output 
-- 24-Pin Motherboard Power 
-- Redundant Power Supplies 
-- Power Supply Connectors 
-- Sizing a Power Supply 
+# Computer Power - 3.5
+## Warning 
+## Current 
+## Dual-voltage Input options 
+## Power Supply Output 
+## 24-Pin Motherboard Power 
+## Redundant Power Supplies 
+## Power Supply Connectors 
+## Sizing a Power Supply 
 
-## Multifunction Devices - 3.6
-- Multifunction Devices 
-- Printer Drivers 
-- Printer languages 
-- Connectivity 
-- Wireless 
-- Printer Share 
-- Printing Options 
-- Printer Trays 
-- Printer Security 
-- Audit Logs 
-- Secured Prints 
-- Flatbed Scanner 
-- Automatic Document Feeder 
+# Multifunction Devices - 3.6
+## Multifunction Devices 
+## Printer Drivers 
+## Printer languages 
+## Connectivity 
+## Wireless 
+## Printer Share 
+## Printing Options 
+## Printer Trays 
+## Printer Security 
+## Audit Logs 
+## Secured Prints 
+## Flatbed Scanner 
+## Automatic Document Feeder 
 
-## Laser Printers - 3.7
-- Introduction 
-- Imaging Drum 
-- Fuser Assembly 
-- Transfer Belt 
-- Pickup Roller 
-- Separation Pad 
-- Duplexing 
-- Processing 
-- Developing 
-- Fusing 
-- Cleaning 
-- Summary 
+# Laser Printers - 3.7
+## Laaser Printers 
+## Imaging Drum 
+## Fuser Assembly 
+## Transfer Belt 
+## Pickup Roller 
+## Separation Pad 
+## Duplexing 
+## Processing 
+## Developing 
+## Fusing 
+## Cleaning 
+## Summary 
 
-## Laser Printer Maintenance - 3.7 
-- Replacing the Toner Cartridge 
-- Laser Printer Maintenance Kit 
-- Laser Printer Calibration 
-- Laser Printer Cleaning 
+# Laser Printer Maintenance - 3.7 
+## Replacing the Toner Cartridge 
+## Laser Printer Maintenance Kit 
+## Laser Printer Calibration 
+## Laser Printer Cleaning 
 
-## Inkjet Printer - 3.7
-- Intro 
-- Inject Printers 
-- Ink Cartridges 
-- Printer Heads 
-- Feed Rollers 
-- Ink Cartridges 
-- Calibration 
+# Inkjet Printer - 3.7
+## Inject Printers 
+## Ink Cartridges 
+## Printer Heads 
+## Feed Rollers 
+## Ink Cartridges 
+## Calibration 
 
-## Inkjet Printer Maintenance - 3.7
-- Cleaning Print Heads 
-- Replacing Inkjet Cartridges 
-- Inkjet Printer Calibration 
-- Clearing Jams 
+# Inkjet Printer Maintenance - 3.7
+## Cleaning Print Heads 
+## Replacing Inkjet Cartridges 
+## Inkjet Printer Calibration 
+## Clearing Jams 
 
-## Thermal Printers - 3.7
-- Introduction 
-- Feed Assembly 
-- Heating Element 
-- Thermal Paper 
+# Thermal Printers - 3.7
+## Thermal Printers 
+## Feed Assembly 
+## Heating Element 
+## Thermal Paper 
 
-## Thermal Printer Maintenance - 3.7
-- Introduction 
-- Replacing Paper 
-- Cleaning Heating Element 
-- Cleaning Thermal Paper 
-- Heat Sensitivity 
+# Thermal Printer Maintenance - 3.7
+## Thermal Printer Maintenance 
+## Replacing Paper 
+## Cleaning Heating Element 
+## Cleaning Thermal Paper 
+## Heat Sensitivity 
 
-## Impact Printers - 3.7
-- Dot-Matrix (Impact) Printer 
-- Dot-Matrix Printer head 
-- Printer Ribbon 
-- Tractor Feed 
+# Impact Printers - 3.7
+## Dot-Matrix (Impact) Printer 
+## Dot-Matrix Printer head 
+## Printer Ribbon 
+## Tractor Feed 
 
-## Impact Printer Maintenace - 3.7
-- Introduction 
-- Printhead 
-- Paper 
+# Impact Printer Maintenace - 3.7
+## Impact Printer Maintenance 
+## Printhead 
+## Paper 
 
-## 3D Printers - 3.7
-- 3D Printers 
-- Filament Printing 
-- Resin printing 
-- The Print Bed 
+# 3D Printers - 3.7
+## 3D Printers 
+## Filament Printing 
+## Resin printing 
+## The Print Bed 
 
 ## Cloud Models - 4.1
 - Intro 

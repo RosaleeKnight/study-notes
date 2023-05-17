@@ -429,6 +429,10 @@
 ## Time Drift 
 
 # Troubleshooting Solutions - 3.1
+## Verifying Requirements 
+## System File Checker 
+## Windows Restore 
+## Update and Patch 
 
 # Troubleshooting Security Issues - 3.2
 

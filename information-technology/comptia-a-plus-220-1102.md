@@ -279,6 +279,12 @@
 ## Wireless Security Modes 
 
 # Authentication Methods - 2.2
+## The Authentication Process 
+## RADIUS (Remote Authentication Dial-in User Service) 
+## TACACS 
+## SSO with Kerberos 
+## Which Method to Use 
+## Multi-factor Authentication 
 
 # Malware - 2.3
 

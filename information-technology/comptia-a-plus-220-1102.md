@@ -75,7 +75,7 @@
 ## regedit.exe 
 
 # Windows Control Panel - 1.4
-##  Windows Control panel 
+## Windows Control panel 
 ## Internet Options 
 ## Devices and Printers 
 ## Networking and Sharing Centre 
@@ -101,6 +101,14 @@
 ## Accounts 
 
 # Windows Network Technologies - 1.6
+## Shared Resources 
+## Mapping Devices 
+## Sharing Printers 
+## Using a Shared Printer 
+## Proxy Settings 
+## Network Locations 
+## Network Paths 
+## Metred Connections 
 
 # Configuring Windows Firewall - 1.6
 

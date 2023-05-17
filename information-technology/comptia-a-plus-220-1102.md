@@ -419,6 +419,14 @@
 ## Ad Blockers 
 
 # Troubleshooting Windows - 3.1
+## Troubleshooting Windows 
+## Bluescreens and Frequent Shutdowns 
+## Sluggish Performance 
+## Boot Errors 
+## Startup Repair 
+## USB Controller Resource Warning 
+## Slow Profile Load 
+## Time Drift 
 
 # Troubleshooting Solutions - 3.1
 

@@ -155,6 +155,13 @@
 ## APS 
 
 # Installing Operating Systems - 1.9
+## Boot Methods 
+## Types of Installations 
+## The Disk Partition 
+## GPT Partition Style 
+## MBR Partition Style 
+## Disk Partitioning 
+## Quick Format vs Full Format 
 
 # Upgrading Windows - 1.9
 

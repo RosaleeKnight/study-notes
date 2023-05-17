@@ -188,6 +188,18 @@
 ## Time Machine 
 
 # macOS Features - 1.10
+## Mission Control and Spaces 
+## Keychain 
+## Spotlight 
+## iCloud 
+## Gestures 
+## Finder 
+## Remote Disc 
+## Dock 
+## Disk Utility 
+## FireVault 
+## Terminal 
+## Force Quit 
 
 # Linux Commands - 1.11
 

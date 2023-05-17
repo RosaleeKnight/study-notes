@@ -362,6 +362,11 @@
 ## Updates 
 
 # Windows Firewall - 2.5
+## Windows Defender Firewall 
+## The Control Panel 
+## Block All Incoming Connections 
+## Windows Defender Firewall with Advanced Security 
+## Add a New Outbound Rule 
 
 # Windows Security Settings - 2.5
 

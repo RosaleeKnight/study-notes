@@ -251,6 +251,13 @@
 ## MDM (Mobile Device Mangement) 
 
 # Logical Security - 2.1
+## Least Privilege 
+## Access Control Lists 
+## Multi-factor Authentication 
+## Software Tokens 
+## SMS (Short Message Service) 
+## Voice Call 
+## Email Filtering 
 
 # Active Directory - 2.1
 

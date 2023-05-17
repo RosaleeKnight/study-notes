@@ -40,6 +40,14 @@
 - Managing Group Policy 
 
 ## The Windows Network Command Line - 1.2
+- ipconfig 
+- ping 
+- netstat 
+- nslookup 
+- net 
+- Common net Commands 
+- tracert 
+- pathping 
 
 ## Task Manager - 1.3
 

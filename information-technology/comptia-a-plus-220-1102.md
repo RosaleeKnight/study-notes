@@ -518,6 +518,11 @@
 ## Safety Goggles 
 
 # Enviromental Impacts - 4.5
+## Disposal Procedures 
+## Handling Toxic Waste 
+## Room Control 
+## Battery Backup 
+## Surge Suppressor Specs 
 
 # Privacy, Licensing and Policies - 4.6
 

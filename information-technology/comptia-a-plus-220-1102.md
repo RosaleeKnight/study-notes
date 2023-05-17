@@ -270,6 +270,13 @@
 ## Security Groups 
 
 # Wireless Encryption - 2.2
+## Securing a Wireless Network 
+## Wireless Encryption 
+## WPA2 and CCMP 
+## WPA3 and GCMP 
+## WPA2 PSK Problem 
+## SAE 
+## Wireless Security Modes 
 
 # Authentication Methods - 2.2
 

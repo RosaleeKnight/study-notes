@@ -50,6 +50,12 @@
 - pathping 
 
 ## Task Manager - 1.3
+- Task Manager 
+- Services 
+- Startup 
+- Processes 
+- Performance 
+- Users 
 
 ## The Microsoft Management Console - 1.3
 

@@ -440,35 +440,38 @@
 ## Browser Security Alerts 
 
 # Removing Malware - 3.3
-##  Malware Removal 
-##  Remediate - Update Anti-Virus 
-##  Remediate - Scan and Remove 
-##  Schedule Scans and Run Updates 
-##  Enable System Protection 
+## Malware Removal 
+## Remediate - Update Anti-Virus 
+## Remediate - Scan and Remove 
+## Schedule Scans and Run Updates 
+## Enable System Protection 
 
 # Troubleshooting Mobile Devices - 3.4
-##  Apps Fails to Close or Crashes 
-##  Battery Life Issues 
-##  Random Reboots 
-##  Connectivity Issues 
-##  Screen Does Not Autorotate 
+## Apps Fails to Close or Crashes 
+## Battery Life Issues 
+## Random Reboots 
+## Connectivity Issues 
+## Screen Does Not Autorotate 
 
 # Troubleshooting Mobile Device Security - 3.5
-##  Android Package Source 
-##  Developer Mode 
-##  Application Spoofing 
-##  High Network Traffic  
-##  Unexpected Application behaviour 
+## Android Package Source 
+## Developer Mode 
+## Application Spoofing 
+## High Network Traffic  
+## Unexpected Application behaviour 
 
 # Ticketing Systems - 4.1
-##  Ticketing Systems 
-##  Managing a Support Ticket 
-##  User Information 
-##  Device and Descriptions 
-##  Categorizing and Escalation 
-##  Resolving the Issue 
+## Ticketing Systems 
+## Managing a Support Ticket 
+## User Information 
+## Device and Descriptions 
+## Categorizing and Escalation 
+## Resolving the Issue 
 
 # Asset Management - 4.1
+## Asset management 
+## Asset Database 
+## Procurement Life Cycle 
 
 # Document Types - 4.1
 

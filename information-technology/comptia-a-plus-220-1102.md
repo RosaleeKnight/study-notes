@@ -75,6 +75,17 @@
 ## regedit.exe 
 
 # Windows Control Panel - 1.4
+##  Windows Control panel 
+## Internet Options 
+## Devices and Printers 
+## Networking and Sharing Centre 
+## Windows Defender Firewall 
+## User Accounts 
+## Device manager  
+## File Explorer Options 
+## Administrative Tools 
+## Power Options 
+## Ease of Access Centre  
 
 # Windows Settings - 1.5
 

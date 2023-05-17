@@ -298,6 +298,13 @@
 ## Cyptominers 
 
 # Anti-Malware Tools - 2.3
+## Windows Recovery Environment 
+## Starting the Console 
+## Anti-Virus and Anti-Malware 
+## Software Firewalls 
+## Anti-phising Training 
+## End User Education 
+## OS Reinstall 
 
 # Social Engineering - 2.4
 

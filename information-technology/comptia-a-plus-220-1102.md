@@ -111,6 +111,9 @@
 ## Metred Connections 
 
 # Configuring Windows Firewall - 1.6
+## Windows Defender Firewall 
+## Windows Firewall Configuration 
+## Creating a Firewall Exception 
 
 # Windows IP Address Configuration - 1.6
 

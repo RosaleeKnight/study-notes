@@ -687,6 +687,13 @@ My study notes taken from courses and used for exams or general reminders.
   - Users 
   
 - The Microsoft Management Console 
+  - Microsoft Management Console 
+  - Event Viewer 
+  - Disk Management 
+  - Task Scheduler 
+  - Local Users and Groups 
+  - Performance Monitor 
+  - Group Policy Editor 
   
 - Additional Windows Tools 
   

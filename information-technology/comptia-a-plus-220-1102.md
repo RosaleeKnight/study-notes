@@ -461,6 +461,12 @@
 ##  Unexpected Application behaviour 
 
 # Ticketing Systems - 4.1
+##  Ticketing Systems 
+##  Managing a Support Ticket 
+##  User Information 
+##  Device and Descriptions 
+##  Categorizing and Escalation 
+##  Resolving the Issue 
 
 # Asset Management - 4.1
 

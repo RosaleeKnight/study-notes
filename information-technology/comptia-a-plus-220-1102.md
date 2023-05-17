@@ -536,6 +536,12 @@
 ## PHI (Protected Health Information) 
 
 # Communicaton - 4.7
+## Communication Skills 
+## Avoid Jargon 
+## Maintain a Positive Attitude 
+## Avoid Interrupting 
+## Clarify Customer Statements 
+## Setting Expectations 
 
 # Professionalism - 4.7
 

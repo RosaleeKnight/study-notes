@@ -494,108 +494,108 @@
 ## Resin printing 
 ## The Print Bed 
 
-## Cloud Models - 4.1
-- Intro 
-- Private Cloud 
-- Infrastructure as a Service 
-- Software as a Service 
-- Platform as a Service 
-- Cloud Models 
+# Cloud Models - 4.1
+## Cloud Models
+## Private Cloud 
+## Infrastructure as a Service 
+## Software as a Service 
+## Platform as a Service 
+## Cloud Models 
 
-## Cloud Characteristics - 4.1
-- Shared Resources 
-- Cloud Computing Characteristics 
-- Desktop as a Service 
+# Cloud Characteristics - 4.1
+## Shared Resources 
+## Cloud Computing Characteristics 
+## Desktop as a Service 
 
-## Client-side Virtualization - 4.2
-- Intro 
-- Legacy Software and Operating Systems 
-- Cross-platform Virtualization 
-- The Hypervisor 
-- Resource Requirements 
-- Sandboxing 
-- Building the Application 
-- Hypervisor Security 
-- Guest Operating System Security 
-- Network Requirements 
+# Client-side Virtualization - 4.2
+## Client-side Virtualization 
+## Legacy Software and Operating Systems 
+## Cross-platform Virtualization 
+## The Hypervisor 
+## Resource Requirements 
+## Sandboxing 
+## Building the Application 
+## Hypervisor Security 
+## Guest Operating System Security 
+## Network Requirements 
 
-## How to Troubleshoot - 5.1
-- Change Mangement 
-- Identify the Problem 
-- Establish a Theory 
-- Test the Theory 
-- Implement the Solution 
-- Verify Full System Functionality 
-- Document Findings 
-- The Troubleshooting Process 
+# How to Troubleshoot - 5.1
+## Change Mangement 
+## Identify the Problem 
+## Establish a Theory 
+## Test the Theory 
+## Implement the Solution 
+## Verify Full System Functionality 
+## Document Findings 
+## The Troubleshooting Process 
 
-## Troubleshooting Common Hardware Problems - 5.2
-- POST (Power on Shelf) 
-- POST and Boot 
-- Crash Screens 
-- Bluescreens and Spontaneous Shutdowns 
-- Black Screen 
-- No Power 
-- Sluggish Performance 
-- Overheating 
-- Smoke and Burning Smell 
-- Intermittent Shutdown 
-- Application Crashes 
-- Grinding Noises 
-- Inaccurate System Date / Time 
+# Troubleshooting Common Hardware Problems - 5.2
+## POST (Power on Shelf) 
+## POST and Boot 
+## Crash Screens 
+## Bluescreens and Spontaneous Shutdowns 
+## Black Screen 
+## No Power 
+## Sluggish Performance 
+## Overheating 
+## Smoke and Burning Smell 
+## Intermittent Shutdown 
+## Application Crashes 
+## Grinding Noises 
+## Inaccurate System Date / Time 
 
-## Troubleshooting Storage Devices - 5.3
-- Storage Failure Symptoms 
-- Troubleshooting Disk Failures 
-- Troubleshooting Boot Failures 
-- Data Loss / Corruption 
-- RAID not Found 
-- RAID Stops Working 
-- Extended Read / Write Times 
-- Missing Drives in OS 
+# Troubleshooting Storage Devices - 5.3
+## Storage Failure Symptoms 
+## Troubleshooting Disk Failures 
+## Troubleshooting Boot Failures 
+## Data Loss / Corruption 
+## RAID not Found 
+## RAID Stops Working 
+## Extended Read / Write Times 
+## Missing Drives in OS 
 
-## Troubleshooting Video and Display Issues - 5.4
-- No Video Image 
-- Image Quality Problems 
-- Native Resolution 
-- Burn-in 
-- Flashing Screen 
-- Incorrect Colour Display 
-- Audio Isses 
-- Dim Images 
-- LCD Projector Troubleshooting 
+# Troubleshooting Video and Display Issues - 5.4
+## No Video Image 
+## Image Quality Problems 
+## Native Resolution 
+## Burn-in 
+## Flashing Screen 
+## Incorrect Colour Display 
+## Audio Isses 
+## Dim Images 
+## LCD Projector Troubleshooting 
 
-## Troubleshooting Mobile Devices - 5.5
-- Poor Battery Health 
-- Swollen Battery 
-- Broken Screen 
-- Poor or No Connectivity 
-- Liquid Damage 
-- Overheating 
-- Malware 
-- Cursor Drift 
+# Troubleshooting Mobile Devices - 5.5
+## Poor Battery Health 
+## Swollen Battery 
+## Broken Screen 
+## Poor or No Connectivity 
+## Liquid Damage 
+## Overheating 
+## Malware 
+## Cursor Drift 
 
-## Troubleshooting Printers - 5.6
-- Intro 
-- Test Page 
-- Garbled Print 
-- Toner Smudging 
-- Paper Size Mismatch 
-- Paper Jams 
-- Print Queue Crashes 
-- Print Colours 
-- Calibrate Colours 
-- Grinding Noises 
-- Finishing 
-- Portrait vs Landscape 
+# Troubleshooting Printers - 5.6
+## Troubleshooting Printers 
+## Test Page 
+## Garbled Print 
+## Toner Smudging 
+## Paper Size Mismatch 
+## Paper Jams 
+## Print Queue Crashes 
+## Print Colours 
+## Calibrate Colours 
+## Grinding Noises 
+## Finishing 
+## Portrait vs Landscape 
 
-## Troubleshooting Networks - 5.7
-- No Network Connectivity 
-- Intermittent Wireless Connectivity 
-- Wireless Interference 
-- SNR (Signal to Noise Ratio) 
-- Limited or No Connectivity 
-- Jitter 
-- Poor VoIP Quality 
-- Latency 
-- Port Flapping 
+# Troubleshooting Networks - 5.7
+## No Network Connectivity 
+## Intermittent Wireless Connectivity 
+## Wireless Interference 
+## SNR (Signal to Noise Ratio) 
+## Limited or No Connectivity 
+## Jitter 
+## Poor VoIP Quality 
+## Latency 
+## Port Flapping 

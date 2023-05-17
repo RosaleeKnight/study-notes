@@ -1,6 +1,6 @@
 Terms I have come across studying.
 
-# .
+# . & Numbers
 **.app:** A container to hold the application and its resource files that is used on macOS.
 
 **.bat:** The extension type used with Microsoft batch scripts.
@@ -19,16 +19,15 @@ Terms I have come across studying.
 
 **.vbs:** The extension type used with Microsoft Visual Basic scripts.
 
-# Numbers
+**3D Printing:** Fabrication process also known as additive manufacturing, where three dimensional products are created by adding thin layers of material on top of each other using filament or resin to create the products on a print bed.
+
+**8.3 Naming Convention:** The naming convention used with DOS that requires the format of eight letters for the name, a period, and then a three letter file identifier.
+
 **20-pin to 24-pin Motherboard Adapter:** A power adapter that allows flexibility between a power supply and a 20-pin ATX motherboard connector and a 24-pin ATX motherboard connector.
 
 **32-bit Operating System:** An operating system based on 32-bit commands that can address 32-bit memory locations.
 
-**3D Printing:** Fabrication process also known as additive manufacturing, where three dimensional products are created by adding thin layers of material on top of each other using filament or resin to create the products on a print bed.
-
 **64-bit Operating System:** An operating system based on 64-bit commands that can address 64-bit memory locations.
-
-**8.3 Naming Convention:** The naming convention used with DOS that requires the format of eight letters for the name, a period, and then a three letter file identifier.
 
 **802.11:** The IEEE specification that defines the family of wireless network communications.
 

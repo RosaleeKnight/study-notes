@@ -88,6 +88,17 @@
 ## Ease of Access Centre  
 
 # Windows Settings - 1.5
+## Settings 
+## Time and Languages 
+## Update and Security 
+## Personalization 
+## Apps 
+## Privacy 
+## System 
+## Devices 
+## Network and Internet 
+## Gaming 
+## Accounts 
 
 # Windows Network Technologies - 1.6
 

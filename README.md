@@ -1,4 +1,4 @@
-My study notes taken from courses and used for exams or general reminders.
+My study notes / reminders sorted by discipline plus profile content.
 
 # Cybersecurity
 ### Cybersecurity Terminology

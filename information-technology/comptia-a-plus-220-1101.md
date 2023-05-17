@@ -299,111 +299,111 @@
 ## DDR4 Memory 
 ## DDR5 Memory 
 
-## Memory Technologies - 3.2
-- Virtual Memory 
-- Multichannel Memory 
-- Errors 
-- Parity 
-- Evaluation 
+# Memory Technologies - 3.2
+## Virtual Memory 
+## Multichannel Memory 
+## Errors 
+## Parity 
+## Evaluation 
 
-## Storage Devices - 3.3
-- HDD (Hard Disk Drives) 
-- Inside a Hard Disk Drive 
-- Heads and Platters 
-- Drive Size Comparison 
-- SSD (Solid-state Drive) 
-- 2.5 SATA Interface 
-- Mini-Sata (mSata) 
-- AHCI vs. NVMe 
-- M.2 Interface 
-- B-key and M-key 
-- Flash Drives 
-- Flash Memory 
-- Optical Drives 
+# Storage Devices - 3.3
+## HDD (Hard Disk Drives) 
+## Inside a Hard Disk Drive 
+## Heads and Platters 
+## Drive Size Comparison 
+## SSD (Solid-state Drive) 
+## 2.5 SATA Interface 
+## Mini-Sata (mSata) 
+## AHCI vs. NVMe 
+## M.2 Interface 
+## B-key and M-key 
+## Flash Drives 
+## Flash Memory 
+## Optical Drives 
 
-## RAID - 3.3
-- Data Redundancy 
-- Mirroring
-- Raid 5 – Stripping with Parity 
-- RAID 10 (1 + 0) - A Strip of Mirrors 
+# RAID - 3.3
+## Data Redundancy 
+## Mirroring
+## Raid 5 – Stripping with Parity 
+## RAID 10 (1 + 0) - A Strip of Mirrors 
 
-## Motherboard Form Factors - 3.4
-- Motherboard Form Factors 
-- What You Need to Know 
-- ATX Form Factor 
-- ITX Form Factor 
+# Motherboard Form Factors - 3.4
+## Motherboard Form Factors 
+## What You Need to Know 
+## ATX Form Factor 
+## ITX Form Factor 
 
-## Motherboard Expansion Slots - 3.4 
-- Intro 
-- PCI 
-- Parallel Bus 
-- Voltage Support 
-- Card Installation 
-- PCI Express 
-- Serial Connections 
-- Motherboard Expansion Slots 
-- PCI Express Adapter 
+# Motherboard Expansion Slots - 3.4 
+## Motherboard Expansion Slots 
+## PCI 
+## Parallel Bus 
+## Voltage Support 
+## Card Installation 
+## PCI Express 
+## Serial Connections 
+## Motherboard Expansion Slots 
+## PCI Express Adapter 
 
-## Motherboard Connectors - 3.4
-- Motherboard Power 
-- Storage Drive Interfaces – SATA 
-- eSATA Expansion 
-- Headers 
-- Front Panel Connectors 
-- M.2 Connector 
+# Motherboard Connectors - 3.4
+## Motherboard Power 
+## Storage Drive Interfaces – SATA 
+## eSATA Expansion 
+## Headers 
+## Front Panel Connectors 
+## M.2 Connector 
 
-## Motherboard Compatibility - 3.4
-- Intro 
-- CPU Install 
-- Server Motherboards 
-- Laptop Motherboards 
-- Laptops 
+# Motherboard Compatibility - 3.4
+## Motherboard Compatibility 
+## CPU Install 
+## Server Motherboards 
+## Laptop Motherboards 
+## Laptops 
 
-## The BIOS - 3.4
-- Intro 
-- Flash Memory 
-- Legacy BIOS 
-- UEFI BIOS 
-- Emulator 
+# The BIOS - 3.4
+## The BIOS
+## Flash Memory 
+## Legacy BIOS 
+## UEFI BIOS 
+## Emulator 
 
-## BIOS Settings - 3.4
-- The Secret Button (s) 
-- Fast Startup 
-- Important Tips 
-- USB Permissions 
-- UEFI BIOS Secure Boot 
-- Boot Password Mangement 
-- Clearing a Boot Password 
-- The “CMOS” Battery 
-- TMP (Trusted Platform Module) 
-- HSM (Hardware Security Module) 
+# BIOS Settings - 3.4
+## The Secret Button (s) 
+## Fast Startup 
+## Important Tips 
+## USB Permissions 
+## UEFI BIOS Secure Boot 
+## Boot Password Mangement 
+## Clearing a Boot Password 
+## The “CMOS” Battery 
+## TMP (Trusted Platform Module) 
+## HSM (Hardware Security Module) 
 
-## CPU Features - 3.4
-- Operating System Technologies 
-- ARM (Advanced RISC Machine) 
-- Processor Cores 
-- Multithreading 
-- Virtualization Support
+# CPU Features - 3.4
+## Operating System Technologies 
+## ARM (Advanced RISC Machine) 
+## Processor Cores 
+## Multithreading 
+## Virtualization Support
 
-## Expansion Cards - 3.4
-- Expansion Cards 
-- Sound Card 
-- Intergrated Graphics 
-- Capture Card 
-- NIC (Network Interface Card) 
-- Multi-port Ethernet 
-- Documentation 
-- Driver Installation 
+# Expansion Cards - 3.4
+## Expansion Cards 
+## Sound Card 
+## Intergrated Graphics 
+## Capture Card 
+## NIC (Network Interface Card) 
+## Multi-port Ethernet 
+## Documentation 
+## Driver Installation 
 
-## Cooling - 3.4
-- Case Fans 
-- On-board Fans 
-- Fan Specifications 
-- Fanless / Passive Cooling 
-- Heat Sink 
-- Thermal Paste 
-- Thermal Pad 
-- Liquid Cooling 
+# Cooling - 3.4
+## Case Fans 
+## On-board Fans 
+## Fan Specifications 
+## Fanless / Passive Cooling 
+## Heat Sink 
+## Thermal Paste 
+## Thermal Pad 
+## Liquid Cooling 
 
 ## Computer Power - 3.5
 - Warning 

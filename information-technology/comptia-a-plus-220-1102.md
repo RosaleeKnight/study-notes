@@ -484,6 +484,14 @@
 ## Knowledge Base 
 
 # Change Mangement - 4.2
+## Change Management 
+## Sandbox Testing 
+## Responsible Staff Members 
+## Change Management Process 
+## Change request Form 
+## Risk Analysis 
+## Change Board and Approvals 
+## End-user Acceptance 
 
 # Managing Backups - 4.3
 

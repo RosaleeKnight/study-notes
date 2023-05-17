@@ -171,6 +171,12 @@
 ## Windows Product Life Cycle 
 
 # macOS Overview - 1.10
+## File Types 
+## App Store 
+## Uninstall Process 
+## AppleID and Corporate Restrictions 
+## Backups 
+## Anti-virus
 
 # macOS System Preferences - 1.10
 

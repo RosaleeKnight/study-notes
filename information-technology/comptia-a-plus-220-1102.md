@@ -230,6 +230,15 @@
 ## Samba 
 
 # Physical Security - 2.1
+## Access Control Vestibule 
+## Badge Reader 
+## Video Surveillance 
+## Alarm System 
+## Door Locks 
+## Equipment Locks 
+## Guard Access and Lists 
+## Barricades / Bollards 
+## Fences 
 
 # Physical Security for Staff - 2.1
 

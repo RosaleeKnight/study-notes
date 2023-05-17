@@ -1,6 +1,6 @@
 Terms I have come across studying.
 
-# Extensions
+# .
 **.app:** A container to hold the application and its resource files that is used on macOS.
 
 **.bat:** The extension type used with Microsoft batch scripts.

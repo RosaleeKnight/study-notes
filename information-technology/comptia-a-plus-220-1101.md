@@ -1,35 +1,35 @@
-## Laptop Hardware - 1.1
-- Laptop Hardware 
-- Laptop Batteries 
-- Laptop Keys 
-- Laptop Memory 
-- Replacing Laptop Storage 
-- 802.11 Wireless and Bluetooth 
-- Mini PCIe 
-- Mini PCI Express 
-- Biometrics 
-- NFC (Near-field Communication)  
+# Laptop Hardware - 1.1
+## Laptop Hardware 
+## Laptop Batteries 
+## Laptop Keys 
+## Laptop Memory 
+## Replacing Laptop Storage 
+## 802.11 Wireless and Bluetooth 
+## Mini PCIe 
+## Mini PCI Express 
+## Biometrics 
+## NFC (Near-field Communication)  
 
-## Laptop Displays - 1.2
-- LCD Displays 
-- Types of Displays 
-- OLED Displays 
-- Wireless Displays 
-- Webcam 
-- Backlight 
-- Inverters 
-- Digitizers 
+# Laptop Displays - 1.2
+## LCD Displays
+## Types of Displays
+## OLED Displays
+## Wireless Displays
+## Webcam
+## Backlight
+## Inverters
+## Digitizers
 
-## Connecting Mobile Device - 1.3
-- Introduction 
-- USB 
-- USBC 
-- Lightning 
-- Connectors 
-- Serial 
-- NFC 
-- Bluetooth 
-- Wi-Fi Hotspot 
+# Connecting Mobile Device - 1.3
+## Introduction 
+## USB 
+## USBC 
+## Lightning 
+## Connectors 
+## Serial 
+## NFC 
+## Bluetooth 
+## Wi-Fi Hotspot 
 
 ## Mobile Device Accessories - 1.3
 - Intro 

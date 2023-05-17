@@ -324,6 +324,9 @@
 ## Zero-day Vulnerabilities 
 
 # On-Path attacks - 2.4
+## On-path Network Attack 
+## ARK Poisoning (Spoofing) 
+## On-path Browser Attack 
 
 # Password Attacks - 2.4
 

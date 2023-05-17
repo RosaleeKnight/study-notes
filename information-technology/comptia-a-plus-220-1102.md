@@ -241,6 +241,14 @@
 ## Fences 
 
 # Physical Security for Staff - 2.1
+## Key Fobs 
+## Smart Cards 
+## Keys 
+## Biometrics 
+## Biometric Factors 
+## Lighting 
+## Magnetometers 
+## MDM (Mobile Device Mangement) 
 
 # Logical Security - 2.1
 

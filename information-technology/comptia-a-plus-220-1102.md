@@ -129,6 +129,13 @@
 ## Wireless WAN 
 
 # Installing Applications - 1.7
+## Installing Applications 
+## Operating System Platform 
+## CPU Requirements 
+## External Hardware Tokens 
+## Storage Requirements 
+## ISO Files 
+## Installation Considerations 
 
 # Operating Systems Overview - 1.8
 

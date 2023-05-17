@@ -440,6 +440,11 @@
 ## Browser Security Alerts 
 
 # Removing Malware - 3.3
+##  Malware Removal 
+##  Remediate - Update Anti-Virus 
+##  Remediate - Scan and Remove 
+##  Schedule Scans and Run Updates 
+##  Enable System Protection 
 
 # Troubleshooting Mobile Devices - 3.4
 

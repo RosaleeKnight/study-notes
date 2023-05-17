@@ -67,6 +67,12 @@
 ## Group Policy Editor 
 
 # Additional Windows Tools - 1.3
+## System Information 
+## Resource Monitor 
+## System Configuration 
+## Disk Cleanup 
+## defrag 
+## regedit.exe 
 
 # Windows Control Panel - 1.4
 

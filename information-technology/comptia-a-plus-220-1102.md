@@ -505,6 +505,11 @@
 ## 3-2-1 Backup Rule 
 
 # Managing Electrostatic Discharge - 4.4
+## What is Electrostatic Discharge 
+## Controlling ESD 
+## Preventing Static Discharge 
+## Anti-static Pad and Strap 
+## Anti-static Bag 
 
 # Safety Procedures - 4.4
 

@@ -224,6 +224,10 @@
 ## nano 
 
 # Linux Features - 1.11
+## Backups 
+## Anti-virus / Anti-malware 
+## Shell / Terminal  
+## Samba 
 
 # Physical Security - 2.1
 

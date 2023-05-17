@@ -202,6 +202,26 @@
 ## Force Quit 
 
 # Linux Commands - 1.11
+## Linux Commands 
+## ls 
+## pwd 
+## mv 
+## cp 
+## rm 
+## chmod 
+## chown 
+## sudo 
+## apt-get 
+## yum 
+## ip 
+## df 
+## grep 
+## ps 
+## top 
+## find 
+## dig 
+## cat 
+## nano 
 
 # Linux Features - 1.11
 

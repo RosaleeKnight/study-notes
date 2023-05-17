@@ -58,6 +58,13 @@
 - Users 
 
 ## The Microsoft Management Console - 1.3
+- Microsoft Management Console 
+- Event Viewer 
+- Disk Management 
+- Task Scheduler 
+- Local Users and Groups 
+- Performance Monitor 
+- Group Policy Editor 
 
 ## Additional Windows Tools - 1.3
 

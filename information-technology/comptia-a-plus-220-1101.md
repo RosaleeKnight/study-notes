@@ -31,70 +31,70 @@
 ## Bluetooth 
 ## Wi-Fi Hotspot 
 
-## Mobile Device Accessories - 1.3
-- Intro 
-- Active Stylus 
-- Drawing Pad 
-- Trackpad 
-- Headsets 
-- Speakers 
-- Camera / Webcam 
-- Docking Station 
-- Port Replicator 
+# Mobile Device Accessories - 1.3
+## Intro 
+## Active Stylus 
+## Drawing Pad 
+## Trackpad 
+## Headsets 
+## Speakers 
+## Camera / Webcam 
+## Docking Station 
+## Port Replicator 
 
-## Cellular Standards - 1.4
-- Cellular Standards 
-- GSM 
-- CDMA 
-- LTE 
-- PRL 
-- Wi-Fi Hotspot 
+# Cellular Standards - 1.4
+## Cellular Standards 
+## GSM 
+## CDMA 
+## LTE 
+## PRL 
+## Wi-Fi Hotspot 
 
-## Mobile Device Connectivity - 1.4
-- Bluetooth Pairing 
-- GPS 
-- MDM 
+# Mobile Device Connectivity - 1.4
+## Bluetooth Pairing 
+#- GPS 
+## MDM 
 
-## Mobile Device Configurations - 1.4
-- Configuring a Mobile Device 
-- Microsoft 365 
-- Synchronizing Data 
+# Mobile Device Configurations - 1.4
+## Configuring a Mobile Device 
+## Microsoft 365 
+## Synchronizing Data 
 
-## Introduction to IP - 1.2
-- A Series of Moving Vans 
-- IP (Internet Protocol) 
-- TCP and UDP 
-- TCP (Transmission Control Protocol) 
-- Speedy Delivery 
-- Lots of Ports 
-- Port Numbers 
-- Ports on the Network 
+# Introduction to IP - 1.2
+## A Series of Moving Vans 
+## IP (Internet Protocol) 
+## TCP and UDP 
+## TCP (Transmission Control Protocol) 
+## Speedy Delivery 
+## Lots of Ports 
+## Port Numbers 
+## Ports on the Network 
 
-## Common Network Ports - 2.1
-- Port Numbers 
-- Telnet 
-- SMTP (Simple Main Transfer Protocol) 
-- DHCP (Dynamic Host Configuration Protocol) 
-- HTTP and HTTPS 
-- POP3 / IMAP 
-- SNMP (Simple Network Management Protocol) 
-- RDP (Remote Desktop Protocol) 
+# Common Network Ports - 2.1
+## Port Numbers 
+## Telnet 
+## SMTP (Simple Main Transfer Protocol) 
+## DHCP (Dynamic Host Configuration Protocol) 
+## HTTP and HTTPS 
+## POP3 / IMAP 
+## SNMP (Simple Network Management Protocol) 
+## RDP (Remote Desktop Protocol) 
 
-## Network Devices - 2.2
-- Intro 
-- Managed Switches 
-- Cable Infrastructures 
-- Firewalls 
-- PoE (Power over Ethernet) 
-- PoE Switch 
-- Cable Modem 
-- NIC (Network Interface Card) 
+# Network Devices - 2.2
+## Intro 
+## Managed Switches 
+## Cable Infrastructures 
+## Firewalls 
+## PoE (Power over Ethernet) 
+## PoE Switch 
+## Cable Modem 
+## NIC (Network Interface Card) 
 
-## Software Defined Networking - 2.2
-- Introduction 
-- Infrastructure Layer 
-- Physical Device 
-- Modular Architecture 
+# Software Defined Networking - 2.2
+## Introduction 
+## Infrastructure Layer 
+## Physical Device 
+## Modular Architecture 
 
 ## Wireless Network Standards - 2.3
 - Intro 

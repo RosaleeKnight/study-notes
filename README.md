@@ -669,6 +669,14 @@ My study notes taken from courses and used for exams or general reminders.
   - Managing Group Policy 
   
 - The Windows Network Command Line 
+  - ipconfig 
+  - ping 
+  - netstat 
+  - nslookup 
+  - net 
+  - Common net Commands 
+  - tracert 
+  - pathping 
   
 - Task Manager 
   
@@ -692,7 +700,7 @@ My study notes taken from courses and used for exams or general reminders.
   
 - Operating Systems Overview 
   
-- Fire Systems 
+- File Systems 
   
 - Installing Operating Systems 
   

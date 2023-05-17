@@ -21,7 +21,7 @@
 ## Digitizers
 
 # Connecting Mobile Device - 1.3
-## Introduction 
+## Connecting Mobile Devices
 ## USB 
 ## USBC 
 ## Lightning 
@@ -32,7 +32,7 @@
 ## Wi-Fi Hotspot 
 
 # Mobile Device Accessories - 1.3
-## Intro 
+## Mobile Device Accessories 
 ## Active Stylus 
 ## Drawing Pad 
 ## Trackpad 
@@ -52,7 +52,7 @@
 
 # Mobile Device Connectivity - 1.4
 ## Bluetooth Pairing 
-#- GPS 
+## GPS 
 ## MDM 
 
 # Mobile Device Configurations - 1.4
@@ -81,7 +81,7 @@
 ## RDP (Remote Desktop Protocol) 
 
 # Network Devices - 2.2
-## Intro 
+## Network Devices 
 ## Managed Switches 
 ## Cable Infrastructures 
 ## Firewalls 
@@ -91,13 +91,13 @@
 ## NIC (Network Interface Card) 
 
 # Software Defined Networking - 2.2
-## Introduction 
+## Software Defined Networking
 ## Infrastructure Layer 
 ## Physical Device 
 ## Modular Architecture 
 
 # Wireless Network Standards - 2.3
-## Intro 
+## Wireless Network Standards 
 ## Wi-Fi AC 
 ## Wi-Fi AX 
 ## Antennas 
@@ -114,7 +114,7 @@
 ## Bluetooth Connectivity 
 
 # Network Services - 2.4
-## Intro 
+## Network Services
 ## DHCP Server 
 ## File Server 
 ## Print Server 
@@ -134,7 +134,7 @@
 ## DNS Servers 
 
 # Assigning IP Addresses - 2.5
-## Intro 
+## Assigning IP Addresses
 ## DHCP Process 
 ## Discover 
 ## Offer 
@@ -144,7 +144,7 @@
 ## APIPA (Automatic Private IP) 
 
 # DNS Configuration - 2.6
-## Intro 
+## DNS Configuration 
 ## The DNS Hierarchy 
 ## DNS Lookup 
 ## DNS Configuration 
@@ -201,103 +201,103 @@
 ## Loopback Plugs 
 ## Taps and Port Mirrors 
 
-## Network Cables - 3.1
-- The Importance of Cable 
-- Twisted Pair Copper Cabling 
-- Coaxial Cables 
-- Plenum-Rated Cable 
-- Unshielded and Shielded Cable 
-- Direct Burial STP Cross Section 
+# Network Cables - 3.1
+## The Importance of Cable 
+## Twisted Pair Copper Cabling 
+## Coaxial Cables 
+## Plenum-Rated Cable 
+## Unshielded and Shielded Cable 
+## Direct Burial STP Cross Section 
 
-## Optical Fiber - 3.1
-- Optical Fiber 
-- Optical Connection 
-- Fiber Optics 
-- Ferrule 
+# Optical Fiber - 3.1
+## Optical Fiber 
+## Optical Connection 
+## Fiber Optics 
+## Ferrule 
 
-## 586A and 568B Colours - 3.1
-- Structed Cabling Standards 
-- T568A and T568B Termination 
-- 568A and 568B Termination 
+# 586A and 568B Colours - 3.1
+## Structed Cabling Standards 
+## T568A and T568B Termination 
+## 568A and 568B Termination 
 
-## Peripheral Cables - 3.1
-- Intro 
-- Connectors 
-- USBC 
-- USB 3.0 Update 
-- USB 3.1 Gen 2
-- USB 3.2 Gen 1 
-- USB 3.2 Gen 2 
-- Summary 
-- Thunderbolt
-- Thunderbolt V3 
-- Serial Cables 
+# Peripheral Cables - 3.1
+## Peripheral Cables 
+## Connectors 
+## USBC 
+## USB 3.0 Update 
+## USB 3.1 Gen 2
+## USB 3.2 Gen 1 
+## USB 3.2 Gen 2 
+## Summary 
+## Thunderbolt
+## Thunderbolt V3 
+## Serial Cables 
 
-## Video Cables - 3.1
-- VGA (Video Graphics Array) 
-- HDMI (High-Definition Multimedia Interface) 
-- DisplayPort 
-- DVI (Digital Visual Interface) 
+# Video Cables - 3.1
+## VGA (Video Graphics Array) 
+## HDMI (High-Definition Multimedia Interface) 
+## DisplayPort 
+## DVI (Digital Visual Interface) 
 
-## SATA Device Cables - 3.1
-- Intro 
-- SATA Connectors 
-- One-to-One Connections 
-- Motherboard 
-- Sata Connections 
-- SATA External Connections 
-- SATA Adapter Cards 
-- SATA and eSATA 
+# SATA Device Cables - 3.1
+## SATA Device Cables
+## SATA Connectors 
+## One-to-One Connections 
+## Motherboard 
+## Sata Connections 
+## SATA External Connections 
+## SATA Adapter Cards 
+## SATA and eSATA 
 
-## SCSI Device Cables - 3.1
-- The SCSI Standard 
-- SCSI Advantages 
-- SCSI ID and LUN (Logic Unit) 
-- Serial Attached SCSI 
+# SCSI Device Cables - 3.1
+## The SCSI Standard 
+## SCSI Advantages 
+## SCSI ID and LUN (Logic Unit) 
+## Serial Attached SCSI 
 
-## PATA Device Cables - 1.3
-- The PATA Standard 
-- PATA Cabling 
-- PATA Interface 
-- PATA and SATA Cabling 
+# PATA Device Cables - 1.3
+## The PATA Standard 
+## PATA Cabling 
+## PATA Interface 
+## PATA and SATA Cabling 
 
-## Adapters and Converters - 3.1
-- Adapters and Converters 
-- DVI to HDMI 
-- DVI to VGA 
-- USB-C to USB-A 
-- USB to Ethernet 
-- USB Hub 
+# Adapters and Converters - 3.1
+## Adapters and Converters 
+## DVI to HDMI 
+## DVI to VGA 
+## USB-C to USB-A 
+## USB to Ethernet 
+## USB Hub 
 
-## Copper Connectors - 3.1
-- RJ11 Connector 
-- F-connector 
-- Punchdown Block 
-- USB 1.1 / 2.0 
-- USB-C 
-- Molex Connector 
-- Power Supply 
-- Lightning 
-- DB-9 
+# Copper Connectors - 3.1
+## RJ11 Connector 
+## F-connector 
+## Punchdown Block 
+## USB 1.1 / 2.0 
+## USB-C 
+## Molex Connector 
+## Power Supply 
+## Lightning 
+## DB-9 
 
-## Fiber Connectors - 3.1
-- Introduction 
-- LC Connector 
-- ST Connector 
-- SC Connector 
+# Fiber Connectors - 3.1
+## Introduction 
+## LC Connector 
+## ST Connector 
+## SC Connector 
 
-## An Overview of Memory - 3.2
-- Intro 
-- Memory Slots 
-- Dual Inline Memory 
-- Sodimm 
-- Scale 
-- Clock 
-- Notches 
-- Clock Cycles 
-- DDR3 Memory 
-- DDR4 Memory 
-- DDR5 Memory 
+# An Overview of Memory - 3.2
+## An Overview of Memory 
+## Memory Slots 
+## Dual Inline Memory 
+## Sodimm 
+## Scale 
+## Clock 
+## Notches 
+## Clock Cycles 
+## DDR3 Memory 
+## DDR4 Memory 
+## DDR5 Memory 
 
 ## Memory Technologies - 3.2
 - Virtual Memory 

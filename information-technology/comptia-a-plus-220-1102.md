@@ -329,6 +329,12 @@
 ## On-path Browser Attack 
 
 # Password Attacks - 2.4
+## Plaintext / Unencrypted passwords 
+## Hashing a Password 
+## A hash Example 
+## The Password File 
+## Brute Force 
+## Dictionary Attacks 
 
 # Insider Threats - 2.4
 

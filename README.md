@@ -679,6 +679,12 @@ My study notes taken from courses and used for exams or general reminders.
   - pathping 
   
 - Task Manager 
+  - Task Manager 
+  - Services 
+  - Startup 
+  - Processes 
+  - Performance 
+  - Users 
   
 - The Microsoft Management Console 
   

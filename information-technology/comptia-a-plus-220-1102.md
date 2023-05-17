@@ -512,6 +512,10 @@
 ## Anti-static Bag 
 
 # Safety Procedures - 4.4
+## Power Supplies 
+## Electrical Safety Procedures 
+## Fire Control 
+## Safety Goggles 
 
 # Enviromental Impacts - 4.5
 

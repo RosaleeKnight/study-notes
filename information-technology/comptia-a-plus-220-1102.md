@@ -544,6 +544,10 @@
 ## Setting Expectations 
 
 # Professionalism - 4.7
+## Professional Appearance 
+## Avoid Being Judgemental 
+## Be on Time and Avoid Distractions 
+## Maintain Confidentially 
 
 # Scripting Languages - 4.8
 

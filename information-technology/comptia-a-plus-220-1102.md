@@ -341,6 +341,8 @@
 ## Recruiting Insiders 
 
 # SQL Injection - 2.4
+## Code Injection 
+## SQL Injection 
 
 # Cross-site Scripting - 2.4
 

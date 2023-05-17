@@ -287,6 +287,15 @@
 ## Multi-factor Authentication 
 
 # Malware - 2.3
+## Malware 
+## How You Get Malware 
+## Trojan Horse 
+## Finding and Removing Rootkits 
+## Boot Sector Virus 
+## Keyloggers 
+## Keyloggers in Action 
+## Ransomware 
+## Cyptominers 
 
 # Anti-Malware Tools - 2.3
 

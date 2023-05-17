@@ -138,6 +138,14 @@
 ## Installation Considerations 
 
 # Operating Systems Overview - 1.8
+## Operating Systems Overview 
+## Standard OS Features 
+## Microsoft Windows 
+## Linux 
+## Apple macOS 
+## Chrome OS 
+## Google Android 
+## Vendor-specific Limitations 
 
 # File Systems - 1.8
 

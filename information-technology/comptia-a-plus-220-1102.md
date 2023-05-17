@@ -320,6 +320,8 @@
 ## Mitigating DDoS Attacks 
 
 # Zero-Day Attacks - 2.4
+## Zero-day Attacks 
+## Zero-day Vulnerabilities 
 
 # On-Path attacks - 2.4
 

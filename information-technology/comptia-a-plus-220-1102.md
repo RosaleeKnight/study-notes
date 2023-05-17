@@ -410,6 +410,13 @@
 ## Port Forwarding 
 
 # Browser Security - 2.10
+## Browser Download and Installation 
+## Hash Verification 
+## Extensions and Plug-ins 
+## Secure Connections 
+## Enable pop-up Blockers 
+## Clearing Private Data 
+## Ad Blockers 
 
 # Troubleshooting Windows - 3.1
 

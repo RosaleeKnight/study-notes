@@ -116,6 +116,9 @@
 ## Creating a Firewall Exception 
 
 # Windows IP Address Configuration - 1.6
+## How Windows gets an IP Address 
+## TCP / IP Host Addresses 
+## A Backup for the DHCP Sever 
 
 # Windows Network Connections - 1.6
 

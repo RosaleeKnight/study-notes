@@ -307,6 +307,11 @@
 ## OS Reinstall 
 
 # Social Engineering - 2.4
+## Effective Social Engineering 
+## Preventing Shoulder Surfing 
+## Tailgating and Piggybacking 
+## Impersonation 
+## Dumpster Diving Wireless Evil Twins 
 
 # Denial of Service - 2.4
 

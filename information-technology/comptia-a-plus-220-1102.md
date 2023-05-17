@@ -525,6 +525,15 @@
 ## Surge Suppressor Specs 
 
 # Privacy, Licensing and Policies - 4.6
+## Privacy, Licensing and Policies 
+## Incident Response: Chain of Custody 
+## Incidence Response: First Response 
+## Incident Response: Copy of Drive 
+## Software Licenses 
+## Open-Source License 
+## Personal Government Issues Information 
+## GDPR (General Data Protection Regulation) 
+## PHI (Protected Health Information) 
 
 # Communicaton - 4.7
 

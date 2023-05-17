@@ -384,6 +384,11 @@
 ## Autoplay 
 
 # Mobile Device Security - 2.7
+## Screen Locks 
+## Locator Applications and Remote Wipe  
+## Full Device Encryption 
+## Remote Backup 
+## Anti-Virus and Anti-Malware 
 
 # Data Destruction - 2.8
 

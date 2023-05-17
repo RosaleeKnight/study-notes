@@ -377,6 +377,11 @@
 ## Run as Administrator 
 
 # Security Best Practices - 2.6
+## Full Disk Encryption 
+## Interactive Login Machine Account Lockout Threshold 
+## Interactive Login Machine Inactivity Limit 
+## Auto Run 
+## Autoplay 
 
 # Mobile Device Security - 2.7
 

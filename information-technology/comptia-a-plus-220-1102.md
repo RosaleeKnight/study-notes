@@ -391,6 +391,11 @@
 ## Anti-Virus and Anti-Malware 
 
 # Data Destruction - 2.8
+## Physical Destruction 
+## Certificate of Destruction 
+## Disk Formatting 
+## Erasing Data 
+## Hard Drive Security 
 
 # Securing a SOHO Network - 2.9
 

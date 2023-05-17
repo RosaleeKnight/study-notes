@@ -369,6 +369,12 @@
 ## Add a New Outbound Rule 
 
 # Windows Security Settings - 2.5
+## Windows Authentication 
+## Users and Groups 
+## Sign-in Options 
+## NTFS vs Share Permissions 
+## Explicit and Inherited permissions 
+## Run as Administrator 
 
 # Security Best Practices - 2.6
 

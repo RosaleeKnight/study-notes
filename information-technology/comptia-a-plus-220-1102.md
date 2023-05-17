@@ -550,6 +550,13 @@
 ## Maintain Confidentially 
 
 # Scripting Languages - 4.8
+## Scripting Languages 
+## Batch File 
+## PowerShell 
+## VBScript 
+## Shell Script 
+## JavaScript 
+## Python 
 
 # Scripting Use Cases - 4.8
 

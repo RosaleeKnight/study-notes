@@ -121,6 +121,12 @@
 ## A Backup for the DHCP Sever 
 
 # Windows Network Connections - 1.6
+## Windows Network Connections 
+## Networking and Sharing Centre 
+## VPN Concentrator 
+## VPN Concentrator Configuration 
+## Wireless Network Configuration 
+## Wireless WAN 
 
 # Installing Applications - 1.7
 

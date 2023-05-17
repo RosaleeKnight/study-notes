@@ -351,6 +351,10 @@
 ## Protecting Against XSS 
 
 # Security Vulnerabilities - 2.4
+## Non-compliant Systems 
+## Protecting Against Non-Compliant Systems 
+## Unpatched Systems 
+## Product Support Lifetime 
 
 # Defender Antivirus - 2.5
 

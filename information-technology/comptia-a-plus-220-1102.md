@@ -447,6 +447,11 @@
 ##  Enable System Protection 
 
 # Troubleshooting Mobile Devices - 3.4
+##  Apps Fails to Close or Crashes 
+##  Battery Life Issues 
+##  Random Reboots 
+##  Connectivity Issues 
+##  Screen Does Not Autorotate 
 
 # Troubleshooting Mobile Device Security - 3.5
 

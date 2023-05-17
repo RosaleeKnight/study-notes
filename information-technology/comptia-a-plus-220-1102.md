@@ -1,70 +1,70 @@
 # An Overview of Windows - 1.1
-- Windows 10 
-- Windows 10 Home 
-- Windows 10 Pro 
-- Windows 10 Pro for Workstations 
-- Windows 10 Enterprise 
-- Windows 10 Hardware Requirements 
-- Windows 10 Editions
+## Windows 10 
+## Windows 10 Home 
+## Windows 10 Pro 
+## Windows 10 Pro for Workstations 
+## Windows 10 Enterprise 
+## Windows 10 Hardware Requirements 
+## Windows 10 Editions
 
 # Windows Features - 1.1
-- Windows at Work 
-- Domain Services 
-- Organizing Network Devices 
-- Desktop Styles 
-- Availability of RDP 
-- Ram Support Limitations 
-- Bitlocker and EFS 
-- Group Policy Editor 
+## Windows at Work 
+## Domain Services 
+## Organizing Network Devices 
+## Desktop Styles 
+## Availability of RDP 
+## Ram Support Limitations 
+## Bitlocker and EFS 
+## Group Policy Editor 
 
 # Windows Upgrades - 1.1
-- Why Upgrade 
-- Upgrade Methods 
-- Upgrading Windows 
-- Upgrade Paths 
-- Post-installation 
+## Why Upgrade 
+## Upgrade Methods 
+## Upgrading Windows 
+## Upgrade Paths 
+## Post-installation 
 
 # Windows Command Line Tools - 1.2
-- Privileges 
-- Command Line Troubleshooting 
-- File Management 
-- Drive Letters 
-- hostname 
-- format 
-- copy (/v, /y) 
-- xcopy 
-- Robust Copy 
-- shutdown 
-- DiskPart 
-- winver 
-- Managing Group Policy 
+## Privileges 
+## Command Line Troubleshooting 
+## File Management 
+## Drive Letters 
+## hostname 
+## format 
+## copy (/v, /y) 
+## xcopy 
+## Robust Copy 
+## shutdown 
+## DiskPart 
+## winver 
+## Managing Group Policy 
 
 # The Windows Network Command Line - 1.2
-- ipconfig 
-- ping 
-- netstat 
-- nslookup 
-- net 
-- Common net Commands 
-- tracert 
-- pathping 
+## ipconfig 
+## ping 
+## netstat 
+## nslookup 
+## net 
+## Common net Commands 
+## tracert 
+## pathping 
 
 # Task Manager - 1.3
-- Task Manager 
-- Services 
-- Startup 
-- Processes 
-- Performance 
-- Users 
+## Task Manager 
+## Services 
+## Startup 
+## Processes 
+## Performance 
+## Users 
 
 # The Microsoft Management Console - 1.3
-- Microsoft Management Console 
-- Event Viewer 
-- Disk Management 
-- Task Scheduler 
-- Local Users and Groups 
-- Performance Monitor 
-- Group Policy Editor 
+## Microsoft Management Console 
+## Event Viewer 
+## Disk Management 
+## Task Scheduler 
+## Local Users and Groups 
+## Performance Monitor 
+## Group Policy Editor 
 
 # Additional Windows Tools - 1.3
 

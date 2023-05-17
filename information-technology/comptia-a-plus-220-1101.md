@@ -96,110 +96,110 @@
 ## Physical Device 
 ## Modular Architecture 
 
-## Wireless Network Standards - 2.3
-- Intro 
-- Wi-Fi AC 
-- Wi-Fi AX 
-- Antennas 
-- Rules and Regulations 
-- RFID 
-- Radar 
-- NFC 
+# Wireless Network Standards - 2.3
+## Intro 
+## Wi-Fi AC 
+## Wi-Fi AX 
+## Antennas 
+## Rules and Regulations 
+## RFID 
+## Radar 
+## NFC 
 
-## Wireless Network Technologies - 2.3
-- Frequency Use 
-- Channel Designations 
-- Regulations 
-- Band Selections 
-- Bluetooth Connectivity 
+# Wireless Network Technologies - 2.3
+## Frequency Use 
+## Channel Designations 
+## Regulations 
+## Band Selections 
+## Bluetooth Connectivity 
 
-## Network Services - 2.4
-- Intro 
-- DHCP Server 
-- File Server 
-- Print Server 
-- Mail Server 
-- Web Server 
-- Authentication Sever 
-- Spam Gateways 
-- All-in-one Security Appliance 
-- Load Balancers 
-- Proxy Sever 
-- SCADA / ICS 
-- Legacy and Embedded Systems 
+# Network Services - 2.4
+## Intro 
+## DHCP Server 
+## File Server 
+## Print Server 
+## Mail Server 
+## Web Server 
+## Authentication Sever 
+## Spam Gateways 
+## All-in-one Security Appliance 
+## Load Balancers 
+## Proxy Sever 
+## SCADA / ICS 
+## Legacy and Embedded Systems 
 
-## IPv4 and IPv6 - 2.5
-- IP Addressing 
-- Networking with IPv4 
-- DNS Servers 
+# IPv4 and IPv6 - 2.5
+## IP Addressing 
+## Networking with IPv4 
+## DNS Servers 
 
-## Assigning IP Addresses - 2.5
-- Intro 
-- DHCP Process 
-- Discover 
-- Offer 
-- Request 
-- Acknowledge 
-- Avoid Manual Configurations 
-- APIPA (Automatic Private IP) 
+# Assigning IP Addresses - 2.5
+## Intro 
+## DHCP Process 
+## Discover 
+## Offer 
+## Request 
+## Acknowledge 
+## Avoid Manual Configurations 
+## APIPA (Automatic Private IP) 
 
-## DNS Configuration - 2.6
-- Intro 
-- The DNS Hierarchy 
-- DNS Lookup 
-- DNS Configuration 
-- A / AAAA (Address Records) 
-- MX (Mail Exchanger Record) 
-- TXT (Text Records) 
-- Viewing TXT Records with nslookup 
-- SPF (Sender Policy Framework) 
-- DKIM (Domain Keys Identified Mail) 
-- Adding an DKIM TXT Record 
-- Adding an DMARC TXT Record 
+# DNS Configuration - 2.6
+## Intro 
+## The DNS Hierarchy 
+## DNS Lookup 
+## DNS Configuration 
+## A / AAAA (Address Records) 
+## MX (Mail Exchanger Record) 
+## TXT (Text Records) 
+## Viewing TXT Records with nslookup 
+## SPF (Sender Policy Framework) 
+## DKIM (Domain Keys Identified Mail) 
+## Adding an DKIM TXT Record 
+## Adding an DMARC TXT Record 
 
-## DNCP Configuration - 2.6
-- Scope Properties 
-- DHCP Pools 
-- SOHO DHCP Server 
-- DHCP Address Assignment 
-- DHCP Address Allocation 
-- Address Reservation 
-- DHCP Leases 
-- DHCP Renewal 
-- The DHCP Lease Process 
+# DNCP Configuration - 2.6
+## Scope Properties 
+## DHCP Pools 
+## SOHO DHCP Server 
+## DHCP Address Assignment 
+## DHCP Address Allocation 
+## Address Reservation 
+## DHCP Leases 
+## DHCP Renewal 
+## The DHCP Lease Process 
 
-## VLANs and VPNS - 2.6
-- LANs 
-- Virtual LANs 
-- Configuring VLANs 
-- VPNs 
-- Client-to-site VPN 
+# VLANs and VPNS - 2.6
+## LANs 
+## Virtual LANs 
+## Configuring VLANs 
+## VPNs 
+## Client-to-site VPN 
 
-## Internet Connection Types - 2.7
-- Satellite Network 
-- Fiber 
-- Cable Broadband 
-- DSL 
-- Cellular Networks 
-- WISP 
+# Internet Connection Types - 2.7
+## Satellite Network 
+## Fiber 
+## Cable Broadband 
+## DSL 
+## Cellular Networks 
+## WISP 
 
-## Network Types - 2.7
-- LAN 
-- WAN 
-- Personal Area Network 
-- Metropolitan Area Network 
-- Storage Area Network 
-- WLAN 
+# Network Types - 2.7
+## LAN 
+## WAN 
+## Personal Area Network 
+## Metropolitan Area Network 
+## Storage Area Network 
+## WLAN 
 
-## Network Tools - 2.8
-- Cable Crimpers 
-- Modular Connectors 
-- Crimping Best Practices 
-- Using the Tone Generator and Probe 
-- Punch Down Best Practices 
-- Cable Testers 
-- Loopback Plugs 
-- Taps and Port Mirrors 
+# Network Tools - 2.8
+## Cable Crimpers 
+## Modular Connectors 
+## Crimping Best Practices 
+## Using the Tone Generator and Probe 
+## Punch Down Best Practices 
+## Cable Testers 
+## Loopback Plugs 
+## Taps and Port Mirrors 
 
 ## Network Cables - 3.1
 - The Importance of Cable 

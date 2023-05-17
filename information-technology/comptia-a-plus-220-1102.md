@@ -435,6 +435,9 @@
 ## Update and Patch 
 
 # Troubleshooting Security Issues - 3.2
+## Unable to Access the Network 
+## Fale Antivirus Alerts 
+## Browser Security Alerts 
 
 # Removing Malware - 3.3
 

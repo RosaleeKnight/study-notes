@@ -164,6 +164,11 @@
 ## Quick Format vs Full Format 
 
 # Upgrading Windows - 1.9
+## Why Upgrade 
+## Upgrade Methods 
+## Prepare the Boot Drive 
+## Before the Installation 
+## Windows Product Life Cycle 
 
 # macOS Overview - 1.10
 

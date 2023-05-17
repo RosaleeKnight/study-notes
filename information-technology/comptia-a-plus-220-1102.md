@@ -179,6 +179,13 @@
 ## Anti-virus
 
 # macOS System Preferences - 1.10
+## System Preferences 
+## Displays 
+## Network 
+## Printer and Scanners 
+## Privacy 
+## Accessibility 
+## Time Machine 
 
 # macOS Features - 1.10
 

@@ -27,7 +27,7 @@ Terms I have come across studying.
 
 **Insiders:** Threat actors that infiltrate your workforce themselves or turn an insider towards their goal/cause. 
 
-**Organized Crime / Cybercriminals: **Threat actors who want to steal sensitive data, money and personal information which is sold on the black market and sometimes use ransomware to extort business owners. 
+**Organized Crime / Cybercriminals:** Threat actors who want to steal sensitive data, money and personal information which is sold on the black market and sometimes use ransomware to extort business owners. 
 
 **Script Kiddies:** Threat actors that aren't skilled enough to design penetration tools on their own and use tools developed by other attackers to penetrate a network or system. 
 

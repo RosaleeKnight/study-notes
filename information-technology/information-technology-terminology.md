@@ -310,3 +310,20 @@ C
 
 **Centralized Processing:** A network processing scheme in which all “intelligence” is found in one computer and all other computers send requests to the central computer to be processed.
 
+**CERT Organization:** An organization dedicated to cybersecurity based at Carnegie Mellon University.
+
+**Certificate Authority (CA):** A server that issues public/private key pairs on behalf of users and computers.
+
+**Chain of Custody:** A method to document evidence as it’s moved or control is transferred to other individuals so that it remains valid evidence.
+
+**Change Advisory Board:** A group of people in an organization who oversee the change management control process.
+
+**Change Management:** A process to standardize the methods and procedures used to handle changes in the company. 
+
+**Channels:** In wireless communications, subdivisions within a frequency. 
+
+**Characters Per Second (cps):** A rating of how fast impact printers can produce output.
+
+**Charging Corona:** The wire or roller that is used to put a uniform charge on the EP drum inside a toner cartridge.
+
+**Charging Step:** The second step in the EP imaging process, at which a special wire or roller in the toner cartridge gets a high voltage from the HVPS in which it uses this high voltage to apply a strong, uniform negative charge (around –600VDC) to the surface of the photosensitive drum.

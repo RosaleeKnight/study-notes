@@ -110,25 +110,25 @@ Terms I have come across studying.
 
 ## Other
 
-Attack Vector: The collection of all vulnerable points by which an attacker can enter the target system. 
+**Attack Vector:** The collection of all vulnerable points by which an attacker can enter the target system. 
 
-Botnet: A collection of internets connected devices which may include PCs, servers and mobile devices that are infected and controlled by a common type of malware. 
+**Botnet:** A collection of internets connected devices which may include PCs, servers and mobile devices that are infected and controlled by a common type of malware. 
 
-Bug: An error, fault or flaw in a computer program that may cause it to unexpectedly quit or behave in an unintended manner.
+**Bug:** An error, fault or flaw in a computer program that may cause it to unexpectedly quit or behave in an unintended manner.
 
-Business Disruption: Refers to any interruption in the usual way that a system, process or event works.   
+**Business Disruption:** Refers to any interruption in the usual way that a system, process or event works.   
 
-Cyberbullying: use of electronic means primarily messaging and social media platforms to bully and harass a victim.   
+**Cyberbullying:** use of electronic means primarily messaging and social media platforms to bully and harass a victim.   
 
-Cyber Warfare: Refers to cyber-attacks perpetrated by one nation-state against another.   
+**Cyber Warfare:** Refers to cyber-attacks perpetrated by one nation-state against another.   
 
-Deepfake: Any video or audio which has been digitally altered with the help of AI to make it seem authentic or credible.   
+**Deepfake:** Any video or audio which has been digitally altered with the help of AI to make it seem authentic or credible.   
 
-Exploit: A malicious application or script that can be used to take advantage of a computer's vulnerability. 
+**Exploit:** A malicious application or script that can be used to take advantage of a computer's vulnerability. 
 
-Spam: Used to describe junk email on the internet. 
+**Spam:** Used to describe junk email on the internet. 
 
-Vulnerability: A flaw in a system that can leave it open to attack.   
+**Vulnerability:** A flaw in a system that can leave it open to attack.   
  
 ---
 

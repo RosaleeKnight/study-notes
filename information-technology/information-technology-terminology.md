@@ -287,3 +287,26 @@ C
 **Cat 5:** Twisted pair cabling capable of handling 100 Mbps transmissions up to 100 meters. 
 
 **Cat 5e:** Twisted pair cabling capable of handling 1 Gbps transmissions up to 100 meters.
+
+**Cat 6:** Twisted pair cabling capable of handling 10 Gbps transmissions up to 55 meters or 1 Gbps up to 100 meters.
+
+**Cat 6a:** Twisted pair cabling capable of handling 10 Gbps transmissions up to 100 meters.
+
+**Cathode Ray Tube (CRT):** A legacy style computer monitor that uses a large vacuum tube and a high voltage electron gun to draw on a phosphorus coated screen.
+
+**cd:** A Linux and DOS command that changes the focus directory.
+
+**CD-recordable (CD-R):** A CD that can be written to one time.
+
+**CD-rewritable (CD-RW):** A CD that can be written to, erased, and rewritten to multiple times.
+
+**CD-ROM:** A nonwritable and unerasable CD permanently pressed with digital data.
+
+**Cellular Location Services:** Service provided by a mobile phone carrier that helps mobile devices pinpoint locations by using communications with cell phone towers.
+
+**CentOS:** A community-supported Linux operating system that is compatible with Red Hat packages and functionality.
+
+**Central Processing Unit (CPU):** The main processing unit that calculates mathematics and logic.
+
+**Centralized Processing:** A network processing scheme in which all “intelligence” is found in one computer and all other computers send requests to the central computer to be processed.
+

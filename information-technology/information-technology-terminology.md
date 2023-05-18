@@ -158,3 +158,25 @@ Terms I have come across studying.
 **Badging:** Scanning an employee ID at a multifunctional device (MFD) to authenticate to the MFD.
 
 **Balanced Technology eXtended (BTX):** A motherboard standard developed by Intel in 2005 designed to replace the ATX standard which is not used today.
+
+**Barcodes:** An optical (image-based) representation of data using a special formatting of lines.
+
+**Bare-metal Backup:** An image backup that allows the restoration of a server in the event of failure and replacement of the server.
+
+**Baseband OS:** The operating system on a mobile device that handles all wireless communication.
+
+**Baseband Update:** An update to a mobile phone’s baseband OS, which manages all wireless communication.
+
+**Bash (an acronym for Bourne Again Shell):** A shell that is installed on Linux operating systems.
+
+**Basic Input/Output System (BIOS):** A type of firmware that instructs the hardware to use certain motherboard features and also contains the initialization routine for bootup of the computer.
+
+**Basic Loops:** A programming technique that allows for a routine to run over and over again until a condition is met.
+
+**Basis Weight:** A measurement of the “heaviness” of paper which is the weight, in pounds, of 500 17" × 22" sheets of that type of paper.
+
+**Battery Calibration:** A software process where a lithium ion battery is completely drained so that it can be fully recharged.
+
+**Beep Code:** A series of beeps from the computer’s speaker that indicate a problem where the number, duration, and pattern of the beeps can sometimes tell you what component is causing the problem.
+
+**Bias Voltage:** The –600VDC charge that the developing roller acquires from the high-voltage power supply.

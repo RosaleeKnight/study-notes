@@ -147,3 +147,14 @@ Terms I have come across studying.
 **Automatic Document Feeder (ADF):** Feature on a scanner or multifunction device (MFD) that allows multiple pieces of paper to be placed in it so that all of them can be scanned in one job.
 
 **Automatic Private IP Addressing (APIPA):** IP addressing system that automatically configures a host with a nonroutable, private IP address in the event the host is unable to reach the DHCP server.
+
+# B
+**Backlight**: A lighting source for an LCD computer screen, placed behind or below the display.
+
+**Backside Bus (BSB):** The optional communications pathway between the Northbridge and the cache controller but when absent the frontside bus is used. 
+
+**Badge Reader:** A device that electronically reads an identification badge.
+
+**Badging:** Scanning an employee ID at a multifunctional device (MFD) to authenticate to the MFD.
+
+**Balanced Technology eXtended (BTX):** A motherboard standard developed by Intel in 2005 designed to replace the ATX standard which is not used today.

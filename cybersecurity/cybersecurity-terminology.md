@@ -244,35 +244,35 @@ Terms I have come across studying.
 # Tools 
 
 ## Job Specific
-COTS (Commercially Available off the Shelf): Packaged products or solutions that are then adapted to satisfy the needs of the purchasing organization rather than commissioning of custom made.   
+**COTS (Commercially Available off the Shelf):** Packaged products or solutions that are then adapted to satisfy the needs of the purchasing organization rather than commissioning of custom made.   
 
-Critical Update: A fix for a specific problem that addresses a critical, non-security-related bug in computer software.
+**Critical Update:** A fix for a specific problem that addresses a critical, non-security-related bug in computer software.
 
-DAST (Dynamic Application Security Testing): Interacts with your running application with the purpose of finding and managing vulnerabilities. 
+**DAST (Dynamic Application Security Testing):** Interacts with your running application with the purpose of finding and managing vulnerabilities. 
 
-DLP (Data Loss Prevention): Umbrella term for a collection of security tools, processes and procedures that aim to prevent sensitive data from falling into unauthorized or malicious hands.   
+**DLP (Data Loss Prevention):** Umbrella term for a collection of security tools, processes and procedures that aim to prevent sensitive data from falling into unauthorized or malicious hands.   
 
-Have I Been Pwned: website where you enter your email address to check if your address has been revealed in a data breach. 
+**Have I Been Pwned:** website where you enter your email address to check if your address has been revealed in a data breach. 
 
-Honeypot: A decoy system or network that serves to attract potential attackers.  
+**Honeypot:** A decoy system or network that serves to attract potential attackers.  
 
-Kali Linux: Debian Linux derivative specifically designed toward testing for security tasks, such as penetration testing, security auditing, and digital forensics. 
+**Kali Linux:** Debian Linux derivative specifically designed toward testing for security tasks, such as penetration testing, security auditing, and digital forensics. 
 
-Patch: Provides additional, revised or updated code for an operation system or application.    
+**Patch:** Provides additional, revised or updated code for an operation system or application.    
 
-Pen Testing (Penetration Testing): The practice of testing a computer system, network or web application to find vulnerabilities that an attacker could exploit. 
+**Pen Testing (Penetration Testing):** The practice of testing a computer system, network or web application to find vulnerabilities that an attacker could exploit. 
 
-Sandbox(ing): An isolated environment on a network that mimics end user operating environments and are used to safely execute suspicious code without risking harm to the host device or network.  
+**Sandbox(ing):** An isolated environment on a network that mimics end user operating environments and are used to safely execute suspicious code without risking harm to the host device or network.  
 
-SAST (Static Application Security Testing): automated analysis of written code for security vulnerabilities. 
+**SAST (Static Application Security Testing):** Automated analysis of written code for security vulnerabilities. 
 
-SCA (Software Composition Analysis) Tools: enables users to analyze and manage the open-source elements of their application.
+**SCA (Software Composition Analysis) Tools:** Enables users to analyze and manage the open-source elements of their application.
 
-Security Awareness Training: A training program aimed at heightening security awareness within an organization.  
+**Security Awareness Training:** A training program aimed at heightening security awareness within an organization.  
 
-SOAR (Security Orchestrated, Automation and Response): A stack of compatible software programs that organizations use to collect data about security threats from across the network and respond to low level security events without human assistance. 
+**SOAR (Security Orchestrated, Automation and Response):** A stack of compatible software programs that organizations use to collect data about security threats from across the network and respond to low level security events without human assistance. 
 
-VPN (Virtual Private Network): An encrypted connection over the internet from a device to a network.   
+**VPN (Virtual Private Network):** An encrypted connection over the internet from a device to a network.   
 
 ## General 
 Adware: Any piece of software or application that displays advertisements on your computer.   

@@ -244,7 +244,8 @@ Terms I have come across studying. Collapsed and organized by starting letter du
 **Button Cell:** A special battery in the form of a coin and about the size of a quarter.
 </details>
 
-C
+<details> 
+  <summary> C </summary>
 
 **C/C++:** A mid level object-oriented language that requires compilation to machine execution code.
 
@@ -401,3 +402,31 @@ C
 **Connectionless:** In TCP/IP, refers to the UDP protocol, which makes a best effort attempt at delivery but does not negotiate and establish a connection like TCP does.
 
 **Connection-oriented:** In TCP/IP, refers to the TCP protocol, which negotiates and establishes a connection between two hosts before transmission of data begins.
+
+**Connectivity Device:** Any device that facilitates connections between network devices such as hubs, routers, switches, and bridges.
+
+**Contention-Based:** Competition between two or more network devices for the same bandwidth.
+
+**Cooperative Multitasking:** A process scheduling in which processes depend on each other to free resources for the next process.
+
+**Core:** An embedded CPU die in a processor package; more than one core is often found in a single package today.
+
+**Corona Roller:** A type of transfer corona assembly that uses a charged roller to apply charge to the paper.
+
+**Corona Wire:** A type of transfer corona assembly; also, the wire in that assembly that is charged by the high voltage supply which is narrow in diameter and located in a special notch under the EP print cartridge.
+
+**cp:** A Linux command that copies a file or folder from a source to its destination. 
+
+**Credentials:** A username and password used for access to a system or application.
+
+**Crimper:** A tool that attaches the connector ends onto a network cable and can also act as cable cutters and cable strippers.
+
+**Crossover Cable:** A twisted pair network cable used for connecting computers directly to each other where one end has pins 1 and 3 and 2 and 6 reversed, hence the term crossover.
+
+**Cross-platform Virtualization:** An aspect of client-side virtualization that allows programs coded for one type of hardware or operating system to work on another that it’s not designed to work on. 
+
+**Current Directory:** The directory in which commands will be run from the shell.
+
+**Cursor Drift:** On a laptop computer, when the cursor apparently jumps around the screen by itself and is usually caused by the user’s hand inadvertently touching the trackpad or touch stick.
+</details>
+  

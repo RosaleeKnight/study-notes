@@ -205,6 +205,32 @@ Terms I have come across studying. Collapsed and organized by starting letter du
 
 **Blue Screen of Death (BSOD/pinwheel):** The Blue Screen of Death (BSOD) in Windows or the rotating pinwheel in macOS are operating system crashes, often caused by the physical memory failing but can also be caused by when an application writes into a memory space reserved for the operating system or another application.
 
+**Bluetooth:** A standard used for short range wireless communication often used to create a personal area network (PAN).
+
+**BNC Connector:** A type of coaxial connector used to attach stations to a Thinnet network.
+
+**Bollard:** An architectural structure that acts as a visual indicator for a perimeter and protects an area from accidental damage.
+
+**Bonjour:** Wireless printing technology introduced by Apple to allow for the sharing of networked printers.
+
+**Boolean:** A value that can either be true or false.
+
+**Boot Configuration Data (BCD):** The configuration used by the current Windows bootloader that was first introduced in Windows Vista. 
+  
+**Botnet:** A group of computers that are organized and controlled for a malicious purpose. 
+  
+**Bourne Shell:** The original Linux/UNIX command shell; Bash is based on it.
+
+**Branch Logic:** A logic that branches off based on a condition, usually facilitated by an if statement.
+
+**Brick:** To render a mobile phone (or other device) nonoperational.
+
+**Bring Your Own Device (BYOD):** A practice of allowing employees to use personal mobile devices to access corporate electronic resources, such as email and cloud services. 
+  
+**Broadcast Address:** IP address that when used, the message is sent to all hosts on the network segment.
+
+**Brownout:** When the voltage dips below the nominal operating voltage for more than a few seconds but not a total loss of power.
+
 </details>
 
 

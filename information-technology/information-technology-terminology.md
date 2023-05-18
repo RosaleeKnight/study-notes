@@ -349,3 +349,17 @@ C
 **Cleaning Step:** The seventh and last step in the EP imaging process, at which excess toner is scraped from the EP drum with a rubber blade.
 
 **Client Computer:** A computer that requests resources from a network, often referred to as a workstation.
+
+**Client Software:** Software that allows a device to request resources from a network.
+
+**Client-side Virtualization:** A configuration where multiple OSs are managed on the client machine and can be run simultaneously with the use of a hypervisor or virtual machine manager (VMM). 
+
+**Closed Source:** Describes software with code that is proprietary.
+
+**Cloud Computing:** Using the Internet to provide computing resources such as hardware and other infrastructure, development platforms, and software applications.
+
+**Cloud-Based:** Using the Internet to provide computing resources such as hardware and other infrastructure, development platforms, and software applications.
+
+**CMOS Battery:** A battery that provides power to the CMOS (or BIOS/UEFI) chip that stores CMOS settings. A PC must retain certain settings when it’s turned off and its power cord is unplugged.
+
+**Coaxial Cable:** A medium for connecting computer components that contains a center conductor made of copper, surrounded by a plastic jacket, with a braided shield over the jacket.

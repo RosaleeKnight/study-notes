@@ -189,9 +189,22 @@ Terms I have come across studying. Collapsed and organized by starting letter du
 
 **Bias Voltage:** The –600VDC charge that the developing roller acquires from the high-voltage power supply.
 
-  
-  
-  
+**Biometric Authentication:** An authentication method based on human characteristics, such as fingerprints, retinal patterns, and any other biological uniqueness.
+
+**BitLocker:** A Windows feature that enables full volume level encryption.
+
+**Blacklist / Blocklist:** A firewall security scheme where all computers are allowed to access the network except for those on the blacklist.
+
+**Blackout:** An electric event when there is a total loss of power.
+
+**Blanks:** Pieces of metal or plastic that come with a desktop case and cover the expansion slot openings.
+
+**Block Storage:** Storage type where all data is stored in drives in equal- sized blocks. It’s generally more efficient and faster than file storage and is used in databases and storage area networks.
+
+**Blu-ray disc (BD):** An optical disc format that holds more information than a standard DVD.
+
+**Blue Screen of Death (BSOD/pinwheel):** The Blue Screen of Death (BSOD) in Windows or the rotating pinwheel in macOS are operating system crashes, often caused by the physical memory failing but can also be caused by when an application writes into a memory space reserved for the operating system or another application.
+
 </details>
 
 

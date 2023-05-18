@@ -1,6 +1,8 @@
-Terms I have come across studying.
+Terms I have come across studying. Collapsed and organized by starting letter due to being 50+ pages.
 
-# . & Numbers
+<details> 
+  <summary> # </summary>
+
 **.app:** A container to hold the application and its resource files that is used on macOS.
 
 **.bat:** The extension type used with Microsoft batch scripts.
@@ -18,7 +20,7 @@ Terms I have come across studying.
 **.sh:** The extension type used with Linux Bash scripts.
 
 **.vbs:** The extension type used with Microsoft Visual Basic scripts.
-
+  
 **3D Printing:** Fabrication process also known as additive manufacturing, where three dimensional products are created by adding thin layers of material on top of each other using filament or resin to create the products on a print bed.
 
 **8.3 Naming Convention:** The naming convention used with DOS that requires the format of eight letters for the name, a period, and then a three letter file identifier.
@@ -42,8 +44,11 @@ Terms I have come across studying.
 **802.11g:** A wireless standard that operates at 2.4 GHz, is backward compatible with 802.11b, and provides data transmission of up to 54 Mbps.
 
 **802.11n:** A wireless standard that can operate at 5 GHz or 2.4 GHz, is backward compatible with earlier standards, and provides data transmission up to 600 Mbps.
+</details>
+  
+<details> 
+  <summary> A </summary>
 
-# A
 **A Address:** A DNS record type for an IPv4 host.
 
 **AAAA Address:** Called “quad A;” it’s a DNS record type for an IPv6 host.
@@ -147,8 +152,11 @@ Terms I have come across studying.
 **Automatic Document Feeder (ADF):** Feature on a scanner or multifunction device (MFD) that allows multiple pieces of paper to be placed in it so that all of them can be scanned in one job.
 
 **Automatic Private IP Addressing (APIPA):** IP addressing system that automatically configures a host with a nonroutable, private IP address in the event the host is unable to reach the DHCP server.
+</details>
+  
+<details> 
+  <summary> B </summary>
 
-# B
 **Backlight**: A lighting source for an LCD computer screen, placed behind or below the display.
 
 **Backside Bus (BSB):** The optional communications pathway between the Northbridge and the cache controller but when absent the frontside bus is used. 
@@ -180,3 +188,10 @@ Terms I have come across studying.
 **Beep Code:** A series of beeps from the computer’s speaker that indicate a problem where the number, duration, and pattern of the beeps can sometimes tell you what component is causing the problem.
 
 **Bias Voltage:** The –600VDC charge that the developing roller acquires from the high-voltage power supply.
+
+  
+  
+  
+</details>
+
+

@@ -327,3 +327,25 @@ C
 **Charging Corona:** The wire or roller that is used to put a uniform charge on the EP drum inside a toner cartridge.
 
 **Charging Step:** The second step in the EP imaging process, at which a special wire or roller in the toner cartridge gets a high voltage from the HVPS in which it uses this high voltage to apply a strong, uniform negative charge (around –600VDC) to the surface of the photosensitive drum.
+
+**Chief Information Officer (CIO):** The executive officer for an organization who oversees the information technology for the organization.
+
+**Chipset:** The set of controller chips that monitors and directs the traffic on the motherboard between the buses and components.
+
+**chkdsk:** A Windows command-l ine tool used to check the filesystem of a disk for errors. 
+
+**chmod:** A Linux command that changes permissions on a file or folder. 
+
+**chown:** A Linux command that changes the ownership of a file or folder.
+
+**Chrome OS:** Cloud based operating system created by Google based on the Chrome web browser.
+
+**Cipher Locks:** A physical lock for a door that allows a combination or sequence of buttons to allow entry.
+
+**Classless Inter-domain Routing (CIDR):** IP address spaces that do not correspond directly to class A, B, or C networks and can be described as a “slash x” network where the x represents the number of bits in the network address.
+
+**Cleaning Cycle:** A set of steps the inkjet printer goes through in order to purge the print heads of any dried ink.
+
+**Cleaning Step:** The seventh and last step in the EP imaging process, at which excess toner is scraped from the EP drum with a rubber blade.
+
+**Client Computer:** A computer that requests resources from a network, often referred to as a workstation.

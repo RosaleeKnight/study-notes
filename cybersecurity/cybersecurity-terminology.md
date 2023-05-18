@@ -275,87 +275,87 @@ Terms I have come across studying.
 **VPN (Virtual Private Network):** An encrypted connection over the internet from a device to a network.   
 
 ## General 
-Adware: Any piece of software or application that displays advertisements on your computer.   
+**Adware:** Any piece of software or application that displays advertisements on your computer.   
 
-AI (Artificial Intelligence): The simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. 
+**AI (Artificial Intelligence):** The simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. 
 
-Attachment: A computer file sent with an email message. 
+**Attachment:** A computer file sent with an email message. 
 
-Bluetooth: Wireless technology for exchanging data over short distances.   
+**Bluetooth:** Wireless technology for exchanging data over short distances.   
 
-Broadband: High speed data transmission system where the communications circuit is shared between multiple users.   
+**Broadband:** High speed data transmission system where the communications circuit is shared between multiple users.   
 
-Browser: Software that is used to access the internet.   
+**Browser:** Software that is used to access the internet.   
 
-BYOD (Bring Your Own Device): Refers to employees using personal devices to connect to their organizational networks.   
+**BYOD (Bring Your Own Device):** Refers to employees using personal devices to connect to their organizational networks.   
 
-Clear Web / Surface Web: Publicly accessible web pages that are largely indexed on search engines. 
+**Clear Web / Surface Web:** Publicly accessible web pages that are largely indexed on search engines. 
 
-Clientless: A program that is run entirely from the network without requiring any installation of software on the endpoint device running the program.   
+**Clientless:** A program that is run entirely from the network without requiring any installation of software on the endpoint device running the program.   
 
-Cloud Computing: The practice of using a network of remote servers hosted on the internet to store, manage and process data, rather than a local server or a personal computer.   
+**Cloud Computing:** The practice of using a network of remote servers hosted on the internet to store, manage and process data, rather than a local server or a personal computer.   
 
-Cookie: Small files which are stored on a user's computer which allows the website to recognize and keep track of their preferences.   
+**Cookie:** Small files which are stored on a user's computer which allows the website to recognize and keep track of their preferences.   
 
-Critical Infrastructure: The fundamental systems of an organization that are important for its survival and where any threat to such systems would endanger the entire organization.   
+**Critical Infrastructure:** The fundamental systems of an organization that are important for its survival and where any threat to such systems would endanger the entire organization.   
 
-Dark Web: The encrypted parts of the internet that are not indexed by search engines and a subset of the deep web but require special software and the correct decryption key.   
+**Dark Web:** The encrypted parts of the internet that are not indexed by search engines and a subset of the deep web but require special software and the correct decryption key.   
 
-Decryption: the process of decoding cipher text to plain text so that it is readable by humans.   
+**Decryption:** the process of decoding cipher text to plain text so that it is readable by humans.   
 
-Deep Web: The encrypted parts of the internet that are not indexed by search engines which can be accessed by anyone with the correct URL.   
+**Deep Web:** The encrypted parts of the internet that are not indexed by search engines which can be accessed by anyone with the correct URL.   
 
-DNS (Domain Name Systems) Exfiltration: A lower-level attack on DNS servers to gain unauthorized access.    
+**DNS (Domain Name Systems) Exfiltration:** A lower-level attack on DNS servers to gain unauthorized access.    
 
-Domain Name Server: A server converts recognizable domain names into their unique IP address.   
+**Domain Name Server:** A server converts recognizable domain names into their unique IP address.   
 
-Download: To copy data from one computer system to another typically over the internet.   
+**Download:** To copy data from one computer system to another typically over the internet.   
 
-Encryption: The practice of encoding data so that it is no longer in the original form and can't be read. 
+**Encryption:** The practice of encoding data so that it is no longer in the original form and can't be read. 
 
-EDR (Endpoint Detection and Response): Tools for protecting endpoints from potential threats which compromise of software and networking tools for detecting suspicious activity.    
+**EDR (Endpoint Detection and Response):** Tools for protecting endpoints from potential threats which compromise of software and networking tools for detecting suspicious activity.    
 
-FIDO (Fast Identity Online): A set of open authentication standards that enable a service provider to leverage existing technologies for password less authentication.    
+**FIDO (Fast Identity Online):** A set of open authentication standards that enable a service provider to leverage existing technologies for password less authentication.    
 
-HTML (Hypertext Markup Language): The standard markup language for creating web pages and web applications.  
+**HTML (Hypertext Markup Language):** The standard markup language for creating web pages and web applications.  
 
-IOS (iPhone Operating System): Operating system for mobile devices manufactured by Apple.    
+**IOS (iPhone Operating System):** Operating system for mobile devices manufactured by Apple.    
 
-IoT (Internet of Things): Refers to the billions of physical devices around the world that are now connected to the internet, collecting and sharing data.   
+**IoT (Internet of Things):** Refers to the billions of physical devices around the world that are now connected to the internet, collecting and sharing data.   
 
-IP Address: An identifying number for a piece of network hardware which allows a device to communicate with other devices over an IP based network like the internet.    
+**IP Address:** An identifying number for a piece of network hardware which allows a device to communicate with other devices over an IP based network like the internet.    
 
-Memory Stick: Small device that connects to a computer and allows you to store and copy information.   
+**Memory Stick:** Small device that connects to a computer and allows you to store and copy information.   
 
-MP3: Means of compressing a sound sequence into a very small file to enable digital storage and transmission.   
+**MP3:** Means of compressing a sound sequence into a very small file to enable digital storage and transmission.   
 
-Parental Controls: Features which may be included in digital services, mobile devices and software that allow parents to restrict the access of content to their children.   
+**Parental Controls:** Features which may be included in digital services, mobile devices and software that allow parents to restrict the access of content to their children.   
 
-Padlock: Icon displayed in a web browser that indicates a secure mode where communications between browser and web server are encrypted.   
+**Padlock:** Icon displayed in a web browser that indicates a secure mode where communications between browser and web server are encrypted.   
 
-PII (Personal Identifiable Information): is a type of data that identifies the unique identity of an individual.    
+**PII (Personal Identifiable Information):** A type of data that identifies the unique identity of an individual.    
 
-Proxy Server: Another computer system which serves as a hub through which internet requests are processed.   
+**Proxy Server:** Another computer system which serves as a hub through which internet requests are processed.   
 
-Public Wi-Fi Networks: Access points that allow users to connect to the internet using wireless hotspots but are unsecure and vulnerable to threats like man in the middle. 
+**Public Wi-Fi Networks:** Access points that allow users to connect to the internet using wireless hotspots but are unsecure and vulnerable to threats like man in the middle. 
 
-RDP (Remote Desktop Protocol): A protocol for remotely connecting to computers running windows which enables interacting with desktop elements as well as other resources which when configured incorrectly can be intercepted by threat actors.    
+**RDP (Remote Desktop Protocol):** A protocol for remotely connecting to computers running windows which enables interacting with desktop elements as well as other resources which when configured incorrectly can be intercepted by threat actors.    
 
-Router: A piece of network hardware that allows communication between your local network and the internet.   
+**Router:** A piece of network hardware that allows communication between your local network and the internet.   
 
-Server: A computer program that provides a service to another computer program and its users.   
+**Server:** A computer program that provides a service to another computer program and its users.   
 
-Software: Programs on the computers used to perform tasks.   
+**Software:** Programs on the computers used to perform tasks.   
 
-Tablet: Wireless portable personal computer with a touchscreen interface.   
+**Tablet:** Wireless portable personal computer with a touchscreen interface.   
 
-Traffic: The amount of data sent and received by visitors to a website.   
+**Traffic:** The amount of data sent and received by visitors to a website.   
 
-USB (Universal Serial Bus): Connection used to connect a computer to devices.   
+**USB (Universal Serial Bus):** Connection used to connect a computer to devices.   
 
-Username: A name that uniquely identifies someone on a computer system.   
+**Username:** A name that uniquely identifies someone on a computer system.   
 
-Wi-Fi: A facility that allows computers, smartphones or other devices to connect to the internet or communicate with one another wirelessly within a particular area.   
+**Wi-Fi:** A facility that allows computers, smartphones or other devices to connect to the internet or communicate with one another wirelessly within a particular area.   
 
 ## Software
 Aircrack-ng: Wireless tools that capture, analyze, and export packet data, spoof access points or routers, and crack complex Wi-Fi password. 

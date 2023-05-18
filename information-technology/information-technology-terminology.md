@@ -242,5 +242,32 @@ Terms I have come across studying. Collapsed and organized by starting letter du
 **Bus Topology:** A network topology where all computers are connected in a serial fashion.
 
 **Button Cell:** A special battery in the form of a coin and about the size of a quarter.
-
 </details>
+
+C
+
+**C/C++:** A mid level object-oriented language that requires compilation to machine execution code.
+
+**Cable:** A device used to connect a peripheral or other device to a computer using multiple copper or fiber-optic conductors inside a common wrapping or sheath.
+
+**Cable Lock:** A physical lock designed to secure a laptop to a desk or other non-movable object, to deter laptop theft.
+
+**Cable Management:** A method of controlling cabling so that it is easy to manage when cables need to be added, removed, or replaced. 
+
+**Cable Modem:** Device that provides broadband Internet access using cable television lines. 
+
+**Cable Strippers:** Hardware tool that removes the plastic coating from copper wires in a cable. 
+
+**Cable Tester:** Device used to identify problems with cables or to confirm their functionality. 
+
+**Cable Tie:** A plastic fastener that can be used to bundle cabling together. 
+
+**Cache Memory:** A storage area for frequently used data and instructions.
+
+**Calibration:** The process by which a device such as a printer (or a scanner) is brought within functional specifications.
+
+**Caliper:** The thickness measurement of a given sheet of paper, which can affect a printer’s feed mechanism.
+
+**Canonical Name (CNAME):** DNS record type that indicates an alias for a host which allows for a host to have multiple names.
+
+**Captive Portal:** A web page that prevents a user from using a wired or wireless connection until an acceptable use policy (AUP) is accepted or login credentials are provided.

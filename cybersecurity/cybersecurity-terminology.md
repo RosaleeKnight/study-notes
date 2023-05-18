@@ -135,80 +135,77 @@ Terms I have come across studying.
 # Defenses 
 
 ## Automated
-2FA (Two-Factor Authentication): A security process in which the user provides two authentication factors to verify their identity.  
+**2FA (Two-Factor Authentication):** A security process in which the user provides two authentication factors to verify their identity.  
 
-Layer 3 Firewalls (Network Firewalls):  categorize traffic according to IP addresses, port numbers and service protocols and filter traffic based on the TCP/IP stack. 
+**Layer 3 Firewalls (Network Firewalls):** Categorizes traffic according to IP addresses, port numbers and service protocols and filter traffic based on the TCP/IP stack. 
 
-Layer 7 Firewalls (Application Firewalls): sort traffic according to which application or application service the traffic is trying to reach, and what the specific contents of that traffic are. 
+**Layer 7 Firewalls (Application Firewalls):** Sorts traffic according to which application or application service the traffic is trying to reach, and what the specific contents of that traffic are. 
 
-Allowlist: A list of permitted items that are automatically let through whatever gate is being used. 
+**Allowlist:** A list of permitted items that are automatically let through whatever gate is being used. 
 
-Anti-Botnet: Tool that automatically checks when a user browses a website and if a risk is detected sends a warning such as a CAPTCHA. 
+**Anti-Botnet:** Tool that automatically checks when a user browses a website and if a risk is detected sends a warning such as a CAPTCHA. 
 
-Anti-Virus: A computer program used to prevent, detect and remove malware.   
+**Anti-Virus:** A computer program used to prevent, detect and remove malware.   
 
-Authentication: A process that ensures and confirms a user's identity.   
+**Authentication:** A process that ensures and confirms a user's identity.   
 
-Blocklist: Access control mechanism that allows elements such as email addresses, users, passwords, URLs, IPs address, domain names, etc. through the system except those explicitly mentioned which are denied access.    
+**Blocklist:** Access control mechanism that allows elements such as email addresses, users, passwords, URLs, IPs address, domain names, etc. through the system except those explicitly mentioned which are denied access.    
 
-CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart): Challenge response test used by websites to verify the user is a real human and not a bot. 
+**CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart):** Challenge response test used by websites to verify the user is a real human and not a bot. 
 
-Firewall: A software program or piece of hardware that helps screen out hackers, viruses and worms that try to reach your computer over the internet. 
+**Firewall:** A software program or piece of hardware that helps screen out hackers, viruses and worms that try to reach your computer over the internet. 
 
-MFA (Multi-Factor Authentication): A method to verify a user's identity by requiring them to provide more than one piece of identifying information.    
+**MFA (Multi-Factor Authentication):** A method to verify a user's identity by requiring them to provide more than one piece of identifying information.    
+**SSL (Secure Socket Layer):** The standard security technology for establishing an encrypted link between a web server and a browser.   
 
-SSL (Secure Socket Layer): The standard security technology for establishing an encrypted link between a web server and a browser.   
+**User Account Control:** A security feature that prevents unauthorized changes to a system's settings and files by requiring users to confirm their identity prior to making any changes. 
 
-User Account Control: A security feature that prevents unauthorized changes to a system's settings and files by requiring users to confirm their identity prior to making any changes. 
+**WAF (Web Application Protocol):** A specific form of application firewall that filters, monitors and blocks HTTP traffic to and from a webservice.
 
-WAF (Web Application Protocol): A specific form of application firewall that filters, monitors and blocks HTTP traffic to and from a webservice.
-
-ZTP (Zero-touch Provisioning): An automatic device configuration process that reduces the possibility of errors when manually configuring devices.  
-
+**ZTP (Zero-touch Provisioning):** An automatic device configuration process that reduces the possibility of errors when manually configuring devices.  
 ## Operations
-ATP (Advanced Threat Protection): Security solutions that defend against sophisticated malware or hacking attacks targeting sensitive data which includes both software and managed security services. 
+**ATP (Advanced Threat Protection):** Security solutions that defend against sophisticated malware or hacking attacks targeting sensitive data which includes both software and managed security services. 
 
-Business Continuity Plan: An organization’s playbook for how to operate in an emergency like a massive cyberattack which provides safeguards against a disaster and outlines strategies and the action plan on how to continue business as usual.   
+**Business Continuity Plan:** An organization’s playbook for how to operate in an emergency like a massive cyberattack which provides safeguards against a disaster and outlines strategies and the action plan on how to continue business as usual.   
 
-Cybersecurity: The processes employed to safeguard and secure assets are used to carry information of an organization from being stolen or attacked which requires extensive knowledge of possible threats such as viruses or other malicious objects.  
+**Cybersecurity:** The processes employed to safeguard and secure assets are used to carry information of an organization from being stolen or attacked which requires extensive knowledge of possible threats such as viruses or other malicious objects.  
 
-Data Integrity: Refers to the maintenance and assurance of data quality including the accuracy and consistency of data over its entire lifecycle.    
+**Data Integrity:** Refers to the maintenance and assurance of data quality including the accuracy and consistency of data over its entire lifecycle.    
+**Detection and Response:** Security solution category used by organizations to detect malicious network activity, perform a forensic investigation to determine the root cause and then respond and mitigate the threat. 
 
-Detection and Response: Security solution category used by organizations to detect malicious network activity, perform a forensic investigation to determine the root cause and then respond and mitigate the threat. 
+**Digital Forensics:** The process of procuring, analyzing and interpreting electronic data for the purpose of presenting it as legal evidence in a court of law.     
 
-Digital Forensics: The process of procuring, analyzing and interpreting electronic data for the purpose of presenting it as legal evidence in a court of law.     
+**Ethical Hacker (Whitehat):** Hackers that perform penetration testing, test in place security systems and perform vulnerability assessments for companies.   
 
-Ethical Hacker (Whitehat): Hackers that perform penetration testing, test in place security systems and perform vulnerability assessments for companies.   
+**Endpoint Protection:** A system for network security management that monitors network endpoints, hardware devices such as workstations and mobile devices.   
 
-Endpoint Protection: A system for network security management that monitors network endpoints, hardware devices such as workstations and mobile devices.   
+**IAM (Identity and Access Management):** The process used by an organization to grant or deny access to a secure system.   
 
-IAM (Identity and Access Management): The process used by an organization to grant or deny access to a secure system.   
+**Incident Response Plan:** A policy outlying an organization's response to an information security incident. 
 
-Incident Response Plan: A policy outlying an organization's response to an information security incident. 
+**IoC (Indicators of Compromise):** Are bits of forensic data from system log entries or files that identify potentially malicious activity on a system or network.    
 
-IoC (Indicators of Compromise): Are bits of forensic data from system log entries or files that identify potentially malicious activity on a system or network.    
+**IPS (Intrusion Prevention System):** A network security system designed to prevent network penetration by malicious actors.    
 
-IPS (Intrusion Prevention System): A network security system designed to prevent network penetration by malicious actors.    
+**Network-based (cyber) Security:** Services that operate from within a CSP’s network and not at the endpoint such as a PC or mobile device which allows it to protect any connected device regardless of model or operation system.    
 
-Network-based (cyber) Security: Services that operate from within a CSP’s network and not at the endpoint such as a PC or mobile device which allows it to protect any connected device regardless of model or operation system.    
+**Policy Management:** The Process of creating, communicating and maintaining policies and procedures within an organization.   
 
-Policy Management: The Process of creating, communicating and maintaining policies and procedures within an organization.   
+**SECaaS (Security as a Service):** A type of cloud computing service where the provider offers the customer the ability to use a provided application in which they can only make minor tweaks and the provider is responsible for maintaining the application.    
 
-SECaaS (Security as a Service): A type of cloud computing service where the provider offers the customer the ability to use a provided application in which they can only make minor tweaks and the provider is responsible for maintaining the application.    
+**Security Incident Response:** A planned approach to addressing and managing the reaction after a cyber-attack or network security breach.    
 
-Security Incident Response: A planned approach to addressing and managing the reaction after a cyber-attack or network security breach.    
+**SOC (Security Operations Centre):** Monitors an organization's security operations to prevent, detect and respond to any potential threats.   
 
-SOC (Security Operations Centre): Monitors an organization's security operations to prevent, detect and respond to any potential threats.   
+**Security Perimeter:** A digital boundary that is defined for a system or domain within which a specific security policy or security architecture is applied.    
 
-Security Perimeter: A digital boundary that is defined for a system or domain within which a specific security policy or security architecture is applied.    
+**SIEM (Security Information and Event Management):** is a formal process by which the security of an organization is monitored and evaluated on a constant basis.    
 
-SIEM (Security Information and Event Management): is a formal process by which the security of an organization is monitored and evaluated on a constant basis.    
+**Threat Assessment:** A structured process used to identify and evaluate various risks or threats that an organization might be exposed to.    
 
-Threat Assessment: A structured process used to identify and evaluate various risks or threats that an organization might be exposed to.    
+**Threat Hunting:** An active cyber defense activity where cybersecurity professionals actively search networks to detect and mitigate advanced threats that evade security solutions.     
 
-Threat Hunting: An active cyber defense activity where cybersecurity professionals actively search networks to detect and mitigate advanced threats that evade security solutions.     
-
-Threat Intelligence: Intelligence proactively obtained and used to understand the threats that are targeting the organization.    
+**Threat Intelligence:** Intelligence proactively obtained and used to understand the threats that are targeting the organization.    
 
 ## Frameworks & Standards
 

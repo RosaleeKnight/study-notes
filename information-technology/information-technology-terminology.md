@@ -385,3 +385,19 @@ C
 **Compact Disc File System (CDFS):** A filesystem used on compact disc media, also known as ISO 9660. 
 
 **Compatibility Mode:** A method of providing backward compatibility for applications.
+
+**Compiler:** A program that takes high-level and mid-level code and compiles it to low-level executable machine code.
+
+**Complementary Metal Oxide Semiconductor (CMOS):** The extremely small storage space that holds user settings and dynamically discovered parameters for the BIOS/UEFI. 
+
+**Compliance:** The act of complying with regulations and policies.
+
+**Component Object Model (COM)**: An interface standard that supports object-oriented programming and allows processes to communicate with objects that are created from application libraries.
+
+**Composition:** When referring to printer paper, it’s what the paper is made of which can be made of cotton fibers or wood pulp, or a combination of the two.
+
+**Computer Vacuum:** A special vacuum that electronically dissipates electrical static discharge (ESD) potential so that computer components are not damaged.
+
+**Connectionless:** In TCP/IP, refers to the UDP protocol, which makes a best effort attempt at delivery but does not negotiate and establish a connection like TCP does.
+
+**Connection-oriented:** In TCP/IP, refers to the TCP protocol, which negotiates and establishes a connection between two hosts before transmission of data begins.

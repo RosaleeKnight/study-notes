@@ -271,3 +271,19 @@ C
 **Canonical Name (CNAME):** DNS record type that indicates an alias for a host which allows for a host to have multiple names.
 
 **Captive Portal:** A web page that prevents a user from using a wired or wireless connection until an acceptable use policy (AUP) is accepted or login credentials are provided.
+
+**Carriage Belt:** The printer belt placed around two small wheels or pulleys and attached to the print head carriage and is driven by the carriage motor and moves the print head back and forth across the page during printing.
+
+**Carriage Motor:** A stepper motor used to move the print head back and forth on an impact printer also called a carriage stepper motor.
+
+**Carrier Sense Multiple Access with Collision Detection (CSMA/CD):** Network access method where computers listen on the line and transmit when the line is empty but in the event of a packet collision, each sender will wait a random amount of time and resend.
+
+**Carrier Sense Multiple Access/Collision Avoidance (CSMA/CA):** The Ethernet access method used by IEEE 802.11 wireless networking.
+
+**Cascading Style Sheets (CSS):** A sheet or file that determines the placement and style of web page elements. 
+
+**cat:** A command-line tool on Linux that allows you to view the contents of a text file.
+
+**Cat 5:** Twisted pair cabling capable of handling 100 Mbps transmissions up to 100 meters. 
+
+**Cat 5e:** Twisted pair cabling capable of handling 1 Gbps transmissions up to 100 meters.

@@ -231,6 +231,16 @@ Terms I have come across studying. Collapsed and organized by starting letter du
 
 **Brownout:** When the voltage dips below the nominal operating voltage for more than a few seconds but not a total loss of power.
 
+**Browser Redirection:** The action of redirecting a user visiting a website to a malicious site for harvesting of credentials.
+
+**Burner:** An optical drive so named because it employs a laser capable of intensities stronger than what is used to read discs in which it uses said laser to write, or “burn,” content to the disc.
+
+**Burn-in:** No matter what you have on your screen, you can still see the outlines of a different image; that image has been “burned” into the monitor.
+
+**Bus:** Three sets of signal pathways (external bus, the address bus, and the data bus) that allows information and signals to travel between components inside or outside of a computer.
+
+**Bus Topology:** A network topology where all computers are connected in a serial fashion.
+
+**Button Cell:** A special battery in the form of a coin and about the size of a quarter.
+
 </details>
-
-

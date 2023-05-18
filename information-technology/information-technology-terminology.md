@@ -363,3 +363,25 @@ C
 **CMOS Battery:** A battery that provides power to the CMOS (or BIOS/UEFI) chip that stores CMOS settings. A PC must retain certain settings when it’s turned off and its power cord is unplugged.
 
 **Coaxial Cable:** A medium for connecting computer components that contains a center conductor made of copper, surrounded by a plastic jacket, with a braided shield over the jacket.
+
+**Cold Cathode Fluorescent Lamp (CCFL):** A common type of backlight used in laptop computers.
+
+**Collision:** When two or more stations transmit onto a shared medium simultaneously, invalidating the data sent from each station.
+
+**Command Prompt:** The interactive prompt that allows commands to be interpreted and executed in Windows. 
+
+**Commercial License:** A software license that is granted or used for commercial purposes.
+
+**Common Internet File System (CIFS):** TCP/IP protocol that uses port 445 designed by Microsoft and used to share files and printers between computers, regardless of the operating system that they run.
+
+**Common Language Runtime (CLR):** An intermediate code to which the .NET Framework is compiled which is just-in-time compiled to executable machine code.
+
+**Communications Interface:** The method a device uses to communicate with other components, such as SATA or PCIe. 
+
+**Community Cloud:** A cloud that is shared by several clients with similar interests or objectives.
+
+**Compact Disc (CD):** A digital optical disc medium commonly capable of holding from 650 MB to 700 MB of data, corresponding to 74 to 80 minutes of CD- quality audio, which is of higher quality than MP3 files.
+
+**Compact Disc File System (CDFS):** A filesystem used on compact disc media, also known as ISO 9660. 
+
+**Compatibility Mode:** A method of providing backward compatibility for applications.

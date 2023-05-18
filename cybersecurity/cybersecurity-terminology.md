@@ -19,19 +19,19 @@ Terms I have come across studying.
 # Threats 
 
 ## Threat Actors
-Cyber Terrorists: Threat actors focused on disrupting critical services and causing harm. 
+**Cyber Terrorists:** Threat actors focused on disrupting critical services and causing harm. 
 
-Government-Sponsored/ State-Sponsored Actors: Threat actors funded, directed or sponsored by nations known to steal and exfiltrate intellectual property, sensitive information and even funds to further their nation's espionage causes.   
+**Government-Sponsored/ State-Sponsored Actors:** Threat actors funded, directed or sponsored by nations known to steal and exfiltrate intellectual property, sensitive information and even funds to further their nation's espionage causes.   
 
-Hacktivists: Threat actors focused on bringing awareness usually motivated by activism. 
+**Hacktivists:** Threat actors focused on bringing awareness usually motivated by activism. 
 
-Insiders: Threat actors that infiltrate your workforce themselves or turn an insider towards their goal/cause. 
+**Insiders:** Threat actors that infiltrate your workforce themselves or turn an insider towards their goal/cause. 
 
-Organized Crime / Cybercriminals: Threat actors who want to steal sensitive data, money and personal information which is sold on the black market and sometimes use ransomware to extort business owners. 
+**Organized Crime / Cybercriminals: **Threat actors who want to steal sensitive data, money and personal information which is sold on the black market and sometimes use ransomware to extort business owners. 
 
-Script Kiddies: Threat actors that aren't skilled enough to design penetration tools on their own and use tools developed by other attackers to penetrate a network or system. 
+**Script Kiddies:** Threat actors that aren't skilled enough to design penetration tools on their own and use tools developed by other attackers to penetrate a network or system. 
 
-Threat Actor (Blackhat): A hacker that violates computer security for personal gain or malice.   
+**Threat Actor (Blackhat):** A hacker that violates computer security for personal gain or malice.   
 
 ## Types of Attacks
 APT (Advanced Persistent Threat): An attack in which an unauthorized user gains access to a system or network without being detected.  

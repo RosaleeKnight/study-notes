@@ -209,35 +209,35 @@ Terms I have come across studying.
 
 ## Frameworks & Standards
 
-CIA (Confidentially, Integrity and Availability) Triad: Model for data security where confidentially means only authorized users have access to data within a system, integrity which is the necessity of trustworthiness and accuracy of data and availability which is data must be accessible where and when users need it.   
+**CIA (Confidentially, Integrity and Availability) Triad:** Model for data security where confidentially means only authorized users have access to data within a system, integrity which is the necessity of trustworthiness and accuracy of data and availability which is data must be accessible where and when users need it.   
 
-CIS (Centre for Internet Security) Best practices for cybersecurity split into 20 parts covering the tenets of Offense informs defence, prioritization, Measures and metrics, continuous diagnostics and mitigation and automation which was originally developed by the SANS Institute.   
+**CIS (Centre for Internet Security):** Best practices for cybersecurity split into 20 parts covering the tenets of Offense informs defence, prioritization, Measures and metrics, continuous diagnostics and mitigation and automation which was originally developed by the SANS Institute.   
 
-COBIT (Control Objectives for Information and Related Technology): Framework for businesses wanting to implement, monitor and improve IT management practiced created by ISACA (Information Systems Audit and Control Association). 
+**COBIT (Control Objectives for Information and Related Technology):** Framework for businesses wanting to implement, monitor and improve IT management practiced created by ISACA (Information Systems Audit and Control Association). 
 
-COSO (Sponsoring Organizations of the Treadway Commission):  Framework that comprises 5 internal control components and 17 related principles to help organizations develop a cyber risk assessment process. 
+**COSO (Sponsoring Organizations of the Treadway Commission):** Framework that comprises 5 internal control components and 17 related principles to help organizations develop a cyber risk assessment process. 
 
-FedRAMP (Federal Risk and Authorization Management Program): Compliance program created by the USA that sets a baseline for cloud products and services regarding their approach to authorization, security assessment and continuous monitoring. 
+**FedRAMP (Federal Risk and Authorization Management Program):** Compliance program created by the USA that sets a baseline for cloud products and services regarding their approach to authorization, security assessment and continuous monitoring. 
 
-FISMA (The Federal Information Security Management Act of 2002): USA law that defines a comprehensive framework to protect government information, operations and assets against natural and manmade threats. 
+**FISMA (The Federal Information Security Management Act of 2002):** USA law that defines a comprehensive framework to protect government information, operations and assets against natural and manmade threats. 
 
-GDPR (General Data Protection Regulation):  European Union regulation that is a framework to protect the personal data which is considered any information that is linked to an identify of a living person such as images, audio and address which has a 10-step compliance. 
+**GDPR (General Data Protection Regulation):** European Union regulation that is a framework to protect the personal data which is considered any information that is linked to an identify of a living person such as images, audio and address which has a 10-step compliance. 
 
-GRC (Governance, Risk and Compliance): Structured way to align IT with business goals while managing risks and meeting all industry and government regulations using tools and processes. 
+**GRC (Governance, Risk and Compliance):** Structured way to align IT with business goals while managing risks and meeting all industry and government regulations using tools and processes. 
 
-ISO (International Organization for Standardization): International standard policy framework to address the establishment of trustworthiness, collaboration, exchange of information and technical guide for systems integration between stakeholders in cyberspace. 
+**ISO (International Organization for Standardization):** International standard policy framework to address the establishment of trustworthiness, collaboration, exchange of information and technical guide for systems integration between stakeholders in cyberspace. 
 
-MITRE ATT&CK™ Framework: A comprehensive matrix of tactics and techniques used by threat hunters, red teamers and defenders to better classify attacks and assess an organizations risk.   
+**MITRE ATT&CK™ Framework:** A comprehensive matrix of tactics and techniques used by threat hunters, red teamers and defenders to better classify attacks and assess an organizations risk.   
 
-NIST (National Institue of Standards and Technology) Framework: Best practices to helps organizations prevent, detect and response to cyber-attack by improving cyber security and risk management communications among internal and external stakeholders. 
+**NIST (National Institue of Standards and Technology) Framework:** Best practices to helps organizations prevent, detect and response to cyber-attack by improving cyber security and risk management communications among internal and external stakeholders. 
 
-OWASP (Open Web Application Security Project):  Internation non-profit organization dedicated to web application security with the best-known project called the TOP 10 which is the 10 most critical risks.  
+**OWASP (Open Web Application Security Project):** Internation non-profit organization dedicated to web application security with the best-known project called the TOP 10 which is the 10 most critical risks.  
 
-PCI-DSS (Payment Card Industry Security Standard):  A set of security standards designed to ensure that all companies that accept, process, store or transmit credit card information maintain a secure environment.  
+**PCI-DSS (Payment Card Industry Security Standard):** A set of security standards designed to ensure that all companies that accept, process, store or transmit credit card information maintain a secure environment.  
 
-SOC 2: Criteria developed by AICPA (American Institue of CPA) for managing customer data based on 5 trust principles which are security, availability, processing integrity, confidentiality and privacy. 
+**SOC 2:** Criteria developed by AICPA (American Institue of CPA) for managing customer data based on 5 trust principles which are security, availability, processing integrity, confidentiality and privacy. 
 
-The Cyber Kill Chain: Framework part of the Intelligence Driven Defense model for identification and prevention of cyber intrusion activities which states what the threat actors must complete to achieve their objective in 7 steps.  
+**The Cyber Kill Chain:** Framework part of the Intelligence Driven Defense model for identification and prevention of cyber intrusion activities which states what the threat actors must complete to achieve their objective in 7 steps.  
 
 ---
 

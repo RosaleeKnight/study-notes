@@ -2,17 +2,17 @@ Terms I have come across studying.
 
 # Jobs
 
-CISO (Chief Information Security Officer): A senior level executive who oversees an organization’s information, cyber and technology security whose responsibilities include developing, implementing and enforcing security polices to protect critical data.    
+**CISO (Chief Information Security Officer):** A senior level executive who oversees an organization’s information, cyber and technology security whose responsibilities include developing, implementing and enforcing security polices to protect critical data.    
 
-Threat Hunter: Identifies advanced threats and then track and mitigates them before organizational IT systems are attacked.    
+**Threat Hunter:** Identifies advanced threats and then track and mitigates them before organizational IT systems are attacked.    
 
-Blue Team: Responsible for defending an enterprises use of information systems by maintaining its security posture against a group of mock attacks. 
+**Blue Team:** Responsible for defending an enterprises use of information systems by maintaining its security posture against a group of mock attacks. 
 
-Red Team: Emulates a potential adversary’s attack or exploitation capabilities against an enterprise's security posture.  
+**Red Team:** Emulates a potential adversary’s attack or exploitation capabilities against an enterprise's security posture.  
 
-Incident Response Team: Responsible for responding to security breaches, viruses and other potentially catastrophic incidents in enterprises that face significate risks.  
+**Incident Response Team:** Responsible for responding to security breaches, viruses and other potentially catastrophic incidents in enterprises that face significate risks.  
 
-SOC Analyst: Uses a network of sensors, security tools and monitoring equipment to proactively identify, evaluate and remediate potential cybersecurity threats. 
+**SOC Analyst:** Uses a network of sensors, security tools and monitoring equipment to proactively identify, evaluate and remediate potential cybersecurity threats. 
 
 ---
 

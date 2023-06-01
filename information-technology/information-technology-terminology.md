@@ -742,3 +742,16 @@ AGP slots, and other local-bus components are interconnected with the CPU and, i
 
 **Fusing Step:** The sixth step in the EP imaging process, when the toner image on the paper is fused to the paper using heat and pressure where the heat melts the toner, and the pressure helps
 fuse the image permanently to the paper.
+
+**Generalize Pass:** A configuration process in which the operating system is configured with a new security ID (SID) and drivers are detected.
+
+**Gesture-Based Interaction:** Using a mobile device through a series of finger gestures and device movements.
+
+**Ghost Cursor:** On a laptop computer, when the cursor apparently jumps around the screen by itself which is usually caused by the user’s hand inadvertently touching the trackpad or touch stick and also called cursor drift.
+
+**Global Positioning System (GPS):** A satellite-based navigation system that provides location and time services.
+
+**Global System for Mobile Communications (GSM):** An older radio technology used for the transmission of voice and data in 2G and 3G networks.
+
+**Globally Unique Identifier (GUID):** A unique identifier that is always unique across all systems, because of the complexity of the alphanumeric value and is also used to identify users
+in an Active Directory domain.

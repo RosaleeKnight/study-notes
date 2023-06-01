@@ -526,3 +526,19 @@ Terms I have come across studying organized by starting letter.
 **Domain:** A networking model that allows for centralized login and management of users and computer objects which is also referred to as a client-server networking model.
 
 **Domain Controller:** The authenticating server used with the domain networking model which is responsible for storing objects, authenticating objects, and auditing of the objects.
+
+**Domain Keys Identified Mail (DKIM):** An email server authentication method that uses a public-private encrypted key pair to help protect against spam emails where the DKIM record is added to the DNS server as a TXT record type.
+
+**Domain Name System (DNS):** A TCP/IP name resolution system that resolves hostnames to IP addresses and uses port 53.
+
+**Domain-based Message Authentication, Reporting, and Conformance (DMARC):** A policy that specifies how a sending domain’s email administrator wants emails that are rejected by DKIM or SPF to be handled stored as a TXT record in DNS, it helps protect against email spam.
+
+**Dot-Matrix Printer:** An impact printer that has a print head containing a row of pins (short, sturdy stalks of hard wire) that are used to strike the ink ribbon to create an image.
+
+**Double-sided Memory:** A memory module that combines two modules into one.
+
+**Draft Quality:** The poorest quality standard of output from a dot-matrix impact printer, suitable only for early document review.
+
+**Driver:** A software file that allows an operating system to communicate with a hardware device also called a device driver.
+
+**Driver Signing:** A method of mitigating the risk of installing malware with third-party drivers by authenticating the author through certificate signing.

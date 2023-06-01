@@ -430,3 +430,24 @@ Terms I have come across studying. Collapsed and organized by starting letter du
 **Cursor Drift:** On a laptop computer, when the cursor apparently jumps around the screen by itself and is usually caused by the user’s hand inadvertently touching the trackpad or touch stick.
 </details>
   
+D
+
+Daisy-Wheel Printer: An impact printer that uses a a different character on the end of each spoke of a wheel which rotates
+to the letter when there a small hammer strikes the character against the ribbon, transferring the
+image onto the paper.
+
+Date Code: A numerical code that depicts the date for the release of a software package
+or update.
+
+Daughterboard: A thin circuit board attached to the motherboard, used to attach
+expansion cards.
+
+DB-9: Connector type used with older serial cables.
+
+Direct Current (DC) Adapter: A power adapter that plugs into a car cigarette lighter or airplane power
+source and provides direct current.
+
+DC Jack: Power plug used to connect a DC adapter mostly found in airplanes and
+automobiles, and may be labeled auxiliary power.
+
+dd: A Linux command that provides block-level copying of devices.

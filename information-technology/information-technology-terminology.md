@@ -653,7 +653,7 @@ it scans across the surface of the drum in which the area on which the laser shi
 
 **Feed Roller:** The rubber roller in a laser printer that feeds the paper into the printer.
 
-Feeder: Device that feeds paper or other media into a printer.
+**Feeder:** Device that feeds paper or other media into a printer.
 
 **Fences:** A physical security barrier used to keep unauthorized persons out of a secure area while allowing the same environmental conditions.
 
@@ -688,3 +688,21 @@ Feeder: Device that feeds paper or other media into a printer.
 **FileVault:** A macOS feature that allows volume-level encryption of the hard drive.
 
 **Finder:** The default file manager on Apple macOS that allows for file organization and access.
+
+**Fingerprint Lock:** A biometric type lock that uses your fingerprint to unlock the device.
+
+**Finish Diagram:** A formal documentation of network systems, usually created at the end ofimplementation.
+
+**Finisher:** A device on a printer that performs such final functions as folding, stapling, hole punching, sorting, or collating the documents being printed.
+
+**Fire Ratings:** A rating that defines how long a container can be exposed to fire before its contents can no longer be protected from heat.
+
+**Fireproof Container:** A container that is impervious to fire that allows its contents to remain at a safe temperature.
+
+**Firewall:** Software used to limit traffic based on a set of rules, usually called an access control list (ACL).
+
+**Firmware:** Software that is programmed into erasable read-only memory that defines how a piece of hardware operates.
+
+**First Responder:** A person who is designated to respond to incidents and be the first personon the scene.
+
+First-in, First-out (FIFO): A systematic way of sending the most recent information out, based on the most recent information that first came in.

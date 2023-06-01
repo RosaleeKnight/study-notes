@@ -724,3 +724,21 @@ First-in, First-out (FIFO): A systematic way of sending the most recent informat
 **Format:** The action of preparing a disk for storage using a given filesystem.
 
 **Fourth Generation (4G):** A generation of cellular technology that was popular throughout the 2010s and was the first standard that offered LTE.
+
+**Frame:** The Data Link layer product that includes a portion of the original user data, upperlayer headers, and the Data Link header and trailer.
+
+**Freeware:** Software that is written and distributed for free usage.
+
+**Frequency:** The audio range in which a technology sends and receives broadcasts.
+
+**Frontside Bus (FSB):** The high-speed bus controlled by the Northbridge on which RAM, cache, PCIe slots used for high-speed graphics,
+AGP slots, and other local-bus components are interconnected with the CPU and, in some cases, each other.
+
+**Full-duplex Communication:** Communications where both entities can send and receive simultaneously.
+
+**Fully Qualified Domain Name (FQDN):** A domain name that is registered with a name provider and that contains a resource record that can be resolved to an IP address.
+
+**Fuser:** A device on an EP printer that uses two rollers to heat the toner particles and fuse them to the paper.
+
+**Fusing Step:** The sixth step in the EP imaging process, when the toner image on the paper is fused to the paper using heat and pressure where the heat melts the toner, and the pressure helps
+fuse the image permanently to the paper.

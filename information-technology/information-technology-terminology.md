@@ -1,7 +1,6 @@
-Terms I have come across studying. Collapsed and organized by starting letter due to being 50+ pages.
+Terms I have come across studying organized by starting letter.
 
-<details> 
-  <summary> # </summary>
+# Numbers
 
 **.app:** A container to hold the application and its resource files that is used on macOS.
 
@@ -44,10 +43,8 @@ Terms I have come across studying. Collapsed and organized by starting letter du
 **802.11g:** A wireless standard that operates at 2.4 GHz, is backward compatible with 802.11b, and provides data transmission of up to 54 Mbps.
 
 **802.11n:** A wireless standard that can operate at 5 GHz or 2.4 GHz, is backward compatible with earlier standards, and provides data transmission up to 600 Mbps.
-</details>
   
-<details> 
-  <summary> A </summary>
+# A
 
 **A Address:** A DNS record type for an IPv4 host.
 
@@ -152,10 +149,8 @@ Terms I have come across studying. Collapsed and organized by starting letter du
 **Automatic Document Feeder (ADF):** Feature on a scanner or multifunction device (MFD) that allows multiple pieces of paper to be placed in it so that all of them can be scanned in one job.
 
 **Automatic Private IP Addressing (APIPA):** IP addressing system that automatically configures a host with a nonroutable, private IP address in the event the host is unable to reach the DHCP server.
-</details>
-  
-<details> 
-  <summary> B </summary>
+
+# B
 
 **Backlight**: A lighting source for an LCD computer screen, placed behind or below the display.
 
@@ -242,10 +237,8 @@ Terms I have come across studying. Collapsed and organized by starting letter du
 **Bus Topology:** A network topology where all computers are connected in a serial fashion.
 
 **Button Cell:** A special battery in the form of a coin and about the size of a quarter.
-</details>
 
-<details> 
-  <summary> C </summary>
+# C
 
 **C/C++:** A mid level object-oriented language that requires compilation to machine execution code.
 
@@ -430,7 +423,7 @@ Terms I have come across studying. Collapsed and organized by starting letter du
 **Cursor Drift:** On a laptop computer, when the cursor apparently jumps around the screen by itself and is usually caused by the user’s hand inadvertently touching the trackpad or touch stick.
 </details>
   
-D
+# D
 
 **Daisy-Wheel Printer:** An impact printer that uses a a different character on the end of each spoke of a wheel which rotates to the letter when there a small hammer strikes the character against the ribbon, transferring the image onto the paper.
 

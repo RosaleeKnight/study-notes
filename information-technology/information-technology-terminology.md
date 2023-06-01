@@ -832,3 +832,18 @@ the other ports.
 **Hybrid Drive:** A secondary storage solution comprising a traditional magnetic hard drive and modern solid-state drive, whether as a single device or as two separate ones.
 
 **Hybrid Topology:** A physical network topology that is a combination of bus, star/hub-andspoke, and mesh.
+
+**Hypertext Markup Language (HTML):** A standardized markup language for the transfer and rendering of web pages with their associated elements.
+
+**Hypertext Transfer Protocol (HTTP):** A protocol in the TCP/IP protocol suite that is the
+backbone for Internet (Web) traffic and  uses port 80.
+
+**Hypertext Transfer Protocol Secure (HTTPS):** A secure version of the HTTP protocol that
+uses TCP port 443.
+
+**Hyperthreading:** A CPU feature that allows a single CPU core to be treated by an operating
+system that supports simultaneous multithreading (SMT) as if it were two CPUs.
+
+**Hyper-V:** A Microsoft technology used for operating system virtualization inside of the Microsoft Windows operating system.
+
+**Hypervisor:** Software that is installed which allows the creation of virtual machines on a computer.

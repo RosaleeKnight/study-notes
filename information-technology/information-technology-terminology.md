@@ -451,3 +451,25 @@ DC Jack: Power plug used to connect a DC adapter mostly found in airplanes and
 automobiles, and may be labeled auxiliary power.
 
 dd: A Linux command that provides block-level copying of devices.
+
+DDR (Double data rate): A type of SDRAM that doubles the data rate of single data rate SDRAM
+by transmitting 8 bytes on both the rising edge and the falling edge of each FSB clock cycle.
+
+DDR2 (Double Data Rate Version 2): A type of SDRAM that doubles the data rate of DDR
+SDRAM by transmitting 16 bytes on both the rising edge and the falling edge of each FSB
+clock cycle.
+
+DDR3 (Double Data Rate Version 3): A type of SDRAM that doubles the data rate of DDR2
+SDRAM by transmitting 32 bytes on both the rising edge and the falling edge of each FSB
+clock cycle.
+
+DDR4 (Double Data Rate Version 4): A type of SDRAM that doubles the data rate of DDR3
+SDRAM by transmitting 64 bytes on both the rising edge and the falling edge of each FSB
+clock cycle.
+
+DDR5 (Double Data Rate Version 5): A type of SDRAM that doubles the data rate of DDR4
+SDRAM by transmitting 128 bytes on both the rising edge and the falling edge of each FSB
+clock cycle.
+
+Debian: A Linux operating system that many different Linux distributions have been based
+on, such as Ubuntu.

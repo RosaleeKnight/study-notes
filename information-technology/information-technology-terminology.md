@@ -493,3 +493,15 @@ D
 **Digital Certificate:** An electronic certificate used to validate or authenticate credentials for users, computers, and applications.
 
 **Digital Rights Management (DRM):** A digital form of copyright protection that protects digital forms of media and allows the management of rights.
+
+**Digital Subscriber Line (DSL):** A broadband Internet access technology that uses the existing phone line from your home to the phone company to carry digital signals at higher speeds.
+
+**Digital Subscriber Line (DSL) Modem:** A device that allows broadband Internet access using the existing phone line from your home to the phone company to carry digital signals at high speeds.
+
+**Digital Versatile Disc (DVD):** A digital optical disc medium commonly capable of holding from 4.7 GB to 8.5 GB of data per side, corresponding to 2 to 4 hours of uncompressed DVD-quality video.
+
+**Digital Visual Interface (DVI):** A digital video interface standard that includes support for analog monitor interfaces in the DVI-A standard or one or two links of digital transmission in the DVI-D standard.
+
+**Digitizer:** A device that takes input from a stylus pen, such as drawings or writing, and turns it into digital form on a computer.
+
+**Direct Burial:** Shielded twisted pair (STP) cabling that has extra insulation to make it waterproof, designed for burial in the ground or for use outside.

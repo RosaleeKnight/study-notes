@@ -572,3 +572,23 @@ Terms I have come across studying organized by starting letter.
 **Dynamic Network Address Translation (DNAT):** Network address translation that allows for a resource on a private computer to be available for consumption on a public network.
 
 **Dynamically Type:** Variables in which the type is automatically set as a value is assigned.
+
+**EFI System Partition (ESP):** A system partition that stores various files used with UEFI for the booting of the operating system.
+
+**Electromagnetic Interference (EMI):** Any electromagnetic radiation released by an electronic device that disrupts the operation or performance of any other device.
+
+**Electronic Stepper Motor:** A special electric motor in a printer that can accurately move in very small increments and powers all of the paper transport rollers as well as the fuser rollers.
+
+**Electrophotographic (EP) Imaging Process:** The seven-step process by which an EP laser printer forms images on paper.
+
+**Electrostatic Discharge (ESD):** Occurs when two objects of dissimilar electrical charge come in contact with each other; the charge can damage electronic components.
+
+**Embedded System:** A computer system that other computer systems depend on tocomplete processes.
+
+**Emulator:** Another name for a hypervisor, or a program that allows for the creation of virtual machines.
+
+**Encryption:** The scrambling of a signal or message to make it unreadable by normal means and more secure.
+
+End-of-Life (EOL): The end of the supported life of a hardware or software product.
+
+End-User Acceptance: The method in which changes to a program or process are tested by a user or group of users.

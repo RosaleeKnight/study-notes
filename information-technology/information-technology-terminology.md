@@ -668,3 +668,23 @@ Feeder: Device that feeds paper or other media into a printer.
 **Fifth Generation (5G):** The most current generation of cellular communications that supports gigabit speeds over cellular links.
 
 **Filament:** Plastic or possibly metal material that comes in wire form on a spool, used by some 3D printers to create 3D images.
+
+**File Locking:** A feature of many network operating systems that “locks” a file to prevent more than one person from updating the file at the same time.
+
+**File Servers:** Servers on a network designed to hold and store files for clients.
+
+**File-sharing Software:** Software that allows users to share files with others over the internet or a local network.
+
+**File Transfer Protocol (FTP):** A protocol in the TCP/IP protocol suite that is optimized for
+
+**File Transfers:** Uuses ports 20 and 21.
+
+**File-Level Backup:** A backup method in which the files on a filesystem are individually backed up to media.
+
+**Fileshare:** Also known as a file server, a computer used primarily for the storage and management of files on a network.
+
+**Filesystem:** The organizational scheme that governs how files are stored and retrieved from a disk. Ex: include FAT, NTFS, HFS, and ext4.
+
+**FileVault:** A macOS feature that allows volume-level encryption of the hard drive.
+
+**Finder:** The default file manager on Apple macOS that allows for file organization and access.

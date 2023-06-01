@@ -771,3 +771,11 @@ in an Active Directory domain.
 **Guest Account:** An account automatically created and disabled on Windows operating systems for the express use of guests.
 
 **GUID Partition Table (GPT):** A 64-bit partition table specification used with Unified Extensible Firmware Interface (UEFI) BIOS.
+
+**Half-Duplex Communication:** Communication that occurs when only one entity can transmit or receive at any one instant.
+
+**Hard Disk Drive (HDD):** A disk drive that contains magnetically coated platters in a sealed case and is often used as the main secondary-storage medium.
+
+**Hard Drive Caching:** When the print job is stored on the print server’s hard drive after the job is completed.
+
+**Hardware Compatibility List (HCL):** The list of devices that are supported by the operating system vendor and considered compatible with the operating system.

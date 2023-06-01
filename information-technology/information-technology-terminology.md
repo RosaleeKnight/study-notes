@@ -607,4 +607,25 @@ Terms I have come across studying organized by starting letter.
 
 **EP Cartridge:** The component used in a laser printer that forms images on paper.
 
-Equipment Lock: A lock that secures equipment, such as USB drives, laptops, and other sensitive electronic media.
+**Equipment Lock:** A lock that secures equipment, such as USB drives, laptops, and other sensitive electronic media.
+
+**Error Correction Code (ECC):** An error-checking scheme that is able to discover 1 or 2 bits in a byte that contain errors and correct single-bit errors.
+
+**Ethernet Over Power:** Technology that allows for network signals to be sent via electrical power outlets but devices must be on the same electrical circuit for Ethernet over
+power to work.
+
+**Event Viewer:** The utility built into Microsoft operating systems that allows an administrator to view system, security, and application events.
+
+**Evil Twin:** A wireless phishing attack in which the attacker sets up a wireless access point to mimic the organization’s wireless access points.
+
+**Exchange:** Online Internet-based email service operated by Microsoft. 
+
+**Executable Machine Code:** Code that has been compiled and is directly executable by the CPU.
+
+**exFAT:** A proprietary Microsoft filesystem primarily created for flash drives over 32 GBs.
+
+**Expansion Card:** An adapter card that is inserted into a bus slot in the motherboard to expand the native capabilities of a computer system.
+
+**Expansion Slot:** One of the arbitrary insertion points in an expansion bus, based on a specific technology—PCI or PCIe, for example.
+
+**Exploits:** A manual or automated method of exposing a security vulnerability for the purpose of gaining unauthorized access.

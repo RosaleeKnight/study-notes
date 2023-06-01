@@ -629,3 +629,4 @@ power to work.
 **Expansion Slot:** One of the arbitrary insertion points in an expansion bus, based on a specific technology—PCI or PCIe, for example.
 
 **Exploits:** A manual or automated method of exposing a security vulnerability for the purpose of gaining unauthorized access.
+

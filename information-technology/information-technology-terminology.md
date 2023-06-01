@@ -474,31 +474,22 @@ D
 
 **Denial of Service (DoS):** An attack for the purposes of disrupting the service or services a company receives or provides via the Internet.
 
-**Department of Defense (DoD) Model:** A four-layer networking model loosely corresponding
-to the OSI model, upon which the basis for the TCP/IP protocol suite was developed.
+**Department of Defense (DoD) Model:** A four-layer networking model loosely corresponding to the OSI model, upon which the basis for the TCP/IP protocol suite was developed.
 
-desktop: The element of the GUI that contains icons, the Start menu, and the taskbar.
+**Desktop: **The element of the GUI that contains icons, the Start menu, and the taskbar.
 
-desktop management software: An extension of some screen-sharing software packages which gives you complete device management,
-and a lot of these tools will even show when a device is online and connectable.
+**Desktop Management Software:** An extension of some screen-sharing software packages which gives you complete device management.
 
-Developer mode A mode on the Android operating system that allows the manipulation of
-various controls for development purposes.
+**Developer Mode:** A mode on the Android operating system that allows the manipulation of various controls for development purposes.
 
-developing roller The roller inside a toner cartridge that presents a uniform line of toner
-to help apply the toner to the image written on the EP drum.
+**Developing Roller:** The roller inside a toner cartridge that presents a uniform line of toner to help apply the toner to the image written on the EP drum.
 
-developing step The fourth step in the EP imaging process, at which the image written on
-the EP drum by the laser is developed—that is, it has toner stuck to it.
+**Developing Step:** The fourth step in the EP imaging process, at which the image written on the EP drum by the laser is developed—that is, it has toner stuck to it.
 
-DHCP relay agent Server that is configured to forward DHCP broadcasts from clients on
-its subnet to the DHCP server, which resides on a different subnet.
+**DHCP Relay Agent:** Server that is configured to forward DHCP broadcasts from clients on its subnet to the DHCP server, which resides on a different subnet.
 
-DHCP server A centralized server that assigns IP address, subnet mask, and options to
-hosts via the DHCP protocol.
+**DHCP Server:** A centralized server that assigns IP address, subnet mask, and options to hosts via the DHCP protocol.
 
-digital certificate An electronic certificate used to validate or authenticate credentials for
-users, computers, and applications.
+**Digital Certificate:** An electronic certificate used to validate or authenticate credentials for users, computers, and applications.
 
-digital rights management (DRM) A digital form of copyright protection that protects
-digital forms of media and allows the management of rights.
+**Digital Rights Management (DRM):** A digital form of copyright protection that protects digital forms of media and allows the management of rights.

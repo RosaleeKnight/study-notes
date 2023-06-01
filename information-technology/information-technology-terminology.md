@@ -432,71 +432,71 @@ Terms I have come across studying. Collapsed and organized by starting letter du
   
 D
 
-Daisy-Wheel Printer: An impact printer that uses a a different character on the end of each spoke of a wheel which rotates
+**Daisy-Wheel Printer:** An impact printer that uses a a different character on the end of each spoke of a wheel which rotates
 to the letter when there a small hammer strikes the character against the ribbon, transferring the
 image onto the paper.
 
-Date Code: A numerical code that depicts the date for the release of a software package
+**Date Code:** A numerical code that depicts the date for the release of a software package
 or update.
 
-Daughterboard: A thin circuit board attached to the motherboard, used to attach
+**Daughterboard:** A thin circuit board attached to the motherboard, used to attach
 expansion cards.
 
-DB-9: Connector type used with older serial cables.
+**DB-9:** Connector type used with older serial cables.
 
-Direct Current (DC) Adapter: A power adapter that plugs into a car cigarette lighter or airplane power
+**Direct Current (DC) Adapter:** A power adapter that plugs into a car cigarette lighter or airplane power
 source and provides direct current.
 
-DC Jack: Power plug used to connect a DC adapter mostly found in airplanes and
+**DC Jack:** Power plug used to connect a DC adapter mostly found in airplanes and
 automobiles, and may be labeled auxiliary power.
 
-dd: A Linux command that provides block-level copying of devices.
+**dd:** A Linux command that provides block-level copying of devices.
 
-DDR (Double data rate): A type of SDRAM that doubles the data rate of single data rate SDRAM
+**DDR (Double data rate):** A type of SDRAM that doubles the data rate of single data rate SDRAM
 by transmitting 8 bytes on both the rising edge and the falling edge of each FSB clock cycle.
 
-DDR2 (Double Data Rate Version 2): A type of SDRAM that doubles the data rate of DDR
+**DDR2 (Double Data Rate Version 2):** A type of SDRAM that doubles the data rate of DDR
 SDRAM by transmitting 16 bytes on both the rising edge and the falling edge of each FSB
 clock cycle.
 
-DDR3 (Double Data Rate Version 3): A type of SDRAM that doubles the data rate of DDR2
+**DDR3 (Double Data Rate Version 3):** A type of SDRAM that doubles the data rate of DDR2
 SDRAM by transmitting 32 bytes on both the rising edge and the falling edge of each FSB
 clock cycle.
 
-DDR4 (Double Data Rate Version 4): A type of SDRAM that doubles the data rate of DDR3
+**DDR4 (Double Data Rate Version 4):** A type of SDRAM that doubles the data rate of DDR3
 SDRAM by transmitting 64 bytes on both the rising edge and the falling edge of each FSB
 clock cycle.
 
-DDR5 (Double Data Rate Version 5): A type of SDRAM that doubles the data rate of DDR4
+**DDR5 (Double Data Rate Version 5):** A type of SDRAM that doubles the data rate of DDR4
 SDRAM by transmitting 128 bytes on both the rising edge and the falling edge of each FSB
 clock cycle.
 
-Debian: A Linux operating system that many different Linux distributions have been based
+**Debian:** A Linux operating system that many different Linux distributions have been based
 on, such as Ubuntu.
 
-Dedicated Server: The server that is assigned to perform a specific application or service.
+**Dedicated Server:** The server that is assigned to perform a specific application or service.
 
-Default Gateway: The IP address of the “door” to the outside network, typically the internal
+**Default Gateway:** The IP address of the “door” to the outside network, typically the internal
 network’s router interface.
 
-Default Username/Password: The default credentials on a network device that allows
+**Default Username/Password:** The default credentials on a network device that allows
 initial management 
 
-Defragmenting: The process of consolidating data to create contiguous files on a
+**Defragmenting:** The process of consolidating data to create contiguous files on a
 mechanical disk drive.
 
-Demilitarized Zone (DMZ): Old term for a screened subnet which is A semi-public network segment
+**Demilitarized Zone (DMZ):** Old term for a screened subnet which is A semi-public network segment
 located between a perimeter router and an internal router on your network.
 
-Demineralized Water: Water that has had minerals and impurities removed; it does not
+**Demineralized Water:** Water that has had minerals and impurities removed; it does not
 leave residue and is recommended for cleaning keyboards and other non-metal
 computer parts.
 
-Denatured Isopropyl Alcohol: Isopropyl alcohol that is mixed with methanol or another
+**Denatured Isopropyl Alcohol:** Isopropyl alcohol that is mixed with methanol or another
 additive so that it is not humanly consumable and does not leave a film when it dries.
 
-Denial of Service (DoS): An attack for the purposes of disrupting the service or services a
+**Denial of Service (DoS):** An attack for the purposes of disrupting the service or services a
 company receives or provides via the Internet.
 
-Department of Defense (DoD) Model: A four-layer networking model loosely corresponding
+**Department of Defense (DoD) Model:** A four-layer networking model loosely corresponding
 to the OSI model, upon which the basis for the TCP/IP protocol suite was developed.

@@ -473,3 +473,30 @@ clock cycle.
 
 Debian: A Linux operating system that many different Linux distributions have been based
 on, such as Ubuntu.
+
+Dedicated Server: The server that is assigned to perform a specific application or service.
+
+Default Gateway: The IP address of the “door” to the outside network, typically the internal
+network’s router interface.
+
+Default Username/Password: The default credentials on a network device that allows
+initial management 
+
+Defragmenting: The process of consolidating data to create contiguous files on a
+mechanical disk drive.
+
+Demilitarized Zone (DMZ): Old term for a screened subnet which is A semi-public network segment
+located between a perimeter router and an internal router on your network.
+
+Demineralized Water: Water that has had minerals and impurities removed; it does not
+leave residue and is recommended for cleaning keyboards and other non-metal
+computer parts.
+
+Denatured Isopropyl Alcohol: Isopropyl alcohol that is mixed with methanol or another
+additive so that it is not humanly consumable and does not leave a film when it dries.
+
+Denial of Service (DoS): An attack for the purposes of disrupting the service or services a
+company receives or provides via the Internet.
+
+Department of Defense (DoD) Model: A four-layer networking model loosely corresponding
+to the OSI model, upon which the basis for the TCP/IP protocol suite was developed.

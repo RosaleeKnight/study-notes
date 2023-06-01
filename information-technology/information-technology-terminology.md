@@ -630,3 +630,9 @@ power to work.
 
 **Exploits:** A manual or automated method of exposing a security vulnerability for the purpose of gaining unauthorized access.
 
+**Exposing Step:** The third step in the EP imaging process, during which the items being printed are exposed (written) to the EP drum during this step, the laser is flashed on and off as
+it scans across the surface of the drum in which the area on which the laser shines is discharged to almost ground (–100V).
+
+**ext4:** A filesystem that is commonly used with Linux distributions.
+
+**External SATA (eSATA):** A connector based on Serial ATA (SATA) technology, used primarily to connect external storage devices.

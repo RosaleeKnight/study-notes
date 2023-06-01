@@ -592,3 +592,4 @@ Terms I have come across studying organized by starting letter.
 End-of-Life (EOL): The end of the supported life of a hardware or software product.
 
 End-User Acceptance: The method in which changes to a program or process are tested by a user or group of users.
+

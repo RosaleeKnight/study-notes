@@ -656,3 +656,15 @@ it scans across the surface of the drum in which the area on which the laser shi
 Feeder: Device that feeds paper or other media into a printer.
 
 **Fences:** A physical security barrier used to keep unauthorized persons out of a secure area while allowing the same environmental conditions.
+
+**Fiber-optic Cabling:** Network cable that is made with a glass or fiberglass core and that transmits light instead of electrical pulses.
+
+**Fiber-to-the-Home (FTTH):** Fiber-optic broadband service delivered directly to a residence.
+
+**Fiber-to-the-Node (FTTN):** Fiber-optic broadband service delivered to the telco box in front of the house and not directly to the home.
+
+**Field Replaceable Unit (FRU):** A component that is not serviceable in the field and is only replaceable, such as a power supply.
+
+**Fifth Generation (5G):** The most current generation of cellular communications that supports gigabit speeds over cellular links.
+
+**Filament:** Plastic or possibly metal material that comes in wire form on a spool, used by some 3D printers to create 3D images.

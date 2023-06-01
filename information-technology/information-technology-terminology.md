@@ -636,3 +636,23 @@ it scans across the surface of the drum in which the area on which the laser shi
 **ext4:** A filesystem that is commonly used with Linux distributions.
 
 **External SATA (eSATA):** A connector based on Serial ATA (SATA) technology, used primarily to connect external storage devices.
+
+**Face Lock:** A biometric type lock that allows you to use your face to unlock your device.
+
+**Factory Reset:** A process in which a device is reset back to the way it was when it came from the factory; this process wipes all user settings.
+
+**Family Educational Rights and Privacy Act (FERPA):** A regulation imposed by the Department of Education that protects family and student educational records.
+
+**FAT:** A 16-bit filesystem that was originally used with MS-DOS.
+
+**FAT32:** A 32-bit filesystem that was introduced with Windows 95.
+
+**F-connector:** Also known as F type, the type of network cable connector that is found on the end of cable television coaxial cables.
+
+**Feature Update:** An update that adds functionality to the operating system.
+
+**Feed Roller:** The rubber roller in a laser printer that feeds the paper into the printer.
+
+Feeder: Device that feeds paper or other media into a printer.
+
+**Fences:** A physical security barrier used to keep unauthorized persons out of a secure area while allowing the same environmental conditions.

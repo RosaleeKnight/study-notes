@@ -512,3 +512,17 @@ Terms I have come across studying organized by starting letter.
 **Distended Capacitor:** A capacitor is an electronic device used to store electricity with a distended or swollen capacitor being one that has failed and that has bulged from its normal size and can leak brownish-red electrolyte residue.
 
 **Distributed Denial of Service (DDoS):** A distributed attack by thousands of hosts for the purpose of disrupting the service or services a company receives or provides via the Internet.
+
+**Distributed Processing:** A computer system in which processing is performed by several separate computers linked by a communications network. The term often refers to any computer system supported by a network, but more properly refers to a system in which each computer is chosen to handle a specific workload and the network supports the system as a whole.
+
+**DNS Poisoning:** The act of sending malicious DNS results to a DNS server for the purpose of redirecting users.
+
+**DNS Server:** Server that resolves hostnames to IP addresses, typically associated with Internet name resolution.
+
+**Dock:** The component of the Apple macOS interface that allows for convenient access to frequently used apps, documents, and any running apps.
+
+**Docking Station:** Provides a full range of ports and often a full-sized keyboard and monitor for laptop computers.
+
+**Domain:** A networking model that allows for centralized login and management of users and computer objects which is also referred to as a client-server networking model.
+
+**Domain Controller:** The authenticating server used with the domain networking model which is responsible for storing objects, authenticating objects, and auditing of the objects.

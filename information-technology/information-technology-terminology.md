@@ -556,3 +556,19 @@ Terms I have come across studying organized by starting letter.
 **Dual-voltage Options:** A feature of power supplies that allows the selection of the lower AC input voltages common in North America or the higher ones common in Europe.
 
 **Dumpster Diving:** The act in which someone digs through the trash to collect sensitive information.
+
+**Duplexing Assembly:** A printer hardware component that is responsible for turning the paper over so that it can be printed on both sides.
+
+**DVD-ROM:** A nonwritable and unerasable DVD permanently pressed with digital data.
+
+**DVI-to-HDMI Adapter:** A passive adapter or cable that allows a DVI monitor to be attached to an HDMI output port on a graphics adapter.
+
+**DVI-to-VGA adapter:** A passive adapter or cable that interconnects a DVI-A interface with a VGA interface in order to allow interconnection of disparate graphics adapters and monitors.
+
+**Dynamic Disks:** A proprietary Microsoft partitioning scheme required when creating RAID groups between volumes in the Windows operating system.
+
+**Dynamic Host Configuration Protocol (DHCP):** A protocol (and service) in the TCP/ IP protocol suite that automatically configures network clients with IP configuration information when they join the network which uses ports 67 and 68.
+
+**Dynamic Network Address Translation (DNAT):** Network address translation that allows for a resource on a private computer to be available for consumption on a public network.
+
+**Dynamically Type:** Variables in which the type is automatically set as a value is assigned.

@@ -542,3 +542,17 @@ Terms I have come across studying organized by starting letter.
 **Driver:** A software file that allows an operating system to communicate with a hardware device also called a device driver.
 
 **Driver Signing:** A method of mitigating the risk of installing malware with third-party drivers by authenticating the author through certificate signing.
+
+**Dual Inline Memory Module (DIMM):** A memory module packaging style that features a circuit board with independent pins on both sides of the module’s card edge.
+
+**Dual-booting:** A computer with two operating systems that can be booted to either operating system via a bootloader menu.
+
+**Dual-channel Memory:** A RAM implementation scheme in which the memory controller requires two paired standard memory modules to read from or write to simultaneously.
+
+**Dual-layer:** The description used for DVDs and Blu-ray discs that have two media layers on one or both sides of the disc.
+
+**Dual-rail Power:** A feature of modern power supplies that provides multiple 12V rails in an effort to supply more power overall to components that require 12VDC, but with the possibility of undersupplying each individual rail.
+
+**Dual-voltage Options:** A feature of power supplies that allows the selection of the lower AC input voltages common in North America or the higher ones common in Europe.
+
+**Dumpster Diving:** The act in which someone digs through the trash to collect sensitive information.

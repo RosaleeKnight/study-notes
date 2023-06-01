@@ -498,3 +498,17 @@ Terms I have come across studying organized by starting letter.
 **Digitizer:** A device that takes input from a stylus pen, such as drawings or writing, and turns it into digital form on a computer.
 
 **Direct Burial:** Shielded twisted pair (STP) cabling that has extra insulation to make it waterproof, designed for burial in the ground or for use outside.
+
+**Disaster Recovery:** A plan or system that assists an organization in recovery of services from an incident or failure.
+
+**Disk Mirroring:** Another name for RAID 1; a hardware or software solution where exact copies of data are written to two hard drives simultaneously as a form of data redundancy which requires at least two hard drives.
+
+**Disk Striping:** Another name for RAID 0; a hardware or software solution where data is written across multiple drives, similar to a stripe which improves data read and write performance and requires at least two hard drives.
+
+**Disk Utility:** A macOS tool that allows you to create an image of the operating system.
+
+**Display Port:** A royalty-free digital display pushbutton-release interface from VESA that uses less power than other digital interfaces and VGA, and that can interconnect with HDMI and DVI with a simple adapter.
+
+**Distended Capacitor:** A capacitor is an electronic device used to store electricity with a distended or swollen capacitor being one that has failed and that has bulged from its normal size and can leak brownish-red electrolyte residue.
+
+**Distributed Denial of Service (DDoS):** A distributed attack by thousands of hosts for the purpose of disrupting the service or services a company receives or provides via the Internet.

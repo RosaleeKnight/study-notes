@@ -755,3 +755,19 @@ fuse the image permanently to the paper.
 
 **Globally Unique Identifier (GUID):** A unique identifier that is always unique across all systems, because of the complexity of the alphanumeric value and is also used to identify users
 in an Active Directory domain.
+
+**Google/Inbox (Gmail):** Internet-based email service provider operated by Google.
+
+**Gramm–Leach–Bliley Act (GLBA):** A regulation imposed by the Federal Trade Commission (FTC) that protects consumer information.
+
+**Grandfather, Father, Son (GFS):** A rotation method used for backups that defines month end, weekly, and daily backup cycles, respectively.
+
+**grep:** A Linux command that finds patterns of text in the output and contents of text files.
+
+**Group ID (GID):** The identification mechanism for groups in Linux operating systems.
+
+**Group Policy:** The Microsoft technology used with corporate domain structures for applying policies to users and computers.
+
+**Guest Account:** An account automatically created and disabled on Windows operating systems for the express use of guests.
+
+**GUID Partition Table (GPT):** A 64-bit partition table specification used with Unified Extensible Firmware Interface (UEFI) BIOS.

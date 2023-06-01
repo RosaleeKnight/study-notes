@@ -779,3 +779,41 @@ in an Active Directory domain.
 **Hard Drive Caching:** When the print job is stored on the print server’s hard drive after the job is completed.
 
 **Hardware Compatibility List (HCL):** The list of devices that are supported by the operating system vendor and considered compatible with the operating system.
+
+**Hardware Security Module (HSM):** A security device that can manage, create, and securely store encryption keys which enables users to safely encrypt and decrypt data.
+
+**Hardware Tokens:** A small device that displays a rotating number, which a user must supply along with their username and password.
+
+**Hash Algorithm:** A one-way computation that produces a unique numerical result, often used with files or data.
+
+**Hazardous Waste:** Any waste that is deemed hazardous to the environment or people which is always regulated by a government entity.
+
+**Header:** Information attached to the beginning of a network data frame.
+
+**Headers:** Pins on the motherboard used to connect case lights, fans, and other external components.
+
+**Health Insurance Portability and Accountability Act (HIPAA):** A regulation imposed by the Department of Health & Human Services (HHS) that protects patient information.
+
+**Heat Sinks:** Metal devices designed to dissipate heat from electronic components.
+
+**Helpdesk Software:** Software that is used to document helpdesk requests and their associated solutions.
+
+**Hibernate Mode:** A power state that saves the contents of memory to the hard drive and preserves all data and application state.
+
+**High Availability:** A cloud feature that guarantees access to resources for a certain amount of time.
+
+**High-Definition Multimedia Interface (HDMI):** Interface designed specifically to support digital video and can also transmit digital audio.
+
+**High-Performance Computing (HPC):** A computing environment that allows for a large number of physical CPUs and a large amount of RAM.
+
+**High-Voltage Probe:** A tool with a very large needle, a gauge that indicates volts, and a wire with an alligator clip used to discharge electricity from electronic devices.
+
+**Hoax:** A malicious deceptive email or social media post that creates undue panic or concern.
+
+**Home Directory:** The directory on Linux operating systems that is used for personal file storage.
+
+**Host:** Any computer or device on a TCP/IP network that has an IP address.
+
+**Host ID:** In TCP/IP the host ID is the portion of the IP address that uniquely identifies a host on the network.
+
+**Host-Based Firewall:** A software-based firewall located on a computer.

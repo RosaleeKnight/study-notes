@@ -817,3 +817,18 @@ in an Active Directory domain.
 **Host ID:** In TCP/IP the host ID is the portion of the IP address that uniquely identifies a host on the network.
 
 **Host-Based Firewall:** A software-based firewall located on a computer.
+
+**Hotfix:** A patch that fixes a problem in the operating system.
+
+**Hotspot:** A location, usually public, where people can access the Internet through a wireless LAN.
+
+**Hot-Swappable:** A device that can be inserted and removed without removing power from the host component.
+
+**Hub:** A basic connectivity device used to link several computers together into a physical star/hub-and-spoke topology andrepeats any signal that comes in on one port and copies it to
+the other ports.
+
+**Hybrid Cloud:** A cloud that combines the features of a public cloud with those of a private cloud.
+
+**Hybrid Drive:** A secondary storage solution comprising a traditional magnetic hard drive and modern solid-state drive, whether as a single device or as two separate ones.
+
+**Hybrid Topology:** A physical network topology that is a combination of bus, star/hub-andspoke, and mesh.

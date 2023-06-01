@@ -589,7 +589,22 @@ Terms I have come across studying organized by starting letter.
 
 **Encryption:** The scrambling of a signal or message to make it unreadable by normal means and more secure.
 
-End-of-Life (EOL): The end of the supported life of a hardware or software product.
+**End-of-Life (EOL):** The end of the supported life of a hardware or software product.
 
-End-User Acceptance: The method in which changes to a program or process are tested by a user or group of users.
+**End-User Acceptance:** The method in which changes to a program or process are tested by a user or group of users.
 
+**End-User License Agreement (EULA):** A contract between a software company and an end user, which specifies the legal use of that application.
+
+**Enterprise License:** A software license that is issued for use across an entire enterprise, regardless of license count.
+
+**Entry Control Roster:** A list of people who are authorized in an area that is controlled by a security guard.
+
+**Envelope Feeder:** A special device for feeding envelopes into a printer.
+
+**Environment Variables:** A variable that is used as a placeholder for a string of data used by the operating system.
+
+**Environmental Protection Agency (EPA):** The U.S. agency that oversees environmental protection regulations.
+
+**EP Cartridge:** The component used in a laser printer that forms images on paper.
+
+Equipment Lock: A lock that secures equipment, such as USB drives, laptops, and other sensitive electronic media.

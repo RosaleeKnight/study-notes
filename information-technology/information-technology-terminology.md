@@ -706,3 +706,21 @@ it scans across the surface of the drum in which the area on which the laser shi
 **First Responder:** A person who is designated to respond to incidents and be the first personon the scene.
 
 First-in, First-out (FIFO): A systematic way of sending the most recent information out, based on the most recent information that first came in.
+
+**Fixed Tangible Assets:** An organization’s assets that have a fixed monetary value, such as furniture, computers, and network equipment.
+
+**Flash Memory:** Computer memory that is easily altered using electricity to alter its contents instantly, but that will store the data in a persistent fashion when power is removed.
+
+**Flatbed Scanner:** Device used to read (scan) documents or pictures and turn them into electronic images of documents or pictures but can scan only one piece of paper or picture at a time.
+
+**Flat-blade Screwdriver:** A screwdriver that is used for slotted screws. 
+
+**floating-point:** A numeric value or math that has the precision of a decimal point.
+
+**Force Quit:** A method of closing an application on Apple macOS when the application becomes unresponsive.
+
+**Form Factor:** The size and shape of a component.
+
+**Format:** The action of preparing a disk for storage using a given filesystem.
+
+**Fourth Generation (4G):** A generation of cellular technology that was popular throughout the 2010s and was the first standard that offered LTE.

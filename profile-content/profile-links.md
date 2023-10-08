@@ -12,7 +12,7 @@ JavaScript Runtime Environment: <a href="https://nodejs.org/en/"> Node.js </a>
 
 JavaScript Libraries: <a href="https://kaboomjs.com/"> Kaboom.js, </a>  <a href="https://reactjs.org/"> React.js, </a> <a href="https://react-redux.js.org/"> Redux.js </a> 
 
-JavaScript Bundlers: <a href="https://esbuild.github.io/"> esbuild, </a> <a href="https://webpack.js.org/"> webpack </a>
+Bundlers: <a href="https://esbuild.github.io/"> esbuild, </a> <a href="https://webpack.js.org/"> webpack </a>
 
 Cross-platform: <a href="https://www.electronjs.org/"> Electron.js, </a> <a href="https://reactnative.dev/"> React Native </a> 
 

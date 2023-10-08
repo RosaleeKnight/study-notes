@@ -56,7 +56,7 @@ Open-source front-end JavaScript library used for building user interfaces based
 ## Redux.js
 Open-source JavaScript library for managing and centralizing application state (container) which allows you to log changes, use "time-travel debugging", and even send complete error reports to a server.
 
-# JavaScript Bundlers
+# Bundlers
 ## esbuild
 JavaScript bundler that is built with Go and fully parallelizes parsing, printing, and source map generation, making it faster but with less features then other bundlers.
 ## webpack  

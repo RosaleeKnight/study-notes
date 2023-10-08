@@ -191,6 +191,8 @@ Open-source message-broker software which allows applications, systems, and serv
 # Issue Tracking
 ## Jira
 A project management software based on agile methodology and is used for bug tracking, issue tracking, and project management.
+## Service Now
+Cloud computing platform that manages digital workflows for enterprise operations.
 ## Spiceworks
 Cloud Help Desk that helps track and manage technology issues with an integrated Inventory and IP Scanner, making it easy to track devices and document actions and progress.
 

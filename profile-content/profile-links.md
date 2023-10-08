@@ -60,7 +60,7 @@ Service Mesh: <a href="https://istio.io/"> Istio </a>
 
 Message-Broker: <a href="https://www.rabbitmq.com/"> RabbitMQ </a> 
 
-Issue Tracking: <a href="https://www.atlassian.com/software/jira"> Jira, </a> <a href="https://www.spiceworks.com/free-help-desk-software/"> Spiceworks </a> 
+Issue Tracking: <a href="https://www.atlassian.com/software/jira"> Jira, </a> <a href="https://www.servicenow.com/"> ServiceNow, </a> <a href="https://www.spiceworks.com/free-help-desk-software/"> Spiceworks </a> 
 
 Web Server: <a href="https://www.nginx.com/"> Nginx </a> 
 

@@ -919,3 +919,39 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 **International Mobile Subscriber Identity (IMSI):** On mobile phones, a unique 15-d igit identifier that describes a specific mobile user and their network. It’s composed of three  elements: the Mobile Country Code (MCC), the Mobile Network Code (MNC), and the  Mobile Station Identifier Number (MSIN), which is a sequential serial number.
 
 **Internet Appliance:** A network device specifically designed to ease Internet access.
+
+**Internet Control Message Protocol (ICMP):** A network protocol that is primarily used for troubleshooting and messaging responses from routers.
+
+**Internet Message Access Protocol (IMAP):** A protocol used for downloading email that uses port 143. The most current version is IMAPv4 (IMAP4).
+
+**Internet of Things (IoT):** A name given to the vast network of small devices that are  networkable, such as security systems and cameras, home automation systems, thermostats, door locks, and light switches.
+
+**Internet Protocol (IP):** The underlying communications protocol on which the Internet is based. IP provides addressing on a TCP/IP network and allows a data packet to travel across many networks before reaching its final destination.
+
+**Internet service provider (ISP):** Company that provides others with Internet access.
+
+**Intrusion Detection System (IDS):** A network device that monitors network traffic and looks for suspicious activity that might be the sign of a network based attack. It’s a passive device that logs the activity and can send an alert to the administrator.
+
+**Intrusion Prevention System (IPS):** A network device that monitors network traffic and looks for suspicious activity that might be the sign of a network based attack. It’s an active device that can take actions to fend off the network attack.
+
+**Inverter:** A small circuit board installed behind the LCD panel that takes AC power and converts (inverts) it for the backlight.
+
+**iOS:** Mobile operating system created by Apple; one of the most popular smartphone OSs in the world.
+
+**iPadOS:** A variant of Apple iOS with better multitasking features and a better home screen.
+
+**ipconfig:** A command line tool on Windows that allows you to view the IP address and DNS on a client.
+
+**iptables:** A commonly used host based firewall that is preinstalled in many Linux distributions.
+
+**IPv4:** The version of IP addressing that has been used since the invention of the TCP/ IP protocol. Addresses are 32 bits long and written in dotted decimal notation, such as 192.168.13.85.
+
+**IPv6:** The newer 128 bit IP addressing scheme, in which addresses are written in hex. An example is 2001:db8:3c4d:12::1234:56ab.
+
+**iSCSI:** A storage protocol that allows the transmission of Small Computer System Interface (SCSI) commands over an Ethernet network via TCP/IP.
+
+**ISDN Terminal Adapter:** Also known as an ISDN modem, it’s the device that allows you to connect to an ISDN service.
+
+**iTunes:** A marketplace for music, movies, and other digital media accessed from Apple devices.
+
+**iwconfig:** A Linux command that allows the viewing and configuration of wireless interfaces, similar to ifconfig.

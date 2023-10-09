@@ -469,7 +469,7 @@ Terms I have come across studying organized by starting letter.
 
 **Department of Defense (DoD) Model:** A four-layer networking model loosely corresponding to the OSI model, upon which the basis for the TCP/IP protocol suite was developed.
 
-**Desktop: **The element of the GUI that contains icons, the Start menu, and the taskbar.
+**Desktop:** The element of the GUI that contains icons, the Start menu, and the taskbar.
 
 **Desktop Management Software:** An extension of some screen-sharing software packages which gives you complete device management.
 
@@ -573,6 +573,8 @@ Terms I have come across studying organized by starting letter.
 
 **Dynamically Type:** Variables in which the type is automatically set as a value is assigned.
 
+# E
+
 **EFI System Partition (ESP):** A system partition that stores various files used with UEFI for the booting of the operating system.
 
 **Electromagnetic Interference (EMI):** Any electromagnetic radiation released by an electronic device that disrupts the operation or performance of any other device.
@@ -636,6 +638,8 @@ it scans across the surface of the drum in which the area on which the laser shi
 **ext4:** A filesystem that is commonly used with Linux distributions.
 
 **External SATA (eSATA):** A connector based on Serial ATA (SATA) technology, used primarily to connect external storage devices.
+
+# F
 
 **Face Lock:** A biometric type lock that allows you to use your face to unlock your device.
 
@@ -743,6 +747,8 @@ AGP slots, and other local-bus components are interconnected with the CPU and, i
 **Fusing Step:** The sixth step in the EP imaging process, when the toner image on the paper is fused to the paper using heat and pressure where the heat melts the toner, and the pressure helps
 fuse the image permanently to the paper.
 
+# G
+
 **Generalize Pass:** A configuration process in which the operating system is configured with a new security ID (SID) and drivers are detected.
 
 **Gesture-Based Interaction:** Using a mobile device through a series of finger gestures and device movements.
@@ -771,6 +777,8 @@ in an Active Directory domain.
 **Guest Account:** An account automatically created and disabled on Windows operating systems for the express use of guests.
 
 **GUID Partition Table (GPT):** A 64-bit partition table specification used with Unified Extensible Firmware Interface (UEFI) BIOS.
+
+# H
 
 **Half-Duplex Communication:** Communication that occurs when only one entity can transmit or receive at any one instant.
 
@@ -847,3 +855,33 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 **Hyper-V:** A Microsoft technology used for operating system virtualization inside of the Microsoft Windows operating system.
 
 **Hypervisor:** Software that is installed which allows the creation of virtual machines on a computer.
+
+# I
+
+**iCloud** Apple’s internet based cloud storage solution, commonly used to sync iPhones and other mobile devices as well as to provide Internet- based email.
+
+**Identification (ID):** A physical badge used to provide positive identification and authorization of a person.
+
+**ifconfig:** A Linux command that allows the viewing and configuration of Ethernet interfaces.
+
+**Image- Level Backup:** A backup in which an image of the operating system is backed up to media.
+
+**imaging drum:** The component located inside the EP cartridge of a laser printer that is responsible for applying toner to a page of paper.
+
+**Impact Paper:** Paper that is used to produce multipart forms without the use of carbon paper. Used in impact printers (such as dot- matrix) and not in inkjet or laser printers.
+
+**Impact Printer:** Any printer that forms an image on paper by forcing a character image against an inked ribbon. Dot- matrix, daisy- wheel, and line printers are all impact printers, whereas laser printers are not. 
+
+**Incident:** A notable event or occurrence that is unusual or outside of the normal processes.
+
+**Incident Documentation:** A document that is used to identify the root cause of a problem that caused an outage of services.
+
+**Incident Response:** The approach used by a company or organization to address and manage situations involving security breaches or attacks, or other improper activity on computers or a network.
+
+**Indexing Service:** A service that provides the cataloging of files for search purposes.
+
+**Information Technology eXtended (ITX):** A family of motherboard form factors used in smaller systems, such as a home theater PC.
+
+**Infrared (IR):** A type of wireless transmission between devices that uses radiation in the infrared range of the electromagnetic spectrum.
+
+**Infrastructure as a Service (IaaS):** A type of cloud service that provides the client with extra network capacity, including processing power, storage, and networking services (such as firewalls).

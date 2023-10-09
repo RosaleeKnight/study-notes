@@ -885,3 +885,37 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 **Infrared (IR):** A type of wireless transmission between devices that uses radiation in the infrared range of the electromagnetic spectrum.
 
 **Infrastructure as a Service (IaaS):** A type of cloud service that provides the client with extra network capacity, including processing power, storage, and networking services (such as firewalls).
+
+**Inheritance:** The property of permission that allows subfolders and files to inherit the  parent folder’s permissions.
+
+**Ink Cartridge:** A reservoir of ink and a print head, in a removable package.
+
+**Inkjet Printer:** A type of sprayed- ink printer. It uses an electric signal that energizes a heating element, causing ink to vaporize and be pushed out of the pinhole and onto the paper.
+
+**In-plane Switching (IPS):** A type of LCD screen. IPS displays have the best viewing angles and color reproduction of LCD screen types.
+
+**Input/Output Card:** An expansion card that allows for other input or output devices to  connect to it. Examples include USB expansion cards and eSATA expansion cards. 
+
+**Integers:** Numeric values or math that uses both positive and negative whole numbers.
+
+**Integrated Development Environment (IDE):** A programming environment that typically contains a GUI- styled editor and a compiled execution environment.
+
+**Integrated Drive Electronics (IDE):** A nickname for the original ATA standard, now known as parallel ATA (PATA) since the advent of serial ATA (SATA). 
+
+**Integrated GPU:** A graphics processing unit that is integrated into the CPU die.
+
+**Integrated Print Server:** Software installed on a printer that allows the device to receive and manage print jobs without the need for a separate computer host.
+
+**Integrated Scripting Environment (ISE):** A scripting environment that typically contains a GUI- styled editor and an execution environment.
+
+**Interface:** The port or connection through which a device attaches to an external component, such as a printer’s parallel or USB port for connection to a computer, as well as the software that enables the port to communicate with the external component, such as a Windows- based driver for an HP LaserJet.
+
+**Interface Circuitry:** Also called a port, it’s what makes the physical connection to whatever signal is coming from the computer (USB, parallel, etc.) and also connects the physical interface to the control circuitry.
+
+**Interface Software:** The operating system–specific driver that enables communication between the computer and a peripheral.
+
+**International Mobile Equipment Identity (IMEI):** On mobile phones, a 15-d igit serial number, which is unique to each device.
+
+**International Mobile Subscriber Identity (IMSI):** On mobile phones, a unique 15-d igit identifier that describes a specific mobile user and their network. It’s composed of three  elements: the Mobile Country Code (MCC), the Mobile Network Code (MNC), and the  Mobile Station Identifier Number (MSIN), which is a sequential serial number.
+
+**Internet Appliance:** A network device specifically designed to ease Internet access.

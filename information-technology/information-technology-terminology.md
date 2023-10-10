@@ -955,3 +955,13 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 **iTunes:** A marketplace for music, movies, and other digital media accessed from Apple devices.
 
 **iwconfig:** A Linux command that allows the viewing and configuration of wireless interfaces, similar to ifconfig.
+
+# J
+
+**Jailbreak:** A term typically used with Apple devices that implies the operating system has been tampered with in a way that allows global access to systems an end user should not have access to.
+
+**Java:** A program language that requires the program to be compiled and run on top of the Java Runtime Environment (JRE).
+
+**JavaScript:** A scripting language that is used in web pages to allow for interactive content. jitter Variable latency (delay) on network connections.
+
+**Journaled Filesystem (JFS):** A filesystem that keeps a log (journal) of transactions so that it can be repaired in the future by reprocessing the journal entries.

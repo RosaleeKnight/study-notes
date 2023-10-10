@@ -946,7 +946,7 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 
 **IPv4:** The version of IP addressing that has been used since the invention of the TCP/ IP protocol. Addresses are 32 bits long and written in dotted decimal notation, such as 192.168.13.85.
 
-**IPv6:** The newer 128 bit IP addressing scheme, in which addresses are written in hex. An example is 2001:db8:3c4d:12::1234:56ab.
+**IPv6:** The newer 128 bit IP addressing scheme, in which addresses are written in hex. An example is 2001:db8:3c4d:12::1324:56ab.
 
 **iSCSI:** A storage protocol that allows the transmission of Small Computer System Interface (SCSI) commands over an Ethernet network via TCP/IP.
 
@@ -1179,3 +1179,34 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 **Multithreading:** The ability of a program to submit multiple requests to the processor at one time.
 
 **Mutual Authentication:** When two devices that are going to communicate both validate the other’s identity prior to sending information. Bluetooth uses it, for example.
+
+# N
+
+**Name Server (NS):** DNS record type that is the name or address of the DNS server for a zone. 
+
+**nano:** A command line tool in Linux that allows you to view and modify text files.
+
+**Native resolution:** The one optimal or fixed resolution supported by a monitor, most often used in reference to LCD based monitors.
+
+**Near Field Communication (NFC):** A short range communication technology that uses radio frequency (RF) communication. It has a functional range of 10 centimeters. It lets users hold their phone next to someone else’s phone and transfer data or bump their phone to a receiver at a store to pay for a purchase.
+
+**Near Letter Quality (NLQ):** A category of dot matrix impact printer that can come close to the quality of a laser printer but still is lacking somewhat in print quality.
+
+**Near Field Scanner:** Portable device that is capable of scanning for near field communication (NFC) signals.
+
+**NetBT:** Short for NetBIOS over TCP/IP, it is an application programming interface (API) that allows computers to communicate with each other over the network. NetBIOS/NetBT uses ports 137–139.
+
+**netstat:** A Windows command line tool used to view information about inbound and outbound network connections.
+
+**Network:** A group of computers and associated peripherals connected by a communications channel capable of sharing files and other resources among several users.
+
+**Network Address Translation (NAT):** A service that translates private, nonroutable IP addresses into public addresses that can be used on the Internet.
+
+**Network Basic Input/Output System (NetBIOS):** An API that works at Layer 5 of the OSI model and allows computers to communicate with each other over the network. NetBIOS/ NetBT uses ports 137–139.
+
+**Network ID:** In IP addressing, the network ID is the portion of the IP address that identifies the network as opposed to the host.
+
+Network Interface Card (NIC): In networking, the PC expansion board that plugs into a personal computer or server and works with the network operating system to control the flow of information over the network. The network interface card is connected to the network cabling (twisted pair, coaxial, or 
+fiberoptic cable), which in turn connects all the network interface cards in the network.
+
+**Network Operating System (NOS):** Operating system that runs on a computer, allowing it to connect and operate on a computer network.

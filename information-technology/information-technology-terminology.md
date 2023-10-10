@@ -1094,4 +1094,35 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 
 **Material Safety Data Sheet (MSDS):** A document that contains safety information about a given product. Information provided includes safe handling procedures, what to do in case of an accident, and disposal information.
 
+**Measured Service:** The process by which cloud providers meter clients’ usage, and then charge them for services used.
+
+**Mesh:** topology A type of logical topology in which each device on a network is connected to every other device on the network. This topology uses routers to search multiple paths and determine the best path.
+
+**Metered Service:** Another name for measured service. The process by which cloud providers meter clients’ usage, and then charge them for services used.
+
+**Metropolitan Area Network (MAN):** Networks that are defined by their geographical nature, such as spanning a metropolitan area or a college campus.
+
+**Microphone:** An audio input device that transfers through the air sounds to a recording or playback device.
+
+**microSD:** A solid state, or flash, memory card format related to SD cards. MicroSD cards are smaller than miniSD cards, which are smaller than SD cards.
+
+**Microsoft 365:** A subscription service that provides access to the Office suite of apps from Microsoft, including Word, Excel, PowerPoint, and others. With the subscription, users also get storage space in Microsoft’s cloud. That cloud storage space can also be used to sync devices with each other.
+
+**Microsoft Azure:** Microsoft’s cloud based computing platform for building and managing applications and services.
+
+**Microsoft Defender Security:** Microsoft’s built in Windows antivirus and antimalware engine.
+
+**Microsoft Management Console (MMC):** A management console, originally introduced with Windows 2000, that allows for a uniform structure in displaying management tools to the user.
+
+**Microsoft Remote Assistance (MSRA):** A remote assistance tool included with the Windows operating system since Windows XP.
+
+**Microsoft SQL:** A relational database software product that was developed by Microsoft.
+
+**Microsoft Store:** Microsoft’s online marketplace for the purchase of applications, software packages, and media.
+
+**Microsoft Support and Recovery Assistant (MSRA):** The MSRA tool allows a trusted helper to assist the end user when the end user creates a solicited request by choosing Invite Someone You Trust to Help You.
+
+**Microsoft Visio:** A Microsoft Office application that allows for the creation of network diagrams for a system.
+
+**Microsoft Visual Studio:** A popular integrated development environment (IDE) that allows for plug ins to edit various types of scripting languages. (Video Studio Code is the free editor)
 

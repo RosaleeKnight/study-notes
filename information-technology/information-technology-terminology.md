@@ -1432,3 +1432,21 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 **Print Buffer:** A small amount of memory located on the printer used to hold print jobs.
 
 **Print Head:** The part of a printer that creates the printed image. In an impact printer, the print head contains the small pins that strike the ribbon to create the image, and in an inkjet printer, the print head contains the jets used to create the ink droplets as well as the ink reservoirs. A laser printer creates images using an electrophotographic method similar to that found in photocopiers and does not have a print head.
+
+**Print Head Alignment:** The process by which the print heads is calibrated for use. A special utility that comes with the printer software is used to do this.
+
+**Printhead Carriage:** The component of an inkjet printer that moves back and forth during printing. It contains the physical as well as electronic connections for the print head and in some cases the ink reservoir. 
+
+**Print Queue:** A series of print jobs waiting to use the printer.
+
+**Print Server:** A computer responsible for managing printers, making them available on the network, and receiving and processing print jobs from clients.
+
+**Print Spooler:** A service that formats print jobs in the language that the printer needs and manages the printing process.
+
+**Printed Circuit Board (PCB):** A conductive series of pathways laminated to a nonconductive substrate, such as those that make up a motherboard.
+
+**Printer Control Circuit:** Runs a printer’s stepper motors, loads paper, and so on. Monitors the health of the printer and reports that information back to the computer.
+
+**Printer Control Language (PCL):** Page description language developed by Hewlett-P ackard, also called Printer Command Language. It is an alternative to PostScript and is mostly used for standard office text based printing.
+
+**Printer Controller Assembly:** A large circuit board in a laser printer that converts signals from the computer into signals for the various parts in a printer.

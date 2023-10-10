@@ -1364,3 +1364,19 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 **Plain Old Telephone Service (POTS):** The system of telephone wires used for voice communications.
 
 **Platform as a Service (PaaS):** A type of cloud service that provides infrastructure and also includes software development tools such as runtime environments.
+
+**Plenum Rated:** When referring to coaxial covering, a designation that means the coating does not produce toxic gas when burned (as PVC does) and is rated for use in air plenums that carry breathable air.
+
+**Point Stick:** A laptop feature in the center of the keyboard. Users can use it to control the mouse movement.
+
+**Pointer Drift:** When the mouse cursor slowly drifts in one direction even though you are not trying to make it move. This issue is generally related to the point stick not centering properly after it’s been used.
+
+**Polyvinyl Chloride (PVC):** The type of plastic coating found on most network cables. Emits poisonous gases when burned.
+
+**pop-under:** An advertisement that displays under a web page or in the background of the browser.
+
+**pop-up blocker:** A browser function that suppresses pop- ups on web pages and also allows for whitelisting, or allowing a list of specific sites.
+
+**pop-up:** An advertisement that pops up and displays when a user visits a web page.
+
+

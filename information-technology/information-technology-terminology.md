@@ -1379,4 +1379,23 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 
 **pop-up:** An advertisement that pops up and displays when a user visits a web page.
 
+**Port:** In hardware terms, a port is a location that a cable or device plugs into, often on the motherboard.
+
+**Port Flapping:** When a network switch port is opening and closing rapidly, typically three or more times per second, over at least 10 seconds.
+
+**Port Forwarding:** Allowing packets that meet the criteria in the ACL to pass through the firewall to their destination. 
+
+**Port Number:** The logical channel that TCP/IP based protocols use to communicate.
+
+**Port Replicator:** A laptop peripheral that has common ports on it. When the laptop is plugged into it, the laptop can make use of full sized keyboards and mice as well as external monitors and other peripherals.
+
+**Port Triggering:** An automated form of port forwarding. It allows traffic to enter the network on a specific port after a computer makes an outbound request on that specific port.
+
+**POST Card:** A circuit board that fits into an expansion slot in the motherboard or a USB port and reports numeric codes as the boot process progresses. By looking up the number where the card stops, you can identify the source of problems.
+
+**Post Office Protocol 3 (POP3):** The most current version of the Post Office Protocol. It uses port 110.
+
+**PostScript (PS):** Page description language, used more commonly for graphics intensive printing. An alternative to Printer Control Language (PCL).
+
+**Power Button:** In today’s computers, a physical switch that can be configured to perform multiple functions, such as power the computer on/off and put it into sleep mode, based on the length of time it is held.
 

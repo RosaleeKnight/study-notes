@@ -1297,7 +1297,7 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 
 **Paper Feeder:** A device that feeds paper or other media into a printer.
 
-**Paper Pickup Roller: A D shaped roller that rotates against the paper and pushes one sheet into a printer. Also called a pickup roller.
+**Paper Pickup Roller:** A D shaped roller that rotates against the paper and pushes one sheet into a printer. Also called a pickup roller.
 
 **Paper Tray:** The tray that holds paper until it is fed into a printer.
 
@@ -1305,4 +1305,22 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 
 **Parallel Bus:** An electronic computer pathway (bus) that can send 8 bits at a time over synchronized separate lines, as opposed to 1 bit at a time, like a serial bus.
 
-**Parallel Port: Old slow port that uses a DB 25 connector. Was the standard for many years for printers, so it’s sometimes referred to as a printer port.
+**Parallel Port:** Old slow port that uses a DB 25 connector. Was the standard for many years for printers, so it’s sometimes referred to as a printer port.
+
+**Parity Checking:** Storing an extra bit with and based on each byte in memory or during serial transmission. When a byte is accessed, the validity of the parity bit is checked. If the check shows an error, the byte is rejected or the system halted because there is no way to determine the nature of the error. 
+
+**Parked:** When the print head is in the locked, resting position.
+
+**Passcode Lock:** A common way to unlock devices that is typically a 4 or 6 digit numeric passcode.
+
+**Passive Hub:** A type of hub that electrically connects all network ports together. This type of hub is not powered. 
+
+**passwd:** A Linux command that changes the password for a user account.
+
+**Password Manager:** A software that manages username and password combinations for various websites and resources.
+
+**Password Policy:** An internal policy that dictates how passwords are created and handled for an organization.
+
+**Patch Cable:** Twisted pair networking cable, also known as a straight through cable. Both ends of the cable have the same pin order. Used to attach computers to hubs.
+
+**Patch Panel:** A large hub that is rack mounted and that houses multiple connections for computers but possesses no network intelligence.

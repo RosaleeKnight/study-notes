@@ -983,3 +983,29 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 **Knowledge Base:** A group of articles that detail the symptoms of a problem and their associated solutions, as well as supporting information.
 
 **KVM Switch:** A device that switches a single keyboard/video/mouse set among multiple computer systems.
+
+# L
+
+**L1 Cache:** Cache memory that is smallest, fastest and closest to the processor core that it’s dedicated to.
+
+**L2 Cache:** Cache memory that is larger and slower than L1 cache, and not as close to the processor. It’s usually, but not always, dedicated to one processor core.
+
+**L3 Cache:** The largest and slowest cache memory bank, which is often shared among  multiple cores within a processor.
+
+**Land Grid Array (LGA):** A chip interface standard that places the pins on the circuit board instead of on the chip packaging. The pins do not insert into sockets. The chip has an array of lands, or flat conductive pads, that interface with the pins by surface contact only.
+
+**Lane:** In PCIe, a switched point to point signal path between any two PCIe components. The designation x16, for example, in PCIe represents a component’s ability to communicate over 16 lanes simultaneously.
+
+**Laser Printer:** A generic name for a printer that uses the electrophotographic (EP) imaging process. 
+
+**Latency:** The amount of delay between sending a network data request and receiving a response. 
+
+**Launcher:** The area on a mobile phone from which applications are opened.
+
+**LCD Cutoff:** Switch for changing the display state on a laptop, accessed by pressing the function key and another key, such as F8 or F4.
+
+**Lease:** In DHCP, it’s the amount of time that IP configuration information is given to the DHCP client. The lease contains all pertinent IP configuration information.
+
+**Legacy Software:** A computer application that is outdated by today’s standards.
+
+**Legacy System:** A computer system that is outdated by today’s standards, and uses old hardware, software, or network protocol.

@@ -1206,7 +1206,37 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 
 **Network ID:** In IP addressing, the network ID is the portion of the IP address that identifies the network as opposed to the host.
 
-Network Interface Card (NIC): In networking, the PC expansion board that plugs into a personal computer or server and works with the network operating system to control the flow of information over the network. The network interface card is connected to the network cabling (twisted pair, coaxial, or 
+**Network Interface Card (NIC):** In networking, the PC expansion board that plugs into a personal computer or server and works with the network operating system to control the flow of information over the network. The network interface card is connected to the network cabling (twisted pair, coaxial, or 
 fiberoptic cable), which in turn connects all the network interface cards in the network.
 
 **Network Operating System (NOS):** Operating system that runs on a computer, allowing it to connect and operate on a computer network.
+
+**Network Tap:** A hardware device that creates a copy of network traffic for use by monitoring devices without disrupting normal traffic.
+
+**Network Based Firewall:** A firewall, generally hardware- based, that protects a network of computers as opposed to one computer.
+
+**New Technology File System (NTFS):** The proprietary filesystem primarily used by  Microsoft that provides file security, encryption, performance, scalability, and reliability.
+
+**Nickel Cadmium (NiCd) Battery:** A rechargeable battery that uses nickel oxide hydroxide and metallic cadmium as electrodes. These batteries suffer from standing discharge and battery memory.
+
+**Nickel Metal Hydride (NiMH) Battery:** A rechargeable battery that has a composition similar to that of nickel cadmium batteries at the positive electrode. However, the negative electrode uses a hydrogen- absorbing alloy. These batteries suffer less from standing discharge than nickel cadmium and can store up to three times the amount of electricity.
+
+**Node.js:** A runtime environment for JavaScript so that JavaScript can be interpreted outside of a web browser.
+
+**Nondedicated Server:** A computer that can be both a server and a workstation. In practice, by performing the functions of both server and workstation, this type of server does neither function very well and are typically used in peer to peer networks.
+
+**Non-parity Memory:** Primary memory that does not add or check the veracity of an extra bit per byte of data.
+
+**Nonvolatile Memory Express (NVMe):** An open standard for hard drives, designed to optimize the speed of data transfers. It’s been created by a consortium of manufacturers, including Intel, Samsung, Dell, SanDisk, and Seagate.
+
+**Northbridge:** The functional part of the chipset that controls local bus communication among components connected to the frontside bus, such as the CPU, memory and cache, AGP slots, and PCIe slots used for high end graphics.
+
+**Notepad:** A Windows utility that allows for the creation and editing of text documents.
+
+**Notification Area:** A component of the taskbar that provides quick access to background processes, such as antivirus, volume controls, and media ejection options.
+
+**nslookup:** A command used to query DNS records from a DNS server, often used in troubleshooting.
+
+**NTFS Permissions:** Filesystem permissions that affect both users logged on both locally and remotely through network shares.
+
+# O

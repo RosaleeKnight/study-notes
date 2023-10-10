@@ -1240,3 +1240,43 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 **NTFS Permissions:** Filesystem permissions that affect both users logged on both locally and remotely through network shares.
 
 # O
+
+**Occupational Safety and Health Act:** A U.S. law that governs procedure with respect to occupational safety and health safety for the private sector.
+
+**Occupational Safety and Health Administration (OSHA):** The U.S. agency responsible for overseeing occupational safety and health safety for the private sector. 
+
+**Octet:** A grouping of 8 bits.
+
+**Offboarding:** The processes that encompass the event of employees leaving the organization.
+
+**Onboarding:** The processes that encompass the event of new employees entering the organization.
+
+**on-path attack:** An attack where the threat agent positions themself between the compromised user and the destination server.
+
+**Open Access Point:** A wireless access point that employs no encryption or authentication, allowing any device that receives the signal potential access to the connected network.
+
+**Open Source:** Describes software with code that is nonproprietary. Contrast with closed source.
+
+**Open Source Software:** Software in which the source code used to produce the product is open for development to the public.
+
+**Open Systems Interconnection (OSI) Model:** A seven layer theoretical networking model developed by the International Organization of Standardization (ISO).
+
+**OpenSSH:** An open source version of the Secure Shell (SSH) protocol used commonly with Linux operating systems.
+
+**Operating System:** The software that provides the user with an environment in which to run software and execute commands.
+
+**Optical Network Terminal (ONT):** Endpoint for an optical network that translates optical signals into electrical signals for a copper based network. Used to get Internet access across fiberoptic networks.
+
+**Order of Volatility:** The order used to collect evidence for incident response. The most volatile information is always collected first, such as RAM.
+
+**Organic Light Emitting Diode (OLED) Display: A display technology that uses electroluminescence to light red, green, and blue subpixels that not only light the display like their LED counterparts but also produce the image like the cells in a plasma display.
+
+**Orientation:** Printer configuration setting that allows a user to choose portrait (taller than it is wide) or landscape (wider than it is tall) print output.
+
+**Original Equipment Manufacturer (OEM):** The vendor that packages an operating system with its own hardware.
+
+**Out of Box Experience:** The configuration process in which the operating system is customized for the end user.
+
+**Overclocking:** Running the processor (CPU) at a higher speed than what it was intended to operate at.
+
+# P

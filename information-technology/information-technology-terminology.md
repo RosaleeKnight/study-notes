@@ -1061,3 +1061,37 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 **ls:** A Linux command that is similar to the dir command on Microsoft Windows. It allows for the listing of files and folders in the filesystem on Linux.
 
 **Lumen (lm):** A unit of measure for the total amount of visible light given off by a source and based solely on what the human eye can perceive, not on both visible and invisible wavelengths.
+
+**M.2:** A form factor designed to replace the mSATA standard for ultra small expansion components in laptops and smaller devices, now also included on desktop motherboards.
+
+**MAC Address:** The unique physical address for each NIC.
+
+**MAC Filtering:** A setting on a wireless router that prevents or allows access to clients based on their network card’s physical (MAC) address. 
+
+**macOS:** Apple’s workstation operating system found on laptops and PCs.
+
+**Magnetic Storage:** The use of magnetic domains to store data on the surface of a medium, such as the platters of a conventional hard disk drive. 
+
+**Magnetometer:** A device that detects metal objects, also known as a metal detector.
+
+**Mail Exchanger (MX):** A DNS record type to signify an email server. 
+
+**Mail Server:** A computer that receives, sends, and manages email. 
+
+**Mainboard:** Another term for a motherboard, or the main circuit board in a computer.
+
+**Maintenance Station:** Provides a zero position for an inkjet printer’s print head and keeps the print nozzles clear between print jobs.
+
+**Malware:** Software that has been created with malicious intent of damage, theft, or disablement of computer systems and data.
+
+**man:** A command line tool on Linux that allows you to view help pages for a command specified as an argument to the tool.
+
+**Managed Switch:** Networking device that has the ability to configure ports, manage traffic, and monitor traffic for issues. For management, the switch will use a network protocol such as Simple Network Management Protocol (SNMP).
+
+**Master Boot Record (MBR):** The first sector of a drive that contains the initial boot instructions. MBR is also used to describe the basic disk partition scheme.
+
+**Master File Table (MFT):** The table used by the NTFS filesystem to locate files on the filesystem.
+
+**Material Safety Data Sheet (MSDS):** A document that contains safety information about a given product. Information provided includes safe handling procedures, what to do in case of an accident, and disposal information.
+
+

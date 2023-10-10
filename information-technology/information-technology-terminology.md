@@ -1009,3 +1009,27 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 **Legacy Software:** A computer application that is outdated by today’s standards.
 
 **Legacy System:** A computer system that is outdated by today’s standards, and uses old hardware, software, or network protocol.
+
+**Lletter Quality (LQ):** A category of dot matrix impact printer that can print characters that look very close to the quality a laser printer might produce.
+
+**Lightning Connector:** A connector on the end of a USB cable, specifically developed by Apple for its iPhone5 and newer devices.
+
+**Lightweight Directory Access Protocol (LDAP):** A popular directory services protocol that provides methods for creating, searching, and modifying objects and attributes. Microsoft uses LDAP in conjunction with Kerberos to authenticate devices and users.
+
+**Lightweight Extensible Authentication Protocol (LEAP):** A proprietary wireless authentication protocol developed by Cisco for 802.1X RADIUS authentication.
+
+**Linear Tape Open (LTO):** A magnetic tape backup media created as an open standard, as an alternative to proprietary magnetic tape technologies.
+
+**Line of Sight:** When a sender and receiver need to be able to see each other, with no obstacles in between, in order to communicate. Examples include infrared and satellite Internet.
+
+**Link Local:** A special class of IPv6 address that is only usable on the local network; replaces APIPA used in IPv4.
+
+**Linux:** An open source UNIX like operating system originally created by Linus Torvalds in 1991.
+
+**Liquid Cooling:** A cooling method used to keep CPUs and other hot running components from overheating by pumping a liquid from outside the system through tubing that leads to blocks that mount to the components like heat sinks.
+
+**Liquid Crystal Display (LCD):** A display technology that uses crystals that align to produce a polarization of light with electrical current. The term is also synonymous with the technology used to produce the backlighting for the LCD technology, compared to newer LED backlighting.
+
+**Lithium Ion (li-ion) Battery:** A type of rechargeable battery that uses lithium ions to store a charge. These batteries do not suffer from standing discharge but cannot be overcharged. 
+
+**Load balancer:** A device that accepts incoming requests and reroutes them to a bank of servers that can all perform the same task, to spread out the work.

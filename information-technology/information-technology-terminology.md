@@ -709,7 +709,7 @@ it scans across the surface of the drum in which the area on which the laser shi
 
 **First Responder:** A person who is designated to respond to incidents and be the first personon the scene.
 
-First-in, First-out (FIFO): A systematic way of sending the most recent information out, based on the most recent information that first came in.
+**First-in, First-out (FIFO):** A systematic way of sending the most recent information out, based on the most recent information that first came in.
 
 **Fixed Tangible Assets:** An organization’s assets that have a fixed monetary value, such as furniture, computers, and network equipment.
 
@@ -1269,7 +1269,7 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 
 **Order of Volatility:** The order used to collect evidence for incident response. The most volatile information is always collected first, such as RAM.
 
-**Organic Light Emitting Diode (OLED) Display: A display technology that uses electroluminescence to light red, green, and blue subpixels that not only light the display like their LED counterparts but also produce the image like the cells in a plasma display.
+**Organic Light Emitting Diode (OLED) Display:** A display technology that uses electroluminescence to light red, green, and blue subpixels that not only light the display like their LED counterparts but also produce the image like the cells in a plasma display.
 
 **Orientation:** Printer configuration setting that allows a user to choose portrait (taller than it is wide) or landscape (wider than it is tall) print output.
 
@@ -1280,3 +1280,29 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 **Overclocking:** Running the processor (CPU) at a higher speed than what it was intended to operate at.
 
 # P
+
+**Packet:** A group of bits ready for transmission over a network. It includes a header, data, and a trailer. 
+
+**Page Printers:** Printers that get instructions one page at a time, such as a laser printer.
+
+**Page Description language:** Describes the whole page being printed. The controller in the printer interprets these commands and turns them into laser pulses or firing print wires.
+
+**Pairing:** The process of logically connecting two Bluetooth devices together to enable communication. 
+
+**Pan Tilt Zoom (PTZ):** Cameras that allow for 360 degree operations and zooming in on an area.
+
+**Paper Feed Mechanism:** The portion of the printer that picks up paper from the paper drawer and feeds it into the printer.
+
+**Paper Feed Sensors:** The sensors on the paper feed mechanism that detect when the printer has paper or is out of paper. 
+
+**Paper Feeder:** A device that feeds paper or other media into a printer.
+
+**Paper Pickup Roller: A D shaped roller that rotates against the paper and pushes one sheet into a printer. Also called a pickup roller.
+
+**Paper Tray:** The tray that holds paper until it is fed into a printer.
+
+**Parallel Advanced Technology Attachment (PATA):** New name for integrated drive electronics (IDE), a parallel communications method to communicate with hard drives and optical drives.
+
+**Parallel Bus:** An electronic computer pathway (bus) that can send 8 bits at a time over synchronized separate lines, as opposed to 1 bit at a time, like a serial bus.
+
+**Parallel Port: Old slow port that uses a DB 25 connector. Was the standard for many years for printers, so it’s sometimes referred to as a printer port.

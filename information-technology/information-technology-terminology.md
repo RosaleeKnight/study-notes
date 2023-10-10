@@ -1324,3 +1324,23 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 **Patch Cable:** Twisted pair networking cable, also known as a straight through cable. Both ends of the cable have the same pin order. Used to attach computers to hubs.
 
 **Patch Panel:** A large hub that is rack mounted and that houses multiple connections for computers but possesses no network intelligence.
+
+**PCI Express (PCIe):** A high performance serial local bus slot architecture that obviates the need for AGP and PCI slots. PCIe supports combining the resources of multiple adapters for higher performance.
+
+**Peripheral Component Interconnect (PCI):** A popular expansion slot architecture invented by Intel that succeeded the ISA slot and that is succeeded by PCIe. 
+
+**Personal Area Network (PAN):** A small scale network of Bluetooth enabled devices.
+
+**Personal Computer (PC):** A computer designed for a single user, as opposed to a mainframe or server.
+
+**Personal Identification Number (PIN):** A numeric password that is only known to the user, which is used as a factor of authentication. 
+
+**Personal License"** A software license that is issued to an individual for personal use.
+
+**Personally Identifiable Information (PII):** Anything that can be used to identify an individual person on its own or in context with other information. 
+
+**Pharming:** The malicious act of collecting credentials via browser redirection or email phishing.
+
+**Phillips Screwdriver:** A screwdriver that has a protrusion in the shape of a pointed cross.
+
+**Phishing:** The act of sending an email in an attempt to steal credentials by making the recipient believe they are logging into a valid website.

@@ -962,6 +962,24 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 
 **Java:** A program language that requires the program to be compiled and run on top of the Java Runtime Environment (JRE).
 
-**JavaScript:** A scripting language that is used in web pages to allow for interactive content. jitter Variable latency (delay) on network connections.
+**JavaScript:** A scripting language that is used in web pages to allow for interactive content. 
+
+**Jitter:** Variable latency (delay) on network connections.
 
 **Journaled Filesystem (JFS):** A filesystem that keeps a log (journal) of transactions so that it can be repaired in the future by reprocessing the journal entries.
+
+# K
+
+**Kerberos:** An authentication protocol that provides mutually trusted authentication of users and computers utilizing user and service authentication tickets.
+
+**Key Fob:** A small key chain–type device that allows access to external and internal doors for buildings.
+
+**Keyboard:** The most common computer input device for entering text with buttons labeled with the characters that they represent.
+
+**Keychain:** The Apple macOS password manager used to store usernames, passwords, and other auto fill information. 
+
+**kill:** A Linux command that sends signals to processes so that they can be terminated.
+
+**Knowledge Base:** A group of articles that detail the symptoms of a problem and their associated solutions, as well as supporting information.
+
+**KVM Switch:** A device that switches a single keyboard/video/mouse set among multiple computer systems.

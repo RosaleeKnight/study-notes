@@ -1399,3 +1399,20 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 
 **Power Button:** In today’s computers, a physical switch that can be configured to perform multiple functions, such as power the computer on/off and put it into sleep mode, based on the length of time it is held.
 
+**Power Circuit:** The set of conductive pathways that converts 110V or 220V house current into the voltages an inkjet printer uses (usually 12V and 5V) and distributes those voltages to the other printer circuits and devices that need it.
+
+**Power Light:** Often an LED that indicates the system is on when lit and off when not. The power light can also blink when in a low power state.
+
+**Power Over Ethernet (PoE):** Technology that allows for the transmission of electrical power over Ethernet (twisted pair) cabling.
+
+**Power over Ethernet (PoE) Injector:** A hardware device that sits between a switch and an access point that requires power to be provided over the Ethernet connection. The injector supplies the power on the Ethernet connection if the switch is not equipped to do so.
+
+**Power Sag:** An event in which voltage levels intermittently drop for a brief period of time, causing a sag in voltage.
+
+**Power Strip:** A device that is used to supply power to multiple outlets but that contains no protective circuitry.
+
+**Power Supply:** A device inside the computer that takes AC from wall outlets and converts it to DC that the computer components need.
+
+**Power Surge:** An event in which the voltage level intermittently spikes, generally after power is restored from a blackout.
+
+**Power on Self Test (POST):** Part of the boot process controlled by the BIOS/UEFI that verifies the working condition of the hardware the BIOS/UEFI knows about.

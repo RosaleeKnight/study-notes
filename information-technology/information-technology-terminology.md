@@ -1033,3 +1033,31 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 **Lithium Ion (li-ion) Battery:** A type of rechargeable battery that uses lithium ions to store a charge. These batteries do not suffer from standing discharge but cannot be overcharged. 
 
 **Load balancer:** A device that accepts incoming requests and reroutes them to a bank of servers that can all perform the same task, to spread out the work.
+
+**Local Area Network (LAN):** A group of computers and associated peripherals connected by a communications channel, capable of sharing files and other resources among several users.
+
+**Local Connector (LC):** Fiberoptic cable connector that corresponds to the mini form factor standard. Colloquially known as the “little connector.” 
+
+**Locale:** An operating system setting that specifies the language, character set, keyboard, and monetary notations.
+
+**Location Services:** The name given to a class of services that help identify the physical location of a device. GPS uses satellites to provide location services, and cellular networks use cell phone towers for the same purpose.
+
+**Location Based Services:** Mobile device services used with the GPS and wireless networks to track the location of a mobile device. 
+
+**Lockup:** The unresponsive action of an operating system or application.
+
+**Logical Diagram:** An overview diagram that displays how information flows within a network system.
+
+**Logical Disk Management (LDM):** The service in Windows operating systems that controls disks, volumes, and their management.
+
+**Long Range Fixed Wireless:** A point to point technology that uses directional antennas to send and receive network signals.
+
+**Long Term Evolution (LTE):** Cellular standard developed as an enhancement to 4G. Provides faster speeds than standard 4G. Also available as the long range standard for 5G.
+
+**Long Term Support (LTS):** An operating system that has a longer than normal extended support period.
+
+**Loopback Plug:** Plug used to loop a signal back into a port to test the functionality of the port.
+
+**ls:** A Linux command that is similar to the dir command on Microsoft Windows. It allows for the listing of files and folders in the filesystem on Linux.
+
+**Lumen (lm):** A unit of measure for the total amount of visible light given off by a source and based solely on what the human eye can perceive, not on both visible and invisible wavelengths.

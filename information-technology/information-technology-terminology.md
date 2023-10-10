@@ -1344,3 +1344,23 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 **Phillips Screwdriver:** A screwdriver that has a protrusion in the shape of a pointed cross.
 
 **Phishing:** The act of sending an email in an attempt to steal credentials by making the recipient believe they are logging into a valid website.
+
+**Physical Barrier: A physical obstruction generally found on the outer perimeter that  prevents access; examples are fences, walls, and mobile barriers.
+
+**Physical Diagram:** A diagram that displays specific connections and explains why a network system functions in a specific manner; used for diagnostics.
+
+**Pickup Roller:** A D shaped roller that rotates against the paper and pushes one sheet into a printer. Also called a paper pickup roller. 
+
+**Pickup Stepper Motor:** The motor that turns the pickup roller in a printer.
+
+**Piconet:** A Bluetooth network. A Bluetooth enabled device can communicate with up to seven other devices in one piconet.
+
+**PIN Code:** Code used to pair two Bluetooth devices together.
+
+**Pin Grid Array (PGA):** CPU sockets that have holes to receive the pins on the CPU. 
+
+**ping:** A command used to check basic network connectivity.
+
+**Plain Old Telephone Service (POTS):** The system of telephone wires used for voice communications.
+
+**Platform as a Service (PaaS):** A type of cloud service that provides infrastructure and also includes software development tools such as runtime environments.

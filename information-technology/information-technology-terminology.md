@@ -1152,7 +1152,7 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 
 **Mobile Application Management (MAM):** A service that allows administrators to control corporate software on mobile devices, including updating and wiping apps.
 
-**Mobile Device Management (MDM): Software that enforces the requirements for a BYOD or mobile device security policy.
+**Mobile Device Management (MDM):** Software that enforces the requirements for a BYOD or mobile device security policy.
 
 **Mobile Hotspot:** When a cellular device allows noncellular devices to access the Internet through its connection. Also, it can be a network card that allows laptop computers and other mobile devices to access cellular networks.
 

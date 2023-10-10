@@ -1126,3 +1126,24 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 
 **Microsoft Visual Studio:** A popular integrated development environment (IDE) that allows for plug ins to edit various types of scripting languages. (Video Studio Code is the free editor)
 
+**Micro USB:** Small form USB connector typically used for devices such as digital cameras. It’s the smallest of the USB connectors.
+
+**Migration:** Moving data, files, or settings from one computer or hard drive to another.
+
+**Mini PCIe:** A common expansion slot technology used in laptops since 2005. They have a 52- pin card edge connector.
+
+**Mini HDMI Connector:** The HDMI Type C interface with the same 19 pins as the standard Type A interface. This compact HDMI interface allows smaller devices to output HDMI quality audio and video.
+
+**Mini ITX:** A compact motherboard form factor measuring 170 × 170 mm well suited for fanless cooling.
+
+**Minimum Requirements:** The minimum hardware specifications required by the operating system.
+
+**MiniSD:** A solid- state, or flash, memory card format related to SD cards. MiniSD cards are smaller than SD cards but larger than microSD cards.
+
+**Mini USB:** Small form USB connector used for portable devices such as digital cameras. Mini USB is slightly larger than micro USB.
+
+**Mission Control:** The Apple macOS feature that allows you to view all running apps on the operating system.
+
+**mmWave:** Very short radio wave technology used with 5G cellular to provide very high transmission rates over 1 Gbps. 
+
+**Mobile:** An operating system used on tablets, phones, and other portable devices.

@@ -1147,3 +1147,33 @@ system that supports simultaneous multithreading (SMT) as if it were two CPUs.
 **mmWave:** Very short radio wave technology used with 5G cellular to provide very high transmission rates over 1 Gbps. 
 
 **Mobile:** An operating system used on tablets, phones, and other portable devices.
+
+**Mobile Application Management (MAM):** A service that allows administrators to control corporate software on mobile devices, including updating and wiping apps.
+
+**Mobile Device Management (MDM): Software that enforces the requirements for a BYOD or mobile device security policy.
+
+**Mobile Hotspot:** When a cellular device allows noncellular devices to access the Internet through its connection. Also, it can be a network card that allows laptop computers and other mobile devices to access cellular networks.
+
+**Modem:** A device used to provide Internet access through the analog phone line. At the source it takes a digital signal and converts it to analog and then from analog back to digital at the destination device.
+
+**Molex Connector:** The original, larger system power connector that most often provides power to non SATA hard disk drives and other devices that require more current to power their motors than offered by antiquated smaller connectors.
+
+**Motherboard:** A circuit board to which all computer components are directly or indirectly attached.
+
+**Mouse:** Handheld input device that, when moved around on a smooth surface, allows the user to control the cursor movement on the screen. Comes with one or more buttons to allow the user to click and interact with information on the screen.
+
+**Multicast:** A message sent to multiple hosts. The term is used in IPv6 to refer to a controlled, small scale broadcast.
+
+**Multicore:** A CPU with more than one processor core.
+
+**Multifactor Authentication:** Requiring multiple forms of identification to allow users access to network resources, such as something they know, something they have, something they are, or somewhere they are.
+
+**Multimeter:** A testing device used to perform multiple tests, such as determining the voltage provided by a wire.
+
+**Multimode Fiber (MMF):** Fiber optic cable that can transmit multiple signals at the same time. MMF can transmit up to 10 Gbps for up to 550 meters depending on the standard used. 
+
+**Multisocket:** A motherboard that has more than one CPU socket.
+
+**Multithreading:** The ability of a program to submit multiple requests to the processor at one time.
+
+**Mutual Authentication:** When two devices that are going to communicate both validate the other’s identity prior to sending information. Bluetooth uses it, for example.

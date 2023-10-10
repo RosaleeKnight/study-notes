@@ -1416,3 +1416,19 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 **Power Surge:** An event in which the voltage level intermittently spikes, generally after power is restored from a blackout.
 
 **Power on Self Test (POST):** Part of the boot process controlled by the BIOS/UEFI that verifies the working condition of the hardware the BIOS/UEFI knows about.
+
+**PowerShell:** A Windows scripting environment based on the .NET Framework to allow management of the operating system.
+
+**Preemptive Multitasking:** A process scheduling in which each process is allotted a specific amount of processing resources.
+
+**Preferred Roaming List (PRL) Update:** An update to a mobile phone’s primary roaming list, which determines which cell towers the phone connects to while roaming outside of its home area.
+
+**Preshared Key (PSK):** A shared passphrase for symmetrical encryption often used with VPN and wireless communications.
+
+**Principle of Least Permissions:** A concept in which you assign only the permissions a person requires to do their job. 
+
+**Print Bed:** Flat plate upon which 3D images are printed by a 3D printer. 
+
+**Print Buffer:** A small amount of memory located on the printer used to hold print jobs.
+
+**Print Head:** The part of a printer that creates the printed image. In an impact printer, the print head contains the small pins that strike the ribbon to create the image, and in an inkjet printer, the print head contains the jets used to create the ink droplets as well as the ink reservoirs. A laser printer creates images using an electrophotographic method similar to that found in photocopiers and does not have a print head.

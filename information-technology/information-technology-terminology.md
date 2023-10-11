@@ -1450,3 +1450,25 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 **Printer Control Language (PCL):** Page description language developed by Hewlett-P ackard, also called Printer Command Language. It is an alternative to PostScript and is mostly used for standard office text based printing.
 
 **Printer Controller Assembly:** A large circuit board in a laser printer that converts signals from the computer into signals for the various parts in a printer.
+
+**Printer Ribbon:** A fabric strip that is impregnated with ink and wrapped around two spools encased in a cartridge. This cartridge is used in dot matrix printers to provide the ink for the printing process. 
+
+**Printer Resident Fonts:** Fonts that are installed into the onboard memory of the printer.
+
+**Printers:** Electromechanical output devices that are used to put information from the computer onto paper.
+
+**Private Address:** Private addresses are not routable on the Internet. They were intended for use on private networks only. Compare with public addresses that are used on the Internet. 
+
+**Private Cloud:** An Internet based service owned and operated by an individual company. 
+
+**Private side:** The interface on a firewall that faces the internal network.
+
+**Process ID (PID):** The identification method used to identify a process running on the operating system, normally represented by a number.
+
+**Processing Step:** The first step in the EP imaging process, where the image is sent to the printer and the image is created in memory.
+
+**Product Key:** Unique code that comes with software that is used to activate the application and that indicates the ability to use the software.
+
+**Product Release Instruction Updates:** On a mobile phone, it’s an update to the Product Release Instruction (PRI) system, which contains settings for network specific configuration items. 
+
+**Prohibited Content:** Material that is not allowed on your company’s computers.

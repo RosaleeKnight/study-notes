@@ -86,13 +86,13 @@ Directory Service: <a href="https://learn.microsoft.com/en-us/windows-server/ide
 
 Web Browsers: <a href="https://brave.com/"> Brave, </a>  <a href="https://www.google.ca/intl/en_ca/chrome/"> Chrome, </a> <a href="https://www.mozilla.org/en-CA/firefox/"> Firefox, </a> <a href="https://www.microsoft.com/en-us/edge"> Microsoft Edge, </a> <a href="https://www.apple.com/ca/safari/"> Safari, </a> <a href="https://www.torproject.org/"> Tor </a>
 
-Operating Systems: <a href="https://www.android.com/intl/en_ca/"> Android, </a> <a href="https://www.freebsd.org/"> Free BSD, </a> <a href="https://www.apple.com/ca/ios/ios-16/"> iOS </a>  <a href="https://www.linux.org/"> Linux, </a> <a href="https://www.apple.com/ca/macos/monterey/"> MacOS, </a> <a href="https://www.microsoft.com/en-ca/windows/windows-11"> Windows, </a> 
+Operating Systems: <a href="https://www.android.com/intl/en_ca/"> Android, </a> <a href="https://www.freebsd.org/"> Free BSD, </a> <a href="https://www.apple.com/ca/ios/ios-16/"> iOS </a>  <a href="https://www.linux.org/"> Linux, </a> <a href="https://www.apple.com/ca/macos/monterey/"> MacOS, </a> <a href="https://www.microsoft.com/en-ca/windows/windows-11"> Windows </a> 
 
 Linux Distros: <a href="https://www.kali.org/"> Kali Linux, </a> <a href="https://remnux.org/"> REMnux, </a> <a href="https://tails.boum.org/"> Tails, </a> <a href="https://ubuntu.com/"> Ubuntu </a> 
 
-Security Information and Event Management: <a href="https://www.solarwinds.com/"> SolarWinds </a>
+Security Information and Event Management (SIEM): <a href="https://www.solarwinds.com/"> SolarWinds, </a> <a href="https://www.splunk.com/"> Splunk Enterprise </a>
 
-Security Orchestrated, Automation and Response (SOAR): <a href="https://www.splunk.com/"> Splunk </a>
+Security Orchestrated, Automation and Response (SOAR): <a href="https://www.splunk.com/"> Splunk SOAR </a>
 
 Intrusion Detection System: <a href="https://www.ossec.net/"> OSSEC, </a> <a href="https://securityonionsolutions.com/"> Security Onion, </a> <a href="https://www.snort.org/"> Snort </a>
 
@@ -409,10 +409,12 @@ Linux distribution based on Debian and composed mostly of free and open-source s
 ## Security Information and Event Management
 ### SolarWinds 
 Network and host intrusion detection system, which performs real-time monitoring, responding, and reporting of security threats.
+### Splunk Enterprise
+Traffic analysis tool that can perform historical searches on network traffic logs to identify traces of threats in the past as well as current threats.
 
 ## Security Orchestrated, Automation and Response (SOAR)
-### Splunk
-Traffic analysis tool that can perform historical searches on network traffic logs to identify traces of threats in the past as well as current threats.
+### Splunk SOAR
+Connects to third-party sources using connectors called apps. Admins can configure apps and owners can manage them and sorts security events into containers which can be automated with playbooks.
 
 ## Intrusion Detection System
 ### OSSEC

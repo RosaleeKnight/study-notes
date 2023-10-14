@@ -86,7 +86,7 @@ Directory Service: <a href="https://learn.microsoft.com/en-us/windows-server/ide
 
 Web Browsers: <a href="https://brave.com/"> Brave, </a>  <a href="https://www.google.ca/intl/en_ca/chrome/"> Chrome, </a> <a href="https://www.mozilla.org/en-CA/firefox/"> Firefox, </a> <a href="https://www.microsoft.com/en-us/edge"> Microsoft Edge, </a> <a href="https://www.apple.com/ca/safari/"> Safari, </a> <a href="https://www.torproject.org/"> Tor </a>
 
-Operating Systems: <a href="https://www.android.com/intl/en_ca/"> Android, </a> <a href="https://www.freebsd.org/"> Free BSD, </a> <a href="https://www.apple.com/ca/ios/ios-16/"> iOS </a>  <a href="https://www.linux.org/"> Linux, </a> <a href="https://www.apple.com/ca/macos/monterey/"> MacOS, </a> <a href="https://www.microsoft.com/en-ca/windows/windows-11"> Windows </a> 
+Operating Systems: <a href="https://www.android.com/intl/en_ca/"> Android, </a> <a href="https://www.freebsd.org/"> Free BSD, </a> <a href="https://www.apple.com/ca/ios/ios-16/"> iOS, </a>  <a href="https://www.linux.org/"> Linux, </a> <a href="https://www.apple.com/ca/macos/monterey/"> MacOS, </a> <a href="https://www.microsoft.com/en-ca/windows/windows-11"> Windows </a> 
 
 Linux Distros: <a href="https://www.kali.org/"> Kali Linux, </a> <a href="https://remnux.org/"> REMnux, </a> <a href="https://tails.boum.org/"> Tails, </a> <a href="https://ubuntu.com/"> Ubuntu </a> 
 

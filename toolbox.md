@@ -1,4 +1,5 @@
-# Links
+# Overview
+A list of languages, software, platforms and etc I have used based on type with links to the publisher or more information. More information can be found on this page under Read More.
 
 Programing Languages: <a href="https://developer.arm.com/documentation/dui0473/c/writing-arm-assembly-language"> Assembly, </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> JavaScript, </a> <a href="https://www.python.org/"> Python, </a> <a href="https://www.ibm.com/docs/en/db2/10.5?topic=fundamentals-sql"> SQL, </a> <a href="https://www.typescriptlang.org/"> TypeScript, </a> <a href="https://nixos.wiki/wiki/Nix_Expression_Language"> Nix </a>  
 
@@ -112,7 +113,8 @@ Penetration Testing: <a href="https://www.aircrack-ng.org/"> Aircrack-ng, </a> <
 
 ----
 
-# Glossery
+# Read More
+More information about languages, software, platforms and etc I have used for cybersecurity and software development.
 
 ## Programing Languages 
 ### Assembly

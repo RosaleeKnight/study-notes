@@ -1,4 +1,5 @@
 2FA: 2-factor Authentication  
+
 AAA: Authentication, Authorization, and Accounting  
 ABAC: Attribute Based Access Control  
 ABI: Application Binary Interface  
@@ -30,13 +31,14 @@ ASV: Approved Scanning Vendors
 AS: Application Server  
 AS: Autonomous System (networking)   
 ATM: At the moment  
-ATM: Automated Teller Machine
+ATM: Automated Teller Machine  
 ATP: Advanced Threat Protection (Microsoft Defender)  
 AUP: Acceptable Use Policy  
 AV: Antivirus  
 AV: Asset Value  
 AWS: Amazon Web Services  
 AXFR: Authoritative Zone Transfer (DNS)   
+
 BAU: Business As Usual  
 BBS: Bulletin Board System   
 BCC: Blind Carbon Copy   
@@ -55,6 +57,7 @@ BSSID: Basic Service Set Identifier
 BSS: Block Started by Symbol  
 BTW: By the way  
 BYOD: Bring Your Own Device   
+
 C2: Command and Control   
 CACE: Excida IEC 62443 Certified Automation Cybersecurity Expert   
 CACS: Excida IEC 62443 Certified Automation Cybersecurity Specialist   
@@ -200,7 +203,7 @@ CRTOP: IACRB Certified Red Team Operations Professional
 CRUD: Create, Read, Update, Destroy   
 CSAE: Cyber Struggle AEGIS   
 CSAP: IACRB Certified Security Awareness Practitioner   
-CSA CCSK: Cloud Security Alliance Certificate of Cloud Security    Knowledge
+CSA CCSK: Cloud Security Alliance Certificate of Cloud Security Knowledge  
 CSA CGC: Cloud Security Alliance Cloud Governance & Compliance   
 CSA: Consultant Service Agreement   
 CSA: EC Council Certified SOC Analyst   
@@ -258,6 +261,7 @@ C)VA:	Mile2 Certified Vulnerability Assessor
 C)VCP: Mile2 Certified Virtualization & Cloud Principles   
 C)VE:	Mile2 Certified Virtualization Engineer   
 C)VFE: Mile2 Certified Virtualization Forensics Examiner   
+
 DACL: Discretionary Access Control List   
 DACRP: DRI Associate Cyber Resilience Professional   
 DAO: Direct Access Object  
@@ -308,6 +312,7 @@ DR: Disaster Recovery
 DSA: Digital Signature Algorithm  
 DSCI: Data Security Council of India  
 DTP: Dynamic Trunking Protocol (Cisco)  
+
 EBS: Amazon Elastic Block Store  
 eCDFP: eLearnSecurity Certified Digital Forensics Professional  
 ECES: EC Council Certified Encryption Specialist  
@@ -356,7 +361,8 @@ EXIN CIT: EXIN Cyber & IT Security
 EXIN PCA: EXIN Professional Cloud Administrator  
 EXIN PCSA: EXIN Professional Cloud Solution Architect  
 EXIN PCSerM: EXIN Professional Cloud Service Manager  
-EXIN PCSM: EXIN Professional Cloud Security Manager  
+EXIN PCSM: EXIN Professional Cloud Security Manager
+
 F5 CA: F5 Big-IP Certified Administrator  
 F5 CSE Sec: F5 Big-IP Certified Solution Expert - Security  
 F5 CTS APM: F5 Big-IP Certified Technical Specialist - Access Policy Manager  
@@ -373,189 +379,195 @@ FUD: Fear, Uncertainty and Doubt
 FW: Firewall  
 FYI: For Your Information  
 FYSA: For Your Situational Awareness  
-GAQM	Global Association for Quality Management
-GASF	GIAC Advanced Smartphone Forensics
-GAWN	GIAC Assessing Wireless Networks
-GBFA	GIAC Battlefield Forensics and Acquisition
-GCCC	GIAC Critical Controls Certification
-GCDA	GIAC Certified Detection Analyst
-GCED	GIAC Certified Enterprise Defender
-GCFA	GIAC Certified Forensic Analyst
-GCFE	GIAC Cerified Forensics Examiner
-GCIA	GIAC Certified Intrusion Analyst
-GCIH	GIAC Certified Incident Handler
-GCIP	GIAC Critical Infrastructure Protection
-GCPEH	GAQM Certified Professional Ethical Hacker
-GCPM	GIAC Certified Project Manager
-GCPT	GAQM Certified Penetration Tester
-GCSA	GIAC Cloud Security Automation
-GCTI	GIAC Cyber Threat Intelligence
-GCWN	GIAC Certified Windows Security Administrator
-GC	Garbage Collection
-GDAT	GIAC Defending Advanced Threats
-GDPR	General Data Protection Regulation
-GDSA	GIAC Defensible Security Architecture
-GEOINT	Geospatial Intelligence
-GEVA	GIAC Enterprise Vulnerability Assessor
-GIAC	Global Information Assurance Certification
-GICSP	GIAC Global Industrial Security Professional
-GISF	GIAC Information Security Fundamentals
-GISP	GIAC Information Security Professional
-GLEG	GIAC Law of Data Security & Investigations
-GMOB	GIAC Mobile Device Security Analyst
-GMON	GIAC Continuous Monitoring
-GNFA	GIAC Network Forensic Analyst
-Google ACE	Google Associate Cloud Engineer
-Google PCSA	Google Professional Cloud Architect
-Google PCSE	Google Professional Cloud Security Engineer
-GOSI	GIAC Open Source Intelligence
-GPEN	GIAC Certified Penetration Tester
-GPG	GNU Privacy Guard
-GPO	Group Policy Object
-GPPA	GIAC Certified Perimeter Protection Analyst
-GPP	Group Policy Preferences (Active Directory)
-GPYC	GIAC Python Coder
-GRC	Governance, Risk and Compliance
-GREM	GIAC Reverse Engineering Malware
-GRE	Generic Routing Encapsulation
-GRID	GIAC Response and Industrial Defense
-GSEC	GIAC Security Essentials Certification
-GSE	GIAC Security Expert
-GSLC	GIAC Security Leadership Certification
-GSM	Global System for Mobile (communications)
-GSNA	GIAC Systems and Network Auditor
-GSSP	GIAC Secure Software Programmer JAVA or .NET
-GSTRT	GIAC Strategic Planning, Policy and Leadership
-GUID	Globally Unique Identifier
-GUI	Graphical User Interface
-GWAPT	GIAC Web Application Penetration Tester
-GWEB	GIAC Certified Web Application Defender
-GWT	Google Web Toolkit
-GXPN	GIAC Exploit Researcher and Advanced Penetration Tester
-HIDS	Host IDS (Intrusion Detection System)
-HIPAA	Health Insurance Portability Accountability Act
-HIPS	Host IPS (Intrusion Prevention System)
-HKCC	HKEY_CURRENT_CONFIG Windows registry hive
-HKCR	HKEY_CLASSES_ROOT Windows registry hive
-HKCU	HKEY_CURRENT_USER Windows registry hive
-HKLM	HKEY_LOCAL_MACHINE Windows registry hive
-HKU	HKEY_USERS Windows registry hive
-HMAC	Hash-based Message Authentication Code.
-HOF	Hall of Fame
-HPP	HTTP Parameter Pollution
-HSTS	HTTP Strict Transport Security
-I2P	Invisible Internet Project
-IaaS	Infrastructure as a Service
-IACIS	International Association of Computer Investigative Specialists
-IACRB	Information Assurance Certification Review Board
-IAM	Identity Access Management
-IANAL	I am not a lawyer
-IAPP	International Association of Privacy Professionals
-IAR	Information Asset Register
-IAST	Interactive Application Security Testing
-IAVA	Information Assurance Vulnerability Alert
-IAVM	Information Assurance Vulnerability Management
-IBITGQ	International Board for IT Governance Qualifications
-ICE	Intrusion Countermeasures Electronics
-ICMP	Internet Control Message Protocol
-ICS	Incident Command System
-ICS	Industrial Control System
-IDE	Integrated Development Environment
-IDM	Identity Management
-IDOR	Insecure Direct Object Reference
-IDS	Intrusion Detection System
-ID	Information Disclosure
-IEC	International Electrotechnical Commission
-IEEE	Institute of Electrical and Electronics Engineers
-IETF	Internet Engineering Task Force
-IG	Information Governance
-IIA CIA	Institute of Internal Auditors Certified Internal Auditor
-IIA	Institute of Internal Auditors
-IIBA CCA	IIBA Certification in Cybersecurity Analysis
-IIBA	International Institute of Business Analysis
-IIoT	Industrial Internet of Things
-IIRC	If I recall correctly
-IKE	Internet Key Exchange
-iLO	HP Integrated Lights Out
-IMI	Identity Management Institute
-IMMA	Isolate, Minimize, Monitor, Active Defense (IR)
-IMPS	Immediate Payment Service (banking)
-IM	Instant Messaging
-IOC	Indicator of Compromise
-IoT	Internet of Things
-IPMI	Intelligent Platform Management Interface
-IPP	Internet Printing Protocol
-IPsec	Internet Protocol Security
-IPSec	Internet Protocol Security
-IPS	Intrusion Prevention System
-IPT	Internal Penetration Testing
-IP	Intellectual Property
-IP	Internet Protocol
-IRC	Internet Relay Chat
-IRL	In real life
-IRM	Information Rights Management
-IRP	Incident Response Plan or Policy
-IR	Incident Response
-ISACA	Information Systems Audit and Control Association
-ISAC	Information Sharing and Analysis Center
-ISAKMP	Internet Security Association Key Management Protocol
-ISA CE	ISA Cybersecurity Expert
-ISA CFS	ISA Certified Fundamentals Specialist
-ISA CRAS	ISA Certified Risk Assesment Specialist
-ISA	International Society of Automation
-ISECOM	Institute for Security and Open Methodologies
-ISMS	Information Security Management System
-ISM	Information Security Manual
-ISO	Information System Owner (in RMF - Risk Management Framework)
-ISO	International Organization for Standardization
-ISP	Internet Service Provider
-ISSAF	Information Systems Security Assessment Framework
-ITIL Fdn	ITIL Foundation
-ITIL Master	ITIL Master
-ITIL MP	ITIL Managing Professional
-ITIL SL	ITIL Strategic Leader
-ITIL	Information Technology Infrastructure Library
-IT	Information Technology
-I&C	Instrumentation and Control
-JCE	Java Cryptography Extension
-JMX	Java Management Extensions
-JNCIA Sec	Juniper Networks Certified Internet Associate, Security
-JNCIE Sec	Juniper Networks Certified Internet Expert, Security
-JNCIP Sec	Juniper Networks Certified Internet Professional, Security
-JNCIS Sec	Juniper Networks Certified Internet Specialist, Security
-JPEG	Joint Photographic Experts Group
-JSON	JavaScript Object Notation
-JSP	Jakarta Server Pages
-JSP	Java Servlet Pages
-JS	JavaScript
-JVM	Java Virtual Machine
-JWT	JSON Web Token
-K8S	Kubernetes
-KC	Kill Chain
-KLCP	Kali Linux Certified Professional
-KMaaS	Key Management as a Service
-KMS	Key Management Service
-LAMP	Linux, Apache, MySQL, and PHP
-LAN	Local Area Network
-LDAP	Lightweight Directory Access Protocol
-LE	Let's Encrypt
-LFCA	Linux Foundation Certified IT Associate
-LFCE	Linux Foundation Certified Engineer
-LFCS	Linux Foundation Certified System Administrator
-LFI	Local File Inclusion
-LKM	Loadable Kernel Modules
-LLMNR	Link-Local Multicast Name Resolution protocol
-LM	LAN Manager (Windows)
-LOIC	Low Orbit Ion Cannon
-LPA	Least Privilege Access
-LPE	Local Privilege Escalation
-LPIC-1	Linux Professional Institute Certified: Linux Administrator
-LPIC-2	Linux Professional Institute Certified: Linux Engineer
-LPIC-3	Linux Professional Institute Certified: 303 Security
-LPT	EC Council Licensed Penetration Tester
-LSASS	Local Security Authority Subsystem Service
-LTE	Long-Term Evolution
-LTS	Long-Term Support
+
+GAQM: Global Association for Quality Management  
+GASF: GIAC Advanced Smartphone Forensics  
+GAWN: GIAC Assessing Wireless Networks  
+GBFA: GIAC Battlefield Forensics and Acquisition  
+GCCC: GIAC Critical Controls Certification  
+GCDA:	GIAC Certified Detection Analyst  
+GCED:	GIAC Certified Enterprise Defender  
+GCFA:	GIAC Certified Forensic Analyst  
+GCFE:	GIAC Cerified Forensics Examiner  
+GCIA:	GIAC Certified Intrusion Analyst  
+GCIH:	GIAC Certified Incident Handler  
+GCIP:	GIAC Critical Infrastructure Protection  
+GCPEH: GAQM Certified Professional Ethical Hacker  
+GCPM:	GIAC Certified Project Manager  
+GCPT:	GAQM Certified Penetration Tester  
+GCSA:	GIAC Cloud Security Automation  
+GCTI:	GIAC Cyber Threat Intelligence  
+GCWN: GIAC Certified Windows Security Administrator  
+GC:	Garbage Collection  
+GDAT:	GIAC Defending Advanced Threats  
+GDPR:	General Data Protection Regulation  
+GDSA:	GIAC Defensible Security Architecture  
+GEOINT:	Geospatial Intelligence  
+GEVA:	GIAC Enterprise Vulnerability Assessor  
+GIAC:	Global Information Assurance Certification  
+GICSP: GIAC Global Industrial Security Professional  
+GISF:	GIAC Information Security Fundamentals  
+GISP:	GIAC Information Security Professional  
+GLEG:	GIAC Law of Data Security & Investigations  
+GMOB:	GIAC Mobile Device Security Analyst  
+GMON:	GIAC Continuous Monitoring  
+GNFA:	GIAC Network Forensic Analyst  
+Google ACE:	Google Associate Cloud Engineer  
+Google PCSA: Google Professional Cloud Architect  
+Google PCSE: Google Professional Cloud Security Engineer  
+GOSI:	GIAC Open Source Intelligence  
+GPEN:	GIAC Certified Penetration Tester  
+GPG: GNU Privacy Guard  
+GPO: Group Policy Object  
+GPPA:	GIAC Certified Perimeter Protection Analyst  
+GPP: Group Policy Preferences (Active Directory)  
+GPYC:	GIAC Python Coder  
+GRC: Governance, Risk and Compliance  
+GREM:	GIAC Reverse Engineering Malware
+GRE: Generic Routing Encapsulation  
+GRID:	GIAC Response and Industrial Defense  
+GSEC:	GIAC Security Essentials Certification  
+GSE: GIAC Security Expert  
+GSLC:	GIAC Security Leadership Certification  
+GSM: Global System for Mobile (communications)  
+GSNA:	GIAC Systems and Network Auditor  
+GSSP:	GIAC Secure Software Programmer JAVA or .NET  
+GSTRT: GIAC Strategic Planning, Policy and Leadership  
+GUID:	Globally Unique Identifier  
+GUI: Graphical User Interface  
+GWAPT: GIAC Web Application Penetration Tester  
+GWEB:	GIAC Certified Web Application Defender  
+GWT: Google Web Toolkit  
+GXPN:	GIAC Exploit Researcher and Advanced Penetration Tester 
+
+HIDS:	Host IDS (Intrusion Detection System)  
+HIPAA: Health Insurance Portability Accountability Act  
+HIPS:	Host IPS (Intrusion Prevention System)  
+HKCC:	HKEY_CURRENT_CONFIG Windows registry hive  
+HKCR:	HKEY_CLASSES_ROOT Windows registry hive  
+HKCU:	HKEY_CURRENT_USER Windows registry hive  
+HKLM:	HKEY_LOCAL_MACHINE Windows registry hive  
+HKU: HKEY_USERS Windows registry hive  
+HMAC:	Hash-based Message Authentication Code  
+HOF: Hall of Fame  
+HPP: HTTP Parameter Pollution  
+HSTS:	HTTP Strict Transport Security  
+
+I2P: Invisible Internet Project  
+IaaS:	Infrastructure as a Service  
+IACIS: International Association of Computer Investigative Specialists  
+IACRB: Information Assurance Certification Review Board  
+IAM: Identity Access Management  
+IANAL: I am not a lawyer  
+IAPP:	International Association of Privacy Professionals  
+IAR: Information Asset Register  
+IAST:	Interactive Application Security Testing  
+IAVA:	Information Assurance Vulnerability Alert  
+IAVM:	Information Assurance Vulnerability Management  
+IBITGQ:	International Board for IT Governance Qualifications  
+ICE: Intrusion Countermeasures Electronics  
+ICMP:	Internet Control Message Protocol  
+ICS: Incident Command System  
+ICS: Industrial Control System  
+IDE: Integrated Development Environment  
+IDM: Identity Management  
+IDOR:	Insecure Direct Object Reference  
+IDS: Intrusion Detection System  
+ID:	Information Disclosure  
+IEC: International Electrotechnical Commission  
+IEEE:	Institute of Electrical and Electronics Engineers  
+IETF:	Internet Engineering Task Force  
+IG:	Information Governance  
+IIA CIA: Institute of Internal Auditors Certified Internal Auditor  
+IIA: Institute of Internal Auditors  
+IIBA CCA:	IIBA Certification in Cybersecurity Analysis  
+IIBA:	International Institute of Business Analysis  
+IIoT:	Industrial Internet of Things  
+IIRC:	If I recall correctly  
+IKE: Internet Key Exchange  
+iLO: HP Integrated Lights Out  
+IMI: Identity Management Institute  
+IMMA:	Isolate, Minimize, Monitor, Active Defense (IR)  
+IMPS:	Immediate Payment Service (banking)  
+IM:	Instant Messaging  
+IOC: Indicator of Compromise  
+IoT: Internet of Things  
+IPMI:	Intelligent Platform Management Interface  
+IPP: Internet Printing Protocol  
+IPsec: Internet Protocol Security  
+IPS: Intrusion Prevention System  
+IPT: Internal Penetration Testing  
+IP:	Intellectual Property  
+IP:	Internet Protocol  
+IRC: Internet Relay Chat  
+IRL: In real life  
+IRM: Information Rights Management  
+IRP: Incident Response Plan or Policy  
+IR:	Incident Response  
+ISACA: Information Systems Audit and Control Association  
+ISAC: Information Sharing and Analysis Center  
+ISAKMP:	Internet Security Association Key Management Protocol  
+ISA CE:	ISA Cybersecurity Expert  
+ISA CFS: ISA Certified Fundamentals Specialist  
+ISA CRAS: ISA Certified Risk Assesment Specialist  
+ISA: International Society of Automation  
+ISECOM:	Institute for Security and Open Methodologies  
+ISMS:	Information Security Management System  
+ISM: Information Security Manual  
+ISO: Information System Owner (in RMF - Risk Management Framework)  
+ISO: International Organization for Standardization  
+ISP: Internet Service Provider  
+ISSAF: Information Systems Security Assessment Framework  
+ITIL Fdn:	ITIL Foundation  
+ITIL Master: ITIL Master  
+ITIL MP	ITIL: Managing Professional  
+ITIL SL	ITIL: Strategic Leader  
+ITIL:	Information Technology Infrastructure Library  
+IT:	Information Technology  
+I&C: Instrumentation and Control  
+
+JCE: Java Cryptography Extension  
+JMX: Java Management Extensions  
+JNCIA Sec: Juniper Networks Certified Internet Associate, Security  
+JNCIE Sec: Juniper Networks Certified Internet Expert, Security  
+JNCIP Sec: Juniper Networks Certified Internet Professional, Security  
+JNCIS Sec: Juniper Networks Certified Internet Specialist, Security  
+JPEG:	Joint Photographic Experts Group  
+JSON:	JavaScript Object Notation  
+JSP: Jakarta Server Pages  
+JSP: Java Servlet Pages  
+JS: JavaScript  
+JVM: Java Virtual Machine  
+JWT: JSON Web Token  
+
+K8S: Kubernetes  
+KC: Kill Chain  
+KLCP: Kali Linux Certified Professional  
+KMaaS: Key Management as a Service  
+KMS: Key Management Service  
+
+LAMP: Linux, Apache, MySQL, and PHP  
+LAN: Local Area Network  
+LDAP: Lightweight Directory Access Protocol  
+LE: Let's Encrypt  
+LFCA: Linux Foundation Certified IT Associate  
+LFCE: Linux Foundation Certified Engineer  
+LFCS: Linux Foundation Certified System Administrator  
+LFI: Local File Inclusion  
+LKM: Loadable Kernel Modules  
+LLMNR: Link-Local Multicast Name Resolution protocol  
+LM: LAN Manager (Windows)  
+LOIC: Low Orbit Ion Cannon  
+LPA: Least Privilege Access  
+LPE: Local Privilege Escalation  
+LPIC-1: Linux Professional Institute Certified: Linux Administrator  
+LPIC-2: Linux Professional Institute Certified: Linux Engineer  
+LPIC-3: Linux Professional Institute Certified: 303 Security  
+LPT: EC Council Licensed Penetration Tester  
+LSASS: Local Security Authority Subsystem Service  
+LTE: Long-Term Evolution  
+LTS: Long-Term Support  
+
 M365 EAE	Microsoft 365 Certified Enterprise Administrator Expert
 MAC	Mandatory Access Control
 MAC	Media Access Control (MAC address)

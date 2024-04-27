@@ -258,121 +258,121 @@ C)VA:	Mile2 Certified Vulnerability Assessor
 C)VCP: Mile2 Certified Virtualization & Cloud Principles   
 C)VE:	Mile2 Certified Virtualization Engineer   
 C)VFE: Mile2 Certified Virtualization Forensics Examiner   
-DACL	Discretionary Access Control List   
-DACRP	DRI Associate Cyber Resilience Professional   
-DAO	Direct Access Object
-DAST	Dynamic Application Security Testing
-DBA	Database Administrator
-DCBCA	DRI Certified Business Continuity Auditor
-DCBCLA	DRI Certified Business Continuity Lead Auditor
-DCCRP	DRI Certified Cyber Resilience Professional
-DCOM	Distributed Component Object Model
-DCPP	DSCI Certified Privacy Professional
-DCRMP	DRI Certified Risk Management Professional
-DCSA	Defense Counterintelligence and Security Agency
-DCS	Data Communication Systems
-DCS	Distributed Control System
-DC	Data Center
-DC	Domain Controller (Active Directory)
-DDE	Dynamic Data Exchange
-DDoS	Distributed Denial of Service
-DES	Data Encryption Standard
-DevNet A	Cisco DevNet Associate
-DevNet Pro	Cisco DevNet Professional
-DFIR	Digital Forensics Incident Response
-DH	Diffie-Hellman key exchange
-DISA	Defense Information Systems Agency
-DKIM	Domain Keys Identified Mail
-DLL	Dynamic-link Library
-DLP	Data Loss Prevention
-DMARC	Domain-based Message Authentication, Reporting & Conformance
-DMA	Direct Memory Access
-DMZ	Demilitarized Zone
-DM	Direct Message
-DNS	Deferred Net Settlement (banking)
-DNS	Domain Name System
-DN	Distinguished Name (LDAP)
-DOB	Date of Birth
-DOM	Document Object Model
-DoS	Denial of Service
-DPAPI	Data Protection API
-DPA	Data Processing Agreement
-DPA	Data Protection Act (UK law)
-DPIA	Data Protection Impact Assessment
-DPP	Data and Privacy Protection
-DRAC	Dell Remote Access Control
-DRI	Disaster Recovery Institute
-DRM	Digital Rights Management
-DRP	Disaster Recovery Planning
-DR	Disaster Recovery
-DSA	Digital Signature Algorithm
-DSCI	Data Security Council of India
-DTP	Dynamic Trunking Protocol (Cisco)
-EBS	Amazon Elastic Block Store
-eCDFP	eLearnSecurity Certified Digital Forensics Professional
-ECES	EC Council Certified Encryption Specialist
-ECIH	EC Council Certified Incident Handler
-eCIR	eLearnSecurity Certified Incident Responder
-eCMAP	eLearnSecurity Certified Malware Analysis Professional
-eCPPT	eLearnSecurity Certified Professional Penetration Tester
-eCPTX	eLearnSecurity Certified Penetration Tester eXtreme
-eCRE	eLearnSecurity Certified Reverse Engineer
-ECSA	EC Council Certified Security Analyst
-ECSS	EC Council Certified Security Specialist
-eCTHP	eLearnSecurity Certified Threat Hunting Professional
-eCXD	eLearnSecurity Certified eXploit Developer
-EDRP	EC Council Disaster Recovery Professional
-EDR	Endpoint Detection and Response
-EEHF	EXIN Ethical Hacking Foundation
-EEXIN ISM	EXIN Information Security Management Expert
-EFF	Electronic Frontier Foundation
-EF	Exposure Factor
-EICAR	Antivirus test file
-EIGRP	Enhanced Interior Gateway Routing Protocol
-EISM	EC Council Information Security Manager
-EITCA/IS	EITCA/IS Information Security Certificate
-eJPT	eLearnSecurity Junior Penetration Tester
-ELF	Executable and Linkable Format
-EL	Engagement Letter
-eMAPT	eLearnSecurity Mobile Application Penetration Tester
-EMR	Electromagnetic Radiation
-EnCE	OpenText EnCase Certified Examiner
-eNDP	eLearnSecurity Network Defense Professional
-EOL	End of Life
-EOP	Elevation/Escalation of Privilege
-EOR	Employer of Record
-EPDPE	EXIN Privacy and Data Protection Essentials
-EPDPF	EXIN Privacy and Data Protection Foundation
-EPDPP	EXIN Privacy and Data Protection Practitioner
-EPT	External Penetration Testing
-ERP	Enterprise Resource Planning
-ES	Enterprise Security
-ETA	Ewil Twin Attack (Wi-Fi)
-EVP	Executive Vice President
-eWDP	eLearnSecurity Web Defense Professional
-eWPTX	eLearnSecurity Web Application Penetration Tester eXtreme
-eWPT	eLearnSecurity Web Application Penetration Tester
-EXIN CIT	EXIN Cyber & IT Security
-EXIN PCA	EXIN Professional Cloud Administrator
-EXIN PCSA	EXIN Professional Cloud Solution Architect
-EXIN PCSerM	EXIN Professional Cloud Service Manager
-EXIN PCSM	EXIN Professional Cloud Security Manager
-F5 CA	F5 Big-IP Certified Administrator
-F5 CSE Sec	F5 Big-IP Certified Solution Expert - Security
-F5 CTS APM	F5 Big-IP Certified Technical Specialist - Access Policy Manager
-F5 CTS DNS	F5 Big-IP Certified Technical Specialist - Domain Name Services
-FDE	Full Disk Encryption
-FERPA	Family Educational Rights and Privacy Act
-FEXIN	EXIN Information Secourity Foundation
-FIM	File Integrity Monitoring
-FQDN	Fully Qualified Domain Name
-FTC	Full Time Contract
-FTE	Full Time Employee
-FTP	File Transfer Protocol
-FUD	Fear, Uncertainty and Doubt
-FW	Firewall
-FYI	For Your Information
-FYSA	For Your Situational Awareness
+DACL: Discretionary Access Control List   
+DACRP: DRI Associate Cyber Resilience Professional   
+DAO: Direct Access Object  
+DAST: Dynamic Application Security Testing  
+DBA: Database Administrator  
+DCBCA: DRI Certified Business Continuity Auditor  
+DCBCLA: DRI Certified Business Continuity Lead Auditor  
+DCCRP: DRI Certified Cyber Resilience Professional  
+DCOM: Distributed Component Object Model  
+DCPP: DSCI Certified Privacy Professional  
+DCRMP: DRI Certified Risk Management Professional  
+DCSA: Defense Counterintelligence and Security Agency  
+DCS: Data Communication Systems  
+DCS: Distributed Control System  
+DC: Data Center  
+DC: Domain Controller (Active Directory)  
+DDE: Dynamic Data Exchange  
+DDoS: Distributed Denial of Service  
+DES: Data Encryption Standard  
+DevNet A: Cisco DevNet Associate  
+DevNet Pro: Cisco DevNet Professional  
+DFIR: Digital Forensics Incident Response  
+DH: Diffie-Hellman key exchange  
+DISA: Defense Information Systems Agency  
+DKIM: Domain Keys Identified Mail  
+DLL: Dynamic-link Library  
+DLP: Data Loss Prevention  
+DMARC: Domain-based Message Authentication, Reporting & Conformance  
+DMA: Direct Memory Access  
+DMZ: Demilitarized Zone  
+DM: Direct Message  
+DNS: Deferred Net Settlement (banking)  
+DNS: Domain Name System  
+DN: Distinguished Name (LDAP)  
+DOB: Date of Birth  
+DOM: Document Object Model  
+DoS: Denial of Service  
+DPAPI: Data Protection API  
+DPA: Data Processing Agreement  
+DPA: Data Protection Act (UK law)  
+DPIA: Data Protection Impact Assessment  
+DPP: Data and Privacy Protection  
+DRAC: Dell Remote Access Control  
+DRI: Disaster Recovery Institute  
+DRM: Digital Rights Management  
+DRP: Disaster Recovery Planning  
+DR: Disaster Recovery  
+DSA: Digital Signature Algorithm  
+DSCI: Data Security Council of India  
+DTP: Dynamic Trunking Protocol (Cisco)  
+EBS: Amazon Elastic Block Store  
+eCDFP: eLearnSecurity Certified Digital Forensics Professional  
+ECES: EC Council Certified Encryption Specialist  
+ECIH: EC Council Certified Incident Handler  
+eCIR: eLearnSecurity Certified Incident Responder  
+eCMAP: eLearnSecurity Certified Malware Analysis Professional  
+eCPPT: eLearnSecurity Certified Professional Penetration Tester  
+eCPTX: eLearnSecurity Certified Penetration Tester eXtreme  
+eCRE: eLearnSecurity Certified Reverse Engineer  
+ECSA: EC Council Certified Security Analyst  
+ECSS: EC Council Certified Security Specialist  
+eCTHP: eLearnSecurity Certified Threat Hunting Professional  
+eCXD: eLearnSecurity Certified eXploit Developer  
+EDRP: EC Council Disaster Recovery Professional  
+EDR: Endpoint Detection and Response  
+EEHF: EXIN Ethical Hacking Foundation  
+EEXIN ISM: EXIN Information Security Management Expert  
+EFF: Electronic Frontier Foundation  
+EF: Exposure Factor  
+EICAR: Antivirus test file  
+EIGRP: Enhanced Interior Gateway Routing Protocol  
+EISM: EC Council Information Security Manager  
+EITCA/IS: EITCA/IS Information Security Certificate  
+eJPT: eLearnSecurity Junior Penetration Tester  
+ELF: Executable and Linkable Format  
+EL: Engagement Letter  
+eMAPT: eLearnSecurity Mobile Application Penetration Tester  
+EMR: Electromagnetic Radiation  
+EnCE: OpenText EnCase Certified Examiner  
+eNDP: eLearnSecurity Network Defense Professional  
+EOL: End of Life  
+EOP: Elevation/Escalation of Privilege  
+EOR: Employer of Record  
+EPDPE: EXIN Privacy and Data Protection Essentials  
+EPDPF: EXIN Privacy and Data Protection Foundation  
+EPDPP: EXIN Privacy and Data Protection Practitioner  
+EPT: External Penetration Testing  
+ERP: Enterprise Resource Planning  
+ES: Enterprise Security  
+ETA: Evil Twin Attack (Wi-Fi)  
+EVP: Executive Vice President  
+eWDP: eLearnSecurity Web Defense Professional  
+eWPTX: eLearnSecurity Web Application Penetration Tester eXtreme  
+eWPT: eLearnSecurity Web Application Penetration Tester  
+EXIN CIT: EXIN Cyber & IT Security  
+EXIN PCA: EXIN Professional Cloud Administrator  
+EXIN PCSA: EXIN Professional Cloud Solution Architect  
+EXIN PCSerM: EXIN Professional Cloud Service Manager  
+EXIN PCSM: EXIN Professional Cloud Security Manager  
+F5 CA: F5 Big-IP Certified Administrator  
+F5 CSE Sec: F5 Big-IP Certified Solution Expert - Security  
+F5 CTS APM: F5 Big-IP Certified Technical Specialist - Access Policy Manager  
+F5 CTS DNS: F5 Big-IP Certified Technical Specialist - Domain Name Services  
+FDE: Full Disk Encryption  
+FERPA: Family Educational Rights and Privacy Act  
+FEXIN: EXIN Information Secourity Foundation  
+FIM: File Integrity Monitoring  
+FQDN: Fully Qualified Domain Name  
+FTC: Full Time Contract  
+FTE: Full Time Employee  
+FTP: File Transfer Protocol  
+FUD: Fear, Uncertainty and Doubt  
+FW: Firewall  
+FYI: For Your Information  
+FYSA: For Your Situational Awareness  
 GAQM	Global Association for Quality Management
 GASF	GIAC Advanced Smartphone Forensics
 GAWN	GIAC Assessing Wireless Networks

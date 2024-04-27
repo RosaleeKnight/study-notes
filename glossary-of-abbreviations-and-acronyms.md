@@ -1,265 +1,265 @@
-2FA	  2-factor Authentication
-AAA	  Authentication, Authorization, and Accounting
-ABAC  Attribute Based Access Control
-ABI	  Application Binary Interface
-ACE	  AccessData Certified Examiner
-ACE   Access Control Entry
-ACE	 Arbitrary Code Execution
-ACL	  Access Control Lists
-ADB	  Android Debug Bridge
-ADFS    Active Directory Federation Services
-AD	  Active Directory
-AES	  Advanced Encryption Standard
-AFAIK	 As Far As I Know
-AFK	  Away from Keyboard
-AI	Artificial Intelligence
-AJAX  Asynchronous JavaScript And XML
-ALE  Annualized Loss Expectancy
-AMS	Asset Management System
-ANSI American National Standards Institute
-API  Application Programming Interface
-APK	 Android Package
-APT	  Advanced Persistent Threat
-APT	 Application Penetration Testing
-AP	Access Point
-ARO  Annualised Rate of Occurrence
-ASCII	  American Standard Code for Information Interchange
-ASLR	Address Space Layout Randomization
-ASN	   Autonomous System Number
-ASV	  Approved Scanning Vendors
-AS	 Application Server
-AS	Autonomous System (networking)
-ATM	  At the moment
-ATM	  Automated Teller Machine
-ATP	 Advanced Threat Protection (Microsoft Defender)
-AUP 	Acceptable Use Policy
-AV	 Antivirus
-AV	Asset Value
-AWS	  Amazon Web Services
-AXFR	 Authoritative Zone Transfer (DNS)
-BAU	 Business As Usual
-BBS	 Bulletin Board System
-BCC	 Blind Carbon Copy
-BCRs	 Binding Corporate Rules (for intra group data transfers)
-BER	 Bit Error Rate
-BGP	 Border Gateway Protocol
-BIA	 Burned-in Address
-BIA  Business Impact Analysis
-BLOB	Binary Large Object
-BMP	 Bitmap Image format
-BoF  Buffer Overflow
-BPDU	Bridge Protocol Data Unit
-BSD	 Berkeley Software Distribution (UNIX)
-BSOD  Blue Screen of Death (Windows crash)
-BSSID	 Basic Service Set Identifier
-BSS  	Block Started by Symbol
-BTW	  By the way
-BYOD  Bring Your Own Device
-C2  Command and Control
-CACE	Excida IEC 62443 Certified Automation Cybersecurity Expert
-CACS  Excida IEC 62443 Certified Automation Cybersecurity Specialist
-CAMS  IMI Certfied Access Management Specialist
-CAM	 Computer-aided Manufacturing
-CAPTCHA	  Completely Automated Public Turing test to tell Computers and Humans Apart
-CAP	 (ISC)2 Certified Authorization Professional
-CASE	 EC Council Certified Application Security Engineer (.NET or Java)
-CASM	 GAQM Certified Agile Scrum Master
-CASST	 GAQM Certified Advanced Software Security Tester
-CAWFE	IACIS Certified Advanced Windows Forensic Examiner
-CA  Certification Authority
-CBC	 Cipher Block Chaining
-CBSP	Cloud-based Security Providers
-CCAr	Cisco Certified Architect
-CCDE	Cisco Certified Design Expert
-CCE	ISFCE   Certified Computer Examiner
-CCFE	IACRB Certified Computer Forensics Examiner
-CCIE Ent  Cisco Certified Internetwork Expert - Enterprise Infrastructure
-CCISO	 EC Council Certified Information Security Officer
-CCNA	Cisco Certified Network Associate
-CCNP Ent  Cisco Certified Network Professional - Enterprise
-CCNP Sec	Cisco Certified Network Professional - Security
-CCPA	California’s Consumer Privacy Act
-CCRMP IBITGQ Certified in Managing Cyber Security Risk
-CCSA  Checkpoint Certified Security Administrator
-CCSC	CertNexus Cyber Secure Coder
-CCSE Checkpoint Certified Security Expert
-CCSM	Checkpoint Certified Security Master
-CCSP	(ISC)2 Certified Cloud Security Professional
-CCTHP	IACRB Certified Cyber Threat Hunting Professional
-CCTV	Closed Circuit Television
-CCT	Cisco Certified Technician
-CC	Carbon Copy
-CC	Credit Cards (Carding fraud)
-CDE	Cardholder Data Environemnt (network segment containing credit cards)
-CDMA	Code Division Multiple Access
-CDN	Content Delivery Network
-CDPSE	ISACA Certified Data Privacy Solutions Engineer
-CDP	Cisco Discovery Protocol
-CDP	Clean Desk Policy
-CDP	IMI Certified in Data Protection
-CDRP	IACRB Certified Data Recovery Professional
-CECS	Lunarline Certified Expert in Cloud Security
-CEH	EC Council Certified Ethical Hacker
-CEIA	Lunarline Certified Expert Independent Assessor
-CEIM	Lunarline Certified Expert Incident Manager
-CEO	Chief Executive Officer
-CEPM	Lunarline Certified Expert Program Manager
-CEPP	Lunarline Certified Expert Privacy Professional
-CEPT	IACRB Certified Expert Penetration Tester
-CEREA	IACRB Certified Expert Reserve Engineering Analyst
-CERP	Lunarline Certified Expert RMF Professional
-CESA	Lunarline Certified Expert Security Analyst
-CESE	Lunarline Certified Expert Security Executive
-CESO	Lunarline Certified Expert Security Officer
-CFAA	Computer Fraud and Abuse Act
-CFA	GAQM Certified Forensic Analyst
-CFCE	IACIS Certified Forensic Computer Examiner
-CFO	Chief Financial Officer
-CFR	CertNexus CyberSec First Responder
-CFSR	OpenText Certified Forensic Security Responder
-CGEIT	ISACA Certified in the Governance of Enterprise IT
-CGI	Common Gateway Interface
-CHAT	ISECOM Certified Hacker Analyst Trainer
-CHA	ISECOM Certified Hacker Analyst
-CHFI	EC Council Computer Hacking Forensics Investigator
-CIAM	Identify Management Institute Certified Identify and Access Manager
-CIA	Confidentiality, Integrity, Availability
-CIC	Cyber Intelligence Center
-CIDR	Classless Inter-Domain Routing
-CIFS	Common Internet File System
-CIGE	IMI Certified Identity Governance Expert
-CIISec ICSF	CIISec Information and Cybersecurity Fundamentals
-CIISec	Chartered Institute of Information Security
-CIMP	IMI Certified Identity Management Professional
-CIOTSP	CertNexus Certified Internet of Things Security Practitioner
-CIO	Chief Information Officer
-CIPA	IMI Certified Identity Protection comptia-advanced-security-practitioner
-CIPP	IAPP Certified Information Privacy Professional
-CIPT	IAPP Certified Information Privacy Technologist
-CIRM Fdn	IBITGQ Cyber Incident Response Management Foundation
-CIRT	Computer Incident Response Team
-CISA	ISACA Certified Information Systems Auditor
-CISM	ISACA Certified Information Security Manager
-CISO	Chief Information Security Officer
-CISP	GAQM Certified Information Security Professional
-CISRM	IBITGQ Certified ISO 27005 Information Security Management Specialist Risk Management
-CISSM	GAQM Certified Information Systems Security Manager
-CISSP	(ISC)2 Certified Information Systems Security Professional
-CISST	GAQM Certified Information systems Security Tester
-CIST	IMI Certfied Identity and Security Technologist
-CIS F	IBITGQ Certified ISO 27001 Information Security Management Specialist Foundation
-CIS IA	IBITGQ Certified ISO 27001 Information Security Management Specialist Internal Auditor
-CIS LA	IBITGQ Certified ISO 27001 Information Security Management Specialist Lead Auditor
-CIS LI	IBITGQ Certified ISO 27001 Information Security Management Specialist Lead Implementer
-CIS RM	IBITGQ Certified ISO 27005 Information Security Management Specialist Risk Management
-CIS	Center for Internet Security
-CITGP	IBITGQ Certified in Implementing IT Governance - Foundation & Principles
-CI/CD	Continuous Integration and either Continuous Delivery or Continuous Deployment
-CI	Critical Infrastructure
-CLI	Command-line Interface
-CMDB	Configuration Management Database
-CMDB	Content Management Database
-CMFE	IACRB Certified Mobile Forensics Examiner
-CMO	Chief Marketing Officer
-CMS	Content Management System
-CMWAPT	IACRB Certified Mobile and Web App Penetration Tester
-CNA	Certification and Accreditation
-CNDA	EC Council Certified Network Defense Architect
-CND	EC Council Certified Network Defender
-COO	Chief Operating Officer
-CORS	Cross-Origin Resource Sharing
-CPC	Core Protection System
-CPD	GAQM Certified Project Director
-CPE	Common Platform Enumeration
-CPT	IACRB Certified Penetration Tester
-CRC	Cyclical Redundancy Check
-CREA	IACRB Certified Reverse Engineering Analyst
-CREST CCSAS	CREST Certified Simulated Attack Specialist
-CREST CCT	CREST Certified Infrastructure Tester
-CREST CHIA	CREST Certified Host intrustion Analyst
-CREST CMRE	CREST Certified Malware Reverse Engineer
-CREST CNIA	CREST Certified Network Intrusion Analyst
-CREST CPIA	CREST Practitioner Intrusion Analyst
-CREST CPSA	CREST Practitioner Security Analyst
-CREST CPTIA	CREST Practitioner Threat Intelligence Analyst
-CREST CRIA	CREST Registered Intrusion Analyst
-CREST CRTSA	CREST Registered Technical Security Architect
-CREST CRT	CREST Registered Penetration Tester
-CREST CSAM	CREST Certified Simulated Attack Manager
-CREST CSAS	CREST Certified Simulated Attack Specialist
-CREST CTIM	CREST Certified Threat Intelligence Manager
-CREST CWAT	CREST Certified Web Application Tester
-CREST CWS	CREST Certified Wireless Specialist
-CREST RTIA	CREST Registered Threat Intelligence Analyst
-CREST	Council for Registered Ethical Security Testers
-CRFS	IMI Certified Red Flag Specialist
-CRISC	ISACA Certified in Risk and Information Systems Control
-CRM	Customer Relations Management
-CRO	Chief Revenue Officer
-CRTOP	IACRB Certified Red Team Operations Professional
-CRUD	Create, Read, Update, Destroy
-CSAE	Cyber Struggle AEGIS
-CSAP	IACRB Certified Security Awareness Practitioner
-CSA CCSK	Cloud Security Alliance Certificate of Cloud Security Knowledge
-CSA CGC	Cloud Security Alliance Cloud Governance & Compliance
-CSA	Consultant Service Agreement
-CSA	EC Council Certified SOC Analyst
-CSBA	QAI Certified Software Business Analyst
-CSCU	EC Council Certified Secure Computer User
-CSFA	CSIAC CyberSecurity Forensic Analyst
-CSIRT	Computer Security Incident Response Team
-CSMA/CD	Carrier Sense Multiple Access with Collision Detection
-CSM	GAQM Certified Scrum Master
-CSPRNG	Cryptographically Secure Pseudo-Random Number Generator
-CSP	Content Security Policy
-CSP	GAQM Certified SAFe Practitioner
-CSRF	Cross-Site Request Forgery
-CSR	Cyber Struggle Ranger
-CSSA	IACRB Certified SCADA Security Architect
-CSSLP	(ISC)2 Certified Secure Software Lifecycle Professional
-CSST	GAQM Certified Software Security Tester
-CSS	Cascading Style Sheets
-CSV	Comma-separated Values
-CSWSH	Cross-Site WebSocket Hijacking
-CSX-F	IBITGQ Cyber Incident Response Management Foundation
-CSX-PA	ISACA Cybersecurity Packet Analysis Certificate
-CSX-P	ISACA Cybersecurity Practitioner
-CSX-T	ISACA Cybersecurity Technical Foundation
-CTF	Capture the Flag
-CTIA	EC Council Certified Threat intelligence Analyst
-CTI	Cyber Threat Intelligence
-CTOps	Cyber Threat Operations
-CTO	Chief Technology Officer
-CTR	Click-through Rate
-CUCM	Cisco Unified Communications Manager
-CVE	Common Vulnerabilities and Exposures
-CVSS	Common Vulnerability Scoring System
-CWE	Common Weakness Enumeration
-CW	Content Warning
-CySA+	CompTIA Cybersecurity Analyst+
-C CS F	IBITGQ Certified Cyber Security Foundation
-C&A	Certification and Accreditation
-C&C	Command and Control
+2FA: 2-factor Authentication  
+AAA: Authentication, Authorization, and Accounting  
+ABAC: Attribute Based Access Control  
+ABI:  Application Binary Interface  
+ACE: AccessData Certified Examiner  
+ACE: Access Control Entry  
+ACE: Arbitrary Code Execution  
+ACL: Access Control Lists  
+ADB: Android Debug Bridge  
+ADFS: Active Directory Federation Services  
+AD: Active Directory  
+AES: Advanced Encryption Standard  
+AFAIK: As Far As I Know   
+AFK: Away from Keyboard  
+AI: Artificial Intelligence  
+AJAX: Asynchronous JavaScript And XML  
+ALE: Annualized Loss Expectancy  
+AMS: Asset Management System  
+ANSI: American National Standards Institute  
+API: Application Programming Interface  
+APK: Android Package  
+APT: Advanced Persistent Threat  
+APT: Application Penetration Testing  
+AP: Access Point  
+ARO: Annualised Rate of Occurrence  
+ASCII: American Standard Code for Information Interchange  
+ASLR: Address Space Layout Randomization  
+ASN: Autonomous System Number  
+ASV: Approved Scanning Vendors  
+AS: Application Server  
+AS: Autonomous System (networking)   
+ATM: At the moment  
+ATM: Automated Teller Machine
+ATP: Advanced Threat Protection (Microsoft Defender)  
+AUP: Acceptable Use Policy  
+AV: Antivirus  
+AV: Asset Value  
+AWS: Amazon Web Services  
+AXFR: Authoritative Zone Transfer (DNS)   
+BAU: Business As Usual  
+BBS: Bulletin Board System   
+BCC: Blind Carbon Copy   
+BCRs: Binding Corporate Rules (for intra group data transfers)   
+BER: Bit Error Rate  
+BGP: Border Gateway Protocol  
+BIA: Burned-in Address   
+BIA: Business Impact Analysis  
+BLOB: Binary Large Object  
+BMP: Bitmap Image format  
+BoF: Buffer Overflow  
+BPDU: Bridge Protocol Data Unit  
+BSD: Berkeley Software Distribution (UNIX)   
+BSOD: Blue Screen of Death (Windows crash)  
+BSSID: Basic Service Set Identifier  
+BSS: Block Started by Symbol  
+BTW: By the way  
+BYOD: Bring Your Own Device   
+C2: Command and Control   
+CACE: Excida IEC 62443 Certified Automation Cybersecurity Expert   
+CACS: Excida IEC 62443 Certified Automation Cybersecurity Specialist   
+CAMS: IMI Certfied Access Management Specialist   
+CAM: Computer-aided Manufacturing   
+CAPTCHA: Completely Automated Public Turing test to tell Computers and Humans Apart   
+CAP: (ISC)2 Certified Authorization Professional   
+CASE: EC Council Certified Application Security Engineer (.NET or Java)   
+CASM: GAQM Certified Agile Scrum Master   
+CASST: GAQM Certified Advanced Software Security Tester   
+CAWFE: IACIS Certified Advanced Windows Forensic Examiner   
+CA: Certification Authority   
+CBC: Cipher Block Chaining   
+CBSP: Cloud-based Security Providers   
+CCAr	Cisco Certified Architect   
+CCDE	Cisco Certified Design Expert   
+CCE	ISFCE   Certified Computer Examiner   
+CCFE	IACRB Certified Computer Forensics Examiner   
+CCIE Ent  Cisco Certified Internetwork Expert - Enterprise Infrastructure   
+CCISO	 EC Council Certified Information Security Officer   
+CCNA	Cisco Certified Network Associate   
+CCNP Ent  Cisco Certified Network Professional - Enterprise   
+CCNP Sec	Cisco Certified Network Professional - Security   
+CCPA	California’s Consumer Privacy Act   
+CCRMP IBITGQ Certified in Managing Cyber Security Risk   
+CCSA  Checkpoint Certified Security Administrator   
+CCSC	CertNexus Cyber Secure Coder   
+CCSE Checkpoint Certified Security Expert   
+CCSM	Checkpoint Certified Security Master   
+CCSP	(ISC)2 Certified Cloud Security Professional   
+CCTHP	IACRB Certified Cyber Threat Hunting Professional   
+CCTV	Closed Circuit Television   
+CCT	Cisco Certified Technician   
+CC	Carbon Copy   
+CC	Credit Cards (Carding fraud)   
+CDE	Cardholder Data Environemnt (network segment containing credit cards)   
+CDMA	Code Division Multiple Access   
+CDN	Content Delivery Network   
+CDPSE	ISACA Certified Data Privacy Solutions Engineer   
+CDP	Cisco Discovery Protocol   
+CDP	Clean Desk Policy   
+CDP	IMI Certified in Data Protection   
+CDRP	IACRB Certified Data Recovery Professional   
+CECS	Lunarline Certified Expert in Cloud Security   
+CEH	EC Council Certified Ethical Hacker   
+CEIA	Lunarline Certified Expert Independent Assessor   
+CEIM	Lunarline Certified Expert Incident Manager   
+CEO	Chief Executive Officer   
+CEPM	Lunarline Certified Expert Program Manager   
+CEPP	Lunarline Certified Expert Privacy Professional   
+CEPT	IACRB Certified Expert Penetration Tester   
+CEREA	IACRB Certified Expert Reserve Engineering Analyst   
+CERP	Lunarline Certified Expert RMF Professional   
+CESA	Lunarline Certified Expert Security Analyst   
+CESE	Lunarline Certified Expert Security Executive   
+CESO	Lunarline Certified Expert Security Officer   
+CFAA	Computer Fraud and Abuse Act   
+CFA	GAQM Certified Forensic Analyst   
+CFCE	IACIS Certified Forensic Computer Examiner   
+CFO	Chief Financial Officer   
+CFR	CertNexus CyberSec First Responder   
+CFSR	OpenText Certified Forensic Security Responder   
+CGEIT	ISACA Certified in the Governance of Enterprise IT   
+CGI	Common Gateway Interface   
+CHAT	ISECOM Certified Hacker Analyst Trainer   
+CHA	ISECOM Certified Hacker Analyst   
+CHFI	EC Council Computer Hacking Forensics Investigator   
+CIAM	Identify Management Institute Certified Identify and Access Manager   
+CIA	Confidentiality, Integrity, Availability   
+CIC	Cyber Intelligence Center   
+CIDR	Classless Inter-Domain Routing   
+CIFS	Common Internet File System   
+CIGE	IMI Certified Identity Governance Expert   
+CIISec ICSF	CIISec Information and Cybersecurity Fundamentals   
+CIISec	Chartered Institute of Information Security   
+CIMP	IMI Certified Identity Management Professional   
+CIOTSP	CertNexus Certified Internet of Things Security Practitioner   
+CIO	Chief Information Officer   
+CIPA	IMI Certified Identity Protection comptia-advanced-security-practitioner   
+CIPP	IAPP Certified Information Privacy Professional   
+CIPT	IAPP Certified Information Privacy Technologist   
+CIRM Fdn	IBITGQ Cyber Incident Response Management Foundation   
+CIRT	Computer Incident Response Team   
+CISA	ISACA Certified Information Systems Auditor   
+CISM	ISACA Certified Information Security Manager   
+CISO	Chief Information Security Officer   
+CISP	GAQM Certified Information Security Professional   
+CISRM	IBITGQ Certified ISO 27005 Information Security Management Specialist Risk Management   
+CISSM	GAQM Certified Information Systems Security Manager   
+CISSP	(ISC)2 Certified Information Systems Security Professional   
+CISST	GAQM Certified Information systems Security Tester   
+CIST	IMI Certfied Identity and Security Technologist   
+CIS F	IBITGQ Certified ISO 27001 Information Security Management Specialist Foundation   
+CIS IA	IBITGQ Certified ISO 27001 Information Security Management Specialist Internal Auditor   
+CIS LA	IBITGQ Certified ISO 27001 Information Security Management Specialist Lead Auditor   
+CIS LI	IBITGQ Certified ISO 27001 Information Security Management Specialist Lead Implementer   
+CIS RM	IBITGQ Certified ISO 27005 Information Security Management Specialist Risk Management   
+CIS	Center for Internet Security   
+CITGP	IBITGQ Certified in Implementing IT Governance - Foundation & Principles   
+CI/CD	Continuous Integration and either Continuous Delivery or Continuous Deployment   
+CI	Critical Infrastructure   
+CLI	Command-line Interface   
+CMDB	Configuration Management Database   
+CMDB	Content Management Database   
+CMFE	IACRB Certified Mobile Forensics Examiner   
+CMO	Chief Marketing Officer   
+CMS	Content Management System   
+CMWAPT	IACRB Certified Mobile and Web App Penetration Tester   
+CNA	Certification and Accreditation   
+CNDA	EC Council Certified Network Defense Architect   
+CND	EC Council Certified Network Defender   
+COO	Chief Operating Officer   
+CORS	Cross-Origin Resource Sharing   
+CPC	Core Protection System   
+CPD	GAQM Certified Project Director   
+CPE	Common Platform Enumeration   
+CPT	IACRB Certified Penetration Tester   
+CRC	Cyclical Redundancy Check   
+CREA	IACRB Certified Reverse Engineering Analyst   
+CREST CCSAS	CREST Certified Simulated Attack Specialist   
+CREST CCT	CREST Certified Infrastructure Tester   
+CREST CHIA	CREST Certified Host intrustion Analyst   
+CREST CMRE	CREST Certified Malware Reverse Engineer   
+CREST CNIA	CREST Certified Network Intrusion Analyst   
+CREST CPIA	CREST Practitioner Intrusion Analyst   
+CREST CPSA	CREST Practitioner Security Analyst   
+CREST CPTIA	CREST Practitioner Threat Intelligence Analyst   
+CREST CRIA	CREST Registered Intrusion Analyst   
+CREST CRTSA	CREST Registered Technical Security Architect   
+CREST CRT	CREST Registered Penetration Tester   
+CREST CSAM	CREST Certified Simulated Attack Manager   
+CREST CSAS	CREST Certified Simulated Attack Specialist   
+CREST CTIM	CREST Certified Threat Intelligence Manager   
+CREST CWAT	CREST Certified Web Application Tester   
+CREST CWS	CREST Certified Wireless Specialist   
+CREST RTIA	CREST Registered Threat Intelligence Analyst   
+CREST	Council for Registered Ethical Security Testers   
+CRFS	IMI Certified Red Flag Specialist   
+CRISC	ISACA Certified in Risk and Information Systems Control   
+CRM	Customer Relations Management   
+CRO	Chief Revenue Officer   
+CRTOP	IACRB Certified Red Team Operations Professional   
+CRUD	Create, Read, Update, Destroy   
+CSAE	Cyber Struggle AEGIS   
+CSAP	IACRB Certified Security Awareness Practitioner   
+CSA CCSK	Cloud Security Alliance Certificate of Cloud Security    Knowledge
+CSA CGC	Cloud Security Alliance Cloud Governance & Compliance   
+CSA	Consultant Service Agreement   
+CSA	EC Council Certified SOC Analyst   
+CSBA	QAI Certified Software Business Analyst   
+CSCU	EC Council Certified Secure Computer User   
+CSFA	CSIAC CyberSecurity Forensic Analyst   
+CSIRT	Computer Security Incident Response Team   
+CSMA/CD	Carrier Sense Multiple Access with Collision Detection   
+CSM	GAQM Certified Scrum Master   
+CSPRNG	Cryptographically Secure Pseudo-Random Number Generator   
+CSP	Content Security Policy   
+CSP	GAQM Certified SAFe Practitioner   
+CSRF	Cross-Site Request Forgery   
+CSR	Cyber Struggle Ranger   
+CSSA	IACRB Certified SCADA Security Architect   
+CSSLP	(ISC)2 Certified Secure Software Lifecycle Professional   
+CSST	GAQM Certified Software Security Tester   
+CSS	Cascading Style Sheets   
+CSV	Comma-separated Values   
+CSWSH	Cross-Site WebSocket Hijacking   
+CSX-F	IBITGQ Cyber Incident Response Management Foundation   
+CSX-PA	ISACA Cybersecurity Packet Analysis Certificate   
+CSX-P	ISACA Cybersecurity Practitioner   
+CSX-T	ISACA Cybersecurity Technical Foundation   
+CTF	Capture the Flag   
+CTIA	EC Council Certified Threat intelligence Analyst   
+CTI	Cyber Threat Intelligence   
+CTOps	Cyber Threat Operations   
+CTO	Chief Technology Officer   
+CTR	Click-through Rate   
+CUCM	Cisco Unified Communications Manager   
+CVE	Common Vulnerabilities and Exposures   
+CVSS	Common Vulnerability Scoring System   
+CWE	Common Weakness Enumeration   
+CW	Content Warning   
+CySA+	CompTIA Cybersecurity Analyst+   
+C CS F	IBITGQ Certified Cyber Security Foundation   
+C&A	Certification and Accreditation   
+C&C	Command and Control   
 C)CSO	Mile2 Certified Cloud Security Officer
-C)DFE	Mile2 Certified Digital Forensics Examiner
-C)ISCAP	Mile2 Information Systems Certification and Accredidation Professional
-C)ISMS-LA	Mile2 Certified Information security Management Systems Lead Auditor
-C)ISSA	Mile2 Certified Information Systems Security Auditor
-C)ISSM	Mile2 Certified Information Systems Security Manager
-C)ISSO	Mile2 Certified Information Systems Security Officer
-C)NFE	Mile2 Certified Network Forensics Examiner
-C)PEH	Mile2 Certified Professional Ethical Hacker
-C)PSH	Mile2 Certified Powershell Hacker
-C)PTC	Mile2 Certified Penetration Testing Expert
-C)PTE	Mile2 Certified Penetration Testing Engineer
-C)SLO	Mile2 Certified Security Leadership Officer
-C)SP	Mile2 Certified Security Principles
-C)VA	Mile2 Certified Vulnerability Assessor
-C)VCP	Mile2 Certified Virtualization & Cloud Principles
-C)VE	Mile2 Certified Virtualization Engineer
-C)VFE	Mile2 Certified Virtualization Forensics Examiner
-DACL	Discretionary Access Control List
-DACRP	DRI Associate Cyber Resilience Professional
+C)DFE	Mile2 Certified Digital Forensics Examiner   
+C)ISCAP	Mile2 Information Systems Certification and Accredidation Professional   
+C)ISMS-LA	Mile2 Certified Information security Management Systems Lead Auditor   
+C)ISSA	Mile2 Certified Information Systems Security Auditor   
+C)ISSM	Mile2 Certified Information Systems Security Manager   
+C)ISSO	Mile2 Certified Information Systems Security Officer   
+C)NFE	Mile2 Certified Network Forensics Examiner   
+C)PEH	Mile2 Certified Professional Ethical Hacker   
+C)PSH	Mile2 Certified Powershell Hacker   
+C)PTC	Mile2 Certified Penetration Testing Expert   
+C)PTE	Mile2 Certified Penetration Testing Engineer   
+C)SLO	Mile2 Certified Security Leadership Officer   
+C)SP	Mile2 Certified Security Principles   
+C)VA	Mile2 Certified Vulnerability Assessor   
+C)VCP	Mile2 Certified Virtualization & Cloud Principles   
+C)VE	Mile2 Certified Virtualization Engineer   
+C)VFE	Mile2 Certified Virtualization Forensics Examiner   
+DACL	Discretionary Access Control List   
+DACRP	DRI Associate Cyber Resilience Professional   
 DAO	Direct Access Object
 DAST	Dynamic Application Security Testing
 DBA	Database Administrator

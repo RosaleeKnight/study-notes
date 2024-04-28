@@ -568,370 +568,376 @@ LSASS: Local Security Authority Subsystem Service
 LTE: Long-Term Evolution  
 LTS: Long-Term Support  
 
-M365 EAE	Microsoft 365 Certified Enterprise Administrator Expert
-MAC	Mandatory Access Control
-MAC	Media Access Control (MAC address)
-MAC	Message Authentication Code
-MAC	Milestone Acceptance Certificate
-MD5	Message Digest 5 (hash)
-MDR	Managed Detection and Response
-MFA	Multi-factor Authentication
-MIME	Multipurpose Internet Mail Extensions
-MISP	Malware Information Sharing Platform
-MitM	Man-in-the-Middle
-MMC	Microsoft Management Console
-MOTD	Message of the day banner
-MPLS	Multi-Protocol Label Switching
-MQ	Message Queue
-MRA	Mobile and Remote Access
-MSA	Master Service Agreement
-MSCT	Microsoft Security Compliance Toolkit
-MSSP	Managed Security Services Provider
-MS	Member Server (Active Directory)
-MS	Microsoft
-MTA	Microsoft Technology Associate
-MVP	Mimimum Viable Product (the smallest, simplest thing that meets the criteria)
-NAC	Network Access Control
-NAT	Network Address Translation
-NBNS	NetBIOS Name Service
-NCSC CCPLP	NCSC Certified Cybersecurity Professional - Lead Practitioner
-NCSC CCPP	NCSC Certified Cybersecurity Professional - Practitioner
-NCSC CCPSP	NCSC Certified Cybersecurity Professional - Senior Practitioner
-NCSC	National Cyber Security Centre
-NCS	National Cybersecurity Strategy
-NDA	Non-disclosure agreement
-NEFT	National Electronic Funds Transfer (banking)
-Net+	CompTIA Network+
-NFS	Network File System
-NGFW	Next Generation Firewall
-NIDS	Network IDS (Intrusion Detection System)
-NIPS	Network IPS (Intrusion Prevention System)
-NIST	National Institute of Science & Technology
-NLA	Network Level Authentication
-NOC	Network Operations Centre
-NOP	No Operation
-NPE	Null Pointer Exception
-NSE 4	NSE 4 - FortiNET Network Security Professional
-NSE 7	NSE 7 - FortiNET Network Security Architect
-NSE 8	NSE 8 - Fortinet Network Security Expert
-NTLM	New Technology LAN Manager (Windows)
-NVD	National Vulnerability Database
-OBOE	Off-by-one Error
-OCR	Optical Character Recognition
-OEM	Original Equipment Manufacturer
-OOB	Out-of-band
-OOP	Object-oriented Programming
-OPSA	ISECOM OSSTMM Professional Security Analyst
-OPSEC	Operations Security
-OPSE	ISECOM OSSTMM Professional Security Expert
-OPST	ISECOM OSSTMM Professional Security Tester
-OSCE	Offensive Security Certified Expert
-OSCP	Offensive Security Certified Professional
-OSEE	Offensive Security Exploitation Expert
-OSEP	Offensive Security Experienced Penetration Tester
-OSGI	Open Services Gateway Initiative
-OSINT	Open Source Intelligence
-OSPF	Open Shortest Path First
-OSSTMM	Open Source Security Testing Methodology Manual
-OSWE	Offensive Security Web Expert
-OSWP	Offensive Security Wireless Professional
-OTA	Over-the-air programming
-OTP	One-time Password
-OTX	Open Threat Exchange
-OT	Operational Technology
-OWASP	Open Web Application Security Project
-OWA	Outlook Web Access
-OWSE	ISECOM OSSTMM Wireless Security Expert
-P2P	Peer to Peer
-PaaS	Platform as a service
-PACES	Pentester Academy Certified Enterprise Security Specialist
-PAM	Post-Accident Monitoring
-PAN	Personal Area Network
-PAN	Primary Account Number
-PASTA	Process for Attack Simulation and Threat Analysis
-PA CRTE	Pentester Academy Certified Red Teaming Expert
-PA CRTP	Pentester Academy Certified Red Team Professional
-PCAP	Packet Capture
-PCCSA	Palo Alto Networks Certified Cybersecurity Associate
-PCIDSS	Payment Card Industry Data Security Standards
-PCI	Payment Card Industry
-PCNSA	Palo Alto Networks Certified Network Security Administrator
-PCNSE	Palo Alto Networks Certified Network Security Engineer
-PCRE	Perl-compatible Regular Expressions
-PDF	Portable Document Format
-PEBCAK	Problem Exists Between Chair and Keyboard
-PEBKAC	Problem Exists Between Keyboard And Chair.
-PEB	Process Environment Block
-Pentest+	CompTIA Pentest+
-PERSEC	Personal Security (military)
-PEXIN ISM	EXIN Information Security Management Professional
-PE	Portable Executable (Windows executable)
-PE	Privilege Escalation
-PFS	Perfect Forward Secrecy
-PGP	Pretty Good Privacy
-PHI	Protected Health Information
-PHR	Personal Health Record
-PIC	Position Independent Code
-PID	Process Identifier
-PII	Personally Identifiable Infomation
-PIN	Personal Identification Number
-PKI	Public Key Infrastructure
-PLC	Programmable Logic Controller
-PLC	Programmable Logic Controllers
-PLD	Payload
-PMI	Project Management Institute
-PMP	Project Management Professional certification
-PM	Product Manager
-PM	Program Manager
-PNG	Portable Network Graphics
-POA&M	Plan of Action & Mitigation
-PoC	Proof of Concept
-PoE	Power over Ethernet
-POP	Post Office Protocol
-POP	Procedure-oriented Programming
-PO	Purchase Order
-PPPoEoA	PPPoE over ATM
-PPPoE	Point-to-Point Protocol over Ethernet
-PPP	Point-to-Point Protocol
-PPP	Public Private Partnership
-PPS	Plant Protection System
-PRNG	Pseudo-Random Number Generator
-PSH	Powershell
-PSK	Pre-shared Key
-PTES	Penetration Testing Execution Standard
-PTO	Personal Time Off
-PTRF	Penetration Test Request Form
-PTR	DNS pointer record (hostname -> IP)
-PTR	Penetration Test Request
-PT	Penetration Test
-QR	Quick Response code
-QSA	Quality Security Assessor
-RASP	Runtime Application Self-Protection
-RAT	Remote Access Tool
-RAT	Remote Administration Tool
-RBAC	Role Based Access Control
-RBA	Risk-based Assessment
-RCA	Root Cause Analysis
-RCE	Remote Code Execution
-RCP	Remote Copy
-RDP	Remote Desktop Protocol
-REST	Representational State Transfer (web services)
-REXEC	Remote Execute
-RE	Reverse Engineering
-RFID	Radio Frequency Identification (card)
-RFI	Remote File Inclusion
-RFI	Request For Information
-RFP	Request For Proposal
-RFQ	Request for Quotation
-RHCA	Red Hat Certified Architect
-RHCE	Red Hat Certified Engineer
-RHCSA	Red Hat Certified System Administrator
-RMF	Risk Management Framework
-RMI	Remote Method Invocation
-RM	Records Management
-RoE	Rules of Engagement
-ROM	Read-Only Medium
-ROM	Read-Only Memory
-ROPA	Record of Processing Activity (GDPR article 30)
-ROP	Return Oriented Programming
-RPC	Remote Procedure Call
-RPO	Recovery Point Objective
-RSA	Rivest-Shamir-Adleman (encryption)
-RSH	Remote Shell
-RTFM	Read The Fucking Manual
-RTGS	Real-Time Gross Settlement (banking)
-RTO	Recovery Time Objective
-RTP	Real-time Transport Protocol
-SaaS	Security as a Service
-SaaS	Software as a Service
-SABSA SCF	SABSA Chartered Security Architect - Foundation Certificate
-SABSA SCM	SABSA Chartered Security Architect - Master Certificate
-SABSA SCP	SABSA Chartered Security Architect - Practitioner Certificate
-SAML	Security Assertion Markup Language
-SANS	SysAdmin Audit Network Security institute
-SASL	Simple Authentication and Security Layer
-SAST	Static Application Security Testing
-SA	Security Association (VPN)
-SA	Situational Awareness
-SBC	Session Border Controller
-SBC	Single Board Computer
-SCADA	Supervisory Control And Data Acquisition
-SCA	Software Composition Analysis
-SCA	SUSE Certified Administrator
-SCCM	System Center Configuration Manager
-SCCs	Standard Contractual Clauses
-SCD	Source Code Disclosure
-SCE	SUSE Certified Engineer
-SDA	Sensitive Digital Assets
-SDK	Software Development Kit
-SDLC	Software Development Lifecycle
-SDN	Software-defined Networking
-SECaaS	Security as a Service
-SECO	Security & Continuity Institute
-SEH	Structured Exception Handling
-SFCCCC	SalesForce Certified Community Cloud Consultant
-SFCIAMD	SalesForce Certified Identity and Access Management Designer
-SFCTA	Salesforce Certified Technical Architect
-SFSA	SalesForce System Architect
-SHA	Secure Hash Algorithm
-SID	Security Identifier (Windows)
-SIEM	Security Information and Event Management
-SIP	Session Initiation Protocol
-SIR	Security Incident Response (plan)
-SLAAC	Stateless Address Autoconfiguration (attack)
-SLA	Service-level Agreement
-SLD	Second-level Domain
-SLE	Single Loss Expentancy
-SMB	Server Message Block
-SME	Subject Matter Expert
-SMTP	Simple Mail Transfer Protocol
-SNMP	Simple Network Management Protocol
-SOAP	Simple Object Access Protocol
-SOAR	Security Orchestration, Automation and Response
-SOA	Service-oriented Architecture
-SOA	Start of authority record (DNS)
-SOCaaS	Security Operations Center as a Service
-SOCKS	Socket Secure protocol
-SOCMINT	Social Media Intelligence
-SOC	Security Operations Center
-SOC	System On a Chip
-SOHO	Small Office, Home Office
-SOP	Same-origin Policy
-SOP	Standard Operating Procedure
-SOW	Statement of Work
-SPF	Sender Policy Framework
-SPI	Security Parameter Index
-Splunk ECSA	Splunk Enterprise Security Certified Administrator
-SPN	Service Principal Name
-SQLi	SQL Injection
-SRE	Site Reliability Engineering
-SRI	Security Risk Intelligence
-SRP	Software Restriction Policies (Windows)
-SSCP	(ISC)2 Systems Security Certified Practitioner
-SSDLC	Secure Software Development Lifecycle
-SSE	Server Side Encryption
-SSH	Secure Shell
-SSID	Service Set Identifier
-SSI	Server Side Includes
-SSL	Secure Sockets Layer
-SSN	Social Security number
-SSO	Single Sign-on
-SSP	Security Support Provider
-SSRF	Server-side Request Forgery
-STEM	Science, Technology, Engineering, and Math
-STIG	Security Technical Implementation Guides
-STIX	Structured Threat Information Expression
-STP	Spanning Tree Protocol
-STS	Security Token Service
-STUN	Session Traversal Utilities for NAT
-SVP	Senior Vice President
-SWRE	Software Reverse Engineering
-S-CEHL	SECO Certified Etheical Hacker Leader
-S-CISO	SECO Certified Information Security Officer
-S-EHE	SECO Ethical Hacker Expert
-S-EHF	SECO Ethical Hacking Foundation
-S-EHP	SECO Ethical Hacking Practitioner
-S-ISF	SECO Information Security Foundation
-S-ISME	SECO Information Security Management Expert
-S-ISP	SECO Information Security Practitioner
-S-SPF	SECO Secure Programming Foundation
-TBD	To Be Discussed
-TBD	To Be Done
-TCO	Total Cost of Ownership
-TCP	Transmission Control Protocol
-TEB	Thread Environment Block
-TGT	Ticket Granting Ticket (Kerberos)
-TI	Threat Intelligence
-TKIP	Temporal Key Integrity Protocol
-TLDR	Too long, didn't read
-TLD	Top-level Domain
-TLS	Transport Layer Security
-TOCTOU	Time-of-check to time-of-use (race condition)
-ToE	Target of Evaluation
-TOGAF Fdn	OpenGroup TOGAF Certified
-TOGAF	The Open Group Architecture Framework
-TOR	The Onion Router
-TOTP	Time-based One-time Password
-TPB	The Pirate Bay
-TPM	Technical Product Manager
-TPM	Technical Program Manager
-TPM	Trusted Platform Module
-TPoC	Technical Point of Contact
-TTD	Time to Detection
-TTL	Time to live (IP, DNS, HTTP protocols)
-TTP	Tactics, Techniques, and Procedures
-TUV Auditor	TUV Rheinland IT Security Auditor (GERMAN)
-TUV COTCP	TUV Rheinland Certified Operational Technology Cybersecurity Professional (GERMAN)
-TUV CyAware	TUV Rheinland Cybersecurity Awareness (GERMAN)
-TUV CySec	TUV Rheinland Cybersecurity Specialist (GERMAN)
-TUV ITSM	TUV IT Security Manager (GERMAN)
-TUV MSA	TUV Rheinland Mobile Security Analyst (GERMAN)
-UAC	User Account Control
-UAT	User Acceptance Testing
-UBA	User Behaviour Analytics
-UC	Unified Communications
-UC	Unintended Consequences
-UDP	User Datagram Protocol
-UEBA	User and Entity Behaviour Analytics
-UPI	Unified Payments Interface (banking)
-UPS	Uninterruptible Power Supply
-URI	Uniform Resource Identifier
-URL	Uniform Resource Locator
-URN	Uniform / Universal Resource Name
-UTMS	Universal Mobile Telecommunications Service
-UUID	Universally Unique Identifier
-VAPT	Vulnerability Assessment and Penetration Test
-VA	Vulnerability Assessment
-VCDX DCV	VMware Certified Design Expert in Datacenter Virtualization
-VCIX DCV	VMware Certified Implementation Expert in Datacenter Virtualization
-VCIX NV	VMware Certified Implementation Expert in Network Virtualization
-VCP DCV	VMware Certified Professional in Datacenter Virtualization
-VCP NV	VMware Certified Professional in Network Virtualization
-VCS	Cisco TelePresence Video Communication Server (SIP trunk)
-VDI	Virtual Desktop Infrastructure
-VDP	Vulnerability Disclosure Program
-VLAN	Virtual Local Area Network
-VLOM	Vulnerability Lifecycle Management
-VMP	Vulnerability Management Program
-VM	Virtual Machine
-VM	Vulnerability Management
-VNC	Virtual Network Computing
-VoIP	Voice over Internet Protocol
-VPC	Virtual Private Cloud
-VPLS	Virtual Private LAN Service
-VPN	Virtual Private Network
-VPRN	Virtual Private Routed Network
-VPR	Vulnerability Priority Rating
-VPS	Virtual Private Server
-VP	Vice President
-VR	Vulnerability Research
-VSA	Vendor Security Assessment
-WAF	Web Application Firewall
-WAMP	Windows, Apache, MySQL, and PHP
-WAN	Wide Area Network
-WAPT	Web Application Penetration Test
-WAP	Web Application Protection
-WAP	Wireless Access Point
-WCE	Windows Credentials Editor
-WCNA	Protocol Analysis Institute Wireshark Certified Network Analyst
-WebDAV	Web Distributed Authoring and Versioning
-WEP	Wired Equivalent Privacy
-WIDS	Wireless Intrusion Detection System
-WIPS	Wireless Intrusion Prevention System
-WIP	Work in Progress
-WMI	Windows Management Instrumentation
-WPA	Wi-Fi Protected Access
-WUI	Web User Interface
-XHR	XMLHttpRequest
-XMPP	Extensible Messaging and Presence Protocol
-XOR	Exclusive Or (encryption)
-XSLT	Extensible Stylesheet Language Transformations
-XSL	Extensible Stylesheet Language
-XSRF	Cross Site Request Forgery
-XSS	Cross Site Scripting
-XXE	XML External Entity
-YARA	Yet Another Recursive Acronym
-Zach EAA	Zachman Enterprise Architect Associate (Level 1)
-Zach EAPro	Zachman Enterprise Architect Professional (Level 3)
-Zach EAP	Zachman Enterprise Architect Practitioner (Level 2)
-ZT	Zero Trust
+M365 EAE: Microsoft 365 Certified Enterprise Administrator Expert  
+MAC: Mandatory Access Control  
+MAC: Media Access Control (MAC address)  
+MAC: Message Authentication Code  
+MAC: Milestone Acceptance Certificate  
+MD5: Message Digest 5 (hash)  
+MDR: Managed Detection and Response  
+MFA: Multi-factor Authentication  
+MIME: Multipurpose Internet Mail Extensions  
+MISP: Malware Information Sharing Platform  
+MitM: Man-in-the-Middle  
+MMC: Microsoft Management Console  
+MOTD: Message of the day banner  
+MPLS: Multi-Protocol Label Switching  
+MQ: Message Queue  
+MRA: Mobile and Remote Access  
+MSA: Master Service Agreement  
+MSCT: Microsoft Security Compliance Toolkit  
+MSSP: Managed Security Services Provider  
+MS: Member Server (Active Directory)  
+MS: Microsoft  
+MTA: Microsoft Technology Associate  
+MVP: Mimimum Viable Product (the smallest, simplest thing that meets the criteria)  
+
+NAC: Network Access Control  
+NAT: Network Address Translation  
+NBNS: NetBIOS Name Service  
+NCSC CCPLP: NCSC Certified Cybersecurity Professional - Lead Practitioner  
+NCSC CCPP: NCSC Certified Cybersecurity Professional - Practitioner  
+NCSC CCPSP: NCSC Certified Cybersecurity Professional - Senior Practitioner  
+NCSC: National Cyber Security Centre  
+NCS: National Cybersecurity Strategy  
+NDA: Non-disclosure agreement  
+NEFT: National Electronic Funds Transfer (banking)  
+Net+: CompTIA Network+  
+NFS: Network File System  
+NGFW: Next Generation Firewall  
+NIDS: Network IDS (Intrusion Detection System)  
+NIPS: Network IPS (Intrusion Prevention System)  
+NIST: National Institute of Science & Technology  
+NLA: Network Level Authentication  
+NOC: Network Operations Centre  
+NOP: No Operation  
+NPE: Null Pointer Exception  
+NSE 4: FortiNET Network Security Professional  
+NSE 7:  FortiNET Network Security Architect  
+NSE 8: Fortinet Network Security Expert  
+NTLM: New Technology LAN Manager (Windows)  
+NVD: National Vulnerability Database  
+
+OBOE: Off-by-one Error  
+OCR: Optical Character Recognition  
+OEM: Original Equipment Manufacturer  
+OOB: Out-of-band  
+OOP: Object-oriented Programming  
+OPSA: ISECOM OSSTMM Professional Security Analyst  
+OPSEC: Operations Security  
+OPSE: ISECOM OSSTMM Professional Security Expert  
+OPST: ISECOM OSSTMM Professional Security Tester  
+OSCE: Offensive Security Certified Expert  
+OSCP: Offensive Security Certified Professional  
+OSEE: Offensive Security Exploitation Expert  
+OSEP: Offensive Security Experienced Penetration Tester  
+OSGI: Open Services Gateway Initiative  
+OSINT: Open Source Intelligence  
+OSPF: Open Shortest Path First  
+OSSTMM: Open Source Security Testing Methodology Manual  
+OSWE: Offensive Security Web Expert  
+OSWP: Offensive Security Wireless Professional  
+OTA: Over-the-air programming  
+OTP: One-time Password  
+OTX: Open Threat Exchange  
+OT: Operational Technology  
+OWASP: Open Web Application Security Project  
+OWA: Outlook Web Access  
+OWSE: ISECOM OSSTMM Wireless Security Expert  
+
+P2P: Peer to Peer  
+PaaS: Platform as a service  
+PACES: Pentester Academy Certified Enterprise Security Specialist  
+PAM: Post-Accident Monitoring  
+PAN: Personal Area Network  
+PAN: Primary Account Number  
+PASTA: Process for Attack Simulation and Threat Analysis  
+PA CRTE: Pentester Academy Certified Red Teaming Expert  
+PA CRTP: Pentester Academy Certified Red Team Professional  
+PCAP: Packet Capture  
+PCCSA: Palo Alto Networks Certified Cybersecurity Associate  
+PCIDSS: Payment Card Industry Data Security Standards  
+PCI: Payment Card Industry  
+PCNSA: Palo Alto Networks Certified Network Security Administrator  
+PCNSE: Palo Alto Networks Certified Network Security Engineer  
+PCRE: Perl-compatible Regular Expressions  
+PDF: Portable Document Format  
+PEBCAK: Problem Exists Between Chair and Keyboard  
+PEBKAC: Problem Exists Between Keyboard And Chair.  
+PEB: Process Environment Block  
+Pentest+: CompTIA Pentest+  
+PERSEC: Personal Security (military)  
+PEXIN ISM: EXIN Information Security Management Professional  
+PE: Portable Executable (Windows executable)  
+PE: Privilege Escalation  
+PFS: Perfect Forward Secrecy  
+PGP: Pretty Good Privacy  
+PHI: Protected Health Information  
+PHR: Personal Health Record  
+PIC: Position Independent Code  
+PID: Process Identifier  
+PII: Personally Identifiable Infomation  
+PIN: Personal Identification Number  
+PKI: Public Key Infrastructure  
+PLC: Programmable Logic Controller  
+PLC: Programmable Logic Controllers  
+PLD: Payload  
+PMI: Project Management Institute  
+PMP: Project Management Professional certification  
+PM: Product Manager  
+PM: Program Manager  
+PNG: Portable Network Graphics  
+POA&M: Plan of Action & Mitigation  
+PoC: Proof of Concept  
+PoE: Power over Ethernet  
+POP: Post Office Protocol  
+POP: Procedure-oriented Programming  
+PO: Purchase Order  
+PPPoEoA: PPPoE over ATM  
+PPPoE: Point-to-Point Protocol over Ethernet  
+PPP: Point-to-Point Protocol  
+PPP: Public Private Partnership  
+PPS: Plant Protection System  
+PRNG: Pseudo-Random Number Generator  
+PSH: Powershell  
+PSK: Pre-shared Key  
+PTES: Penetration Testing Execution Standard  
+PTO: Personal Time Off  
+PTRF: Penetration Test Request Form  
+PTR: DNS pointer record (hostname -> IP)  
+PTR: Penetration Test Request  
+PT: Penetration Test  
+
+QR: Quick Response code  
+QSA: Quality Security Assessor  
+
+RASP: Runtime Application Self-Protection  
+RAT: Remote Access Tool  
+RAT: Remote Administration Tool  
+RBAC: Role Based Access Control  
+RBA: Risk-based Assessment  
+RCA: Root Cause Analysis  
+RCE: Remote Code Execution  
+RCP: Remote Copy  
+RDP: Remote Desktop Protocol  
+REST: Representational State Transfer (web services)  
+REXEC: Remote Execute  
+RE: Reverse Engineering  
+RFID: Radio Frequency Identification (card)  
+RFI: Remote File Inclusion  
+RFI: Request For Information  
+RFP: Request For Proposal  
+RFQ: Request for Quotation  
+RHCA: Red Hat Certified Architect  
+RHCE: Red Hat Certified Engineer  
+RHCSA: Red Hat Certified System Administrator  
+RMF: Risk Management Framework  
+RMI: Remote Method Invocation  
+RM: Records Management  
+RoE: Rules of Engagement  
+ROM: Read-Only Medium  
+ROM: Read-Only Memory  
+ROPA: Record of Processing Activity (GDPR article 30)  
+ROP: Return Oriented Programming  
+RPC: Remote Procedure Call  
+RPO: Recovery Point Objective  
+RSA: Rivest-Shamir-Adleman (encryption)  
+RSH: Remote Shell  
+RTFM: Read The Fucking Manual  
+RTGS: Real-Time Gross Settlement (banking)  
+RTO: Recovery Time Objective  
+RTP: Real-time Transport Protocol  
+
+SaaS: Security as a Service  
+SaaS: Software as a Service  
+SABSA SCF: SABSA Chartered Security Architect - Foundation Certificate  
+SABSA SCM: SABSA Chartered Security Architect - Master Certificate  
+SABSA SCP: SABSA Chartered Security Architect - Practitioner Certificate  
+SAML: Security Assertion Markup Language  
+SANS: SysAdmin Audit Network Security institute  
+SASL: Simple Authentication and Security Layer  
+SAST: Static Application Security Testing  
+SA: Security Association (VPN)  
+SA: Situational Awareness  
+SBC: Session Border Controller  
+SBC: Single Board Computer  
+SCADA: Supervisory Control And Data Acquisition  
+SCA: Software Composition Analysis  
+SCA: SUSE Certified Administrator  
+SCCM: System Center Configuration Manager  
+SCCs: Standard Contractual Clauses  
+SCD: Source Code Disclosure  
+SCE: SUSE Certified Engineer  
+SDA: Sensitive Digital Assets  
+SDK: Software Development Kit  
+SDLC: Software Development Lifecycle  
+SDN: Software-defined Networking  
+SECaaS: Security as a Service  
+SECO: Security & Continuity Institute  
+SEH: Structured Exception Handling  
+SFCCCC: SalesForce Certified Community Cloud Consultant  
+SFCIAMD: SalesForce Certified Identity and Access Management Designer  
+SFCTA: Salesforce Certified Technical Architect  
+SFSA: SalesForce System Architect  
+SHA: Secure Hash Algorithm  
+SID: Security Identifier (Windows)  
+SIEM: Security Information and Event Management  
+SIP: Session Initiation Protocol  
+SIR: Security Incident Response (plan)  
+SLAAC: Stateless Address Autoconfiguration (attack)  
+SLA: Service-level Agreement  
+SLD: Second-level Domain  
+SLE: Single Loss Expentancy  
+SMB: Server Message Block  
+SME: Subject Matter Expert  
+SMTP: Simple Mail Transfer Protocol  
+SNMP: Simple Network Management Protocol  
+SOAP: Simple Object Access Protocol  
+SOAR: Security Orchestration, Automation and Response  
+SOA: Service-oriented Architecture  
+SOA: Start of authority record (DNS)  
+SOCaaS: Security Operations Center as a Service  
+SOCKS: Socket Secure protocol  
+SOCMINT: Social Media Intelligence  
+SOC: Security Operations Center  
+SOC: System On a Chip  
+SOHO: Small Office, Home Office  
+SOP: Same-origin Policy  
+SOP: Standard Operating Procedure  
+SOW: Statement of Work  
+SPF: Sender Policy Framework  
+SPI: Security Parameter Index  
+Splunk ECSA: Splunk Enterprise Security Certified Administrator  
+SPN: Service Principal Name  
+SQLi: SQL Injection  
+SRE: Site Reliability Engineering  
+SRI: Security Risk Intelligence  
+SRP: Software Restriction Policies (Windows)  
+SSCP: (ISC)2 Systems Security Certified Practitioner  
+SSDLC: Secure Software Development Lifecycle  
+SSE: Server Side Encryption  
+SSH: Secure Shell  
+SSID: Service Set Identifier  
+SSI: Server Side Includes  
+SSL: Secure Sockets Layer  
+SSN: Social Security number  
+SSO: Single Sign-on  
+SSP: Security Support Provider  
+SSRF: Server-side Request Forgery  
+STEM: Science, Technology, Engineering, and Math  
+STIG: Security Technical Implementation Guides  
+STIX: Structured Threat Information Expression  
+STP: Spanning Tree Protocol  
+STS: Security Token Service  
+STUN: Session Traversal Utilities for NAT  
+SVP: Senior Vice President  
+SWRE: Software Reverse Engineering  
+S-CEHL: SECO Certified Etheical Hacker Leader  
+S-CISO: SECO Certified Information Security Officer  
+S-EHE: SECO Ethical Hacker Expert  
+S-EHF: SECO Ethical Hacking Foundation  
+S-EHP: SECO Ethical Hacking Practitioner  
+S-ISF: SECO Information Security Foundation  
+S-ISME: SECO Information Security Management Expert  
+S-ISP: SECO Information Security Practitioner  
+S-SPF: SECO Secure Programming Foundation 
+
+TBD: To Be Discussed  
+TBD: To Be Done  
+TCO: Total Cost of Ownership  
+TCP: Transmission Control Protocol  
+TEB: Thread Environment Block  
+TGT: Ticket Granting Ticket (Kerberos)  
+TI: Threat Intelligence  
+TKIP: Temporal Key Integrity Protocol  
+TLDR: Too long, didn't read  
+TLD: Top-level Domain  
+TLS: Transport Layer Security  
+TOCTOU: Time-of-check to time-of-use (race condition)  
+ToE: Target of Evaluation  
+TOGAF: Fdn	OpenGroup TOGAF Certified  
+TOGAF: The Open Group Architecture Framework  
+TOR: The Onion Router  
+TOTP: Time-based One-time Password  
+TPM: Technical Product Manager  
+TPM: Technical Program Manager  
+TPM: Trusted Platform Module  
+TPoC: Technical Point of Contact  
+TTD: Time to Detection  
+TTL: Time to live (IP, DNS, HTTP protocols)  
+TTP: Tactics, Techniques, and Procedures  
+
+UAC: User Account Control  
+UAT: User Acceptance Testing  
+UBA: User Behaviour Analytics  
+UC: Unified Communications  
+UC: Unintended Consequences  
+UDP: User Datagram Protocol  
+UEBA: User and Entity Behaviour Analytics  
+UPI: Unified Payments Interface (banking)  
+UPS: Uninterruptible Power Supply  
+URI: Uniform Resource Identifier  
+URL: Uniform Resource Locator  
+URN: Uniform / Universal Resource Name  
+UTMS: Universal Mobile Telecommunications Service  
+UUID: Universally Unique Identifier  
+
+VAPT: Vulnerability Assessment and Penetration Test  
+VA: Vulnerability Assessment  
+VCDX DCV: VMware Certified Design Expert in Datacenter Virtualization  
+VCIX DCV: VMware Certified Implementation Expert in Datacenter Virtualization  
+VCIX NV: VMware Certified Implementation Expert in Network Virtualization  
+VCP DCV: VMware Certified Professional in Datacenter Virtualization  
+VCP NV: VMware Certified Professional in Network Virtualization  
+VCS: Cisco TelePresence Video Communication Server (SIP trunk)  
+VDI: Virtual Desktop Infrastructure  
+VDP: Vulnerability Disclosure Program  
+VLAN: Virtual Local Area Network  
+VLOM: Vulnerability Lifecycle Management  
+VMP: Vulnerability Management Program  
+VM: Virtual Machine  
+VM: Vulnerability Management  
+VNC: Virtual Network Computing  
+VoIP: Voice over Internet Protocol  
+VPC: Virtual Private Cloud  
+VPLS: Virtual Private LAN Service  
+VPN: Virtual Private Network  
+VPRN: Virtual Private Routed Network  
+VPR: Vulnerability Priority Rating  
+VPS: Virtual Private Server  
+VP: Vice President  
+VR: Vulnerability Research  
+VSA: Vendor Security Assessment  
+
+WAF: Web Application Firewall  
+WAMP: Windows, Apache, MySQL, and PHP  
+WAN: Wide Area Network  
+WAPT: Web Application Penetration Test  
+WAP: Web Application Protection  
+WAP: Wireless Access Point  
+WCE: Windows Credentials Editor  
+WCNA: Protocol Analysis Institute Wireshark Certified Network Analyst  
+WebDAV: Web Distributed Authoring and Versioning  
+WEP: Wired Equivalent Privacy  
+WIDS: Wireless Intrusion Detection System  
+WIPS: Wireless Intrusion Prevention System  
+WIP: Work in Progress  
+WMI: Windows Management Instrumentation  
+WPA: Wi-Fi Protected Access  
+WUI: Web User Interface  
+
+XHR: XMLHttpRequest  
+XMPP: Extensible Messaging and Presence Protocol  
+XOR: Exclusive Or (encryption)  
+XSLT: Extensible Stylesheet Language Transformations  
+XSL: Extensible Stylesheet Language  
+XSRF: Cross Site Request Forgery  
+XSS: Cross Site Scripting  
+XXE: XML External Entity  
+
+YARA: Yet Another Recursive Acronym  
+
+Zach EAA: Zachman Enterprise Architect Associate (Level 1)  
+Zach EAPro: Zachman Enterprise Architect Professional (Level 3)  
+Zach EAP: Zachman Enterprise Architect Practitioner (Level 2)  
+ZT: Zero Trust  

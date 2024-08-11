@@ -1502,3 +1502,13 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 **pwd:** A Linux command that displays the current working directory.
 
 **Python:** A general purpose, high-level scripting language that can be installed on any operating system.
+
+**Quad-channel Memory:** Computer memory that is installed and synchronized as four
+banks at one time.
+
+**Quality Management System (QMS):** A collection of business processes and procedures that is focused on consistency of an organization to satisfy customer satisfaction and
+requirements.
+
+**Quantum Light-Emitting Diode (QLED):** Display technology developed by Samsung that uses LED backlights, with a thin film of quantum dots over it to improve brightness.
+
+**Quick Assist:** A remote assistance utility that has been included with the Windows operating system since Windows 8.

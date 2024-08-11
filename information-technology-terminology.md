@@ -1472,3 +1472,19 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 **Product Release Instruction Updates:** On a mobile phone, it’s an update to the Product Release Instruction (PRI) system, which contains settings for network specific configuration items. 
 
 **Prohibited Content:** Material that is not allowed on your company’s computers.
+
+**Projector:** An output device that uses a light source to display an image input to one of its interfaces onto a screen.
+
+**Propagation Delay:** In satellite Internet, the delay caused by the length of time required to transmit data and receive a response via satellite.
+
+**Protected Extensible Authentication Protocol (PEAP):** An open-standard wireless authentication protocol developed by Cisco, Microsoft, and RSA for 802.1X RADIUS authentication.
+
+**Protocol:** In networking and communications, the specification that defines the procedures to follow when transmitting and receiving data as well as defining the format, timing, sequence, and error-checking systems used.
+
+**Proxy:** The action of requesting a resource on behalf of a user, computer, or application.
+
+**Proxy Server:** A computer that makes requests for resources on behalf of a client typically used in an Internet setting, where it can filter content.
+
+**ps:** A Linux command that shows all running processes on the operating system.
+
+**Public address:** All the addresses that are used on the Internet are called public addresses which must be purchased, and only one computer can use any given public address at one time.

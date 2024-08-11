@@ -1526,3 +1526,18 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 **RAID 10:** A fault-tolerant type of RAID that combines the mirroring of RAID 1 in two or more independent mirrored sets that are striped together with RAID 0 to produce larger volumes than any single mirrored set could provide with RAID 10 requiring at least four drives.
 
 **RAID 5:** A fault-tolerant type of RAID that combines striped sets with distributed parity across all drives in the set with a minimum of three drives is required, and the loss of any one drive does not compromise data.
+
+**Random Access Memory (RAM):** Short-term, volatile, and quickly accessible storage used by the processor in a computer.
+
+**Ransomware:** A type of malware that ransoms your data in exchange for money in the form of cryptocurrency.
+
+**Rapid Elasticity:** The ability to quickly increase or decrease the amount of resources required from a cloud provider.
+
+**Rasterizing:** The process of converting signals from the computer into signals for the various assemblies in a laser printer.
+
+**Read-only:** A copy or resource that is not editable or writable.
+
+**Real-time Clock (RTC):** A chip on the motherboard responsible for maintaining the correct time.
+
+**Real-time Operating System (RTOS):** Secondary operating system on a mobile phone, designed to be lightweight and fast, and real-time refers to its ability to minimize lag in data
+transfers.

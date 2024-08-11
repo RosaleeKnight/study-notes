@@ -1503,12 +1503,26 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 
 **Python:** A general purpose, high-level scripting language that can be installed on any operating system.
 
-**Quad-channel Memory:** Computer memory that is installed and synchronized as four
-banks at one time.
+**Quad-channel Memory:** Computer memory that is installed and synchronized as four banks at one time.
 
-**Quality Management System (QMS):** A collection of business processes and procedures that is focused on consistency of an organization to satisfy customer satisfaction and
-requirements.
+**Quality Management System (QMS):** A collection of business processes and procedures that is focused on consistency of an organization to satisfy customer satisfaction and requirements.
 
 **Quantum Light-Emitting Diode (QLED):** Display technology developed by Samsung that uses LED backlights, with a thin film of quantum dots over it to improve brightness.
 
 **Quick Assist:** A remote assistance utility that has been included with the Windows operating system since Windows 8.
+
+**Radio Firmware:** The firmware on a mobile phone that manages all wireless communications.
+
+**Radio frequency (RF):** An electromagnetic signal used for radio communications on a specific frequency.
+
+**Radio Frequency Identification (RFID):** A technology that uses radio waves to read an identification number on a badge or other RFID-embedded device for authentication purposes.
+
+**Radio frequency interference (RFI):** Another term for electromagnetic interference (EMI).
+
+**RAID 0:** The only type of RAID that is not fault tolerant, RAID 0 provides striped volume sets on two or more drives that allow for larger volumes than one drive alone can provide also when one or more drives are lost, all data is compromised.
+
+**RAID:** 1 A fault-tolerant type of RAID that provides mirroring and duplexing where Two and only two drives exist in a mirrored set and he loss of either drive does not compromise data.
+
+**RAID 10:** A fault-tolerant type of RAID that combines the mirroring of RAID 1 in two or more independent mirrored sets that are striped together with RAID 0 to produce larger volumes than any single mirrored set could provide with RAID 10 requiring at least four drives.
+
+**RAID 5:** A fault-tolerant type of RAID that combines striped sets with distributed parity across all drives in the set with a minimum of three drives is required, and the loss of any one drive does not compromise data.

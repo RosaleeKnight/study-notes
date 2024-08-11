@@ -1541,3 +1541,23 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 
 **Real-time Operating System (RTOS):** Secondary operating system on a mobile phone, designed to be lightweight and fast, and real-time refers to its ability to minimize lag in data
 transfers.
+
+**Recovery point objective (RPO):** A term used with backups to describe the point in time at which you can recover data from the last backup.
+
+**Recovery time objective (RTO):** A term used with backups to describe the time it takes to recover data from the recovery point objective (RPO).
+
+**Red Hat:** A corporately supported version of the Linux operating system.
+
+**Redundant Array of Independent (or Inexpensive) Disks (RAID):** Software or hardware implementation where multiple hard drives work together as one unit, often to provide a performance boost or fault tolerance.
+
+**Redundant power supply (RPS):** A secondary backup power supply that will take over and provide power to computer components if the primary power supply fails.
+
+**Refresh rate:** The number of times per second, measured in hertz (Hz), that a screenful of image information is read from an input source and displayed by a monitor.
+
+**regedit:** A Windows operating system tool used to edit the Registry.
+
+**Registration rollers:** In a laser printer, rollers that synchronize the paper movement with the image-formation process in the EP cartridge.
+
+**Registry:** The configuration database inside the Windows operating system that contains settings for the entire operating system and users.
+
+**Regulation:** An eternal rule or ruling with which an organization must comply.

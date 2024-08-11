@@ -1488,3 +1488,17 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 **ps:** A Linux command that shows all running processes on the operating system.
 
 **Public address:** All the addresses that are used on the Internet are called public addresses which must be purchased, and only one computer can use any given public address at one time.
+
+**Public cloud:** An Internet-based service owned by one company, which provides cloud services to client companies and individuals.
+
+**Public Side:** The interface on a firewall that faces the Internet or other public network.
+
+**Punch-down Block:** Large block of connectors used to terminate UTP or STP cable, typically located in a server room or connectivity closet.
+
+**Punch-down Tool:** Handheld tool used to secure cable coming out of the walls to a patch panel.
+
+**Push Protocol:** A protocol that is designed only to send, such as SMTP.
+
+**pwd:** A Linux command that displays the current working directory.
+
+**Python:** A general purpose, high-level scripting language that can be installed on any operating system.

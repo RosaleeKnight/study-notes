@@ -1560,4 +1560,19 @@ transfers.
 
 **Registry:** The configuration database inside the Windows operating system that contains settings for the entire operating system and users.
 
-**Regulation:** An eternal rule or ruling with which an organization must comply.
+**Regulation:** An eternal rule or ruling with which an organization must comply. 
+
+**release to market (RTM):** The final version of the software product that is sold to the customer.
+
+**Remediation:** The process of repairing an outage, security problems, network issue, or other network system problem.
+
+**Remote Authentication Dial-In User Service (RADIUS):** An industry-standard protocol used to provide authentication, authorization, and accounting (AAA), often used with remote access solutions.
+
+**Remote Desktop Connection Client:** The main utility used by Microsoft operating systems to connect remote desktop sessions via the Remote Desktop Protocol (RDP).
+
+**Remote Desktop Protocol (RDP):** Protocol developed by Microsoft for users to be able to log into a computer remotely which uses port 3389.
+
+**Remote Disc:** An Apple macOS feature that allows for the sharing of a CD or DVD remotely from another macOS computer.
+
+**Remote Monitoring and Management (RMM):** Helps IT across the enterprise or multiple enterprises and give you a holistic view of the enterprise where the remote
+monitoring feature can monitor a number of different components, such as security, hardware, applications, and even activity on the operating system.

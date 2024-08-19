@@ -1503,6 +1503,8 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 
 **Python:** A general purpose, high-level scripting language that can be installed on any operating system.
 
+# Q
+
 **Quad-channel Memory:** Computer memory that is installed and synchronized as four banks at one time.
 
 **Quality Management System (QMS):** A collection of business processes and procedures that is focused on consistency of an organization to satisfy customer satisfaction and requirements.
@@ -1510,6 +1512,8 @@ fiberoptic cable), which in turn connects all the network interface cards in the
 **Quantum Light-Emitting Diode (QLED):** Display technology developed by Samsung that uses LED backlights, with a thin film of quantum dots over it to improve brightness.
 
 **Quick Assist:** A remote assistance utility that has been included with the Windows operating system since Windows 8.
+
+# R
 
 **Radio Firmware:** The firmware on a mobile phone that manages all wireless communications.
 
@@ -1596,3 +1600,21 @@ monitoring feature can monitor a number of different components, such as securit
 **Resource:** On a network, any device that clients can access, such as printers or shared drives.
 
 **Resource Monitor:** A Windows utility that allows visualization of processes in the operating system.
+
+**Resource Pooling:** The ability of a cloud provider to combine resources from multiple physical computers to appear to be one combined resource that is available to clients.
+
+**Rrestore Point:** A point in time that the operating system or files can be recovered from in the event of data loss or corruption.
+
+**Ribbon Cartridge:** The container that holds the printer ribbon.
+
+**Ring Topology:** A physical network topology that has computers connected in a ring shape.
+
+**Riser Card:** An expansion card that allows for other expansion cards to be inserted into it.
+
+**Risk:** The potential of failure or undesirable consequences.
+
+**Risk Analysis:** The process of analyzing proposed changes for the possibility of failure or undesirable consequences.
+
+**RJ (registered jack):** A connector type for twisted pair cabling where telephone cabling uses an RJ-11 connector and network cabling uses an RJ-45 connector.
+
+**RJ-11:** Registered Jack 11, a two-pair (four-wire) plastic connector for the ends of twistedpair copper cabling.

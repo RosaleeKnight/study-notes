@@ -1618,3 +1618,31 @@ monitoring feature can monitor a number of different components, such as securit
 **RJ (registered jack):** A connector type for twisted pair cabling where telephone cabling uses an RJ-11 connector and network cabling uses an RJ-45 connector.
 
 **RJ-11:** Registered Jack 11, a two-pair (four-wire) plastic connector for the ends of twistedpair copper cabling.
+
+**RJ-45:** Registered Jack 45, a four-pair (eight-wire) plastic connector for the ends of twisted pair copper cabling.
+
+**rm:** A Linux command that deletes files and directories.
+
+**Rollback Plan:** A plan used with change control management to detail the steps to roll back a procedure if something goes wrong.
+
+**Rolling Upgrade:** A side-by-side upgrade process in which the newly decommissioned equipment becomes the next person’s upgrade, thus perpetuating the cycle until everything
+is upgraded.
+
+**root:** A Linux operating system super user account that is similar to the Administrator account on Windows operating systems.
+
+**Root Access:** A level of access to an operating system in which an end user can modify the operating system.
+
+**Root Cause:** The underlying reason for a system failure or outage of a system.
+
+**Root Server:** The DNS servers at the “core” of the Internet that hold information about the top-level domain name servers.
+
+**Rootkit:** A group of tools used to gain root level access to an operating system.
+
+**Router:** In networking, an intelligent connecting device that can send packets to the correct local area network segment to take them to their destination; link LAN segments at the Network layer of the OSI model for computer-to-computer communications.
+
+**Routing Tables:** Tables on a router that determine where the router will send packets on the network.
+
+**RPM Package Manager (RPM):** A package installation tool that was developed on the Red Hat Linux operating system, originally named Red Hat Package Manager.
+
+**RS-232:** Communication standard for communications over a serial connection where the term RS-232 is sometimes used synonymously with DB-9, although DB-9 is specifically a serial
+connector.

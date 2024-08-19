@@ -1576,3 +1576,23 @@ transfers.
 
 **Remote Monitoring and Management (RMM):** Helps IT across the enterprise or multiple enterprises and give you a holistic view of the enterprise where the remote
 monitoring feature can monitor a number of different components, such as security, hardware, applications, and even activity on the operating system.
+
+**Remote Network Installation:** A method of installing the operating system over a networkconnection.
+
+**Remote Office:** An office that is located in a different geographic location from the main office.
+
+**Repair Installation:** A method of reinstalling the operating system without loss of settings, personal files, and apps.
+
+**Repeater:** Networking device that takes a signal, amplifies it, and sends it along the cable to extend maximum distances.
+
+**Reseating:** The process of unplugging a device or cable and plugging it back in to ensure it is properly connected.
+
+**Reservation:** On the DHCP server, you can specify that certain hosts will always receive the same IP address.
+
+**Resin:** Liquid substance used by 3D resin printers to create 3D images.
+
+**Resolution:** The number of rows and columns that a display unit is capable of representing.
+
+**Resource:** On a network, any device that clients can access, such as printers or shared drives.
+
+**Resource Monitor:** A Windows utility that allows visualization of processes in the operating system.

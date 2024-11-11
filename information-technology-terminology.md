@@ -1657,4 +1657,28 @@ connector.
 
 **Sandbox Testing:** A temporary location where testing can be done without repercussion to production systems.
 
-**Sarbanes–Oxley Act (SOX):** A regulation imposed by the Security and Exchange Commission that regulates financial documents for an organization.
+**Sarbanes–Oxley Act (SOX):** A regulation from the Security and Exchange Commission that regulates financial documents for an organization.
+
+**Satellite Internet:** A type of Internet connection that uses a satellite dish to receive data from a satellite and a relay station that is connected to the Internet.
+
+**Scan to Email:** Scanning a document on a multifunctional device (MFD) and emailing it to a recipient.
+
+**Scatternet:** A network of two or more Bluetooth piconets.
+
+**Scope:** Database on a DHCP server that contains the IP addresses and other configuration information the server can give out to clients.
+
+**Scratch Diagram:** A diagram that is scratched out during the troubleshooting of a problem or initial diagramming of a system.
+
+**Screen Sharing:** A method of remotely sharing a screen so that a technician can help fix a problem.
+
+**Screen Sharing software:** Screen sharing software will share your screen with another user mostly used to troubleshoot problems.
+
+**Screensaver:** An application originally created to prevent images from being burnt into a display’s surface.
+
+**Secure Boot:** A system where the firmware can check digital signatures for each boot file it uses to confirm that it is the approved version and has not been tampered with.
+
+**Secure Digital (SD):** A solid-state, or flash, memory card format.
+
+**Secure Shell (SSH):** A protocol that runs on port 22 and sets up a secure Telnet session which is used for remote logins and for remotely executing programs and transferring files.
+
+**Secure Sockets Layer (SSL):** A security protocol used to encrypt transmissions over a TCP/IP network and has been made obsolete by the newer Transport Layer Security (TLS) protocol.

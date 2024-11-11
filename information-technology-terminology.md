@@ -1706,3 +1706,27 @@ connector.
 **Serial Port:** An older, slower port technology used on computers. Devices using a serial port connect with a DB-9 connector.
 
 **Server:** An operating system that allows for the sharing of resources for workstation access.
+
+**Server Message Block (SMB):** A Microsoft-developed protocol used to provide shared access to files, printers, and other network resources that runs on port 445.
+
+**Service Entrance Surge Protection:** A surge protection that is located between the power meter and breakers.
+
+**Service Set Identifier (SSID):** The identifier (name) of a wireless router or wireless access point that differentiates it from other wireless networks that are also in range of a wireless client.
+
+**Session:** A connection established between two computers on a network
+
+**Shadow Copy:** A copy of data the Volume Shadow Copy Service (VSS) created at a specific time or interval, sometimes called a snapshot.
+
+**Share Permissions:** Permissions that apply when files are accessed remotely through a Windows share.
+
+**Shared Resources:** A pool of resources is purchased, and each participant in the cloud pays for a fraction of those resources.
+
+**Shareware:** A type of software that allows a grace period of usage before it must be purchased.
+
+**Shell:** A software program that allows the user to manipulate the operating system.
+
+**Shielded Twisted Pair (STP):** Copper network cable that has two or four pairs of twisted wires, shielded by a braided mesh and covered with an outside coating.
+
+**shutdown:** A Linux command that starts the shutdown process on a Linux operating system.
+
+**Simple Mail Transfer Protocol (SMTP):** A TCP/IP protocol optimized for sending email that uses port 25.

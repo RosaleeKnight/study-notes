@@ -1646,3 +1646,15 @@ is upgraded.
 
 **RS-232:** Communication standard for communications over a serial connection where the term RS-232 is sometimes used synonymously with DB-9, although DB-9 is specifically a serial
 connector.
+
+# S
+
+**Safety Goggles:** Protective eye equipment that protects your eyes in all directions.
+
+**Samba:** A open source package installed on Linux that allows Windows SMB file sharing.
+
+**Sandbox:** A temporary virtual environment used to test how software apps respond in that environment.
+
+**Sandbox Testing:** A temporary location where testing can be done without repercussion to production systems.
+
+**Sarbanes–Oxley Act (SOX):** A regulation imposed by the Security and Exchange Commission that regulates financial documents for an organization.

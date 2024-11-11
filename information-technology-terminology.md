@@ -1682,3 +1682,27 @@ connector.
 **Secure Shell (SSH):** A protocol that runs on port 22 and sets up a secure Telnet session which is used for remote logins and for remotely executing programs and transferring files.
 
 **Secure Sockets Layer (SSL):** A security protocol used to encrypt transmissions over a TCP/IP network and has been made obsolete by the newer Transport Layer Security (TLS) protocol.
+
+**Secured Print:** After printing a job, the job is held until the user authenticates to the printer and starts the print job.
+
+**Security Account Manager (SAM):** A security database in the Windows operating system that contains local users and groups for local authentication.
+
+**Security Group:** An Active Directory group used to control permissions for a group of users or computers.
+
+**Security Guard:** Personnel responsible for the physical security of an building.
+
+**Security Update:** An update that patches a security vulnerability in the operating system.
+
+**Self-Ground:** A way of discharging a potential buildup of electrical static discharge (ESD) by touching and holding a grounded component.
+
+**Self-Monitoring, Analysis, and Reporting Technology (S.M.A.R.T.):** Troubleshooting technology built into hard drives to provide self-diagnosis of potential failures.
+
+**Sender Policy Framework (SPF):** An email server authentication method that authenticates using the sender’s IP address, used to help protect against spam emails with the SPF record being added to the DNS server as a TXT record type.
+
+**Separation pads Rubber patches that help keep the paper in place so that only one sheet goes into a printer.
+
+**Serial Advanced Technology Attachment (SATA):** The latest version of the standard that specifies IDE (PATA) but that uses only a single serial pathway for communication instead of multiple parallel pathways as PATA uses.
+
+**Serial Port:** An older, slower port technology used on computers. Devices using a serial port connect with a DB-9 connector.
+
+**Server:** An operating system that allows for the sharing of resources for workstation access.

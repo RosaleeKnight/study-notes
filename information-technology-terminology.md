@@ -1730,3 +1730,35 @@ connector.
 **shutdown:** A Linux command that starts the shutdown process on a Linux operating system.
 
 **Simple Mail Transfer Protocol (SMTP):** A TCP/IP protocol optimized for sending email that uses port 25.
+
+**Simple Network Management Protocol (SNMP):** A protocol that gathers and manages network performance information with the current version being SNMPv3 that runs on ports 161 and 162.
+
+**Single Connector Attachment (SCA):** The connector in hardware RAID devices and bays that contains both power and data connections instead of two separate connectors. 
+
+**Single Data Rate SDRAM (SDR SDRAM):** The new term for the original synchronous RAM on the market, which shares a common clock signal with the computer’s system-bus clock.
+
+**Single point of Failure:** A computer term used to define one device or connection that, if it fails, brings down the entire system.
+
+**Single sign-on (SSO):** An authentication process that requires a user to authenticate once the the credentials are then used for the authentication of all other systems.
+
+**Single-channel Memory:** A RAM implementation scheme in which the memory controller expects or allows standard memory modules to be installed one per bank.
+
+**Single-core:** A CPU that only has one pathway (core) to process data at a time.
+
+**Single-factor Authentication:** A system that requires one piece of information to log a user in, such as a password, in addition to a username.
+
+**Single-mode Fiber (SMF):** Fiber-optic cable that can only transmit one signal at a time and is the longest-distance cable available for networking used today which can transmit up to 10 Gbps for up to 40 kilometers (25.85 miles), depending on the standard used.
+
+**Single-sided Memory:** A memory module that has chips and pin functions that match the specification for a single module.
+
+**Sleep/Suspend Mode:** A low power state similar to hibernation, but memory is not written to disk.
+
+**Small Computer System Interface (SCSI):** Computer interface typically used for hard drives or optical drives.
+
+**Small office, home office (SOHO):** A term used to define extremely small networks primarily used by a few people.
+
+**Small office, home office (SOHO):** network Network located in a home or in a small business, usually with fewer than 10 computers.
+
+**Small Outline Dual-inline Memory Module (SODIMM):** A small–form factor memory module based on DIMM principles and designed for the mobile computing sector.
+
+**Smartcard:** A security card that resembles a credit card with an integrated circuit embedded in the card.

@@ -1762,3 +1762,41 @@ connector.
 **Small Outline Dual-inline Memory Module (SODIMM):** A small–form factor memory module based on DIMM principles and designed for the mobile computing sector.
 
 **Smartcard:** A security card that resembles a credit card with an integrated circuit embedded in the card.
+
+**Smurf Attack:** An ICMP broadcast attack in which the sender spoofs the target’s IP address.
+
+**Social Engineering:** The use of deception to obtain information or manipulate people in an attempt in obtain confidential information or access.
+
+**Software as a Service (SaaS):** A type of cloud service that handles the task of managing software and its deployment, and includes the platform and infrastructure as well.
+
+**Software-defined Networking (SDN):** Cloud-based service that manages logical network connections in place of physical networking hardware such as switches and routers.
+
+**Solenoid:** In daisy-wheel printers, the small electromechanical hammer that strikes the back of the petal containing the character.
+
+**Solid-state Drive (SSD):** A drive that has no moving parts but uses flash memory to emulate a conventional hard disk drive.
+
+**Solid-state hybrid drive (SSHD):** A conventional HDD manufactured with a substantial amount of flash memory–like solid-state storage aboard.
+
+**Sound Card:** An expansion card that allows the computer to play high-quality music through speakers or headphones.
+
+**Source Code:** The programming code that was used to write and compile the software.
+
+**Southbridge:** The functional part of the chipset that controls non–local-bus communication among components connected to the various I/O buses, including PCI, IDE, USB, RS232, and parallel.
+
+**Spam:** Unsolicited commercial, illegal, or undesirable emails.
+
+**Spam gateway:** A device that helps detect and deter malicious spam email.
+
+**Spanning Tree Protocol (STP):** Protocol used by managed switches to prevent network loops.
+
+**Spear Phishing:** A phishing attempt in which the source of the email looks like a trusted source so the victim is more susceptible to the attack.
+
+**Specialize Pass:** The configuration pass in which the operating system is configured for a networking model, user accounts, and computer name.
+
+**Splitter:** A hardware device that takes one input signal and sends it to several output devices.
+
+**SSH:** A text-based console for remote access that features encryption and authentication for both the client and server.
+
+**Stabilizer Bar:** A small metal bar on a printer that holds the printer carriage as it crosses the page.
+
+**Stakeholder:** A person who has a primary interest in or responsibility for a business unit in an organization.

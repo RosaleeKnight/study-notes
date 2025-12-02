@@ -1699,7 +1699,7 @@ connector.
 
 **Sender Policy Framework (SPF):** An email server authentication method that authenticates using the sender’s IP address, used to help protect against spam emails with the SPF record being added to the DNS server as a TXT record type.
 
-**Separation pads Rubber patches that help keep the paper in place so that only one sheet goes into a printer.
+**Separation Pads:** Rubber patches that help keep the paper in place so that only one sheet goes into a printer.
 
 **Serial Advanced Technology Attachment (SATA):** The latest version of the standard that specifies IDE (PATA) but that uses only a single serial pathway for communication instead of multiple parallel pathways as PATA uses.
 
@@ -1747,7 +1747,7 @@ connector.
 
 **Single-factor Authentication:** A system that requires one piece of information to log a user in, such as a password, in addition to a username.
 
-**Single-mode Fiber (SMF):** Fiber-optic cable that can only transmit one signal at a time and is the longest-distance cable available for networking used today which can transmit up to 10 Gbps for up to 40 kilometers (25.85 miles), depending on the standard used.
+**Single-mode Fiber (SMF):** Fiber-optic cable that can only transmit one signal at a time and is the longest-distance cable available for networking used today which can transmit up to 10 Gbps for up to 40 kilometers depending on the standard used.
 
 **Single-sided Memory:** A memory module that has chips and pin functions that match the specification for a single module.
 
@@ -1818,3 +1818,17 @@ connector.
 **Static Charge Eliminator Strip:** The device in EP process printers that drains the static charge from the paper after the toner has been transferred to the paper.
 
 **Stepper Motor:** A very precise motor that can move in very small increments often used in printers.
+
+**Storage Area Network (SAN):** A network dedicated to storage that provide lossless block level access to storage.
+
+**Storage Spaces:** A Windows technology that can help protect data in the event of disk failure.
+
+**Straight Tip (ST):** One of the most common fiberoptic connectors that uses a twist and lock attaching mechanism.
+
+**String:** A type of variable that can contain both alpha and numeric data that do not contain a value like integer and float variable types do.
+
+**Stripe Set With Parity:** Another name for RAID 5 which provides fault tolerance and performance increases, and requires a minimum of three hard drives.
+
+**su:** A Linux command that allows the current user to switch the user context to another user account.
+
+**Subnet Mask:** A required part of any TCP/IP configuration, used to define which addresses are local and which are on remote networks

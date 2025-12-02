@@ -1852,3 +1852,21 @@ connector.
 **Switch:** A Layer 2 device similar to a hub in its port count but more advanced, with the ability to filter traffic based on the destination MAC address of each frame.
 
 **Swollen battery:** One potential sign of a failed battery, it’s when the battery physically begins to expand.
+
+**Synchronous DRAM (SDRAM):** The original synchronous RAM on the market, which shares a common clock signal with the computer’s system bus clock.
+
+**Synthetic Backup:** A backup created from the last full backup and a series of daily backups.
+
+**Syslog:** Server (and system) used to gather and track messages from client devices on a network.
+
+**System Board:** Another term for a motherboard, or the main circuit board in a computer.
+
+**System Center Configuration Manager (SCCM)**** A Microsoft software product that is used to automate installations of software packages and provide reporting.
+
+**System File Checker (SFC):** A service in Microsoft operating systems that monitors and maintains file integrity of critical system files.
+
+**System Protection:** The primary system in the Windows operating system responsible for creating system restore points.
+
+**System State:** The name used to describe the component of Active Directory in contrast to backup and recovery.
+
+**Systems Management Server (SMS):** A legacy Microsoft software product that provides similar functionality to Microsoft System Center Configuration Manager (SCCM).

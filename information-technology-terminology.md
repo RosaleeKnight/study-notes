@@ -1800,3 +1800,21 @@ connector.
 **Stabilizer Bar:** A small metal bar on a printer that holds the printer carriage as it crosses the page.
 
 **Stakeholder:** A person who has a primary interest in or responsibility for a business unit in an organization.
+
+**Standard Operating Procedure (SOP):** A document detailing step by step instructions to complete a routine activity.
+
+**Standard Privileges:** The set of privileges for a nonadministrator account when logging into an operating system.
+
+**Standby Mode:** A power state in which the screen is turned off to reduce power consumption.
+
+**Star Topology:** A physical network topology where all computers are attached to a central connectivity point which is also called hub and spoke.
+
+**Start menu:** The component of the GUI that allows the user access to the installed programs on the operating system.
+
+**Start of Authority (SOA):** DNS record type that signifies the authoritative DNS server for a zone.
+
+**Static IP Addressing:** Manually configuring a host with an IP address and information, as opposed to obtaining the address dynamically through a DHCP server.
+
+**Static Charge Eliminator Strip:** The device in EP process printers that drains the static charge from the paper after the toner has been transferred to the paper.
+
+**Stepper Motor:** A very precise motor that can move in very small increments often used in printers.

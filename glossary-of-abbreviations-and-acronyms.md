@@ -926,7 +926,7 @@ WMI: Windows Management Instrumentation
 WPA: Wi-Fi Protected Access  
 WUI: Web User Interface  
 
-XHR: XMLHttpRequest  
+XHR: XML Http Request  
 XMPP: Extensible Messaging and Presence Protocol  
 XOR: Exclusive Or (encryption)  
 XSLT: Extensible Stylesheet Language Transformations  

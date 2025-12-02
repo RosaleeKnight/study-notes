@@ -1900,3 +1900,21 @@ connector.
 **Thermal Paper:** Heat sensitive paper that comes on a roll and is used in thermal printers with the areas of the paper exposed to heat turning color to produce an image.
 
 **Thermal Paste:** A compound used to bridge the thermal gap between the surface of a chip’s packaging and the mating surface of a heat sink.
+
+**Thermal Printer:** A printer that uses heat and special heat sensitive paper to produce images; common among fax machines.
+
+**Thermal Runaway:** A condition in which lithium ion batteries can overheat, causing the material to fuse internally, and this perpetuates heat.
+
+**Third Generation (3G):** An old cellular networking technology that was popular in the 1990s and early 2000s; replaced by 4G.
+
+**Third Party Drivers:** Drivers that are supplied by a manufacturer and not included with the Windows operating system.
+
+**Threat:** A potential danger to the network or the assets of the organization.
+
+**Threat Agent:** A malicious individual who is carrying out or planning to carry out an attack that threatens network security.
+
+**Thunderbolt:** A high performance digital interface created by Intel and Apple and based on the DisplayPort connector that provides external connectivity at up to 40 Gbps over a USB C connection.
+
+**Time Drift:** The phenomenon of the operating system losing or gaining time that creates problems when the time is too far off.
+
+**Time Machine:** A macOS backup utility that allows for local backups of user files.

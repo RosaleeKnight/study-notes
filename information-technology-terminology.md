@@ -1809,7 +1809,7 @@ connector.
 
 **Star Topology:** A physical network topology where all computers are attached to a central connectivity point which is also called hub and spoke.
 
-**Start menu:** The component of the GUI that allows the user access to the installed programs on the operating system.
+**Start Menu:** The component of the GUI that allows the user access to the installed programs on the operating system.
 
 **Start of Authority (SOA):** DNS record type that signifies the authoritative DNS server for a zone.
 
@@ -1837,7 +1837,7 @@ connector.
 
 **Subscriber Identity Module (SIM) OS:** Operating system on a mobile device that manages data transfers between the device and the device’s memory (SIM) card.
 
-**Sudo:** A Linux command that allows a nonprivileged account to run a privileged command.
+**sudo:** A Linux command that allows a nonprivileged account to run a privileged command.
 
 **Super User:** A user that has elevated privileges in the operating system, equivalent to administrative credentials on Windows.
 
@@ -1870,3 +1870,19 @@ connector.
 **System State:** The name used to describe the component of Active Directory in contrast to backup and recovery.
 
 **Systems Management Server (SMS):** A legacy Microsoft software product that provides similar functionality to Microsoft System Center Configuration Manager (SCCM).
+
+# T
+
+**T568A/T568B:** Twisted pair cabling specifications that define the order of pins on a cable with T568A being white/green, green, white/orange, blue, white/blue, orange, white/brown, brown and T568B being white/orange, orange, white/green, blue, white/blue, green, white/brown, brown.
+ 
+**Tailgating:** The act of following someone through a secure access area, tailgating on their credentials.
+
+**Taskbar:** The component of the GUI that contains programs that are executing as well as shortcut icons, Start menu, and Notification area.
+
+**TCP Printing:** Connecting to a shared printer using the TCP protocol which by default uses the RAW protocol format and port 9100.
+
+**Telemetry:** The process of sending information to Microsoft on the usage, health of the operating system, and quasipersonal data for the cloud services.
+
+**Telnet:** A dated text based console for remote access that allows the client and server to communicate over an unencrypted session.
+
+**Temporal Key Integrity Protocol (TKIP):** A protocol that protects the initialization vector with an RC4 encryption cipher, used in conjunction with WPA.

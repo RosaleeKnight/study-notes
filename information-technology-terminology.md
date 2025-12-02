@@ -1918,3 +1918,21 @@ connector.
 **Time Drift:** The phenomenon of the operating system losing or gaining time that creates problems when the time is too far off.
 
 **Time Machine:** A macOS backup utility that allows for local backups of user files.
+
+**Toner:** A carbon substance mixed with polyester resins and iron oxide particles in which during the EP imaging process, toner is first attracted to areas that have been exposed to the laser in laser printers and is later deposited and melted onto the print medium.
+
+**Toner Probe:** A pair of devices used to determine which port on the patch panel goes with each wall outlet.
+
+**top:** A command on Linux that interactively displays all the various processes running on the operating system.
+
+**Topology:** A way of laying out a network which can describe either the logical or physical layout.
+
+**Torx Screwdriver:** A screwdriver with a splined gripping surface.
+
+**Touch pen:** Input device typically used with touchscreen devices, specifically laptops and smaller mobile devices; also called a stylus.
+
+**Touchpad:** Flat, rectangular device built into the palm rest of a laptop keyboard, used as a pointing device to control the mouse cursor on the screen.
+
+**Touchscreen:** A computer screen that is sensitive to touch.
+
+**traceroute:** A command used to view the path a packet will take to a destination computer (tracert is the Windows equivalent)

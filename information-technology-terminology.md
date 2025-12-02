@@ -1886,3 +1886,17 @@ connector.
 **Telnet:** A dated text based console for remote access that allows the client and server to communicate over an unencrypted session.
 
 **Temporal Key Integrity Protocol (TKIP):** A protocol that protects the initialization vector with an RC4 encryption cipher, used in conjunction with WPA.
+
+**Terminal:** An application that allows shell access via a network or physical connection same as the macOS application with the same name.
+
+**Test Development:** A virtual environment created on a virtual machine used to test software applications.
+
+**Tethering:** Connecting a noncellular device to a cellular enabled device for the purpose of getting on the Internet through the cellular connection.
+
+**Text (TXT):** A DNS record type that is followed by a text field that's commonly used in conjunction with DKIM, SPF, and DMARC records to help combat email spam.
+
+**Thermal Pad:** A small heat conducting piece of material used to connect a CPU to a heat sink or fan sometimes used as an alternative to thermal paste.
+
+**Thermal Paper:** Heat sensitive paper that comes on a roll and is used in thermal printers with the areas of the paper exposed to heat turning color to produce an image.
+
+**Thermal Paste:** A compound used to bridge the thermal gap between the surface of a chip’s packaging and the mating surface of a heat sink.

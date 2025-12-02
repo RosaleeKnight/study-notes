@@ -1936,3 +1936,23 @@ connector.
 **Touchscreen:** A computer screen that is sensitive to touch.
 
 **traceroute:** A command used to view the path a packet will take to a destination computer (tracert is the Windows equivalent)
+
+**Trackball:** An exposed ball that functions much like an inverted mouse.
+
+**Tractor Feed:** A paper feed mechanism used in impact printers, it uses paper that has holes along the edge.
+
+**Transfer Corona Assembly:** The part of an EP imaging process printer that is responsible for transferring the developed image from the EP drum to the paper.
+
+**Transferring Step:** The fifth step in the EP imaging process, when the developed toner image on the EP drum is transferred to the print medium using the transfer corona.
+
+**Transformer:** A device that takes one type of electrical current and turns it into a different type of electrical current.
+
+**Transient Voltage Surge Suppressor (TVSS):** A device that removes electrical surges from an electrical service.
+
+**Transmission Control Protocol (TCP):** A core protocol in the TCP/IP protocol suite that establishes connections and guarantees packet delivery.
+
+**Transmission Control Protocol/Internet Protocol (TCP/IP) suite:** A set of computer- to- computer communications protocols that encompasses media access, packet transport, session communications, file transfer, email, and terminal emulation.
+
+**Transport Layer Security (TLS):** A security protocol used to encrypt transmissions over a TCP/IP network commonly used with HTTPS over port 443.
+
+**Trip Hazard:** Any physical hazard that might cause an individual to trip and fall, such as loose wire on a floor.

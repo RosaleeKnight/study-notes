@@ -1956,3 +1956,21 @@ connector.
 **Transport Layer Security (TLS):** A security protocol used to encrypt transmissions over a TCP/IP network commonly used with HTTPS over port 443.
 
 **Trip Hazard:** Any physical hazard that might cause an individual to trip and fall, such as loose wire on a floor.
+
+**Triple Channel Memory:** A memory subsystem that allows the insertion of up to three banks of memory to communicate in unison with the memory controller.
+
+**Trivial File Transfer Protocol (TFTP):** Protocol that uses port 69 used to transfer files (but not securely) and to transmit configuration information to and from network devices.
+
+**Trusted Installer:** A system service that is allowed to modify critical system files on the Windows operating system.
+
+**Trusted Platform Module (TPM):** A dedicated security coprocessor within a computer that the UEFI uses to boot the system securely after authenticating the boot device.
+
+**TTY:** A Linux operating system device that allows for teletype style terminal access to the shell.
+
+**Twisted Nematic (TN):** A type of LCD screen that are the oldest LCD screen type, but they are fast and inexpensive.
+
+**Two Factor Authentication:** Helps increase security for mobile devices by requiring an additional piece of information with a common implementation of requiring a PIN from a security token, which changes every 30 seconds.
+
+**Type 1 Hypervisor:** Also known as a bare metal hypervisor, it is a software program that acts as an operating system, and also provides the ability to perform virtualization of other operating systems using the same computer.
+
+**Type 2 Hypervisor:** A software program that sits on top of an existing operating system and provides the ability to host multiple virtual operating systems on the same computer at the same time.

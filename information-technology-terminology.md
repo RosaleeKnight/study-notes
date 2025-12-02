@@ -1832,3 +1832,23 @@ connector.
 **su:** A Linux command that allows the current user to switch the user context to another user account.
 
 **Subnet Mask:** A required part of any TCP/IP configuration, used to define which addresses are local and which are on remote networks
+
+**Subscriber Connector (SC):** A fiberoptic cable connector that snaps and locks into place.
+
+**Subscriber Identity Module (SIM) OS:** Operating system on a mobile device that manages data transfers between the device and the device’s memory (SIM) card.
+
+**Sudo:** A Linux command that allows a nonprivileged account to run a privileged command.
+
+**Super User:** A user that has elevated privileges in the operating system, equivalent to administrative credentials on Windows.
+
+**Supervisory Control and Data Acquisition (SCADA):** High level legacy computer management system that is used to control manufacturing machines, power grids andbcomponents in buildings such as heating and air conditioning.
+
+**Surge Suppressor:** An electrical device that will absorb a temporary power spike, known as a surge in electricity.
+
+**SuSE:** A Linux distribution that uses the RPM based package management system.
+
+**Swipe Lock:** A type of lock screen that allows you to unlock your device and that provides no security.
+
+**Switch:** A Layer 2 device similar to a hub in its port count but more advanced, with the ability to filter traffic based on the destination MAC address of each frame.
+
+**Swollen battery:** One potential sign of a failed battery, it’s when the battery physically begins to expand.

@@ -90,13 +90,13 @@ Operating Systems: <a href="https://www.android.com/intl/en_ca/"> Android, </a> 
 
 Linux Distros: <a href="https://www.kali.org/"> Kali Linux, </a> <a href="https://remnux.org/"> REMnux, </a> <a href="https://tails.boum.org/"> Tails, </a> <a href="https://ubuntu.com/"> Ubuntu </a> 
 
-Security Information and Event Management (SIEM): <a href="https://www.solarwinds.com/"> SolarWinds, </a> <a href="https://www.splunk.com/"> Splunk Enterprise </a>
+Security Information and Event Management (SIEM): <a href="https://www.solarwinds.com/"> SolarWinds, </a> <a href="https://www.splunk.com/"> Splunk Enterprise, </a> <a href="https://wazuh.com"> Wazuh </a>
 
 Security Orchestrated, Automation and Response (SOAR): <a href="https://www.splunk.com/"> Splunk SOAR </a>
 
 Intrusion Detection System: <a href="https://www.ossec.net/"> OSSEC, </a> <a href="https://securityonionsolutions.com/"> Security Onion, </a> <a href="https://www.snort.org/"> Snort </a>
 
-Password Auditing: <a href="https://www.openwall.com/john/"> John the Ripper </a>
+Password Auditing: <a href="https://hashcat.net/hashcat/"> Hashcat, </a> <a href="https://www.openwall.com/john/"> John the Ripper </a>
 
 Web Vulnerability: <a href="https://www.acunetix.com/"> Acunetix, </a> <a href="https://portswigger.net/burp"> Burp Suite, </a> <a href="https://www.tenable.com/products/nessus/nessus-professional"> Nessus Professional, </a> <a href="https://cirt.net/Nikto2"> Nikto, </a>  <a href="https://owasp.org/www-project-zap/"> ZAP </a>
 

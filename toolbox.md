@@ -2,7 +2,30 @@ When I come across a tool I put it here under what it's used for.
 
 # Blue Team
 
-# Red Team
+Log Management: <a href="https://www.elastic.co/elastic-stack/"> Elastic Stack </a> 
+
+Security Information and Event Management (SIEM): <a href="https://www.solarwinds.com/"> SolarWinds </a> , <a href="https://www.splunk.com/"> Splunk Enterprise </a> , <a href="https://wazuh.com"> Wazuh </a>
+
+Security Orchestrated, Automation and Response (SOAR): <a href="https://www.splunk.com/"> Splunk SOAR </a>
+
+Intrusion Detection System: <a href="https://www.ossec.net/"> OSSEC </a> , <a href="https://securityonionsolutions.com/"> Security Onion </a> , <a href="https://www.snort.org/"> Snort </a>
+
+Password Auditing: <a href="https://hashcat.net/hashcat/"> Hashcat </a> , <a href="https://www.openwall.com/john/"> John the Ripper </a>
+
+Web Vulnerability: <a href="https://www.acunetix.com/"> Acunetix </a> , <a href="https://portswigger.net/burp"> Burp Suite </a> , <a href="https://www.tenable.com/products/nessus/nessus-professional"> Nessus Professional </a> , <a href="https://cirt.net/Nikto2"> Nikto </a> , <a href="https://owasp.org/www-project-zap/"> ZAP </a>
+
+Fingerprinting and Forensics Tool: <a href="https://lcamtuf.coredump.cx/p0f3/"> p0f </a>
+
+Encryption: <a href="https://en.wikipedia.org/wiki/Tcpcrypt"> TCPCrypt </a>
+
+Firewalls: <a href="https://www.pfsense.org/"> PfSense </a>
+
+User Awareness Training Exercises: <a href="https://getgophish.com/"> Gophish </a>
+
+Malware Analysis: <a href="https://www.winitor.com/"> Pestudio </a>
+
+Penetration Testing: <a href="https://www.aircrack-ng.org/"> Aircrack-ng </a> , <a href="https://www.metasploit.com/"> Metasploit Framework </a> , <a href="https://nmap.org/"> Nmap </a> , <a href="https://www.openvas.org/"> OpenVAS </a> , <a href="https://www.shodan.io/"> Shodan </a> , <a href="https://github.com/trustedsec/social-engineer-toolkit"> Social Engineering Toolkit </a> , <a href="https://sqlmap.org/"> Sqlmap </a> , <a href="https://www.wireshark.org/"> Wireshark </a>
+
 
 # DevSecOps
 
@@ -38,21 +61,7 @@ Version Control System: <a href="https://github.com/"> GitHub </a>
 
 IDE (Integrated Development Environment): <a href="https://www.jetbrains.com/pycharm/"> Pycharm </a> , <a href="https://replit.com/"> Replit </a> 
 
-
-# Unsorted
-
-
-Command-Line: <a href="https://www.gnu.org/software/bash/"> GNU Bash </a> , <a href="https://docs.microsoft.com/en-us/powershell/"> PowerShell </a> 
-
-
-
-Text Editor: <a href="https://www.nano-editor.org/"> GNU Nano </a> , <a href="https://www.vim.org/"> VIM </a> , <a href="https://code.visualstudio.com/"> Visual Studio Code </a> 
-
 Interactive Computing Platform: <a href="https://jupyter.org/"> Jupyter Notebook </a> 
-
-NoSQL Database: <a href="https://www.mongodb.com/"> MongoDB </a> 
-
-Relational Database Management System: <a href="https://docs.microsoft.com/en-us/sql/ssms/"> Microsoft SQL Server </a> , <a href="https://www.mysql.com/"> MySQL </a> , <a href="https://www.postgresql.org/"> PostgreSQL </a>   
 
 Continuous Integration: <a href="https://circleci.com/"> Circle CI </a> , <a href="https://github.com/features/actions"> GitHub Actions </a> , <a href="https://gradle.org/"> Gradle </a> , <a href="https://www.jenkins.io/"> Jenkins </a> , <a href="https://www.travis-ci.com/"> Travis CI </a> , <a href="https://webapp.io/"> Webapp.io </a>
 
@@ -64,9 +73,7 @@ Configuration Management: <a href="https://www.ansible.com/"> Ansible </a>
 
 Provisioning: <a href="https://www.terraform.io/"> Terraform </a> 
 
-Monitoring System: <a href="https://www.nagios.org/"> Nagios, </a> <a href="https://prometheus.io/"> Prometheus </a> 
-
-Log Management: <a href="https://www.elastic.co/elastic-stack/"> Elastic Stack </a> 
+Monitoring System: <a href="https://www.nagios.org/"> Nagios </a> , <a href="https://prometheus.io/"> Prometheus </a> 
 
 Distributed Tracing Tools: <a href="https://www.jaegertracing.io/"> Jaeger </a>
 
@@ -74,9 +81,21 @@ Service Mesh: <a href="https://istio.io/"> Istio </a>
 
 Message-Broker: <a href="https://www.rabbitmq.com/"> RabbitMQ </a> 
 
-Issue Tracking: <a href="https://www.atlassian.com/software/jira"> Jira </a> , <a href="https://www.servicenow.com/"> ServiceNow </a> , <a href="https://www.spiceworks.com/free-help-desk-software/"> Spiceworks </a> 
-
 Web Server: <a href="https://www.nginx.com/"> Nginx </a> 
+
+
+# Unsorted
+
+
+Command-Line: <a href="https://www.gnu.org/software/bash/"> GNU Bash </a> , <a href="https://docs.microsoft.com/en-us/powershell/"> PowerShell </a> 
+
+Text Editor: <a href="https://www.nano-editor.org/"> GNU Nano </a> , <a href="https://www.vim.org/"> VIM </a> , <a href="https://code.visualstudio.com/"> Visual Studio Code </a> 
+
+NoSQL Database: <a href="https://www.mongodb.com/"> MongoDB </a> 
+
+Relational Database Management System: <a href="https://docs.microsoft.com/en-us/sql/ssms/"> Microsoft SQL Server </a> , <a href="https://www.mysql.com/"> MySQL </a> , <a href="https://www.postgresql.org/"> PostgreSQL </a>   
+
+Issue Tracking: <a href="https://www.atlassian.com/software/jira"> Jira </a> , <a href="https://www.servicenow.com/"> ServiceNow </a> , <a href="https://www.spiceworks.com/free-help-desk-software/"> Spiceworks </a> 
 
 Virtualization: <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/"> Hyper-V </a> , <a href="https://vmc.vmware.com/"> VMware </a> 
 
@@ -102,24 +121,3 @@ Operating Systems: <a href="https://www.android.com/intl/en_ca/"> Android </a> ,
 
 Linux Distros: <a href="https://www.kali.org/"> Kali Linux </a> , <a href="https://remnux.org/"> REMnux </a> , <a href="https://tails.boum.org/"> Tails </a> , <a href="https://ubuntu.com/"> Ubuntu </a> 
 
-Security Information and Event Management (SIEM): <a href="https://www.solarwinds.com/"> SolarWinds </a> , <a href="https://www.splunk.com/"> Splunk Enterprise </a> , <a href="https://wazuh.com"> Wazuh </a>
-
-Security Orchestrated, Automation and Response (SOAR): <a href="https://www.splunk.com/"> Splunk SOAR </a>
-
-Intrusion Detection System: <a href="https://www.ossec.net/"> OSSEC </a> , <a href="https://securityonionsolutions.com/"> Security Onion </a> , <a href="https://www.snort.org/"> Snort </a>
-
-Password Auditing: <a href="https://hashcat.net/hashcat/"> Hashcat </a> , <a href="https://www.openwall.com/john/"> John the Ripper </a>
-
-Web Vulnerability: <a href="https://www.acunetix.com/"> Acunetix </a> , <a href="https://portswigger.net/burp"> Burp Suite </a> , <a href="https://www.tenable.com/products/nessus/nessus-professional"> Nessus Professional </a> , <a href="https://cirt.net/Nikto2"> Nikto </a> , <a href="https://owasp.org/www-project-zap/"> ZAP </a>
-
-Fingerprinting and Forensics Tool: <a href="https://lcamtuf.coredump.cx/p0f3/"> p0f </a>
-
-Encryption: <a href="https://en.wikipedia.org/wiki/Tcpcrypt"> TCPCrypt </a>
-
-Firewalls: <a href="https://www.pfsense.org/"> PfSense </a>
-
-User Awareness Training Exercises: <a href="https://getgophish.com/"> Gophish </a>
-
-Penetration Testing: <a href="https://www.aircrack-ng.org/"> Aircrack-ng </a> , <a href="https://www.metasploit.com/"> Metasploit Framework </a> , <a href="https://nmap.org/"> Nmap </a> , <a href="https://www.openvas.org/"> OpenVAS </a> , <a href="https://www.shodan.io/"> Shodan </a> , <a href="https://github.com/trustedsec/social-engineer-toolkit"> Social Engineering Toolkit </a> , <a href="https://sqlmap.org/"> Sqlmap </a> , <a href="https://www.wireshark.org/"> Wireshark </a>
-
-Malware Analysis: <a href="https://www.winitor.com/"> Pestudio </a>

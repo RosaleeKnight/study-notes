@@ -109,3 +109,5 @@ Firewalls: <a href="https://www.pfsense.org/"> PfSense </a>
 User Awareness Training Exercises: <a href="https://getgophish.com/"> Gophish </a>
 
 Penetration Testing: <a href="https://www.aircrack-ng.org/"> Aircrack-ng </a> , <a href="https://www.metasploit.com/"> Metasploit Framework </a> , <a href="https://nmap.org/"> Nmap </a> , <a href="https://www.openvas.org/"> OpenVAS </a> , <a href="https://www.shodan.io/"> Shodan </a> , <a href="https://github.com/trustedsec/social-engineer-toolkit"> Social Engineering Toolkit </a> , <a href="https://sqlmap.org/"> Sqlmap </a> , <a href="https://www.wireshark.org/"> Wireshark </a>
+
+Malware Analysis: <a href="https://www.winitor.com/"> Pestudio </a>

@@ -1,5 +1,11 @@
 When I come across a tool I put it here under what it's used for.
 
+# Blue Team
+
+# Red Team
+
+# DevSecOps
+
 Programing Languages: <a href="https://developer.arm.com/documentation/dui0473/c/writing-arm-assembly-language"> Assembly </a> , <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> JavaScript </a> , <a href="https://www.python.org/"> Python </a> , <a href="https://www.ibm.com/docs/en/db2/10.5?topic=fundamentals-sql"> SQL </a> , <a href="https://www.typescriptlang.org/"> TypeScript </a> , <a href="https://nixos.wiki/wiki/Nix_Expression_Language"> Nix </a>  
 
 Markup Languages: <a href="https://html.spec.whatwg.org/multipage/"> HTML 5 </a> , <a href="https://www.markdownguide.org/"> Markdown </a> , <a href="https://www.w3schools.com/xml/xml_whatis.asp"> XML </a>
@@ -30,9 +36,15 @@ Version Control: <a href="https://git-scm.com/"> Git </a>
 
 Version Control System: <a href="https://github.com/"> GitHub </a> 
 
+IDE (Integrated Development Environment): <a href="https://www.jetbrains.com/pycharm/"> Pycharm </a> , <a href="https://replit.com/"> Replit </a> 
+
+
+# Unsorted
+
+
 Command-Line: <a href="https://www.gnu.org/software/bash/"> GNU Bash </a> , <a href="https://docs.microsoft.com/en-us/powershell/"> PowerShell </a> 
 
-IDE (Integrated Development Environment): <a href="https://www.jetbrains.com/pycharm/"> Pycharm </a> , <a href="https://replit.com/"> Replit </a> 
+
 
 Text Editor: <a href="https://www.nano-editor.org/"> GNU Nano </a> , <a href="https://www.vim.org/"> VIM </a> , <a href="https://code.visualstudio.com/"> Visual Studio Code </a> 
 

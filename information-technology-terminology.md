@@ -2034,3 +2034,17 @@ connector.
 **Vim:** A Linux text based editor that is widely supported on all Linux systems.
 
 **Video Capture Card:** An expansion card often used to save a video stream to the computer for later manipulation or sharing.
+
+**Video Card:** An expansion card that allows the computer to present information on some kind of display, typically a monitor or a projector.
+
+**Video Graphics Array (VGA):** connector DB-15 video connector, typically blue, that provides analog video.
+
+**Video Surveillance:** The process of surveillance using video cameras and video recorders.
+
+**Virtual Desktop Infrastructure (VDI):** The hosting of desktop environments on a central server (desktop virtualization).
+
+**Virtual Local Area Network (VLAN):** Network configured on a managed switch and used to segment broadcast traffic and potentially increase security.
+
+**Virtual Machine (VM):** A virtualized version of a computer that breaks the barrier between a one to one hardware and operating system relationship.
+
+**Virtual Memory:** Memory that is provided to the operating system that is in the form of a file on a disk, to allow more memory for applications.

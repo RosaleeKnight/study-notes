@@ -2048,3 +2048,15 @@ connector.
 **Virtual Machine (VM):** A virtualized version of a computer that breaks the barrier between a one to one hardware and operating system relationship.
 
 **Virtual Memory:** Memory that is provided to the operating system that is in the form of a file on a disk, to allow more memory for applications.
+
+**Virtual Network Computing (VNC):** A graphical desktop sharing utility that can be installed on Linux, Windows, and macOS.
+
+**Virtual private network (VPN):** A virtual network connection between two IP addresses that provides encryption and allows for privacy over the network and secure point to point connection using tunneling over a public Internet connection.
+
+**Virtualization:** The ability to run multiple operating systems or multiple instances of one operating system on one physical computer simultaneously which requires the use of a hypervisor.
+
+**Voice over Internet Protocol (VoIP):** An IP based telephony standard used to place calls over a network or the Internet.
+
+**Volume Snapshot Service (VSS):** A Microsoft service that provides an instant snapshot of a filesystem to provide recovery points outside the backup period.
+
+**Vulnerability:** A weakness of security that can be exploited by an attacker to provide unauthorized access.

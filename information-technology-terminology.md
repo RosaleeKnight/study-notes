@@ -2018,3 +2018,19 @@ connector.
 **User ID (UID):** The identification mechanism for users in Linux operating systems.
 
 **User Profile:** A group of settings as well as personal documents specific to each user logged into the operating system.
+
+# V
+
+**Variable type:** A characterization of a variable based on the type of data that it will contain, which also defines the memory to be allocated.
+
+**Variable:** A word used in a program or script that allows for the temporary storage of information.
+
+**VBScript:** A popular Microsoft scripting language that is based on the Component Object Model (COM) and Visual Basic.
+
+**Version:** The revision of code for a software product.
+
+**Vertical Alignment (VA):** A type of LCD screen that have great contrast ratios but are otherwise seen as a middle performance type between IPS and TN.
+
+**Vim:** A Linux text based editor that is widely supported on all Linux systems.
+
+**Video Capture Card:** An expansion card often used to save a video stream to the computer for later manipulation or sharing.

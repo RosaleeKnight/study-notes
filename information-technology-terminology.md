@@ -1990,3 +1990,11 @@ connector.
 **Unified Threat Management (UTM):** Typically implemented as a hardware device, UTM combines firewall, IPS, and antimalware protection into one central management point.
 
 **Uninterruptible Power Supply (UPS):** A UPS is designed to protect everything that’s plugged into it from power surges and power outages using one or more batteries or fuses where if the power fails, the batteries can power the computer for a period of time so the administrator can then safely power it down.
+
+**Universal Naming Convention (UNC):** The naming convention used with Windows operating systems that defines a specific file share on a specific server.
+
+**Universal Plug and Play (UPnP):** Technology designed to allow wireless aware devices to automatically connect to a wireless network, declare themselves to other devices, and  discover other devices.
+
+**Universal Serial Bus (USB):** A high speed, hot pluggable serial interface used for connecting external peripherals to a PC available in six main versions at speeds up to 40 Gbps.
+
+**Universal Windows Platform (UWP):** A programming platform that allows for the code to be recompiled for several different hardware platforms.

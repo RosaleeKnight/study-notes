@@ -1951,7 +1951,7 @@ connector.
 
 **Transmission Control Protocol (TCP):** A core protocol in the TCP/IP protocol suite that establishes connections and guarantees packet delivery.
 
-**Transmission Control Protocol/Internet Protocol (TCP/IP) suite:** A set of computer- to- computer communications protocols that encompasses media access, packet transport, session communications, file transfer, email, and terminal emulation.
+**Transmission Control Protocol/Internet Protocol (TCP/IP) suite:** A set of computer to computer communications protocols that encompasses media access, packet transport, session communications, file transfer, email, and terminal emulation.
 
 **Transport Layer Security (TLS):** A security protocol used to encrypt transmissions over a TCP/IP network commonly used with HTTPS over port 443.
 
@@ -1974,3 +1974,19 @@ connector.
 **Type 1 Hypervisor:** Also known as a bare metal hypervisor, it is a software program that acts as an operating system, and also provides the ability to perform virtualization of other operating systems using the same computer.
 
 **Type 2 Hypervisor:** A software program that sits on top of an existing operating system and provides the ability to host multiple virtual operating systems on the same computer at the same time.
+
+# U
+
+**Ubuntu:** A popular Linux distribution that was originally formed from the Debian distribution.
+
+**Ultrabook:** An extremely thin lightweight notebook computer.
+
+**Unicast:** In IPv6, an address that identifies a single node on the network.
+
+**Unicode:** An expanded set of characters used for internationalization of text to accommodate different languages.
+
+**Unified Extensible Firmware Interface (UEFI):** The extensible successor to the BIOS that features support for a vast array of systems and platforms by allowing access to system resources to access additional software modules.
+
+**Unified Threat Management (UTM):** Typically implemented as a hardware device, UTM combines firewall, IPS, and antimalware protection into one central management point.
+
+**Uninterruptible Power Supply (UPS):** A UPS is designed to protect everything that’s plugged into it from power surges and power outages using one or more batteries or fuses where if the power fails, the batteries can power the computer for a period of time so the administrator can then safely power it down.

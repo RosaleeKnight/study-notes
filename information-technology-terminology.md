@@ -1998,3 +1998,23 @@ connector.
 **Universal Serial Bus (USB):** A high speed, hot pluggable serial interface used for connecting external peripherals to a PC available in six main versions at speeds up to 40 Gbps.
 
 **Universal Windows Platform (UWP):** A programming platform that allows for the code to be recompiled for several different hardware platforms.
+
+**Unlicensed National Information Infrastructure (U-NII):** Defines a portion of the radio frequency (RF) spectrum that has been allocated to wireless devices by the FCC.
+
+**Unmanaged Switch:** A Layer 2 device similar to a hub in its port count but more advanced, with the ability to filter traffic based on the destination MAC address of each frame b does not possess any additional network intelligence, unlike a managed switch.
+
+**Unshielded Twisted Pair (UTP):** Networking cable that has four twisted pairs of copper wire and a flexible outer coating.
+
+**Up-plugging:** The act of plugging a PCIe adapter into a slot that supports more lanes than the adapter supports.
+
+**USB Controller:** The hardware usually found on the motherboard of the computer that is responsible for controlling power and data paths to the USB device.
+
+**USB-C:** Newest connector type for USB devices which is an oval shaped connector versus older, rectangular USB Type-A connectors.
+
+**User Account Control (UAC):** A method of controlling the use of administrator credentials by a user who has been granted administrative control of the operating system, by prompting to continue with the administrative function.
+
+**User Datagram Protocol (UDP):** A connectionless protocol (does not guarantee packet delivery) with a similar function to TCP but with less overhead, more speed and lower reliability.
+
+**User ID (UID):** The identification mechanism for users in Linux operating systems.
+
+**User Profile:** A group of settings as well as personal documents specific to each user logged into the operating system.

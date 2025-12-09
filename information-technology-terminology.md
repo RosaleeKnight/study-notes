@@ -2082,3 +2082,17 @@ connector.
 **Wi-Fi Protected Access (WPA):** A wireless protection protocol that utilizes 256 bit keys and operates in preshared key (PSK) mode and enterprise mode.
 
 **Wi-Fi Protected Access 2 (WPA2):** A wireless protection protocol, also known as 802.11i, that utilizes the Advanced Encryption Standard (AES) encryption protocol and Counter Cipher Mode with Block Chaining Message Authentication Code Protocol (CCMP) which operates in two modes preshared key (PSK) mode and enterprise mode.
+
+**Wi-Fi Protected Access 3 (WPA3):** A wireless protection protocol that is the successor to WPA2 and has become part of the mandatory Wi-Fi 6 Alliance certification offering higher encryption standards and replaces PSK with a Simultaneous Authentication of Equals (SAE) exchange process.
+
+**Windows Kernel:** The core of the Windows operating system, responsible for low level hardware access and the loading of higher level functions, such as the GUI.
+
+**Windows Scripting Host (WSH):** A runtime environment for VBScript scripts to allow for the scripts to run within the operating system.
+
+**Windows Update:** The Microsoft software update process for the Windows operating system and other related Microsoft software packages.
+
+**Wired Equivalent Privacy (WEP):** The original standard of wireless encryption that provides 64 and 128 bit encryption of data and operates only in preshared key (PSK) mode.
+
+**Wireless Access point (WAP):** A central hub that looks nearly identical to wireless routers and provides central connectivity like a wireless router, but doesn’t have nearly as many features.
+
+**Wireless Internet Service Provider (WISP):** A WISP is an ISP that grants access using a wireless technology specifically a fixed point to point, relatively short distance broadband Internet.

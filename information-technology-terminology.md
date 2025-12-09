@@ -2060,3 +2060,25 @@ connector.
 **Volume Snapshot Service (VSS):** A Microsoft service that provides an instant snapshot of a filesystem to provide recovery points outside the backup period.
 
 **Vulnerability:** A weakness of security that can be exploited by an attacker to provide unauthorized access.
+
+# W
+
+**Web Server:** A computer designed to host web pages and provide access to clients.
+
+**Webcam:** A video camera that connects to a computer so that the video it captures can be sent across the Internet in real time.
+
+**Whaling:** A phishing attack that targets a wealthy, powerful, or key head figure of an organization.
+
+**Whitelist:** A firewall security strategy that default is deny except those users or computers on the (allow list) whitelist.
+
+**Whole Numbers:** A numeric value that has no precision of a decimal point or is a fraction.
+
+**Wide area network (WAN):** A network that expands a LAN to include networks outside of the local environment and also to distribute resources across distances.
+
+**Wi-Fi:** Short for wireless fidelity, it is a collection of IEEE 802.11 standards.
+
+**Wi-Fi Analyzer:** A hardware device or software application that is used to detect or analyze wireless network signals.
+
+**Wi-Fi Protected Access (WPA):** A wireless protection protocol that utilizes 256 bit keys and operates in preshared key (PSK) mode and enterprise mode.
+
+**Wi-Fi Protected Access 2 (WPA2):** A wireless protection protocol, also known as 802.11i, that utilizes the Advanced Encryption Standard (AES) encryption protocol and Counter Cipher Mode with Block Chaining Message Authentication Code Protocol (CCMP) which operates in two modes preshared key (PSK) mode and enterprise mode.

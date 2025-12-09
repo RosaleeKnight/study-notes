@@ -2073,7 +2073,7 @@ connector.
 
 **Whole Numbers:** A numeric value that has no precision of a decimal point or is a fraction.
 
-**Wide area network (WAN):** A network that expands a LAN to include networks outside of the local environment and also to distribute resources across distances.
+**Wide Area network (WAN):** A network that expands a LAN to include networks outside of the local environment and also to distribute resources across distances.
 
 **Wi-Fi:** Short for wireless fidelity, it is a collection of IEEE 802.11 standards.
 
@@ -2093,6 +2093,28 @@ connector.
 
 **Wired Equivalent Privacy (WEP):** The original standard of wireless encryption that provides 64 and 128 bit encryption of data and operates only in preshared key (PSK) mode.
 
-**Wireless Access point (WAP):** A central hub that looks nearly identical to wireless routers and provides central connectivity like a wireless router, but doesn’t have nearly as many features.
+**Wireless Access Point (WAP):** A central hub that looks nearly identical to wireless routers and provides central connectivity like a wireless router, but doesn’t have nearly as many features.
 
 **Wireless Internet Service Provider (WISP):** A WISP is an ISP that grants access using a wireless technology specifically a fixed point to point, relatively short distance broadband Internet.
+
+# X
+
+**x64:** The term used to describe today’s 64-bit processor instruction set, originally created by AMD.
+
+**x86:** The term used to describe the Intel 32-bit processor instruction set.
+
+# Y
+
+**Yellowdog Updater Modified (YUM):**  A package management tool that was developed on the Red Hat Linux operating system, it provides functionality similar to that of APT.
+
+# Z
+
+**Zero Insertion Force (ZIF):** A CPU socket into which the processor can be inserted with little to no force.
+
+**Zero Day:** An exploit or attack of which the developer has had no prior knowledge, therefore no patch exists.
+
+**Zombie:** A host that has malware installed and is controlled by a command and  control server in a botnet.
+
+**Zone File:** The configuration file on a DNS server that contains the records of the computers that the server is responsible for resolving the names of (to IP addresses).
+
+**Z-Wave:** A short range wireless mesh technology designed to support Internet of Things (IoT) devices.

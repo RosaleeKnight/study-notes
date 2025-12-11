@@ -78,7 +78,7 @@ When I come across a tool I put it here under what it's used for.
 
 
 
-Security Information and Event Management (SIEM): <a href="https://www.solarwinds.com/"> SolarWinds </a> , <a href="https://www.splunk.com/"> Splunk Enterprise </a> , <a href="https://wazuh.com"> Wazuh </a>
+Security Information and Event Management (SIEM): <a href="https://www.solarwinds.com/"> SolarWinds </a> , <a href="https://www.splunk.com/"> Splunk Enterprise </a> , <a href="https://wazuh.com"> Wazuh </a> , microsoft sentinel
 
 Security Orchestrated, Automation and Response (SOAR): <a href="https://www.splunk.com/"> Splunk SOAR </a>
 
@@ -184,7 +184,7 @@ Document Editor: <a href="https://docs.google.com/">  Google Docs </a> , <a href
 
 Spreadsheet Editor: <a href="https://www.google.com/sheets/about/"> Google Sheets </a> , <a href="https://www.microsoft.com/en-us/microsoft-365/excel"> Microsoft Excel </a>  
 
-Cloud Providers: <a href="https://aws.amazon.com/"> Amazon Web Services </a> , <a href="https://cloud.google.com/"> Google Cloud Platform </a> 
+Cloud Providers: <a href="https://aws.amazon.com/"> Amazon Web Services </a> , <a href="https://cloud.google.com/"> Google Cloud Platform </a> , microsoft azure
 
 VoIP Software:<a href="https://discord.com/"> Discord </a> 
 

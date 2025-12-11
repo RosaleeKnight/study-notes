@@ -3,7 +3,7 @@ When I come across a tool I put it here under what it's used for.
 # Blue Team 
 
 <details open>
-    <summary><b>Network Discovery and Mapping</b> 5 tools</summary>
+    <summary><b> Network Discovery and Mapping </b> 5 tools </summary>
     <ul>
         <ul>
             <li><b><a href="https://github.com/angryip/ipscan"> Angry IP Scanner </a></b><i> IP/port scanner </i></li>
@@ -16,7 +16,7 @@ When I come across a tool I put it here under what it's used for.
 </details>
 
 <details open>
-    <summary><b>Security Monitoring</b> 9 tools</summary>
+    <summary><b> Security Monitoring </b> 9 tools </summary>
     <ul>
         <ul>
             <li><b><a href="https://github.com/palantir/windows-event-forwarding/tree/master/AutorunsToWinEventLog"> AutorunsToWinEventLog </a></b><i> Windows AutoRuns Event Parser </i></li>
@@ -33,7 +33,33 @@ When I come across a tool I put it here under what it's used for.
 </details>
 
 <details open>
-    <summary><b>Vulnerability Management</b> 4 tools</summary>
+    <summary><b> Threat Detection </b> 7 tools </summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://github.com/WithSecureLabs/chainsaw"> Chainsaw </a></b><i> Fast Windows Forensic Artefacts Searcher </i></li>
+            <li><b><a href="https://github.com/gchq/CyberChef"> CyberChef </a></b><i> GCHQ online data manipulation platform </i></li>
+            <li><b><a href="https://github.com/keraattin/EmailAnalyzer"> EmailAnalyzer </a></b><i> Suspicious emails analyser </i></li>
+            <li><b><a href="https://filesec.io/"> filesec.io </a></b><i> Attacker file extensions </i></li>
+            <li><b><a href="https://www.kqlsearch.com/">KQL Search </a></b><i> KQL query aggregator </i></li>
+            <li><b><a href="https://unprotect.it/"> Unprotect Project </a></b><i> Malware evasion techniques knowledge base </i></li>
+            <li><b><a href="https://github.com/Neo23x0/yarGen"> yarGen </a></b><i> YARA rule generator </i></li>
+        </ul>
+    </ul>
+</details>
+
+<details open>
+    <summary><b>Threat Intelligence</b> 3 tools</summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://ctid.mitre.org/resources/adversary-emulation-library/"> Adversary Emulation Library </a></b><i> An open library of adversary emulation plans </i></li>
+            <li><b><a href="https://www.maltego.com/"> Maltego </a></b><i> Threat Intelligence Platform </i></li>
+            <li><b><a href="https://www.misp-project.org/"> MISP </a></b><i> Malware Information Sharing Platform </i></li>
+        </ul>
+    </ul>
+</details>
+
+<details open>
+    <summary><b> Vulnerability Management </b> 4 tools </summary>
     <ul>
         <ul>
             <li><b><a href="https://www.hackerone.com/"> HackerOne </a></b><i> Bug Bounty Management Platform </i></li>

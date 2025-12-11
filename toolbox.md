@@ -1,8 +1,56 @@
 When I come across a tool I put it here under what it's used for.
 
-# Blue Team
+# Blue Team 
 
-Log Management: <a href="https://www.elastic.co/elastic-stack/"> Elastic Stack </a> 
+<details open>
+    <summary><b>Network Discovery and Mapping</b> 5 tools</summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://github.com/angryip/ipscan"> Angry IP Scanner </a></b><i> IP/port scanner </i></li>
+            <li><b><a href="https://github.com/robertdavidgraham/masscan"> Masscan </a></b><i> Fast network scanner </i></li>
+            <li><b><a href="https://nmap.org/"> Nmap </a></b><i> Network scanner </i></li>
+            <li><b><a href="https://www.shodan.io/"> Shodan </a></b><i> Internet facing asset search engine </i></li>
+            <li><b><a href="https://github.com/zmap/zmap"> ZMap </a></b><i> Large network scanner </i></li>
+        </ul>
+    </ul>
+</details>
+
+<details open>
+    <summary><b>Security Monitoring</b> 9 tools</summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://github.com/palantir/windows-event-forwarding/tree/master/AutorunsToWinEventLog"> AutorunsToWinEventLog </a></b><i> Windows AutoRuns Event Parser </i></li>
+            <li><b><a href="https://www.elastic.co/kibana"> Kibana </a></b><i> Data visualization and exploration </i></li>
+            <li><b><a href="https://www.elastic.co/logstash"> Logstash </a></b><i> Data collection and processing </i></li>
+            <li><b><a href="https://github.com/stamparm/maltrail"> Maltrail </a></b><i> Malicious traffic detection system </i></li>
+            <li><b><a href="https://github.com/domainaware/parsedmarc"> Parsedmarc </a></b><i> Email DMARC data visualisation </i></li>
+            <li><b><a href="https://github.com/x0rz/phishing_catcher"> Phishing Catcher </a></b><i> Phishing catcher using Certstream </i></li>
+            <li><b><a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon"> Sysmon </a></b><i> System Monitor for Windows </i></li>
+            <li><b><a href="https://github.com/JPCERTCC/SysmonSearch"> SysmonSearch </a></b><i> Sysmon event log visualisation </i></li>
+            <li><b><a href="https://github.com/Velocidex/velociraptor"> Velociraptor </a></b><i> Endpoint visibility and collection tool </i></li>
+        </ul>
+    </ul>
+</details>
+
+<details open>
+    <summary><b>Vulnerability Management</b> 4 tools</summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://www.hackerone.com/"> HackerOne </a></b><i> Bug Bounty Management Platform </i></li>
+            <li><b><a href="https://www.tenable.com/products/nessus/nessus-essentials"> Nessus Essentials </a></b><i> Vulnerability scanner </i></li>
+            <li><b><a href="https://docs.rapid7.com/nexpose/"> Nexpose </a></b><i> Vulnerability management tool </i></li>
+            <li><b><a href="https://github.com/greenbone/openvas-scanner"> OpenVAS </a></b><i> Open-source vulnerability scanner </i></li>
+        </ul>
+    </ul>
+</details>
+
+## Sorting 
+
+...
+
+## Purple Team
+
+
 
 Security Information and Event Management (SIEM): <a href="https://www.solarwinds.com/"> SolarWinds </a> , <a href="https://www.splunk.com/"> Splunk Enterprise </a> , <a href="https://wazuh.com"> Wazuh </a>
 
@@ -12,7 +60,8 @@ Intrusion Detection System: <a href="https://www.ossec.net/"> OSSEC </a> , <a hr
 
 Password Auditing: <a href="https://hashcat.net/hashcat/"> Hashcat </a> , <a href="https://www.openwall.com/john/"> John the Ripper </a>
 
-Web Vulnerability: <a href="https://www.acunetix.com/"> Acunetix </a> , <a href="https://portswigger.net/burp"> Burp Suite </a> , <a href="https://www.tenable.com/products/nessus/nessus-professional"> Nessus Professional </a> , <a href="https://cirt.net/Nikto2"> Nikto </a> , <a href="https://owasp.org/www-project-zap/"> ZAP </a>
+DEVSECOPs vulnerability audit:<a href="https://cirt.net/Nikto2"> Nikto </a> recon , <a href="https://owasp.org/www-project-zap/"> ZAP </a>
+Web Vulnerability: <a href="https://www.acunetix.com/"> Acunetix </a> , <a href="https://portswigger.net/burp"> Burp Suite </a> ,  
 
 Fingerprinting and Forensics Tool: <a href="https://lcamtuf.coredump.cx/p0f3/"> p0f </a>
 
@@ -24,10 +73,10 @@ User Awareness Training Exercises: <a href="https://getgophish.com/"> Gophish </
 
 Malware Analysis: <a href="https://www.winitor.com/"> Pestudio </a>
 
-Penetration Testing: <a href="https://www.aircrack-ng.org/"> Aircrack-ng </a> , <a href="https://www.metasploit.com/"> Metasploit Framework </a> , <a href="https://nmap.org/"> Nmap </a> , <a href="https://www.openvas.org/"> OpenVAS </a> , <a href="https://www.shodan.io/"> Shodan </a> , <a href="https://github.com/trustedsec/social-engineer-toolkit"> Social Engineering Toolkit </a> , <a href="https://sqlmap.org/"> Sqlmap </a> , <a href="https://www.wireshark.org/"> Wireshark </a>
+Penetration Testing: <a href="https://www.aircrack-ng.org/"> Aircrack-ng </a> , <a href="https://www.metasploit.com/"> Metasploit Framework </a> , <a href="https://github.com/trustedsec/social-engineer-toolkit"> Social Engineering Toolkit </a> , <a href="https://sqlmap.org/"> Sqlmap </a> , <a href="https://www.wireshark.org/"> Wireshark </a>
 
 
-# DevSecOps
+## DevSecOps
 
 Programing Languages: <a href="https://developer.arm.com/documentation/dui0473/c/writing-arm-assembly-language"> Assembly </a> , <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> JavaScript </a> , <a href="https://www.python.org/"> Python </a> , <a href="https://www.ibm.com/docs/en/db2/10.5?topic=fundamentals-sql"> SQL </a> , <a href="https://www.typescriptlang.org/"> TypeScript </a> , <a href="https://nixos.wiki/wiki/Nix_Expression_Language"> Nix </a>  
 
@@ -84,7 +133,7 @@ Message-Broker: <a href="https://www.rabbitmq.com/"> RabbitMQ </a>
 Web Server: <a href="https://www.nginx.com/"> Nginx </a> 
 
 
-# Unsorted
+## Unsorted
 
 
 Command-Line: <a href="https://www.gnu.org/software/bash/"> GNU Bash </a> , <a href="https://docs.microsoft.com/en-us/powershell/"> PowerShell </a> 
@@ -121,3 +170,4 @@ Operating Systems: <a href="https://www.android.com/intl/en_ca/"> Android </a> ,
 
 Linux Distros: <a href="https://www.kali.org/"> Kali Linux </a> , <a href="https://remnux.org/"> REMnux </a> , <a href="https://tails.boum.org/"> Tails </a> , <a href="https://ubuntu.com/"> Ubuntu </a> 
 
+Velociraptor Query Language 

@@ -3,6 +3,16 @@ When I come across a tool I put it here under what it's used for.
 # Blue Team 
 
 <details open>
+    <summary><b> Incident Response Planning </b> 2 tools </summary>
+    <ul>
+        <ul>
+            <li><b><a href="incident-response-reference-guide"> Incident Handler's Handbook </a></b><i> Sans incident preparation guidance paper </i></li>
+            <li><b><a href="https://www.nist.gov/cyberframework"> NIST </a></b><i> Cybersecurity Framework </i></li>
+        </ul>
+    </ul>
+</details>
+
+<details open>
     <summary><b> Network Discovery and Mapping </b> 5 tools </summary>
     <ul>
         <ul>
@@ -48,7 +58,7 @@ When I come across a tool I put it here under what it's used for.
 </details>
 
 <details open>
-    <summary><b>Threat Intelligence</b> 3 tools</summary>
+    <summary><b> Threat Intelligence</b> 3 tools </summary>
     <ul>
         <ul>
             <li><b><a href="https://ctid.mitre.org/resources/adversary-emulation-library/"> Adversary Emulation Library </a></b><i> An open library of adversary emulation plans </i></li>
@@ -69,6 +79,7 @@ When I come across a tool I put it here under what it's used for.
         </ul>
     </ul>
 </details>
+
 
 ## Sorting 
 

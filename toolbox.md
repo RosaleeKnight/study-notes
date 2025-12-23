@@ -2,6 +2,19 @@ When I come across a tool I put it here under what it's used for.
 
 # Blue Team 
 
+
+<details open>
+    <summary><b> Data Recovery </b> 3 tools </summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://extundelete.sourceforge.net/"> Extundelete </a></b><i> Ext3 or ext4 partition recovery </i></li>
+            <li><b><a href="https://www.ccleaner.com/recuva"> Recuva </a></b><i> File recovery </i></li>
+            <li><b><a href="https://github.com/cgsecurity/testdisk"> TestDisk </a></b><i> Data Recovery </i></li>
+        </ul>
+    </ul>
+</details>
+
+
 <details open>
     <summary><b> Incident Response Planning </b> 2 tools </summary>
     <ul>

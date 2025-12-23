@@ -13,6 +13,23 @@ When I come across a tool I put it here under what it's used for.
 </details>
 
 <details open>
+    <summary><b> Malware Detection and Analysis </b> 9 tools </summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://github.com/cuckoosandbox"> Cuckoo Sandbox </a></b><i> Malware analysis sandbox </i></li>
+            <li><b><a href="https://github.com/JohnHammond/vbe-decoder"> decode-vbe </a></b><i> Encoded VBE script decoder </i></li>
+            <li><b><a href="https://github.com/dnSpy/dnSpy"> dnSpy </a></b><i> .NET debugger and assembly editor </i></li>
+            <li><b><a href="https://github.com/NationalSecurityAgency/ghidra"> Ghidra </a></b><i> Malware reverse engineering tool </i></li>
+            <li><b><a href="https://github.com/Lookyloo/lookyloo"> lookyloo </a></b><i> Phishing domain mapping </i></li>
+            <li><b><a href="https://www.winitor.com/"> Pestudio </a></b><i> Windows Portable Executable static analysis </i></li>
+            <li><b><a href="https://github.com/radareorg/radare2"> Radare2 </a></b><i> Reverse engineering framework </i></li>
+            <li><b><a href="https://www.virustotal.com/gui/home/upload"> VirusTotal </a></b><i> Malicious IOC Sharing Platform </i></li>
+            <li><b><a href="https://github.com/virustotal/yara"> YARA </a></b><i> Malware identification via pattern matching </i></li>
+        </ul>
+    </ul>
+</details>
+
+<details open>
     <summary><b> Network Discovery and Mapping </b> 5 tools </summary>
     <ul>
         <ul>
@@ -58,7 +75,7 @@ When I come across a tool I put it here under what it's used for.
 </details>
 
 <details open>
-    <summary><b> Threat Intelligence</b> 3 tools </summary>
+    <summary><b> Threat Intelligence </b> 3 tools </summary>
     <ul>
         <ul>
             <li><b><a href="https://ctid.mitre.org/resources/adversary-emulation-library/"> Adversary Emulation Library </a></b><i> An open library of adversary emulation plans </i></li>
@@ -98,6 +115,7 @@ Intrusion Detection System: <a href="https://www.ossec.net/"> OSSEC </a> , <a hr
 Password Auditing: <a href="https://hashcat.net/hashcat/"> Hashcat </a> , <a href="https://www.openwall.com/john/"> John the Ripper </a>
 
 DEVSECOPs vulnerability audit:<a href="https://cirt.net/Nikto2"> Nikto </a> recon , <a href="https://owasp.org/www-project-zap/"> ZAP </a>
+
 Web Vulnerability: <a href="https://www.acunetix.com/"> Acunetix </a> , <a href="https://portswigger.net/burp"> Burp Suite </a> ,  
 
 Fingerprinting and Forensics Tool: <a href="https://lcamtuf.coredump.cx/p0f3/"> p0f </a>
@@ -108,7 +126,6 @@ Firewalls: <a href="https://www.pfsense.org/"> PfSense </a>
 
 User Awareness Training Exercises: <a href="https://getgophish.com/"> Gophish </a>
 
-Malware Analysis: <a href="https://www.winitor.com/"> Pestudio </a>
 
 Penetration Testing: <a href="https://www.aircrack-ng.org/"> Aircrack-ng </a> , <a href="https://www.metasploit.com/"> Metasploit Framework </a> , <a href="https://github.com/trustedsec/social-engineer-toolkit"> Social Engineering Toolkit </a> , <a href="https://sqlmap.org/"> Sqlmap </a> , <a href="https://www.wireshark.org/"> Wireshark </a>
 

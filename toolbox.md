@@ -26,13 +26,14 @@ When I come across a tool I put it here under what it's used for.
 </details>
 
 <details open>
-    <summary><b> Intrusion Detection System </b>  tools </summary>
+    <summary><b> Intrusion Detection System </b> 6 tools </summary>
     <ul>
         <ul>
+            <li><b><a href="https://github.com/aide/aide"> AIDE </a></b><i> Host-based intrusion detection system </i></li>
             <li><b><a href="https://www.ossec.net/"> OSSEC </a></b><i> Host-based intrusion detection system </i></li>
             <li><b><a href="https://securityonionsolutions.com/"> Security Onion </a></b><i> Defender focused linux distribution </i></li>
             <li><b><a href="https://www.snort.org/"> Snort </a></b><i> Network intrusion detection system </i></li>
-            <li><b><a href="">  </a></b><i>  </i></li>
+            <li><b><a href="https://github.com/OISF/suricata"> Suricata </a></b><i> Network intrusion detection system </i></li>
             <li><b><a href="https://wazuh.com"> Wazuh </a></b><i> Extended Detection and Response </i></li>
         </ul>
     </ul>

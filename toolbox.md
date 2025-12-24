@@ -26,6 +26,20 @@ When I come across a tool I put it here under what it's used for.
 </details>
 
 <details open>
+    <summary><b> Intrusion Detection System </b>  tools </summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://www.ossec.net/"> OSSEC </a></b><i> Host-based intrusion detection system </i></li>
+            <li><b><a href="https://securityonionsolutions.com/"> Security Onion </a></b><i> Defender focused linux distribution </i></li>
+            <li><b><a href="https://www.snort.org/"> Snort </a></b><i> Network intrusion detection system </i></li>
+            <li><b><a href="">  </a></b><i>  </i></li>
+            <li><b><a href="https://wazuh.com"> Wazuh </a></b><i> Extended Detection and Response </i></li>
+        </ul>
+    </ul>
+</details>
+
+
+<details open>
     <summary><b> Malware Detection and Analysis </b> 9 tools </summary>
     <ul>
         <ul>
@@ -119,11 +133,10 @@ When I come across a tool I put it here under what it's used for.
 
 
 
-Security Information and Event Management (SIEM): <a href="https://www.solarwinds.com/"> SolarWinds </a> , <a href="https://www.splunk.com/"> Splunk Enterprise </a> , <a href="https://wazuh.com"> Wazuh </a> , microsoft sentinel
+Security Information and Event Management (SIEM): <a href="https://www.solarwinds.com/"> SolarWinds </a> , <a href="https://www.splunk.com/"> Splunk Enterprise </a>, microsoft sentinel
 
 Security Orchestrated, Automation and Response (SOAR): <a href="https://www.splunk.com/"> Splunk SOAR </a>
 
-Intrusion Detection System: <a href="https://www.ossec.net/"> OSSEC </a> , <a href="https://securityonionsolutions.com/"> Security Onion </a> , <a href="https://www.snort.org/"> Snort </a>
 
 Password Auditing: <a href="https://hashcat.net/hashcat/"> Hashcat </a> , <a href="https://www.openwall.com/john/"> John the Ripper </a>
 

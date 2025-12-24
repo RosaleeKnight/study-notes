@@ -97,7 +97,7 @@ When I come across a tool I put it here under what it's used for.
 </details>
 
 <details open>
-    <summary><b> Threat Detection </b> 7 tools </summary>
+    <summary><b> Threat Detection </b> 8 tools </summary>
     <ul>
         <ul>
             <li><b><a href="https://github.com/WithSecureLabs/chainsaw"> Chainsaw </a></b><i> Fast Windows Forensic Artefacts Searcher </i></li>
@@ -107,6 +107,7 @@ When I come across a tool I put it here under what it's used for.
             <li><b><a href="https://www.kqlsearch.com/">KQL Search </a></b><i> KQL query aggregator </i></li>
             <li><b><a href="https://unprotect.it/"> Unprotect Project </a></b><i> Malware evasion techniques knowledge base </i></li>
             <li><b><a href="https://github.com/Neo23x0/yarGen"> yarGen </a></b><i> YARA rule generator </i></li>
+            <li><b><a href="https://github.com/zeek/zeek"> Zeek </a></b><i> Network Security Monitor </i></li>
         </ul>
     </ul>
 </details>
@@ -141,10 +142,6 @@ When I come across a tool I put it here under what it's used for.
 
 ## Purple Team
 
-
-
-Security Information and Event Management (SIEM): <a href="https://www.solarwinds.com/"> SolarWinds </a> ,
-
 Password Auditing: <a href="https://hashcat.net/hashcat/"> Hashcat </a> , <a href="https://www.openwall.com/john/"> John the Ripper </a>
 
 DEVSECOPs vulnerability audit:<a href="https://cirt.net/Nikto2"> Nikto </a> recon , <a href="https://owasp.org/www-project-zap/"> ZAP </a>
@@ -158,7 +155,6 @@ Encryption: <a href="https://en.wikipedia.org/wiki/Tcpcrypt"> TCPCrypt </a>
 Firewalls: <a href="https://www.pfsense.org/"> PfSense </a>
 
 User Awareness Training Exercises: <a href="https://getgophish.com/"> Gophish </a>
-
 
 Penetration Testing: <a href="https://www.aircrack-ng.org/"> Aircrack-ng </a> , <a href="https://www.metasploit.com/"> Metasploit Framework </a> , <a href="https://github.com/trustedsec/social-engineer-toolkit"> Social Engineering Toolkit </a> , <a href="https://sqlmap.org/"> Sqlmap </a> , <a href="https://www.wireshark.org/"> Wireshark </a>
 

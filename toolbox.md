@@ -2,7 +2,6 @@ When I come across a tool I put it here under what it's used for.
 
 # Blue Team 
 
-
 <details open>
     <summary><b> Data Recovery </b> 3 tools </summary>
     <ul>
@@ -13,7 +12,6 @@ When I come across a tool I put it here under what it's used for.
         </ul>
     </ul>
 </details>
-
 
 <details open>
     <summary><b> Incident Response Planning </b> 2 tools </summary>
@@ -38,7 +36,6 @@ When I come across a tool I put it here under what it's used for.
         </ul>
     </ul>
 </details>
-
 
 <details open>
     <summary><b> Malware Detection and Analysis </b> 9 tools </summary>
@@ -66,6 +63,18 @@ When I come across a tool I put it here under what it's used for.
             <li><b><a href="https://nmap.org/"> Nmap </a></b><i> Network scanner </i></li>
             <li><b><a href="https://www.shodan.io/"> Shodan </a></b><i> Internet facing asset search engine </i></li>
             <li><b><a href="https://github.com/zmap/zmap"> ZMap </a></b><i> Large network scanner </i></li>
+        </ul>
+    </ul>
+</details>
+
+<details open>
+    <summary><b> Security Information and Event Management </b> 4 tools </summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://www.elastic.co/docs/reference/integrations/elastic_security"> Elastic Security </a></b><i> Open source siem </i></li>
+            <li><b><a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel">  Microsoft Sentinel </a></b><i> Cloud based on Azure </i></li>
+            <li><b><a href="https://www.solarwinds.com/security-event-manager"> Solarwinds </a></b><i> On premise or cloud </i></li>
+            <li><b><a href="https://www.splunk.com/en_us/products/enterprise-security.html"> Splunk Enterprise </a></b><i> On premise or cloud </i></li>
         </ul>
     </ul>
 </details>
@@ -134,10 +143,7 @@ When I come across a tool I put it here under what it's used for.
 
 
 
-Security Information and Event Management (SIEM): <a href="https://www.solarwinds.com/"> SolarWinds </a> , <a href="https://www.splunk.com/"> Splunk Enterprise </a>, microsoft sentinel
-
-Security Orchestrated, Automation and Response (SOAR): <a href="https://www.splunk.com/"> Splunk SOAR </a>
-
+Security Information and Event Management (SIEM): <a href="https://www.solarwinds.com/"> SolarWinds </a> ,
 
 Password Auditing: <a href="https://hashcat.net/hashcat/"> Hashcat </a> , <a href="https://www.openwall.com/john/"> John the Ripper </a>
 

@@ -14,10 +14,22 @@ When I come across a tool I put it here under what it's used for.
 </details>
 
 <details open>
+    <summary><b> Digital Forensics </b> 3 tools </summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://www.autopsy.com/"> Autopsy </a></b><i> Digital forensics platform </i></li>
+            <li><b><a href="https://www.sleuthkit.org/autopsy/"> The Sleuth Kit </a></b><i> Disk images analysis tools </i></li>
+            <li><b><a href="https://www.sans.org/tools/sift-workstation"> SANS SIFT </a></b><i> Forensic toolkit </i></li>
+        </ul>
+    </ul>
+</details>
+
+<details open>
     <summary><b> Incident Response Planning </b> 2 tools </summary>
     <ul>
         <ul>
             <li><b><a href="incident-response-reference-guide"> Incident Handler's Handbook </a></b><i> Sans incident preparation guidance paper </i></li>
+            <li><b><a href="https://attack.mitre.org/"> MITRE ATT&CK </a></b><i> Knowledge base of adversary tactics and techniques </i></li>
             <li><b><a href="https://www.nist.gov/cyberframework"> NIST </a></b><i> Cybersecurity Framework </i></li>
         </ul>
     </ul>

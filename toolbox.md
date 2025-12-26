@@ -26,12 +26,13 @@ Alphabetically.
 </details>
 
 <details open>
-    <summary><b> Incident Response Planning </b> 3 tools </summary>
+    <summary><b> Incident Response Planning </b> 4 tools </summary>
     <ul>
         <ul>
             <li><b><a href="incident-response-reference-guide"> Incident Handler's Handbook </a></b><i> Sans incident preparation guidance paper </i></li>
             <li><b><a href="https://attack.mitre.org/"> MITRE ATT&CK </a></b><i> Knowledge base of adversary tactics and techniques </i></li>
             <li><b><a href="https://www.nist.gov/cyberframework"> NIST </a></b><i> Cybersecurity Framework </i></li>
+             <li><b><a href="https://owasp.org/www-project-top-ten/"> OWASP Top Ten </a></b><i> Standard awareness document </i></li>
         </ul>
     </ul>
 </details>
@@ -74,6 +75,7 @@ Alphabetically.
             <li><b><a href="https://github.com/angryip/ipscan"> Angry IP Scanner </a></b><i> IP/port scanner </i></li>
             <li><b><a href="https://github.com/robertdavidgraham/masscan"> Masscan </a></b><i> Fast network scanner </i></li>
             <li><b><a href="https://nmap.org/"> Nmap </a></b><i> Network scanner </i></li>
+            <li><b><a href="https://lcamtuf.coredump.cx/p0f3/"> p0f </a></b><i> Fast network scanner </i></li>
             <li><b><a href="https://www.shodan.io/"> Shodan </a></b><i> Internet facing asset search engine </i></li>
             <li><b><a href="https://github.com/zmap/zmap"> ZMap </a></b><i> Large network scanner </i></li>
         </ul>
@@ -148,9 +150,10 @@ Alphabetically.
 </details>
 
 <details open>
-    <summary><b> Vulnerability Management </b> 4 tools </summary>
+    <summary><b> Vulnerability Management </b> 5 tools </summary>
     <ul>
         <ul>
+            <li><b><a href="https://www.acunetix.com/"> Acunetix </a></b><i> Web application vulnerability scanner </i></li>
             <li><b><a href="https://www.hackerone.com/"> HackerOne </a></b><i> Bug Bounty Management Platform </i></li>
             <li><b><a href="https://www.tenable.com/products/nessus/nessus-essentials"> Nessus Essentials </a></b><i> Vulnerability scanner </i></li>
             <li><b><a href="https://docs.rapid7.com/nexpose/"> Nexpose </a></b><i> Vulnerability management tool </i></li>
@@ -292,4 +295,6 @@ Operating Systems: <a href="https://www.android.com/intl/en_ca/"> Android </a> ,
 
 Linux Distros: <a href="https://www.kali.org/"> Kali Linux </a> , <a href="https://remnux.org/"> REMnux </a> , <a href="https://tails.boum.org/"> Tails </a> , <a href="https://ubuntu.com/"> Ubuntu </a> 
 
-Velociraptor Query Language 
+Query language: <a href="https://docs.velociraptor.app/docs/vql/"> Velociraptor Query Language </a>
+
+Firewall: <a href="https://github.com/pfsense/pfsense"> pfSense </a>

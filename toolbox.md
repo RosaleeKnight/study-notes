@@ -172,24 +172,22 @@ By ATT&CK Matrix then alphabetically.
             <li><b><a href="https://github.com/A-poc/certSniff"> certSniff </a></b><i> Certificate transparency log keyword sniffer </i></li>
             <li><b><a href="https://github.com/0xsha/CloudBrute"> CloudBrute </a></b><i> Cloud infrastructure brute force </i></li>
             <li><b><a href="https://github.com/zhzyker/dismap"> Dismap </a></b><i> Asset discovery/identification </i></li>
-            <li><b><a href=""> dnsrecon </a></b><i> Enumerate DNS records </i></li>
-            <li><b><a href=""> enum4linux </a></b><i> Windows/samba enumeration </i></li>
-            <li><b><a href=""> feroxbuster </a></b><i> Fast content discovery tool written in Rust </i></li>
-            <li><b><a href=""> GitHarvester </a></b><i> GitHub credential searcher </i></li>
-            <li><b><a href=""> Gitrob </a></b><i> GitHub sensitive information scanner </i></li>
-            <li><b><a href=""> gobuster </a></b><i> Website path brute force </i></li> 
-            <li><b><a href=""> gowitness </a></b><i> Web screenshot utility using Chrome Headless </i></li>
-            <li><b><a href=""> jsendpoints </a></b><i> Extract page DOM links </i></li> 
-            <li><b><a href=""> Metabigor </a></b><i> OSINT tool without API </i></li>
-            <li><b><a href=""> nuclei </a></b><i> Vulnerability scanne r</i></li>
-            <li><b><a href=""> reconftw </a></b><i> Automated subdomain and vulnerability recon tool </i></li>
-            <li><b><a href=""> Shodan.io </a></b><i> Public facing system knowledge base </i></li>
-            <li><b><a href=""> skanuvaty </a></b><i> Dangerously fast dns/network/port scanner </i></li>
-            <li><b><a href=""> smtp-user-enum </a></b><i> SMTP user enumeration </i></li>
-            <li><b><a href=""> spiderfoot </a></b><i> Automated OSINT and attack surface mapping </i></li>
-            <li><b><a href=""> spoofcheck </a></b><i> SPF/DMARC record checker </i></li>
-            <li><b><a href=""> subzy </a></b><i> Subdomain takeover vulnerability checker </i></li>
-            <li><b><a href=""> truffleHog </a></b><i> GitHub credential scanner </i></li>
+            <li><b><a href="https://github.com/darkoperator/dnsrecon"> dnsrecon </a></b><i> Enumerate DNS records </i></li>
+            <li><b><a href="https://labs.portcullis.co.uk/tools/enum4linux/"> enum4linux </a></b><i> Windows/samba enumeration </i></li>
+            <li><b><a href="https://github.com/epi052/feroxbuster"> feroxbuster </a></b><i> Fast content discovery tool written in Rust </i></li>
+            <li><b><a href="https://github.com/metac0rtex/GitHarvester"> GitHarvester </a></b><i> GitHub credential searcher </i></li>
+            <li><b><a href="https://github.com/OJ/gobuster"> gobuster </a></b><i> Website path brute force </i></li> 
+            <li><b><a href="https://github.com/sensepost/gowitness"> gowitness </a></b><i> Web screenshot utility using Chrome Headless </i></li>
+            <li><b><a href="https://github.com/j3ssie/metabigor"> Metabigor </a></b><i> OSINT tool without API </i></li>
+            <li><b><a href="https://github.com/projectdiscovery/nuclei"> nuclei </a></b><i> Vulnerability scanne r</i></li>
+            <li><b><a href="https://github.com/six2dez/reconftw"> reconftw </a></b><i> Automated subdomain and vulnerability recon tool </i></li>
+            <li><b><a href="https://www.shodan.io/"> Shodan.io </a></b><i> Public facing system knowledge base </i></li>
+            <li><b><a href="https://github.com/Esc4iCEscEsc/skanuvaty"> skanuvaty </a></b><i> Dangerously fast dns/network/port scanner </i></li>
+            <li><b><a href="https://github.com/cytopia/smtp-user-enum"> smtp-user-enum </a></b><i> SMTP user enumeration </i></li>
+            <li><b><a href="https://github.com/smicallef/spiderfoot"> spiderfoot </a></b><i> Automated OSINT and attack surface mapping </i></li>
+            <li><b><a href="https://github.com/a6avind/spoofcheck"> spoofcheck </a></b><i> SPF/DMARC record checker </i></li>
+            <li><b><a href="https://github.com/PentestPad/subzy"> subzy </a></b><i> Subdomain takeover vulnerability checker </i></li>
+            <li><b><a href="https://github.com/trufflesecurity/trufflehog"> truffleHog </a></b><i> GitHub credential scanner </i></li>
         </ul>
     </ul>
 </details>

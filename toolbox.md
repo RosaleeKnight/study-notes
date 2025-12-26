@@ -1,6 +1,7 @@
 When I come across a tool I put it here under what it's used for.
 
 # Blue Team 
+Alphabetically.
 
 <details open>
     <summary><b> Data Recovery </b> 3 tools </summary>
@@ -159,27 +160,15 @@ When I come across a tool I put it here under what it's used for.
 </details>
 
 
+# Red Team
+By ATT&CK Matrix.
+
+
+
+
 ## Sorting 
 
 ...
-
-## Purple Team
-
-Password Auditing: <a href="https://hashcat.net/hashcat/"> Hashcat </a> , <a href="https://www.openwall.com/john/"> John the Ripper </a>
-
-DEVSECOPs vulnerability audit:<a href="https://cirt.net/Nikto2"> Nikto </a> recon , <a href="https://owasp.org/www-project-zap/"> ZAP </a>
-
-Web Vulnerability: <a href="https://www.acunetix.com/"> Acunetix </a> , <a href="https://portswigger.net/burp"> Burp Suite </a> ,  
-
-Fingerprinting and Forensics Tool: <a href="https://lcamtuf.coredump.cx/p0f3/"> p0f </a>
-
-Encryption: <a href="https://en.wikipedia.org/wiki/Tcpcrypt"> TCPCrypt </a>
-
-Firewalls: <a href="https://www.pfsense.org/"> PfSense </a>
-
-User Awareness Training Exercises: <a href="https://getgophish.com/"> Gophish </a>
-
-Penetration Testing: <a href="https://www.aircrack-ng.org/"> Aircrack-ng </a> , <a href="https://www.metasploit.com/"> Metasploit Framework </a> , <a href="https://github.com/trustedsec/social-engineer-toolkit"> Social Engineering Toolkit </a> , <a href="https://sqlmap.org/"> Sqlmap </a> , <a href="https://www.wireshark.org/"> Wireshark </a>
 
 
 ## DevSecOps

@@ -1,4 +1,4 @@
-When I come across a tool I put it here under what it's used for.
+Cheat sheet for tools.
 
 # Blue Team 
 Alphabetically.
@@ -161,9 +161,38 @@ Alphabetically.
 
 
 # Red Team
-By ATT&CK Matrix.
+By ATT&CK Matrix then alphabetically.
 
-
+<details open>
+    <summary><b>Reconnaissance</b> 23 tools </summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://github.com/StanHardy/AORT"> AORT (All in One Recon Tool) </a></b><i> Subdomain enumeration </i></li>
+            <li><b><a href="https://github.com/jordanpotti/AWSBucketDump"> AWSBucketDump </a></b><i> S3 bucket enumeration </i></li>
+            <li><b><a href="https://github.com/A-poc/certSniff"> certSniff </a></b><i> Certificate transparency log keyword sniffer </i></li>
+            <li><b><a href="https://github.com/0xsha/CloudBrute"> CloudBrute </a></b><i> Cloud infrastructure brute force </i></li>
+            <li><b><a href="https://github.com/zhzyker/dismap"> Dismap </a></b><i> Asset discovery/identification </i></li>
+            <li><b><a href=""> dnsrecon </a></b><i> Enumerate DNS records </i></li>
+            <li><b><a href=""> enum4linux </a></b><i> Windows/samba enumeration </i></li>
+            <li><b><a href=""> feroxbuster </a></b><i> Fast content discovery tool written in Rust </i></li>
+            <li><b><a href=""> GitHarvester </a></b><i> GitHub credential searcher </i></li>
+            <li><b><a href=""> Gitrob </a></b><i> GitHub sensitive information scanner </i></li>
+            <li><b><a href=""> gobuster </a></b><i> Website path brute force </i></li> 
+            <li><b><a href=""> gowitness </a></b><i> Web screenshot utility using Chrome Headless </i></li>
+            <li><b><a href=""> jsendpoints </a></b><i> Extract page DOM links </i></li> 
+            <li><b><a href=""> Metabigor </a></b><i> OSINT tool without API </i></li>
+            <li><b><a href=""> nuclei </a></b><i> Vulnerability scanne r</i></li>
+            <li><b><a href=""> reconftw </a></b><i> Automated subdomain and vulnerability recon tool </i></li>
+            <li><b><a href=""> Shodan.io </a></b><i> Public facing system knowledge base </i></li>
+            <li><b><a href=""> skanuvaty </a></b><i> Dangerously fast dns/network/port scanner </i></li>
+            <li><b><a href=""> smtp-user-enum </a></b><i> SMTP user enumeration </i></li>
+            <li><b><a href=""> spiderfoot </a></b><i> Automated OSINT and attack surface mapping </i></li>
+            <li><b><a href=""> spoofcheck </a></b><i> SPF/DMARC record checker </i></li>
+            <li><b><a href=""> subzy </a></b><i> Subdomain takeover vulnerability checker </i></li>
+            <li><b><a href=""> truffleHog </a></b><i> GitHub credential scanner </i></li>
+        </ul>
+    </ul>
+</details>
 
 
 ## Sorting 

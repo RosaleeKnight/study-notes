@@ -25,7 +25,7 @@ When I come across a tool I put it here under what it's used for.
 </details>
 
 <details open>
-    <summary><b> Incident Response Planning </b> 2 tools </summary>
+    <summary><b> Incident Response Planning </b> 3 tools </summary>
     <ul>
         <ul>
             <li><b><a href="incident-response-reference-guide"> Incident Handler's Handbook </a></b><i> Sans incident preparation guidance paper </i></li>
@@ -75,6 +75,17 @@ When I come across a tool I put it here under what it's used for.
             <li><b><a href="https://nmap.org/"> Nmap </a></b><i> Network scanner </i></li>
             <li><b><a href="https://www.shodan.io/"> Shodan </a></b><i> Internet facing asset search engine </i></li>
             <li><b><a href="https://github.com/zmap/zmap"> ZMap </a></b><i> Large network scanner </i></li>
+        </ul>
+    </ul>
+</details>
+
+<details open>
+    <summary><b> Security Awareness Training </b> 3 tools</summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://cyberdefenders.org/">CyberDefenders</a></b><i> Blue team cyber security challenges platform</i></li>
+            <li><b><a href="https://www.hackthebox.com/">HackTheBox</a></b><i> Cyber security challenges platform</i></li>
+            <li><b><a href="https://tryhackme.com/">TryHackMe</a></b><i> Cyber security challenges platform</i></li>
         </ul>
     </ul>
 </details>
